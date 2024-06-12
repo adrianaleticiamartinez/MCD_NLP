@@ -1,0 +1,820 @@
+﻿1
+00:00:09,910 --> 00:00:12,780
+Te lo dire, pero esto queda entre tu y yo.
+
+2
+00:00:12,910 --> 00:00:16,870
+Te dire lo que esta sucediendo en esta sociedad, lo que esta comenzando...
+
+3
+00:00:16,920 --> 00:00:19,280
+... solo porque no lo sabes.
+
+4
+00:01:02,160 --> 00:01:04,630
+No, no es eso.
+
+5
+00:01:05,400 --> 00:01:07,260
+Solo estoy viendo.
+
+6
+00:01:08,030 --> 00:01:10,660
+Quiero decir, mi yo en Wired es...
+
+7
+00:01:12,070 --> 00:01:15,470
+Si. Se esta volviendo cada vez menos como yo.
+
+8
+00:01:18,180 --> 00:01:20,300
+Realmente no lo se.
+
+9
+00:01:21,050 --> 00:01:22,880
+Eh? Quien?
+
+10
+00:01:40,330 --> 00:01:42,030
+Hermana?
+
+11
+00:01:50,080 --> 00:01:53,170
+Mi hermana ha estado actuando diferente ultimamente.
+
+12
+00:01:54,750 --> 00:01:57,840
+Yo... no estoy segura.
+
+13
+00:01:58,820 --> 00:01:59,780
+Claro.
+
+14
+00:02:01,220 --> 00:02:03,150
+Bien, como quieras.
+
+15
+00:02:05,860 --> 00:02:07,420
+Lo se.
+
+16
+00:02:07,760 --> 00:02:12,200
+El mundo real y Wired estan unidos de extremo a extremo.
+
+17
+00:02:14,800 --> 00:02:17,100
+Puedo existir en cualquier parte.
+
+18
+00:02:17,200 --> 00:02:22,140
+No importa donde este mi cuerpo, puedo enviar mi conciencia a donde quiera.
+
+19
+00:02:55,710 --> 00:02:59,200
+Es hora del banquete de EMA Motor Consortium.
+
+20
+00:02:59,580 --> 00:03:00,640
+Si.
+
+21
+00:03:09,190 --> 00:03:10,620
+Correo.
+
+22
+00:03:10,660 --> 00:03:13,320
+Estare abajo en tres minutos.
+
+23
+00:03:15,060 --> 00:03:16,580
+Muy bien.
+
+24
+00:03:46,760 --> 00:03:49,350
+Que juego quieres jugar esta vez?
+
+25
+00:04:30,500 --> 00:04:31,990
+Prueben esto...
+
+26
+00:04:36,840 --> 00:04:39,000
+Asi es, idiotas...
+
+27
+00:04:39,340 --> 00:04:42,140
+Soy mejor que ustedes tontos!
+
+28
+00:04:51,560 --> 00:04:55,320
+El mundo real no es real en absoluto.
+
+29
+00:04:57,000 --> 00:04:58,190
+Lain?
+
+30
+00:05:01,770 --> 00:05:03,130
+Estas bien?
+
+31
+00:05:03,840 --> 00:05:04,960
+Por que preguntas?
+
+32
+00:05:05,000 --> 00:05:08,770
+Ultimamente, has estado... escabullendote de nuevo, Lain.
+
+33
+00:05:12,710 --> 00:05:19,240
+Nosotras... Queriamos hacerte feliz, asi que te hemos estado llevando con nosotras.
+
+34
+00:05:23,320 --> 00:05:25,790
+Eso es lo que estabamos tratando de hacer. Honestamente.
+
+35
+00:05:26,060 --> 00:05:30,550
+Pero si no eras feliz, te pido disculpas.
+
+36
+00:05:32,200 --> 00:05:33,820
+No! No es eso...
+
+37
+00:05:33,930 --> 00:05:36,960
+Por supuesto que me estaba divirtiendo...
+
+38
+00:05:39,040 --> 00:05:40,870
+Lo he pasado muy bien.
+
+39
+00:05:55,950 --> 00:05:57,420
+Me alegra.
+
+40
+00:06:02,890 --> 00:06:04,160
+Arisu!
+
+41
+00:06:04,200 --> 00:06:05,030
+Si?
+
+42
+00:06:05,500 --> 00:06:10,560
+Um... gracias. Gracias por preocuparte por mi.
+
+43
+00:06:12,200 --> 00:06:14,300
+Para eso estan las amigas, verdad?
+
+44
+00:06:14,740 --> 00:06:15,830
+Nos vemos.
+
+45
+00:06:28,520 --> 00:06:33,360
+Esta tarde, el firewall de la Oficina de Informacion...
+
+46
+00:06:33,630 --> 00:06:36,420
+... El Centro de Control de Informacion fue hackeado y destruido por algun grupo,
+
+47
+00:06:36,460 --> 00:06:40,860
+y la informacion en la red Wired esta actualmente en desorden.
+
+48
+00:06:41,330 --> 00:06:45,200
+Este informe de noticias se esta enviando en este momento,
+
+49
+00:06:45,600 --> 00:06:51,870
+pero tenga en cuenta que puede llegar manana o posiblemente ayer.
+
+50
+00:06:56,450 --> 00:06:57,940
+Parece que fueron los Caballeros.
+
+51
+00:06:57,980 --> 00:06:59,710
+"Caballeros"? Quienes son?
+
+52
+00:07:01,290 --> 00:07:03,720
+"Caballeros". Los Caballeros del Calculo Oriental,
+
+53
+00:07:03,760 --> 00:07:06,280
+Se dice que tienen una gran influencia en Wired.
+
+54
+00:07:06,860 --> 00:07:09,620
+Miembros que integran el grupo: Desconocido.
+
+55
+00:07:09,960 --> 00:07:12,520
+No solo estan involucrados en una mera manipulacion de la informacion,
+
+56
+00:07:12,560 --> 00:07:15,000
+tambien estan involucrados en el desarrollo y distribucion...
+
+57
+00:07:15,030 --> 00:07:17,470
+... de dispositivos de informacion ilegales.
+
+58
+00:07:18,170 --> 00:07:19,730
+Escuche que alguien persigue a Lain!
+
+59
+00:07:19,800 --> 00:07:20,930
+Lain? Quien es?
+
+60
+00:07:21,470 --> 00:07:25,770
+Lain. La busqueda no tiene coincidencias.
+
+61
+00:07:26,280 --> 00:07:28,250
+No he visto a Lain por aqui ultimamente.
+
+62
+00:07:28,310 --> 00:07:29,710
+Quien demonios es Lain?
+
+63
+00:07:29,880 --> 00:07:30,910
+Una chica.
+
+64
+00:07:30,950 --> 00:07:31,940
+Una chica?
+
+65
+00:07:32,080 --> 00:07:33,070
+Es poderosa!
+
+66
+00:07:33,120 --> 00:07:34,240
+Por que?
+
+67
+00:07:35,420 --> 00:07:38,510
+Su metamorfosis. Su voluntad. Su poder
+
+68
+00:07:38,560 --> 00:07:40,420
+La luz en sus ojos. Su existencia.
+
+69
+00:07:44,400 --> 00:07:46,300
+Hey, puedo preguntarte algo?
+
+70
+00:07:46,430 --> 00:07:47,230
+Que?
+
+71
+00:07:47,270 --> 00:07:50,330
+No seras miembro de los Caballeros, verdad?
+
+72
+00:08:01,310 --> 00:08:02,570
+Solo un minuto!
+
+73
+00:08:04,550 --> 00:08:06,140
+Entrega, senora!
+
+74
+00:08:06,990 --> 00:08:08,610
+Dejame obtener mi sello.
+
+75
+00:08:14,130 --> 00:08:16,920
+Lo siento, no quise hacerte esperar tanto tiempo.
+
+76
+00:08:16,960 --> 00:08:18,120
+Esta bien, senora.
+
+77
+00:08:19,000 --> 00:08:20,120
+Bien, aqui esta mi sello.
+
+78
+00:08:20,930 --> 00:08:21,690
+Que es?
+
+79
+00:08:21,730 --> 00:08:23,060
+Ese Navi.
+
+80
+00:08:23,200 --> 00:08:25,330
+Ese es un nuevo modelo, verdad? Desearia tener uno.
+
+81
+00:08:26,910 --> 00:08:29,200
+Lo compre con dinero de mi trabajo en casa.
+
+82
+00:08:29,440 --> 00:08:34,240
+Incluso con un trabajo como este, nunca podria comprar uno de esos.
+
+83
+00:08:34,350 --> 00:08:35,070
+Aqui tiene.
+
+84
+00:08:35,250 --> 00:08:36,740
+Bueno, sigue trabajando para ello.
+
+85
+00:08:37,850 --> 00:08:38,710
+Claro.
+
+86
+00:08:39,280 --> 00:08:42,880
+Si, tiene razon... Si no trabajo duro, nunca...
+
+87
+00:08:43,420 --> 00:08:47,260
+Si tiene problemas con algo, aviseme. Puedo ensenarle.
+
+88
+00:08:50,560 --> 00:08:52,030
+Me vas a ensenar?
+
+89
+00:08:52,330 --> 00:08:54,860
+Si. Soy bastante bueno.
+
+90
+00:08:55,400 --> 00:08:58,930
+Asi es como seduces a las amas de casa aburridas, eh?
+
+91
+00:08:59,040 --> 00:09:00,600
+No, yo solo...
+
+92
+00:09:00,670 --> 00:09:02,140
+Bueno, puede ser.
+
+93
+00:09:02,170 --> 00:09:03,110
+Estoy en casa!
+
+94
+00:09:05,540 --> 00:09:07,140
+Bueno, gracias.
+
+95
+00:09:14,490 --> 00:09:19,950
+Mama, puedo ir a lo de Kinya a jugar mas tarde?
+
+96
+00:09:20,930 --> 00:09:23,720
+Si vas a jugar un juego, no puedes hacerlo por la red?
+
+97
+00:09:24,660 --> 00:09:27,500
+Me va a ensenar como jugarlo!
+
+98
+00:09:31,640 --> 00:09:34,760
+Wired y el mundo real son uno y lo mismo.
+
+99
+00:09:55,730 --> 00:09:57,560
+Q-que?
+
+100
+00:09:59,330 --> 00:10:04,290
+Senorita Lain Iwakura. Podria venir con nosotros?
+
+101
+00:10:06,170 --> 00:10:10,610
+No te obligaremos. Es un pedido.
+
+102
+00:10:12,680 --> 00:10:17,670
+No tenemos intencion de lastimarte fisicamente.
+
+103
+00:10:18,720 --> 00:10:20,080
+Quienes son ustedes?
+
+104
+00:10:27,990 --> 00:10:32,400
+Si vienes con nosotros, te lo diremos.
+
+105
+00:10:42,810 --> 00:10:48,070
+Yo... no quiero estar aqui. Lo entienden, no?
+
+106
+00:10:48,610 --> 00:10:51,480
+Solo miren todo lo que puedo hacer! Miren!
+
+107
+00:10:52,050 --> 00:10:56,080
+Estoy rompiendo la barrera entre el mundo real y Wired.
+
+108
+00:10:58,590 --> 00:11:02,580
+Vamos, creo que estoy bastante calificado.
+
+109
+00:11:02,630 --> 00:11:05,190
+Dejenme entrar a los Caballeros!
+
+110
+00:11:07,800 --> 00:11:09,490
+Estan impresionados, eh?
+
+111
+00:11:10,000 --> 00:11:12,300
+Los rastree solo!
+
+112
+00:11:12,340 --> 00:11:15,170
+Este es su canal especial super secreto, verdad?
+
+113
+00:11:15,210 --> 00:11:18,200
+Vamos, conviertanme en uno de ustedes!
+
+114
+00:11:28,950 --> 00:11:30,850
+Q-Quien eres?
+
+115
+00:12:07,750 --> 00:12:12,750
+Laboratorios generales de Tachibana. Oficina de Shinbashi.
+
+116
+00:12:30,620 --> 00:12:32,950
+Podrias venir aqui por un minuto?
+
+117
+00:12:33,920 --> 00:12:37,480
+Parece que no puedo hacer que el firewall de la oficina principal reconozca esta maquina.
+
+118
+00:12:38,090 --> 00:12:40,750
+Hice todo lo que pude del lado de la aplicacion.
+
+119
+00:12:46,130 --> 00:12:50,620
+Supongo que es inutil con una maquina vieja como esta.
+
+120
+00:12:51,840 --> 00:12:54,170
+Pero siempre he usado esta cosa...
+
+121
+00:12:54,540 --> 00:12:58,000
+Simplemente no puedo interesarme lo suficiente para cambiarme a un nuevo Navi.
+
+122
+00:12:59,840 --> 00:13:02,070
+No a mi edad.
+
+123
+00:13:06,420 --> 00:13:08,850
+Sin embargo, si fuera tan joven como tu...
+
+124
+00:13:12,560 --> 00:13:14,420
+Ese jumper de alli.
+
+125
+00:13:18,560 --> 00:13:22,230
+Intenta quitar este jumper y el de mas alla.
+
+126
+00:13:22,800 --> 00:13:25,330
+Lo siento, podrias hacerlo por mi?
+
+127
+00:13:48,690 --> 00:13:50,250
+Autorizado.
+
+128
+00:13:55,370 --> 00:13:58,390
+L-Lain? Eres uno de los Caballeros?
+
+129
+00:13:59,670 --> 00:14:04,040
+Lo eres, verdad, Lain? No tenia idea!
+
+130
+00:14:06,780 --> 00:14:08,010
+Idiota.
+
+131
+00:14:08,910 --> 00:14:11,040
+Espera! Por favor!
+
+132
+00:14:11,380 --> 00:14:14,820
+Ese juego que has estado jugando con esos ninos ultimamente es el mejor!
+
+133
+00:14:15,220 --> 00:14:18,590
+Pero tengo una idea aun mejor.
+
+134
+00:14:19,720 --> 00:14:24,020
+Asi que por favor! Convierteme en uno de ustedes! Convierteme en un Caballero!
+
+135
+00:14:24,900 --> 00:14:27,460
+Por favor, convierteme en uno de ustedes!
+
+136
+00:14:27,500 --> 00:14:32,530
+Algunos dicen que Wired no tiene fronteras politicas como el mundo real.
+
+137
+00:14:33,440 --> 00:14:35,770
+Pero hay demasiados...
+
+138
+00:14:36,110 --> 00:14:41,100
+... anarquistas que dicen sinsentidos o idiotas que piensan que las bromas son una revolucion.
+
+139
+00:14:41,510 --> 00:14:46,280
+Pero los Caballeros no parecen ser ninguno de esos.
+
+140
+00:14:48,220 --> 00:14:49,450
+Caballeros...
+
+141
+00:14:49,820 --> 00:14:54,090
+No se cuanto de lo que haces es intencional.
+
+142
+00:14:54,590 --> 00:14:59,430
+Tu presencia en Wired es muy poco comun.
+
+143
+00:14:59,530 --> 00:15:05,030
+Y los Caballeros parecen tener un interes especial por ti.
+
+144
+00:15:05,370 --> 00:15:10,430
+Yo... yo no... no entiendo lo que estas...
+
+145
+00:15:10,470 --> 00:15:15,540
+Los Caballeros... Has estado en contacto directo con ellos en algun momento.
+
+146
+00:15:15,750 --> 00:15:18,650
+Pero yo... yo no...
+
+147
+00:15:19,320 --> 00:15:24,760
+En cualquier caso, parece que quieren usarte para algo.
+
+148
+00:15:25,060 --> 00:15:30,390
+Creemos que es algo que debe evitarse, sin importar el costo.
+
+149
+00:15:30,860 --> 00:15:35,530
+Q-que... estas...? Quien eres tu?
+
+150
+00:15:46,440 --> 00:15:49,570
+Su secreto esta a salvo conmigo. Apuestenlo!
+
+151
+00:15:50,380 --> 00:15:54,910
+Creen en Dios, verdad? Seguire su ejemplo.
+
+152
+00:15:55,250 --> 00:16:00,050
+Pero es verdad? Esta Dios realmente en Wired?
+
+153
+00:16:00,760 --> 00:16:02,990
+No estoy listo para creer eso todavia.
+
+154
+00:16:03,090 --> 00:16:06,360
+Pero si me dejan unirme a ustedes, podre aprender mas.
+
+155
+00:16:06,430 --> 00:16:09,190
+Entonces lo creere!
+
+156
+00:16:13,370 --> 00:16:14,670
+Son ustedes?
+
+157
+00:16:15,370 --> 00:16:16,900
+Vinieron!
+
+158
+00:16:17,440 --> 00:16:19,240
+Vinieron por mi!
+
+159
+00:16:20,910 --> 00:16:22,140
+Mi nombre...
+
+160
+00:16:23,310 --> 00:16:25,980
+No tiene sentido saber mi nombre real.
+
+161
+00:16:26,320 --> 00:16:29,250
+Yo, y esos hombres de alli, no tenemos nombre.
+
+162
+00:16:31,020 --> 00:16:32,680
+Dime.
+
+163
+00:16:33,990 --> 00:16:39,330
+Lain Iwakura, eres tu y Lain del Wired la misma persona?
+
+164
+00:16:41,900 --> 00:16:43,530
+Quien eres tu?
+
+165
+00:16:43,670 --> 00:16:46,430
+Yo... yo soy...
+
+166
+00:16:46,870 --> 00:16:49,500
+Tus padres son tus verdaderos padres?
+
+167
+00:16:49,970 --> 00:16:51,030
+Eh?
+
+168
+00:16:51,410 --> 00:16:53,570
+Tu hermana es tu verdadera hermana?
+
+169
+00:16:53,610 --> 00:16:58,170
+Que estas diciendo? P-por supuesto que son...
+
+170
+00:16:58,350 --> 00:17:01,180
+Cuando es el cumpleanos de tu padre?
+
+171
+00:17:02,120 --> 00:17:04,780
+El de papa es... es...
+
+172
+00:17:05,120 --> 00:17:09,720
+Que hay del cumpleanos de tu madre? Cuando se casaron tus padres?
+
+173
+00:17:09,760 --> 00:17:11,560
+Se conocieron o fue arreglado?
+
+174
+00:17:11,600 --> 00:17:16,330
+E-Eso es... yo...
+
+175
+00:17:17,000 --> 00:17:20,370
+Por que no lo sabes? Nunca preguntaste?
+
+176
+00:17:20,810 --> 00:17:25,000
+Nunca has celebrado un cumpleanos en tu familia desde que eras pequena?
+
+177
+00:17:25,140 --> 00:17:26,370
+Bueno?
+
+178
+00:17:30,750 --> 00:17:34,180
+Cuando naciste? Donde?
+
+179
+00:17:36,850 --> 00:17:40,480
+Yo... que importa? Eso...
+
+180
+00:17:40,860 --> 00:17:44,060
+No sabes? No sabes nada?
+
+181
+00:17:46,460 --> 00:17:50,400
+Estas bien? No sabes nada.
+
+182
+00:17:54,310 --> 00:17:55,700
+Callate, maldita sea...
+
+183
+00:17:56,440 --> 00:18:00,000
+A quien le importa esa basura? Como si algo de eso importara...
+
+184
+00:18:06,120 --> 00:18:08,780
+Eres Lain del Wired?
+
+185
+00:18:09,490 --> 00:18:11,250
+Y que si lo soy?
+
+186
+00:18:12,960 --> 00:18:17,360
+Si estas aqui sin un dispositivo, sabes que el limite entre...
+
+187
+00:18:17,500 --> 00:18:21,520
+... el mundo real y Wired esta empezando a desmoronarse, no?
+
+188
+00:18:21,800 --> 00:18:22,930
+Y?
+
+189
+00:18:22,970 --> 00:18:26,060
+Creemos que eso es peligroso.
+
+190
+00:18:27,040 --> 00:18:28,660
+Suena interesante.
+
+191
+00:18:34,880 --> 00:18:35,870
+Muevete.
+
+192
+00:18:42,190 --> 00:18:43,520
+Que te pasa?
+
+193
+00:18:43,590 --> 00:18:46,850
+Tu eres lo que es peligroso.
+
+194
+00:18:49,690 --> 00:18:51,350
+Karl!
+
+195
+00:18:59,540 --> 00:19:04,100
+Es como ella dijo. Algo interesante esta comenzando.
+
+196
+00:19:04,380 --> 00:19:07,170
+Deberiamos mirarlo desde lejos.
+
+197
+00:19:11,980 --> 00:19:13,350
+Shou!
+
+198
+00:19:13,650 --> 00:19:15,020
+Si mama?
+
+199
+00:19:15,490 --> 00:19:17,220
+Dejame jugar tambien!
+
+200
+00:19:17,860 --> 00:19:19,480
+Has terminado con el trabajo?
+
+201
+00:19:19,520 --> 00:19:20,680
+Apuestalo!
+
+202
+00:19:20,960 --> 00:19:22,650
+Soy el mejor!
+
+203
+00:19:23,230 --> 00:19:26,030
+Te atrapare, Shou!
+
+204
+00:19:27,000 --> 00:19:29,260
+Ves? Ponte a rezar!
+
+205
+00:19:30,700 --> 00:19:31,900
+Mira esto!
+

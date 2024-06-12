@@ -1,0 +1,3783 @@
+1
+00:00:01,717 --> 00:00:07,758
+TOHO CO. LTD.
+
+2
+00:00:14,470 --> 00:00:20,470
+Una producción de
+TOHO-KUROSAWA
+
+3
+00:00:23,364 --> 00:00:29,321
+YOJIMBO
+El guardaespaldas
+
+4
+00:00:36,369 --> 00:00:42,116
+Producida por TOMOYUKI TANAKA
+y RYUZO KIKUSHIMA
+
+5
+00:00:43,082 --> 00:00:47,529
+Guión por RYUZO KIKUSHIMA
+y AKIRA KUROSAWA
+
+6
+00:00:48,368 --> 00:00:50,884
+Cinematografía
+KAZUO MIYAGAWA
+
+7
+00:00:51,011 --> 00:00:53,611
+Diseño de producción
+YOSHIRO MURAKI
+
+8
+00:00:53,779 --> 00:00:56,171
+Música
+MASARU SATO
+
+9
+00:00:57,304 --> 00:01:03,345
+Asistente de dirección SHIRO MORITANI
+Manager de producción HIROSHI NEZU
+
+10
+00:01:04,435 --> 00:01:06,897
+Protagonizada por
+
+11
+00:01:07,314 --> 00:01:13,323
+TOSHIRO MIFUNE
+
+12
+00:01:14,283 --> 00:01:16,119
+TATSUYA NAKADAI
+
+13
+00:01:16,286 --> 00:01:18,414
+YOKO TSUKASA
+
+14
+00:01:18,581 --> 00:01:20,792
+ISUZU YAMADA
+
+15
+00:01:21,877 --> 00:01:23,296
+DAISUKE KATO
+
+16
+00:01:23,462 --> 00:01:25,215
+SEIZABURO KAWAZU
+
+17
+00:01:25,382 --> 00:01:26,718
+TAKASHI SHIMURA
+
+18
+00:01:26,885 --> 00:01:28,177
+HIROSHI TACHIKAWA
+
+19
+00:01:28,303 --> 00:01:29,847
+YOSUKE NATSUKI
+
+20
+00:01:30,598 --> 00:01:31,641
+EIJIRO TONO
+
+21
+00:01:31,808 --> 00:01:32,893
+KAMATARI FUJIWARA
+
+22
+00:01:33,059 --> 00:01:34,312
+IKIO SAWAMURA
+
+23
+00:01:34,478 --> 00:01:35,563
+ATSUSHI WATANABE
+
+24
+00:01:35,731 --> 00:01:36,982
+SUSUMU FUJITA
+
+25
+00:01:37,149 --> 00:01:38,234
+KYU SAZANKA
+
+26
+00:01:38,985 --> 00:01:40,321
+KO NISHIMURA
+
+27
+00:01:40,488 --> 00:01:41,906
+TAKESHI KATO
+
+28
+00:01:42,031 --> 00:01:43,533
+AKIRA TANI
+
+29
+00:01:43,658 --> 00:01:44,952
+TSUNAGORO RASHOMON
+
+30
+00:01:45,077 --> 00:01:46,704
+YOSHIO TSUCHIYA
+
+31
+00:01:47,664 --> 00:01:49,291
+En el año 1860...
+
+32
+00:01:49,459 --> 00:01:52,296
+...el surgimiento
+de una clase media...
+
+33
+00:01:52,463 --> 00:01:54,257
+...comienza a provocar el fin...
+
+34
+00:01:54,424 --> 00:01:57,136
+...de la Dinastía de Tokugawa
+en el poder.
+
+35
+00:01:57,762 --> 00:02:00,808
+Un samurái,
+un guerrero dedicado...
+
+36
+00:02:00,974 --> 00:02:04,146
+...que siempre trabajó
+para la Realeza...
+
+37
+00:02:04,313 --> 00:02:07,567
+...se encuentra ahora
+sin un maestre para servir...
+
+38
+00:02:07,734 --> 00:02:11,281
+...lo que lo deja
+sin nada para sobrevivir...
+
+39
+00:02:11,448 --> 00:02:14,452
+...y los únicos recursos que posee...
+
+40
+00:02:14,619 --> 00:02:17,039
+...son su ingenio y su espada.
+
+41
+00:02:18,292 --> 00:02:24,240
+Dirigida por
+AKIRA KUROSAWA
+
+42
+00:03:35,449 --> 00:03:37,071
+¡Espera, hijo!
+
+43
+00:03:37,237 --> 00:03:38,640
+¡Déjeme ir, padre!
+
+44
+00:03:38,821 --> 00:03:41,324
+¡Esta lucha
+es la mayor chance de mi vida!
+
+45
+00:03:41,449 --> 00:03:44,367
+¡Loco y bobo!
+¡Serás asesinado!
+
+46
+00:03:44,534 --> 00:03:46,203
+¿Por qué quieres ser un jugador?
+
+47
+00:03:46,370 --> 00:03:49,623
+¡Los granjeros debemos callarnos
+y trabajar en el campo!
+
+48
+00:03:49,790 --> 00:03:53,584
+¿Quién quiere una vida larga
+comiendo sopa de avena?
+
+49
+00:03:53,751 --> 00:03:56,045
+Quiero buena comida
+y ropa elegante.
+
+50
+00:03:56,337 --> 00:03:58,714
+¡Una vida corta y excitante!
+
+51
+00:04:06,888 --> 00:04:08,389
+Viejo.
+
+52
+00:04:08,764 --> 00:04:09,890
+Me gustaría beber agua.
+
+53
+00:04:13,102 --> 00:04:15,396
+¿Por qué no lo detuviste?
+
+54
+00:04:15,688 --> 00:04:18,731
+Él no escucharía.
+
+55
+00:04:19,691 --> 00:04:25,654
+Los muchachos de ahora
+están todos locos.
+
+56
+00:04:27,990 --> 00:04:30,492
+No son solo los jóvenes.
+
+57
+00:04:30,659 --> 00:04:33,661
+Todos quieren dinero fácil.
+
+58
+00:04:33,995 --> 00:04:38,458
+Todo gracias al juego.
+Tiras los dados y eres rico.
+
+59
+00:04:38,750 --> 00:04:41,668
+Ya no se sabe
+de quién es el dinero.
+
+60
+00:04:45,547 --> 00:04:48,675
+Oí decir que el cervecero
+ahora vende seda.
+
+61
+00:04:49,550 --> 00:04:52,678
+Dicen que paga más
+que el comerciante de seda.
+
+62
+00:04:53,095 --> 00:04:55,264
+Sí, pero...
+
+63
+00:04:55,431 --> 00:04:58,683
+...¿qué importa...
+
+64
+00:04:59,351 --> 00:05:02,687
+...con el pueblo en este estado?
+
+65
+00:05:02,854 --> 00:05:08,859
+Ni siquiera sabemos
+cuándo será la próxima feria de seda.
+
+66
+00:05:13,113 --> 00:05:15,698
+El olor de sangre
+atrae a los perros hambrientos.
+
+67
+00:05:18,076 --> 00:05:22,288
+¡Deja que se maten entre ellos
+tiñendo la seda con su sangre.
+
+68
+00:05:22,455 --> 00:05:25,082
+¡Entonces podrán controlar la feria!
+
+69
+00:07:02,335 --> 00:07:04,795
+COMERCIANTE DE SEDA
+
+70
+00:07:36,907 --> 00:07:38,450
+Samurái...
+
+71
+00:07:38,617 --> 00:07:41,328
+...¿quieres hacer dinero
+como guardaespaldas?
+
+72
+00:07:41,495 --> 00:07:43,997
+Se paga muy bien.
+
+73
+00:07:44,121 --> 00:07:45,831
+Mi comisión es un ryo.
+
+74
+00:07:45,998 --> 00:07:48,626
+¿A cuál bando apoyarás?
+
+75
+00:07:49,293 --> 00:07:51,420
+Seibê posee un burdel.
+
+76
+00:07:51,587 --> 00:07:53,213
+Muchas mujeres.
+
+77
+00:07:53,380 --> 00:07:55,256
+Pero no le está yendo bien.
+
+78
+00:07:55,423 --> 00:07:58,677
+Yo apostaría por Ushitora.
+
+79
+00:07:58,802 --> 00:08:00,095
+Mira.
+
+80
+00:08:00,261 --> 00:08:04,723
+La posada en la esquina.
+Allí vive él.
+
+81
+00:08:04,890 --> 00:08:08,310
+Dile que Hansuke te envía.
+
+82
+00:08:08,477 --> 00:08:10,061
+Te acompañaría...
+
+83
+00:08:10,436 --> 00:08:13,690
+...pero soy el alguacil.
+
+84
+00:08:16,109 --> 00:08:19,736
+No lo olvides, quiero un ryo.
+
+85
+00:09:16,662 --> 00:09:17,913
+Adelante.
+
+86
+00:09:18,080 --> 00:09:21,959
+La calle es pública.
+Hasta los perros pueden pasar.
+
+87
+00:09:41,225 --> 00:09:46,772
+No lo contratarán actuando así.
+Tiene que demostrar quién manda.
+
+88
+00:09:47,398 --> 00:09:50,567
+Ellos solo aparentan ser duros.
+
+89
+00:09:50,734 --> 00:09:54,821
+Corte un brazo y se comportarán.
+
+90
+00:09:55,697 --> 00:09:59,700
+- Entonces lo contratarán.
+- ¡Ocúpate de tus asuntos!
+
+91
+00:10:01,243 --> 00:10:02,745
+Entre.
+
+92
+00:10:15,631 --> 00:10:16,882
+¿Sake?
+
+93
+00:10:18,383 --> 00:10:21,303
+- Comida.
+- No hay mucho trabajo últimamente...
+
+94
+00:10:21,428 --> 00:10:24,597
+...así que no tengo nada.
+Hasta el arroz está frío.
+
+95
+00:10:24,764 --> 00:10:26,182
+No me importa.
+
+96
+00:10:34,439 --> 00:10:35,607
+En realidad, viejo--
+
+97
+00:10:36,650 --> 00:10:39,652
+Ya sé. No puede pagar.
+
+98
+00:10:42,029 --> 00:10:44,115
+Primero debo romper algunas cabezas.
+
+99
+00:10:44,740 --> 00:10:45,741
+¡No!
+
+100
+00:10:46,742 --> 00:10:49,119
+¡Ya he visto demasiadas peleas!
+
+101
+00:10:49,244 --> 00:10:53,456
+No le cobraré, pero en cuanto termine,
+lárguese de este pueblo.
+
+102
+00:10:54,916 --> 00:10:56,667
+Gracias.
+
+103
+00:11:00,754 --> 00:11:02,673
+¡Allá está otra vez!
+
+104
+00:11:05,133 --> 00:11:06,592
+El carpintero.
+
+105
+00:11:06,759 --> 00:11:09,596
+El único en el pueblo
+que hace dinero.
+
+106
+00:11:09,762 --> 00:11:12,681
+No le da el tiempo
+para hacer tantos ataúdes.
+
+107
+00:11:13,765 --> 00:11:16,685
+Sería mejor no tener jugadores.
+
+108
+00:11:16,852 --> 00:11:20,605
+Un jefe en la ciudad,
+se puede tolerar.
+
+109
+00:11:20,771 --> 00:11:25,693
+Pero no dos.
+Eso solo es bueno para el carpintero.
+
+110
+00:11:25,860 --> 00:11:28,778
+¡Para, maldito!
+
+111
+00:11:32,699 --> 00:11:36,119
+Los jugadores
+son tan desalmados y avaros...
+
+112
+00:11:37,161 --> 00:11:40,623
+...que no parecen seres humanos.
+
+113
+00:11:40,956 --> 00:11:44,335
+Todo comenzó cuando Seibê...
+
+114
+00:11:44,502 --> 00:11:48,046
+...decidió darle
+todo su territorio a su hijo.
+
+115
+00:11:48,213 --> 00:11:52,092
+Su mano derecha no lo toleró.
+
+116
+00:11:52,258 --> 00:11:55,511
+Se llama Ushitora, es un verdadero--
+
+117
+00:11:55,636 --> 00:11:56,970
+Es un nombre raro.
+
+118
+00:11:57,262 --> 00:12:00,224
+Su madre comenzó el trabajo de parto
+el año de la vaca...
+
+119
+00:12:00,391 --> 00:12:03,851
+...pero nació el año del tigre.
+
+120
+00:12:04,018 --> 00:12:06,270
+Es como comenzar el año
+con una plaga.
+
+121
+00:12:06,437 --> 00:12:10,357
+Abandonó a Seibê y formó otra banda.
+
+122
+00:12:10,482 --> 00:12:12,359
+Se llevó a la mitad de sus hombres.
+
+123
+00:12:12,526 --> 00:12:15,487
+Ahora solo las espadas
+pueden resolver las cosas.
+
+124
+00:12:15,654 --> 00:12:17,823
+Los dos están rabiosos.
+
+125
+00:12:18,115 --> 00:12:21,242
+Reclutan vagos y criminales
+para sus bandos.
+
+126
+00:12:22,743 --> 00:12:27,789
+En vez de comprar seda,
+compran matones.
+
+127
+00:12:37,298 --> 00:12:40,634
+¿Cómo marcha el negocio, carpintero?
+
+128
+00:12:41,260 --> 00:12:44,554
+¿Cuántos ataúdes vendió
+mientras yo no estaba?
+
+129
+00:12:44,721 --> 00:12:46,723
+Dos para tu bando.
+
+130
+00:12:47,974 --> 00:12:50,643
+Y cuatro para el otro.
+
+131
+00:12:56,690 --> 00:12:58,650
+No está mal.
+
+132
+00:13:11,745 --> 00:13:13,956
+Inokichi, el hermano de Ushitora.
+
+133
+00:13:14,122 --> 00:13:15,999
+Como su nombre lo dice,
+es un jabalí.
+
+134
+00:13:16,166 --> 00:13:19,085
+Es un idiota, pero es peligroso
+cuando se enfurece.
+
+135
+00:13:19,377 --> 00:13:22,672
+Ha vuelto con tres asesinos más.
+
+136
+00:13:39,437 --> 00:13:41,063
+¡Qué desgracia!
+
+137
+00:13:41,230 --> 00:13:43,523
+Ese es nuestro alguacil.
+
+138
+00:13:43,690 --> 00:13:47,235
+Su trabajo es arrestar a los canallas.
+¡Y mírelo!
+
+139
+00:13:47,402 --> 00:13:49,987
+Pero él no es el único.
+
+140
+00:13:52,698 --> 00:13:55,492
+Mire.
+Una fachada impresionante.
+
+141
+00:13:55,659 --> 00:13:58,244
+Pero Tazaemon, el dueño,
+no sirve para nada.
+
+142
+00:13:58,411 --> 00:14:03,166
+Es nuestro cobarde alcalde,
+un comerciante de seda.
+
+143
+00:14:03,291 --> 00:14:06,294
+Ha logrado sobrevivir
+poniéndose del lado de Seibê...
+
+144
+00:14:06,461 --> 00:14:09,421
+...pero cuando Ushitora se rebeló...
+
+145
+00:14:12,549 --> 00:14:16,385
+...Tokuemon, el productor de sake,
+apoyó a Ushitora.
+
+146
+00:14:16,552 --> 00:14:20,932
+Tokuemon se proclamó alcalde.
+Incluso comercia con seda.
+
+147
+00:14:21,098 --> 00:14:23,934
+Tazaemon está acabado.
+
+148
+00:14:24,100 --> 00:14:28,730
+Toca el tambor y reza todos los días,
+esperando que Seibê gane.
+
+149
+00:14:30,565 --> 00:14:32,608
+¿Escucha?
+
+150
+00:14:46,037 --> 00:14:47,914
+¡Malditos!
+
+151
+00:14:48,372 --> 00:14:50,999
+Este pueblo está condenado.
+
+152
+00:14:52,167 --> 00:14:54,211
+¿Ahora comprende?
+
+153
+00:14:55,003 --> 00:14:58,715
+Si se queda,
+van a acabar con usted también.
+
+154
+00:14:59,048 --> 00:15:02,301
+Coma deprisa y váyase.
+
+155
+00:15:03,469 --> 00:15:06,972
+Ya he comido arroz.
+Deme un poco de sake.
+
+156
+00:15:08,890 --> 00:15:11,893
+Me gusta este lugar.
+Me quedaré un tiempo.
+
+157
+00:15:12,060 --> 00:15:15,313
+¿Por qué?
+¿No entiende aún?
+
+158
+00:15:15,938 --> 00:15:20,484
+Sí, entendí.
+Es por eso que me quedaré.
+
+159
+00:15:21,110 --> 00:15:25,739
+Escuche, viejo.
+Cobraré por matar.
+
+160
+00:15:26,907 --> 00:15:30,534
+Y esta ciudad está llena de hombres
+que merecen morir.
+
+161
+00:15:30,868 --> 00:15:32,870
+Piense en eso.
+
+162
+00:15:33,662 --> 00:15:36,290
+Seibê, Ushitora, los jugadores...
+
+163
+00:15:36,457 --> 00:15:40,126
+...este lugar estaría mejor sin ellos.
+
+164
+00:15:40,418 --> 00:15:43,338
+¡No podría lograrlo
+aunque tuviera nueve vidas!
+
+165
+00:15:45,548 --> 00:15:48,008
+No lo haré solo.
+
+166
+00:15:48,175 --> 00:15:50,052
+¿Cómo entonces?
+
+167
+00:15:50,177 --> 00:15:53,764
+Sake.
+Pensaré mientras bebo.
+
+168
+00:16:01,562 --> 00:16:04,189
+¡Todos en esta ciudad están locos!
+
+169
+00:16:04,356 --> 00:16:07,192
+¡Pero usted está más loco aún!
+
+170
+00:16:29,044 --> 00:16:31,547
+Quiero hablar con Seibê.
+
+171
+00:16:32,339 --> 00:16:34,425
+¿Quién es usted?
+
+172
+00:16:47,102 --> 00:16:49,229
+¿Quiere contratarme?
+
+173
+00:16:53,107 --> 00:16:55,318
+Seré su guardaespaldas.
+
+174
+00:16:57,153 --> 00:16:59,489
+Le demostraré lo bueno que soy.
+
+175
+00:17:51,409 --> 00:17:54,662
+¿El samurái de pacotilla otra vez?
+
+176
+00:17:58,624 --> 00:18:01,043
+¿Qué quieres ahora?
+
+177
+00:18:13,679 --> 00:18:16,932
+Tienen caras muy lindas.
+
+178
+00:18:19,142 --> 00:18:24,355
+Se hacen los duros,
+pero no podrían matar ni a una mosca.
+
+179
+00:18:25,231 --> 00:18:28,817
+No nos tome por tontos.
+¿Ve este tatuaje?
+
+180
+00:18:28,984 --> 00:18:31,612
+¡No estuve en la prisión por nada!
+
+181
+00:18:34,280 --> 00:18:36,533
+La ley me busca.
+
+182
+00:18:36,658 --> 00:18:39,619
+¡Seré colgado si me atrapan!
+
+183
+00:18:40,662 --> 00:18:42,788
+Yo también.
+
+184
+00:18:43,372 --> 00:18:45,207
+Colgarán mi cabeza en una estaca.
+
+185
+00:18:45,499 --> 00:18:49,377
+No quiero alardear,
+pero no hay crimen que no haya cometido.
+
+186
+00:18:49,669 --> 00:18:52,338
+Entonces no les importara
+si los mato.
+
+187
+00:18:52,964 --> 00:18:55,174
+¡Inténtelo!
+
+188
+00:18:55,675 --> 00:18:57,301
+Les dolerá.
+
+189
+00:18:57,592 --> 00:18:59,636
+Somos jugadores,
+no le tememos a la espada.
+
+190
+00:19:03,265 --> 00:19:05,642
+No existe la cura para la estupidez.
+
+191
+00:19:05,809 --> 00:19:07,018
+¿Qué?
+
+192
+00:19:24,074 --> 00:19:26,952
+Carpintero. Dos ataúdes.
+
+193
+00:19:27,244 --> 00:19:30,581
+No. Que sean tres.
+
+194
+00:19:43,550 --> 00:19:46,512
+Bien, hágame una oferta.
+
+195
+00:19:46,678 --> 00:19:50,056
+¿Cuánto me pagará
+para que acabe con ellos?
+
+196
+00:19:50,223 --> 00:19:54,685
+¿Qué le parecen tres ryo?
+
+197
+00:19:55,561 --> 00:19:59,606
+Iré con Ushitora.
+Seguro él me pagará más.
+
+198
+00:20:00,691 --> 00:20:02,109
+¡Cuatro entonces!
+
+199
+00:20:02,401 --> 00:20:03,944
+¡Cinco!
+
+200
+00:20:04,402 --> 00:20:05,987
+¡Seis ryo!
+
+201
+00:20:06,153 --> 00:20:07,613
+Agregue un cero al final.
+
+202
+00:20:07,780 --> 00:20:10,491
+¡Diez! ¡Le pagaré diez!
+
+203
+00:20:14,577 --> 00:20:16,621
+¡Veinte ryo!
+
+204
+00:20:18,415 --> 00:20:20,375
+¡Veinticinco ryo!
+
+205
+00:20:25,379 --> 00:20:27,381
+¡Treinta ryo!
+
+206
+00:20:28,841 --> 00:20:30,008
+¡De acuerdo!
+
+207
+00:20:30,300 --> 00:20:32,594
+¡Cincuenta ryo!
+
+208
+00:20:38,640 --> 00:20:40,434
+Muy bien.
+
+209
+00:20:41,935 --> 00:20:46,606
+Veinticinco por adelantado.
+Más alojamiento y comida.
+
+210
+00:20:53,279 --> 00:20:56,490
+Mis hombres
+quieren demostrarle su respeto.
+
+211
+00:20:56,656 --> 00:20:58,617
+Pero primero beba.
+
+212
+00:21:04,080 --> 00:21:06,248
+Debemos hablar.
+
+213
+00:21:08,084 --> 00:21:11,628
+La estúpida moza no tiene modales.
+
+214
+00:21:44,240 --> 00:21:47,160
+<i>Eres un idiota si piensas
+pagarle 25 ryo por adelantado...</i>
+
+215
+00:21:47,326 --> 00:21:49,454
+<i>...a un completo extraño.</i>
+
+216
+00:21:49,746 --> 00:21:51,539
+<i>Podría huir en la noche.</i>
+
+217
+00:21:51,664 --> 00:21:54,666
+Déjamelo a mí.
+No tendrá tiempo para eso.
+
+218
+00:21:54,833 --> 00:21:56,668
+Atacaré inmediatamente.
+
+219
+00:21:56,793 --> 00:21:59,046
+Los secuaces de Ushitora
+deben estar asustados...
+
+220
+00:21:59,212 --> 00:22:01,714
+...luego de que matase
+a tres de los suyos.
+
+221
+00:22:01,881 --> 00:22:05,217
+Seguro venceremos con él al frente.
+
+222
+00:22:05,384 --> 00:22:06,927
+Ya veo.
+
+223
+00:22:07,094 --> 00:22:10,680
+Pero entonces
+tendríamos que pagarle otros 25 ryo.
+
+224
+00:22:11,306 --> 00:22:16,519
+Recuperaríamos los 50 ryo
+si lo matamos después de ganar.
+
+225
+00:22:16,686 --> 00:22:19,146
+- ¡Eso es demasiado!
+- ¡Silencio!
+
+226
+00:22:19,313 --> 00:22:22,191
+Si ni siquiera puedes hacer eso,
+olvídate de tu herencia.
+
+227
+00:22:22,358 --> 00:22:24,526
+El honor no significa nada
+para los jugadores.
+
+228
+00:22:24,693 --> 00:22:27,195
+Tu madre tiene razón.
+No podrás hacer una fortuna...
+
+229
+00:22:27,362 --> 00:22:29,989
+...a menos que seas conocido
+como un asesino y un ladrón.
+
+230
+00:22:30,156 --> 00:22:32,659
+Mata a ese samurái de pacotilla.
+
+231
+00:22:36,620 --> 00:22:40,499
+<i>Trátalo bien y bajará la guardia.</i>
+
+232
+00:22:40,666 --> 00:22:41,792
+Será fácil.
+
+233
+00:22:41,959 --> 00:22:43,876
+Los hombres no te respetarán...
+
+234
+00:22:44,043 --> 00:22:46,170
+...hasta que les demuestres
+que puedes matar.
+
+235
+00:22:46,337 --> 00:22:49,924
+¡Pero yo maté a uno
+de los hombres de Ushitora!
+
+236
+00:22:50,091 --> 00:22:52,217
+¿Un hombre? ¡No es para tanto!
+
+237
+00:22:52,384 --> 00:22:56,555
+Vaya hijo que eres.
+¿A qué le temes tanto?
+
+238
+00:22:57,013 --> 00:23:01,142
+¡Mates a uno o mates a cien,
+solo serás colgado una vez!
+
+239
+00:23:13,570 --> 00:23:17,489
+Aquí tiene.
+Veinticinco ryo.
+
+240
+00:23:26,915 --> 00:23:31,461
+Bebamos y conozcámonos mejor.
+
+241
+00:23:31,586 --> 00:23:34,922
+Mi hijo, Yoichiro.
+Mi esposa, Orin.
+
+242
+00:23:35,047 --> 00:23:38,967
+Mis cuatro hombres más fuertes;
+Magotaro, Yahachi...
+
+243
+00:23:39,134 --> 00:23:42,136
+...Matsukichi y Sukeju.
+
+244
+00:23:42,303 --> 00:23:45,139
+¿Dónde está Homma?
+
+245
+00:23:47,809 --> 00:23:51,520
+A propósito, ¿cuál es su nombre?
+
+246
+00:23:53,105 --> 00:23:54,606
+¿Yo?
+
+247
+00:24:01,112 --> 00:24:06,157
+Llámenme Sanjuro Kuwabatake.
+<i>"Campo de moras de 30 años"</i>
+
+248
+00:24:06,324 --> 00:24:10,495
+- Pero ya casi tengo 40.
+- ¡Está bromeando!
+
+249
+00:24:10,620 --> 00:24:13,498
+Servirá como nombre.
+
+250
+00:24:13,622 --> 00:24:16,125
+De cualquier forma,
+soy un don nadie.
+
+251
+00:24:28,303 --> 00:24:32,556
+¿Por qué se sienta allí?
+Siéntese aquí.
+
+252
+00:24:32,723 --> 00:24:34,433
+Aquí estoy bien.
+
+253
+00:24:34,600 --> 00:24:38,936
+Él gana 50 ryo, yo solo gano dos.
+Él es de una clase diferente.
+
+254
+00:24:40,188 --> 00:24:43,774
+Algún día le demostraré
+lo que puedo hacer.
+
+255
+00:24:43,941 --> 00:24:47,527
+Quizás antes de lo que cree.
+¿Qué le parece hoy?
+
+256
+00:24:49,154 --> 00:24:53,075
+¡Atacaremos hoy al medio día!
+
+257
+00:24:53,366 --> 00:24:56,285
+¿A plena luz del día?
+
+258
+00:24:56,410 --> 00:25:01,082
+No habremos ganado hasta que matemos
+a Ushitora y a Inokichi.
+
+259
+00:25:01,415 --> 00:25:04,542
+¡Podrían escapar durante la noche!
+
+260
+00:25:06,753 --> 00:25:10,048
+¡No tengan miedo!
+Con Homma...
+
+261
+00:25:10,215 --> 00:25:13,759
+...y con este samurái liderándonos,
+seremos más fuertes que nunca.
+
+262
+00:25:41,742 --> 00:25:46,830
+¡Las doce en punto!
+
+263
+00:25:51,626 --> 00:25:55,337
+¡Las doce en punto!
+
+264
+00:26:04,012 --> 00:26:07,557
+¡Rápido! ¡Muévanse!
+
+265
+00:26:11,393 --> 00:26:15,314
+¡No se escaparán tan fácilmente!
+¡Entren allí!
+
+266
+00:26:17,608 --> 00:26:20,568
+¡Pagamos mucho por ustedes!
+
+267
+00:26:20,944 --> 00:26:22,612
+¡Entren!
+
+268
+00:26:34,872 --> 00:26:36,833
+Venga, por favor.
+
+269
+00:27:24,125 --> 00:27:28,545
+¡Por favor, apúrese!
+¡Los hombres de Ushitora están saliendo!
+
+270
+00:28:02,659 --> 00:28:05,829
+¡Atención, todos, síganlo!
+
+271
+00:28:11,917 --> 00:28:16,045
+¿Quiere luchar? Luche.
+Yo me rehúso.
+
+272
+00:28:16,629 --> 00:28:18,089
+Disculpe, señora...
+
+273
+00:28:18,214 --> 00:28:21,050
+...pero no pretendo ser asesinado
+luego de que consiga su victoria.
+
+274
+00:28:21,342 --> 00:28:23,510
+Aquí están sus 25 ryo.
+
+275
+00:28:23,677 --> 00:28:26,513
+¡Maldito!
+¡Se acobarda a último momento!
+
+276
+00:28:26,680 --> 00:28:28,265
+¿Dónde está Homma?
+
+277
+00:28:28,432 --> 00:28:31,642
+- ¡Búsquenlo!
+- Escapó. A plena luz del día.
+
+278
+00:28:38,733 --> 00:28:40,609
+¿Cuál de ustedes es Ushitora?
+
+279
+00:28:44,613 --> 00:28:47,699
+Yo. ¿Qué quiere?
+
+280
+00:28:48,574 --> 00:28:51,660
+Seibê me ha ofendido.
+He cortado mis lazos con él.
+
+281
+00:29:00,293 --> 00:29:01,544
+Eso es todo.
+
+282
+00:29:23,105 --> 00:29:26,817
+¡Tengan cuidado!
+¡Será una gran pelea!
+
+283
+00:29:27,484 --> 00:29:29,152
+¡Será enorme!
+
+284
+00:29:38,743 --> 00:29:42,164
+¿Qué esperas?
+¡No puedes echar marcha atrás ahora!
+
+285
+00:29:42,330 --> 00:29:43,498
+¡Bien!
+
+286
+00:31:24,421 --> 00:31:28,466
+¡Se aproxima un inspector de Edo!
+
+287
+00:31:41,228 --> 00:31:43,395
+Has tenido suerte esta vez, canalla.
+
+288
+00:31:43,562 --> 00:31:48,526
+¡Eres tú quien ha tenido suerte!
+¡Cuando se vaya, tu cabeza será mía!
+
+289
+00:31:48,818 --> 00:31:51,236
+¡Todos ustedes, fugitivos,
+será mejor que se vayan!
+
+290
+00:31:51,986 --> 00:31:54,114
+¡Lo mismo de nuestro lado!
+
+291
+00:31:54,280 --> 00:31:57,075
+¡Díganle a todos
+que abran sus puertas!
+
+292
+00:31:57,659 --> 00:31:59,952
+Todo está tranquilo por aquí,
+¿entienden?
+
+293
+00:32:00,119 --> 00:32:02,538
+Ni siquiera los perros se pelean.
+
+294
+00:32:06,166 --> 00:32:07,750
+¡Abran!
+
+295
+00:32:07,917 --> 00:32:10,837
+¡Abran la tienda!
+¡Hagan como si nada hubiera ocurrido!
+
+296
+00:32:11,504 --> 00:32:12,505
+¿Entendieron?
+
+297
+00:32:46,827 --> 00:32:48,579
+Viejo...
+
+298
+00:32:48,704 --> 00:32:52,207
+...ese inspector es un don nadie,
+pero qué buen palanquín tiene.
+
+299
+00:33:06,302 --> 00:33:08,429
+¿Qué es lo gracioso?
+
+300
+00:33:08,596 --> 00:33:11,224
+Sus hombres están bebiendo té.
+
+301
+00:33:11,349 --> 00:33:12,850
+¿Entonces?
+
+302
+00:33:14,142 --> 00:33:15,394
+Mire.
+
+303
+00:33:25,945 --> 00:33:27,989
+Té con alcohol.
+
+304
+00:33:33,535 --> 00:33:36,037
+No se enoje.
+
+305
+00:33:39,165 --> 00:33:44,211
+Si hubiese podido hacer
+que se matasen entre ellos...
+
+306
+00:33:44,378 --> 00:33:47,213
+...me habría ahorrado mucho trabajo.
+
+307
+00:33:47,589 --> 00:33:49,382
+Fue una lástima
+que los interrumpieran.
+
+308
+00:33:49,549 --> 00:33:52,469
+¡Ya basta!
+¡Usted y sus ideas locas!
+
+309
+00:33:52,635 --> 00:33:55,096
+- ¿Piensa así?
+- Es obvio.
+
+310
+00:33:55,263 --> 00:33:58,223
+¿Cree que no se darán cuenta
+de lo que hizo?
+
+311
+00:33:58,348 --> 00:34:00,809
+Ushitora y Seibê
+no lo dejarán pasar.
+
+312
+00:34:00,976 --> 00:34:04,645
+Claro, eventualmente
+vendrán a hablarme.
+
+313
+00:34:05,021 --> 00:34:09,400
+La pregunta es quién vendrá primero
+con un montón de dinero.
+
+314
+00:34:10,360 --> 00:34:15,489
+Ambos están determinados en ganar,
+así que ambos me quieren.
+
+315
+00:34:18,116 --> 00:34:20,077
+Espere y vea.
+
+316
+00:34:27,583 --> 00:34:30,502
+¿Ese es su estúpido alcalde?
+
+317
+00:36:02,166 --> 00:36:04,085
+¿Tokuemon?
+
+318
+00:36:39,033 --> 00:36:41,535
+Ahora tiene sentido.
+
+319
+00:36:41,702 --> 00:36:45,747
+Con razón el inspector tiene
+un palanquín tan bonito.
+
+320
+00:36:49,793 --> 00:36:53,003
+A propósito,
+a mí también me gustaría un trago.
+
+321
+00:36:53,170 --> 00:36:56,465
+¡No tiene vergüenza!
+¡No tiene dinero!
+
+322
+00:37:29,661 --> 00:37:31,704
+¿Quieres algo?
+
+323
+00:37:32,413 --> 00:37:35,082
+Usted tiene carácter.
+
+324
+00:37:35,249 --> 00:37:37,710
+Me agrada.
+
+325
+00:37:38,544 --> 00:37:41,588
+Maté a tres de tus hombres.
+¿No estás furioso?
+
+326
+00:37:41,713 --> 00:37:44,174
+Eran inservibles.
+
+327
+00:37:44,340 --> 00:37:47,927
+- Soy el hermano de Ushitora--
+- Inokichi.
+
+328
+00:37:48,094 --> 00:37:50,053
+¿Me conoce?
+
+329
+00:37:50,220 --> 00:37:52,389
+Oí decir que eres fuerte.
+
+330
+00:37:52,556 --> 00:37:54,391
+No tan fuerte.
+
+331
+00:37:54,558 --> 00:37:56,518
+¡Señor!
+
+332
+00:37:58,728 --> 00:38:02,398
+Somos amigos.
+Venga a beber con nosotros.
+
+333
+00:38:02,565 --> 00:38:04,192
+¿O aún está enojado?
+
+334
+00:38:04,358 --> 00:38:06,651
+- Eso debería preguntarle yo a usted.
+- No sea malo.
+
+335
+00:38:06,818 --> 00:38:11,406
+Se tomó muy en serio mi broma.
+Vamos, acompáñeme.
+
+336
+00:38:11,573 --> 00:38:14,784
+¡De ninguna manera!
+¡Vamos a tomarnos unos tragos!
+
+337
+00:38:15,117 --> 00:38:17,912
+¿Cierto? Traiga el sake.
+
+338
+00:38:18,037 --> 00:38:20,081
+El mejor, yo invito.
+
+339
+00:38:20,206 --> 00:38:23,416
+¡No! ¡Mi hermano me mataría!
+
+340
+00:38:23,583 --> 00:38:26,711
+¡Y a mí me expulsarían de mi casa!
+
+341
+00:38:26,878 --> 00:38:29,589
+- ¡Zorra!
+- ¿Qué?
+
+342
+00:38:53,735 --> 00:38:56,028
+Carpintero.
+
+343
+00:38:56,195 --> 00:38:58,698
+¿Ahogando sus penas en sake?
+
+344
+00:39:03,326 --> 00:39:07,622
+La larga visita del inspector
+debe haber perjudicado su negocio.
+
+345
+00:39:07,748 --> 00:39:10,417
+Usted ya lleva diez días aquí.
+
+346
+00:39:10,584 --> 00:39:12,418
+No diga eso.
+
+347
+00:39:12,585 --> 00:39:15,129
+Su negocio ha prosperado gracias a mí.
+
+348
+00:39:15,296 --> 00:39:18,007
+¡Cállese!
+Esto no es un burdel.
+
+349
+00:39:18,174 --> 00:39:20,634
+Si busca un lugar donde quedarse,
+vaya con Seibê.
+
+350
+00:39:20,800 --> 00:39:26,514
+No es una buena idea.
+Ambos bandos se disputan por mí.
+
+351
+00:39:27,599 --> 00:39:31,185
+Me quedaré aquí
+para que no pierdan la esperanza.
+
+352
+00:39:49,868 --> 00:39:52,788
+Todos afuera menos él.
+
+353
+00:40:17,143 --> 00:40:20,020
+Venga ahora a mi casa.
+
+354
+00:40:20,562 --> 00:40:23,231
+¿Por qué la prisa?
+
+355
+00:40:23,857 --> 00:40:26,942
+El inspector partirá mañana.
+
+356
+00:40:28,569 --> 00:40:32,823
+Un oficial fue asesinado en un pueblo
+a 40 kilómetros de aquí.
+
+357
+00:40:36,242 --> 00:40:38,953
+No parece muy preocupado.
+
+358
+00:40:39,120 --> 00:40:42,457
+No se enterará hasta esta noche.
+
+359
+00:40:42,874 --> 00:40:45,626
+Parece saberlo todo.
+
+360
+00:40:47,085 --> 00:40:51,215
+¿Usted mandó asesinar al oficial?
+
+361
+00:40:51,506 --> 00:40:53,466
+Tal vez.
+
+362
+00:40:54,717 --> 00:40:57,720
+La presencia del inspector
+me cuesta caro.
+
+363
+00:40:57,887 --> 00:41:00,972
+Al igual que mis hombres.
+
+364
+00:41:01,098 --> 00:41:03,141
+Entiendo.
+
+365
+00:41:03,308 --> 00:41:07,562
+Hablando de eso;
+Aquí tiene 30 ryo de adelanto.
+
+366
+00:41:07,895 --> 00:41:11,148
+Más treinta si yo gano.
+Venga inmediatamente.
+
+367
+00:41:11,315 --> 00:41:15,403
+No hasta darle a Seibê
+la chance de superar la oferta.
+
+368
+00:41:15,528 --> 00:41:18,780
+Siempre listo para explotar
+cualquier ventaja, ¿no?
+
+369
+00:41:18,905 --> 00:41:20,740
+Mala suerte.
+
+370
+00:41:21,032 --> 00:41:24,827
+Decidiré mi precio
+luego de que el inspector parta.
+
+371
+00:41:39,966 --> 00:41:43,427
+Alégrese.
+El inspector pronto se irá.
+
+372
+00:41:43,594 --> 00:41:47,306
+¿En serio? ¿Se marchará?
+¡Fantástico!
+
+373
+00:41:59,524 --> 00:42:01,818
+¿Para qué vino Ushitora?
+
+374
+00:42:05,322 --> 00:42:06,781
+¡Maldito!
+
+375
+00:42:06,947 --> 00:42:09,367
+¿La matanza va a volver a comenzar?
+
+376
+00:42:09,742 --> 00:42:11,952
+Eso parece.
+
+377
+00:42:30,094 --> 00:42:32,512
+¿Por qué demoran tanto?
+
+378
+00:42:32,679 --> 00:42:36,516
+Ya es hora de que alguno
+me haga una oferta.
+
+379
+00:42:36,641 --> 00:42:39,852
+Vaya samurái.
+Solo habla de dinero.
+
+380
+00:42:41,019 --> 00:42:45,691
+Es un trabajo sucio y peligroso.
+Solo vale la pena si es bien pago.
+
+381
+00:42:45,858 --> 00:42:48,651
+Solo será un guardaespaldas.
+
+382
+00:42:49,485 --> 00:42:51,946
+Con algunos guardaespaldas...
+
+383
+00:42:52,113 --> 00:42:55,450
+...los patrones
+deben cuidarse las espaldas.
+
+384
+00:43:22,306 --> 00:43:27,561
+¿Qué está tramando el tonto?
+Ha estado yendo y viniendo todo el día.
+
+385
+00:43:38,487 --> 00:43:40,864
+Gonji, una botella de sake.
+
+386
+00:43:41,031 --> 00:43:44,117
+Olvídalo.
+No dejaré que festejes esta masacre.
+
+387
+00:43:44,284 --> 00:43:47,286
+¡No festejo!
+¡Estoy desesperado!
+
+388
+00:43:47,620 --> 00:43:50,414
+Están haciendo las paces.
+
+389
+00:43:50,581 --> 00:43:52,458
+¿De verdad?
+
+390
+00:43:52,625 --> 00:43:55,335
+Y compré mucha madera
+para hacer ataúdes.
+
+391
+00:43:55,502 --> 00:43:58,046
+¿Qué haré ahora?
+
+392
+00:43:58,213 --> 00:44:02,342
+Lo siento por ustedes,
+pero ahora el pueblo estará en paz.
+
+393
+00:44:02,508 --> 00:44:03,801
+¡Idiota!
+
+394
+00:44:04,093 --> 00:44:08,180
+Los jugadores solo hacen las paces
+para prepararse para una batalla mayor.
+
+395
+00:44:08,472 --> 00:44:11,057
+No podrán tener la feria de la seda
+si se están peleando.
+
+396
+00:44:11,182 --> 00:44:13,518
+Y sin feria,
+no hay salas de apuestas...
+
+397
+00:44:13,685 --> 00:44:17,105
+...ni entradas por sus territorios,
+así que hacen las paces por un tiempo.
+
+398
+00:44:17,272 --> 00:44:21,066
+Una tregua es la semilla
+de una batalla aún más sangrienta.
+
+399
+00:44:21,233 --> 00:44:22,735
+¿Entiende?
+
+400
+00:44:23,193 --> 00:44:26,655
+No hay nada más peligroso que eso.
+
+401
+00:44:29,616 --> 00:44:34,787
+Aun así, estaban tan determinados
+a destruirse unos a otros.
+
+402
+00:44:35,121 --> 00:44:37,539
+¿Cómo hicieron para calmarse?
+
+403
+00:44:37,706 --> 00:44:41,585
+- Unosuke lo debe haber sugerido.
+- ¿Unosuke?
+
+404
+00:44:41,752 --> 00:44:43,629
+El hermano más joven de Ushitora.
+
+405
+00:44:43,795 --> 00:44:46,756
+Estaba de viaje.
+Volvió ayer a la noche.
+
+406
+00:44:47,256 --> 00:44:49,967
+¿Así que el maldito volvió?
+
+407
+00:44:50,134 --> 00:44:52,844
+Luce manso como un conejo...
+
+408
+00:44:53,011 --> 00:44:56,306
+...pero por dentro es un lobo.
+
+409
+00:45:00,602 --> 00:45:04,522
+<i>¡Un año te has ausentado!
+¡Hasta el viento te da la bienvenida!</i>
+
+410
+00:45:40,178 --> 00:45:43,848
+¿Quiere ver algo interesante?
+
+411
+00:46:13,333 --> 00:46:15,043
+¿A ustedes también?
+
+412
+00:46:15,460 --> 00:46:17,294
+¡Es un insulto!
+
+413
+00:46:17,461 --> 00:46:21,840
+¡Hicieron las paces,
+y nos despidieron con poco dinero!
+
+414
+00:46:22,466 --> 00:46:24,258
+¡Malditos!
+
+415
+00:46:25,468 --> 00:46:27,804
+¡Les enseñaremos!
+
+416
+00:46:27,971 --> 00:46:30,098
+¡Malditos!
+
+417
+00:46:43,901 --> 00:46:47,155
+¿De qué se quejan?
+
+418
+00:46:47,780 --> 00:46:51,449
+Ushitora nos hizo
+arriesgar nuestras vidas.
+
+419
+00:46:51,616 --> 00:46:55,579
+¡Y eso solo ayer!
+
+420
+00:46:55,745 --> 00:46:57,246
+¡Silencio!
+
+421
+00:47:02,042 --> 00:47:04,378
+Te lo diré, Kuma...
+
+422
+00:47:05,129 --> 00:47:08,298
+...¡ya no lo soporto!
+
+423
+00:47:08,423 --> 00:47:13,678
+Denunciémoslo ante la ley.
+
+424
+00:47:13,969 --> 00:47:16,221
+Luego de que Ushitora--
+
+425
+00:47:18,807 --> 00:47:21,685
+¡Duele!
+
+426
+00:47:21,852 --> 00:47:23,603
+Levántate.
+
+427
+00:47:23,770 --> 00:47:25,939
+¡Vamos!
+
+428
+00:47:27,482 --> 00:47:30,442
+¿Por qué hiciste eso?
+
+429
+00:47:43,955 --> 00:47:46,582
+- ¡Vamos!
+- ¡No!
+
+430
+00:48:03,514 --> 00:48:06,099
+Ushitora es un miserable.
+
+431
+00:48:06,224 --> 00:48:08,101
+¿De dónde demonios salió?
+
+432
+00:48:08,226 --> 00:48:11,187
+¿Cuánto les pagó
+por matar a ese oficial?
+
+433
+00:48:11,354 --> 00:48:12,771
+¿Un ryo?
+
+434
+00:48:12,896 --> 00:48:17,109
+¡Ojalá!
+Solo dos piezas de plata.
+
+435
+00:48:20,695 --> 00:48:23,323
+Un pésimo trato.
+
+436
+00:48:23,823 --> 00:48:26,659
+Pero la información me será útil.
+
+437
+00:48:27,535 --> 00:48:29,995
+Son una mina de oro.
+
+438
+00:48:30,162 --> 00:48:34,750
+Ahora puedo chantajear a Ushitora,
+o venderlos a Seibê.
+
+439
+00:48:48,637 --> 00:48:50,347
+Levántate.
+
+440
+00:48:52,516 --> 00:48:54,225
+¡Levántate!
+
+441
+00:49:18,372 --> 00:49:20,707
+Es una ganga.
+
+442
+00:49:22,875 --> 00:49:26,337
+Si los entrega ante la ley...
+
+443
+00:49:26,504 --> 00:49:29,006
+...será el fin de Ushitora.
+
+444
+00:49:32,926 --> 00:49:35,761
+Pero, jefe,
+¿qué hay de la tregua?
+
+445
+00:49:35,928 --> 00:49:39,390
+En este momento su hijo y Unosuke
+están negociando en la casa del alcalde.
+
+446
+00:49:39,557 --> 00:49:41,350
+¿Y qué?
+
+447
+00:49:41,517 --> 00:49:45,604
+Sería perfecto que Ushitora
+fuera arrestado durante la negociación.
+
+448
+00:49:57,281 --> 00:50:00,033
+¿Están listas, señoras?
+
+449
+00:50:31,270 --> 00:50:33,354
+Hace tiempo que no está
+con una mujer, ¿verdad?
+
+450
+00:50:33,521 --> 00:50:36,816
+Escoja una y diviértase.
+
+451
+00:50:37,149 --> 00:50:39,986
+Este es un sitio peligroso.
+
+452
+00:50:43,071 --> 00:50:44,281
+¡Espere!
+
+453
+00:50:44,447 --> 00:50:47,284
+Encárguese de su compra.
+
+454
+00:50:47,450 --> 00:50:49,994
+Sería una pérdida total
+si Ushitora los recuperara.
+
+455
+00:50:50,161 --> 00:50:52,955
+Enciérrelos en el almacén.
+
+456
+00:51:09,803 --> 00:51:11,388
+Quiero ver a Ushitora.
+
+457
+00:51:13,182 --> 00:51:15,099
+¿Quién demonios--
+
+458
+00:51:19,854 --> 00:51:21,689
+¡Traigan a Ushitora!
+
+459
+00:51:26,234 --> 00:51:28,487
+¡Jefe! ¡Jefe!
+
+460
+00:51:28,654 --> 00:51:30,405
+<i>¿Qué sucede?</i>
+
+461
+00:51:37,703 --> 00:51:40,163
+Así que es usted.
+
+462
+00:51:40,330 --> 00:51:42,541
+Por el momento
+no necesito un guardaespaldas.
+
+463
+00:51:42,832 --> 00:51:46,002
+Qué pena que haya rechazado
+mi anterior oferta.
+
+464
+00:51:46,169 --> 00:51:49,213
+Hachi habla demasiado.
+
+465
+00:51:50,464 --> 00:51:54,802
+Si es tacaño,
+al final termina pagando más.
+
+466
+00:51:56,427 --> 00:51:59,222
+Dos piezas de plata,
+qué insulto.
+
+467
+00:51:59,389 --> 00:52:03,393
+Él y Kuma se emborracharon
+y contaron todo.
+
+468
+00:52:03,685 --> 00:52:07,396
+¡Esos infelices!
+¿Dónde demonios están?
+
+469
+00:52:07,563 --> 00:52:11,358
+Uno de los hombres de Seibê
+los escuchó y los capturó.
+
+470
+00:52:11,734 --> 00:52:15,820
+Los seguí. Los tienen encerrados
+en el almacén de Seibê.
+
+471
+00:52:16,446 --> 00:52:18,197
+¡Malditos!
+
+472
+00:52:18,573 --> 00:52:21,700
+Esta información no es gratis.
+
+473
+00:52:26,413 --> 00:52:29,541
+Lleve todo lo que quiera.
+
+474
+00:52:29,707 --> 00:52:32,209
+Será mi guardaespaldas
+de ahora en adelante.
+
+475
+00:52:37,632 --> 00:52:41,301
+Es suficiente por ahora.
+Consideraré lo de ser su guardaespaldas.
+
+476
+00:52:47,556 --> 00:52:52,061
+Uno, no lo conoces, ¿verdad?
+Este tipo es muy duro.
+
+477
+00:53:00,443 --> 00:53:03,987
+<i>¡Ino! ¡Uno! ¿Qué hacen?
+¡Vengan aquí rápido!</i>
+
+478
+00:53:32,430 --> 00:53:33,556
+¿Qué sucede?
+
+479
+00:53:33,723 --> 00:53:35,850
+¡No mates a Yoichiro!
+
+480
+00:53:40,395 --> 00:53:44,149
+¡Toma su espada
+y llévalo con nuestro hermano!
+
+481
+00:53:44,481 --> 00:53:47,026
+¡En marcha!
+
+482
+00:54:09,796 --> 00:54:13,216
+¡Seibê! ¡Seibê!
+
+483
+00:54:13,383 --> 00:54:15,843
+¡Tenemos a Yoichiro!
+
+484
+00:54:16,177 --> 00:54:17,553
+¿Me escuchó?
+
+485
+00:54:17,720 --> 00:54:20,722
+¡Escuche bien,
+y no intente nada!
+
+486
+00:54:20,889 --> 00:54:24,810
+¡Si lo quiere de vuelta,
+traiga a Kuma y a Hachi!
+
+487
+00:54:24,977 --> 00:54:26,936
+¡Haremos un intercambio!
+
+488
+00:54:27,103 --> 00:54:29,355
+Cada bando enviará
+tres hombres desarmados...
+
+489
+00:54:29,647 --> 00:54:32,525
+...a la torre de vigilancia
+a las 2:00 AM.
+
+490
+00:54:32,692 --> 00:54:34,318
+¿Entendió?
+
+491
+00:54:44,577 --> 00:54:48,622
+- Muy bien.
+- Se pondrá mejor. Solo observe.
+
+492
+00:54:53,793 --> 00:54:56,713
+No olvide anunciar la hora a las 2:00.
+
+493
+00:55:02,551 --> 00:55:05,679
+Viejo, deme algo para comer.
+
+494
+00:55:06,221 --> 00:55:08,681
+Sírvase lo que quiera de la olla.
+
+495
+00:55:09,098 --> 00:55:13,394
+Nadie viene a comer,
+con todos estos problemas.
+
+496
+00:55:18,065 --> 00:55:19,858
+Sabe, viejo...
+
+497
+00:55:20,025 --> 00:55:24,403
+...la ciudad comienza a hervir otra vez,
+igual que esta olla.
+
+498
+00:55:26,280 --> 00:55:28,407
+¿Qué ha hecho?
+
+499
+00:55:29,241 --> 00:55:31,494
+¿Agregó un nuevo capítulo a su plan?
+
+500
+00:55:31,661 --> 00:55:33,453
+Solo la mitad.
+
+501
+00:55:33,620 --> 00:55:36,581
+Unosuke hizo el resto.
+
+502
+00:55:50,468 --> 00:55:55,014
+¡Las 2:00 AM!
+
+503
+00:55:56,933 --> 00:56:01,687
+¡Las 2:00 AM!
+
+504
+00:56:13,406 --> 00:56:15,407
+¿Estás listo, Ushitora?
+
+505
+00:56:16,074 --> 00:56:18,368
+¡Estamos yendo, Seibê!
+
+506
+00:57:21,382 --> 00:57:24,510
+Los empujaremos...
+
+507
+00:57:24,885 --> 00:57:27,096
+...y ustedes soltarán la cuerda.
+
+508
+00:57:35,854 --> 00:57:36,938
+¡Seibê!
+
+509
+00:57:38,856 --> 00:57:41,108
+Eso fue un truco sucio.
+
+510
+00:57:41,275 --> 00:57:43,444
+Ahora estamos a mano.
+
+511
+00:57:43,611 --> 00:57:45,571
+Si quiere a Yoichiro...
+
+512
+00:57:45,695 --> 00:57:50,116
+...rasure su cabeza
+y pídale a mi hermano que sea el líder.
+
+513
+00:57:50,408 --> 00:57:52,368
+¡Lo que imaginaba!
+
+514
+00:57:52,535 --> 00:57:55,787
+¡Uno, mira!
+
+515
+00:58:15,180 --> 00:58:17,516
+Ushitora, ¿ve esto?
+
+516
+00:58:17,683 --> 00:58:20,017
+¡Me quedaré con ella!
+
+517
+00:58:20,184 --> 00:58:23,354
+¡Pregúntele al viejo productor de sake
+qué le parece!
+
+518
+00:58:42,162 --> 00:58:43,872
+Eso fue divertido.
+
+519
+00:59:40,798 --> 00:59:42,465
+<i>¡Mamá!</i>
+
+520
+00:59:50,848 --> 00:59:52,057
+¿Dónde está?
+
+521
+00:59:58,105 --> 01:00:00,022
+Te mostraré.
+
+522
+01:00:24,919 --> 01:00:27,255
+¿No quieres mirar?
+
+523
+01:01:07,791 --> 01:01:09,960
+¡No puedo verla!
+
+524
+01:01:10,085 --> 01:01:12,045
+Pronto la verás.
+
+525
+01:01:18,467 --> 01:01:19,969
+¡Mamá!
+
+526
+01:01:35,482 --> 01:01:37,026
+¡Kenbo!
+
+527
+01:01:39,027 --> 01:01:40,320
+¡Nui!
+
+528
+01:01:51,622 --> 01:01:53,832
+¡Hansuke! ¡Rápido!
+
+529
+01:02:00,880 --> 01:02:02,298
+¡Mamá!
+
+530
+01:02:02,465 --> 01:02:03,632
+¡Cobarde!
+
+531
+01:02:03,799 --> 01:02:05,801
+¿Por qué no te cortaste la lengua
+y te moriste?
+
+532
+01:02:05,967 --> 01:02:08,804
+¡Nos has causado tantos problemas!
+¡Maldito desagradecido!
+
+533
+01:02:09,429 --> 01:02:11,806
+¡Rápido!
+
+534
+01:02:13,432 --> 01:02:15,393
+Vamos.
+
+535
+01:02:33,409 --> 01:02:34,910
+¡Seibê!
+
+536
+01:02:37,161 --> 01:02:39,038
+¡Volverás a saber de mí!
+
+537
+01:02:40,123 --> 01:02:44,377
+¡No puedo esperar!
+¡Yo también tengo algo planeado!
+
+538
+01:02:50,132 --> 01:02:52,217
+No se acerquen más.
+
+539
+01:03:06,772 --> 01:03:09,608
+Lloró hasta dormirse.
+
+540
+01:03:17,531 --> 01:03:23,119
+Pobre hombre.
+Su esposa era hermosa.
+
+541
+01:03:23,787 --> 01:03:27,581
+Todo comenzó
+cuando apostó contra Ushitora y perdió.
+
+542
+01:03:27,748 --> 01:03:32,419
+Si ella fuera fea,
+solo habría perdido su casa.
+
+543
+01:03:32,586 --> 01:03:37,131
+Pero el viejo Tokuemon
+puso el ojo en ella.
+
+544
+01:03:37,298 --> 01:03:41,010
+Ushitora vio una oportunidad
+para poner a Tokuemon de su lado.
+
+545
+01:03:41,177 --> 01:03:47,182
+Tomó a la esposa y la casa
+y las puso enfrente de Tokuemon.
+
+546
+01:03:47,641 --> 01:03:51,686
+Este pobre tonto construyó una choza
+junto a su antigua casa...
+
+547
+01:03:51,853 --> 01:03:57,567
+...solo para poder ver cómo Tokuemon
+violaba a su esposa todos los días.
+
+548
+01:03:57,692 --> 01:04:01,945
+¡No la quiero más!
+¡Renuncié a ella!
+
+549
+01:04:02,112 --> 01:04:05,782
+¿Entonces por qué la tristeza
+en su rostro?
+
+550
+01:04:12,788 --> 01:04:14,790
+¿Irá a su casa?
+
+551
+01:04:15,916 --> 01:04:21,046
+¿No le darán una paliza?
+¿No le dijeron que no vaya a verla?
+
+552
+01:04:21,212 --> 01:04:23,673
+Estoy acostumbrado.
+
+553
+01:04:23,840 --> 01:04:26,008
+No me importa.
+
+554
+01:04:36,225 --> 01:04:40,229
+Ushitora tiene hombres
+vigilando el lugar.
+
+555
+01:04:40,396 --> 01:04:43,023
+Ni siquiera puede ver a su hijo.
+
+556
+01:04:46,026 --> 01:04:47,611
+Adiós.
+
+557
+01:04:51,155 --> 01:04:54,909
+¡Los tipos como él me enferman!
+
+558
+01:05:36,404 --> 01:05:39,990
+He decidido ser su guardaespaldas.
+
+559
+01:05:40,157 --> 01:05:42,367
+Tiene mi gratitud.
+
+560
+01:05:43,535 --> 01:05:45,746
+Quiero 30 ryo por adelantado.
+
+561
+01:05:46,580 --> 01:05:50,499
+Es un precio alto.
+Yo me rehusaría en tu lugar.
+
+562
+01:05:50,666 --> 01:05:53,920
+¡Pero es tan duro!
+
+563
+01:05:56,713 --> 01:05:58,215
+¿Más duro que esto?
+
+564
+01:05:58,381 --> 01:06:02,886
+No digas eso, Uno.
+Si me rehúso irá con Seibê.
+
+565
+01:06:03,011 --> 01:06:05,012
+¡Eso sería malo!
+
+566
+01:06:06,889 --> 01:06:08,933
+¡Cómpralo entonces!
+
+567
+01:06:12,520 --> 01:06:14,729
+Tome, 30 ryo.
+
+568
+01:06:18,066 --> 01:06:20,777
+Treinta más cuando ganemos.
+
+569
+01:06:20,944 --> 01:06:22,903
+Por supuesto.
+Tiene mi palabra.
+
+570
+01:06:23,070 --> 01:06:27,491
+Si está resuelto, brindemos.
+¡Por nuestra sociedad!
+
+571
+01:06:27,658 --> 01:06:31,077
+Bien, pero la mujer, ¿está a salvo?
+
+572
+01:06:31,244 --> 01:06:32,495
+¿Qué mujer?
+
+573
+01:06:32,662 --> 01:06:34,664
+La mujer de Tokuemon.
+
+574
+01:06:34,831 --> 01:06:38,000
+Si la atrapan nuevamente,
+usted de seguro perderá.
+
+575
+01:06:38,166 --> 01:06:41,503
+No se preocupe.
+Seis hombres fuertes la vigilan.
+
+576
+01:06:41,670 --> 01:06:43,589
+No será suficiente.
+
+577
+01:06:43,714 --> 01:06:46,465
+Necesita al menos
+a uno tan fuerte como él.
+
+578
+01:06:48,217 --> 01:06:50,344
+Hermano, ¿voy?
+
+579
+01:06:51,762 --> 01:06:55,348
+Yo también iré
+y veré lo que están haciendo.
+
+580
+01:06:55,515 --> 01:06:57,225
+Gracias.
+
+581
+01:06:59,102 --> 01:07:01,396
+No es un trabajo divertido.
+
+582
+01:07:02,063 --> 01:07:07,109
+Cuando Tokuemon está aquí,
+tiene que quedarse afuera en el frío.
+
+583
+01:07:09,612 --> 01:07:11,654
+No parece estar aquí ahora.
+
+584
+01:07:15,200 --> 01:07:17,619
+¿Allí vive el tonto
+que perdió a su esposa?
+
+585
+01:07:17,786 --> 01:07:21,080
+¡Casi me olvido!
+¡Tengo que darle una paliza!
+
+586
+01:07:25,084 --> 01:07:26,460
+¡Oye, tú!
+
+587
+01:07:26,627 --> 01:07:30,129
+¿Vigilando a la esposa de Tokuemon?
+
+588
+01:07:30,254 --> 01:07:33,925
+¿Cuántas veces te tenemos que decir
+que no la veas?
+
+589
+01:07:35,093 --> 01:07:38,262
+¡Ino, hay problemas!
+¡Todos están muertos!
+
+590
+01:07:39,054 --> 01:07:43,183
+¡Mataron a los seis hombres!
+¡Dile a Ushitora, rápido!
+
+591
+01:07:50,147 --> 01:07:51,190
+¿Quién anda allí?
+
+592
+01:08:06,203 --> 01:08:08,122
+¡Busque a su esposo y huyan!
+
+593
+01:08:14,544 --> 01:08:16,212
+¡Idiota!
+
+594
+01:08:21,133 --> 01:08:22,760
+¡Mamá!
+
+595
+01:08:26,471 --> 01:08:28,264
+¡Nui!
+
+596
+01:08:28,890 --> 01:08:30,725
+¡Rápido! ¡Huyan!
+
+597
+01:08:30,892 --> 01:08:33,436
+¡Treinta ryo!
+¡Se los robé a Ushitora!
+
+598
+01:08:33,561 --> 01:08:35,145
+¡Tómenlo!
+
+599
+01:10:02,598 --> 01:10:04,016
+¡Idiotas!
+
+600
+01:10:04,183 --> 01:10:05,683
+¿Qué esperan?
+
+601
+01:10:10,647 --> 01:10:12,690
+¡Deténganse!
+
+602
+01:10:12,982 --> 01:10:16,860
+¡Odio a las personas patéticas!
+¡Los mataré si comienzan a llorar!
+
+603
+01:10:20,322 --> 01:10:21,865
+¡Ushitora está en camino!
+
+604
+01:10:24,909 --> 01:10:26,244
+¡Huyan!
+
+605
+01:10:26,411 --> 01:10:27,954
+Le agradeceremos después.
+
+606
+01:10:28,246 --> 01:10:30,498
+¡Estúpido! ¡No vuelva nunca!
+
+607
+01:10:31,081 --> 01:10:32,791
+¡Gracias!
+
+608
+01:10:33,458 --> 01:10:35,294
+¡Gracias!
+
+609
+01:10:46,470 --> 01:10:49,264
+- ¿Qué sucedió?
+- Miren.
+
+610
+01:10:58,606 --> 01:11:00,441
+Qué revuelo.
+
+611
+01:11:04,152 --> 01:11:06,696
+¿No se los dije?
+
+612
+01:11:06,863 --> 01:11:09,824
+Seis hombres no serían suficiente.
+
+613
+01:11:14,578 --> 01:11:18,874
+Debieron haber sido 15 o 16.
+
+614
+01:11:23,920 --> 01:11:25,463
+¿Dónde está la mujer?
+
+615
+01:11:25,630 --> 01:11:27,465
+Se fue, por supuesto.
+
+616
+01:11:28,216 --> 01:11:30,717
+Seibê es astuto.
+
+617
+01:11:34,388 --> 01:11:36,223
+¡Hermano!
+
+618
+01:11:38,015 --> 01:11:41,143
+¡Maldito!
+
+619
+01:11:46,648 --> 01:11:50,443
+¡Mi seda se quema!
+¡Por favor, apaguen el fuego!
+
+620
+01:11:50,569 --> 01:11:52,863
+¡Les daré lo que sea!
+
+621
+01:11:53,988 --> 01:11:56,073
+¡No se muevan!
+
+622
+01:12:01,662 --> 01:12:03,705
+¡Devuelvan a la mujer
+y salvaremos la tienda!
+
+623
+01:12:03,997 --> 01:12:06,082
+¿Qué mujer?
+
+624
+01:12:06,374 --> 01:12:08,918
+¡No finjan!
+¡Devuélvala!
+
+625
+01:12:09,669 --> 01:12:11,712
+- ¿De qué hablas?
+- ¡Silencio!
+
+626
+01:12:37,109 --> 01:12:42,156
+¡Mi sake se derrama!
+
+627
+01:12:42,323 --> 01:12:44,991
+¡Hagan algo!
+
+628
+01:12:52,373 --> 01:12:55,125
+¡Tapen los agujeros!
+
+629
+01:12:57,545 --> 01:12:59,588
+¡Les daré lo que sea!
+
+630
+01:13:08,554 --> 01:13:11,014
+¡Ayuda!
+
+631
+01:13:16,729 --> 01:13:19,355
+¡Esto es obra de Seibê!
+
+632
+01:13:22,191 --> 01:13:24,360
+¡Hombres, vengan!
+
+633
+01:14:17,240 --> 01:14:21,285
+¿Qué sucede?
+¿Por qué está tan triste?
+
+634
+01:14:23,537 --> 01:14:25,497
+Su negocio debería estar prosperando.
+
+635
+01:14:25,664 --> 01:14:26,832
+No.
+
+636
+01:14:26,998 --> 01:14:31,461
+Cuando la pelea es tan grande,
+no se molestan con los ataúdes.
+
+637
+01:14:48,642 --> 01:14:50,144
+Otra botella.
+
+638
+01:14:50,311 --> 01:14:51,770
+Bien.
+
+639
+01:14:52,313 --> 01:14:55,357
+Está sospechosamente amistoso hoy.
+¿Qué sucede?
+
+640
+01:14:57,859 --> 01:14:59,861
+Me pone los pelos de punta.
+
+641
+01:15:01,237 --> 01:15:04,449
+¿No está molesto porque ahora sea
+el guardaespaldas de Ushitora?
+
+642
+01:15:04,616 --> 01:15:06,283
+Para nada.
+
+643
+01:15:11,330 --> 01:15:13,831
+Usted no es tan malo
+después de todo.
+
+644
+01:15:14,373 --> 01:15:16,000
+¿Qué?
+
+645
+01:15:16,542 --> 01:15:21,797
+Usted no es realmente malo.
+Solo pretende serlo.
+
+646
+01:15:21,963 --> 01:15:24,132
+Él vino ayer a la noche.
+
+647
+01:15:24,424 --> 01:15:25,634
+¿Quién?
+
+648
+01:15:25,759 --> 01:15:29,012
+El hombre que lo enferma.
+
+649
+01:15:29,970 --> 01:15:33,432
+Me lo contó todo.
+Y otra cosa más.
+
+650
+01:15:34,850 --> 01:15:37,269
+Me dijo que le diera esto.
+
+651
+01:15:42,399 --> 01:15:44,442
+¿No va a leerlo?
+
+652
+01:15:44,609 --> 01:15:49,113
+Claro, es una nota de agradecimiento
+larga y tediosa.
+
+653
+01:15:49,280 --> 01:15:52,449
+Pero léala.
+Arriesgó su vida para traerla.
+
+654
+01:15:52,616 --> 01:15:55,660
+¡Cállese!
+¡Estoy ocupado con mi bebida!
+
+655
+01:16:08,797 --> 01:16:10,757
+Tenemos que hablar.
+
+656
+01:16:11,549 --> 01:16:12,967
+¿Sobre qué?
+
+657
+01:16:17,472 --> 01:16:22,017
+Ino acaba de volver
+de una expedición de reclutamiento.
+
+658
+01:16:23,310 --> 01:16:26,396
+- ¿Conseguiste hombres?
+- No.
+
+659
+01:16:26,563 --> 01:16:28,439
+No es de extrañar.
+
+660
+01:16:28,606 --> 01:16:32,193
+Ninguno de sus antiguos hombres
+hablan bien de ustedes.
+
+661
+01:16:32,360 --> 01:16:37,947
+Pero un hombre le contó a Ino
+una historia interesante.
+
+662
+01:16:38,281 --> 01:16:40,283
+Vio a la mujer de Tokuemon...
+
+663
+01:16:40,450 --> 01:16:44,496
+...cruzando la colina
+con su esposo y un mocoso.
+
+664
+01:16:45,496 --> 01:16:49,250
+Fue la mañana después de que
+nuestros hombres fueran asesinados.
+
+665
+01:16:52,253 --> 01:16:56,548
+Eso significa
+que Seibê no la secuestró.
+
+666
+01:16:58,216 --> 01:16:59,926
+Eso parece.
+
+667
+01:17:00,760 --> 01:17:03,720
+¿Entonces quién mató
+a nuestros hombres?
+
+668
+01:17:05,764 --> 01:17:10,643
+Ino, antes de que corrieras
+a avisarle a nuestro hermano...
+
+669
+01:17:10,977 --> 01:17:13,980
+...viste a esos hombres muertos
+con tus propios ojos?
+
+670
+01:17:14,272 --> 01:17:16,816
+No. Él me lo dijo--
+
+671
+01:17:28,909 --> 01:17:31,620
+Por cierto...
+
+672
+01:17:31,787 --> 01:17:34,831
+...sí que fueron masacrados
+esos seis hombres.
+
+673
+01:17:35,582 --> 01:17:40,128
+Por aquí, usted es el único
+con una espada tan hábil.
+
+674
+01:17:41,838 --> 01:17:43,422
+¿Entonces?
+
+675
+01:17:44,465 --> 01:17:46,842
+Se me ocurre...
+
+676
+01:17:47,009 --> 01:17:49,386
+...que quizás usted los mató.
+
+677
+01:17:51,055 --> 01:17:55,308
+Pero, Uno,
+es nuestro guardaespaldas.
+
+678
+01:17:55,475 --> 01:17:58,019
+¿Por qué haría eso?
+
+679
+01:17:59,978 --> 01:18:04,566
+Eso es lo que yo tampoco entiendo.
+
+680
+01:18:05,984 --> 01:18:07,902
+Espere.
+
+681
+01:18:08,986 --> 01:18:10,738
+¿Qué es esto?
+
+682
+01:18:13,074 --> 01:18:15,451
+"Para el honorable samurái.
+
+683
+01:18:15,618 --> 01:18:19,246
+De Kohei y Nui".
+
+684
+01:19:10,458 --> 01:19:13,878
+¿Estás seguro
+de que no deberíamos amarrarlo?
+
+685
+01:19:14,253 --> 01:19:17,798
+Claro. No es nada sin su espada.
+
+686
+01:19:20,759 --> 01:19:23,719
+¿Dónde estoy?
+
+687
+01:19:24,053 --> 01:19:26,055
+En la fábrica de sake.
+
+688
+01:19:26,180 --> 01:19:28,766
+En la entrada al infierno.
+
+689
+01:19:28,933 --> 01:19:30,351
+¡Ten cuidado!
+
+690
+01:19:30,518 --> 01:19:34,479
+Una palmada tuya
+es como un golpe de un tipo normal.
+
+691
+01:19:52,620 --> 01:19:55,665
+¿Quieres otra paliza?
+
+692
+01:20:16,057 --> 01:20:17,809
+¿Adónde vas?
+
+693
+01:20:17,934 --> 01:20:20,520
+¡Ese es el atajo al infierno!
+
+694
+01:20:26,984 --> 01:20:28,903
+¡No debes matarlo!
+
+695
+01:20:29,070 --> 01:20:31,529
+No te preocupes.
+Aún gime.
+
+696
+01:20:59,054 --> 01:21:01,306
+¿Sabe quién soy?
+
+697
+01:21:03,266 --> 01:21:05,351
+Entonces escuche.
+
+698
+01:21:05,518 --> 01:21:09,021
+Tokuemon quiere hablar con usted
+personalmente.
+
+699
+01:21:13,733 --> 01:21:19,655
+Debe saber dónde está la mujer.
+
+700
+01:21:24,243 --> 01:21:28,538
+No puede confiar en él.
+Intenta salvar su pellejo.
+
+701
+01:21:28,705 --> 01:21:31,499
+El señor está hablando.
+No interrumpas.
+
+702
+01:21:36,795 --> 01:21:41,175
+Odio las conversaciones largas.
+
+703
+01:21:41,342 --> 01:21:45,553
+Cuanto antes resolvamos esto, mejor.
+
+704
+01:21:47,013 --> 01:21:50,642
+Dígame dónde está la mujer.
+
+705
+01:21:51,601 --> 01:21:56,063
+A cambio, lo dejaré vivir.
+
+706
+01:21:58,649 --> 01:22:02,777
+¿Qué sucede?
+Es una oferta generosa.
+
+707
+01:22:03,236 --> 01:22:05,780
+No la rechazará, ¿verdad?
+
+708
+01:22:06,948 --> 01:22:08,282
+¡No hablaré!
+
+709
+01:22:08,866 --> 01:22:10,992
+¿Qué?
+
+710
+01:22:14,412 --> 01:22:17,748
+- ¡No lo mate!
+- No se preocupe.
+
+711
+01:22:17,998 --> 01:22:20,793
+Kannuki, enséñale una lección.
+
+712
+01:22:31,594 --> 01:22:34,346
+¿Qué dices?
+¿Piensas hablar?
+
+713
+01:22:34,513 --> 01:22:37,057
+¡No, maldito tonto!
+
+714
+01:22:50,861 --> 01:22:53,280
+¡No lo mate!
+
+715
+01:22:55,574 --> 01:22:59,285
+No manches de sangre ese baúl.
+
+716
+01:25:27,709 --> 01:25:31,003
+Gracias a él,
+tendremos que dormir aquí.
+
+717
+01:25:31,170 --> 01:25:34,256
+Le daré otra paliza,
+me está fastidiando.
+
+718
+01:25:41,596 --> 01:25:44,682
+Estoy seguro de que cerré la puerta.
+
+719
+01:25:45,099 --> 01:25:46,934
+¡El maldito se ha escapado!
+
+720
+01:25:47,059 --> 01:25:49,478
+¿Qué? ¡No me asustes!
+
+721
+01:25:56,484 --> 01:25:59,278
+¡Hermano, no es gracioso!
+
+722
+01:27:45,622 --> 01:27:46,832
+¡Idiotas!
+
+723
+01:27:47,082 --> 01:27:50,459
+¡No tiene sentido buscar donde hay luz!
+¡Busquen dónde está oscuro!
+
+724
+01:29:20,081 --> 01:29:23,751
+¡Viejo, abra!
+
+725
+01:29:23,917 --> 01:29:25,794
+Soy yo.
+
+726
+01:29:39,181 --> 01:29:43,935
+Sé que luzco espeluznante,
+¿pero podría mirarme después?
+
+727
+01:30:07,248 --> 01:30:11,126
+¿No se lo advertí?
+Es demasiado imprudente.
+
+728
+01:30:11,292 --> 01:30:14,629
+¡Ahórrese sus palabras!
+¡Vendrán enseguida!
+
+729
+01:30:17,924 --> 01:30:21,385
+Dígales que fui a la casa de Seibê.
+
+730
+01:30:37,607 --> 01:30:41,361
+¿Ese samurái de pacotilla vino aquí?
+¡Mienta y se arrepentirá!
+
+731
+01:30:41,528 --> 01:30:44,613
+Vino, pero se fue a la casa de Seibê.
+
+732
+01:30:45,156 --> 01:30:49,619
+No le creas a este viejo tonto.
+Es su cómplice.
+
+733
+01:30:49,744 --> 01:30:53,288
+Pero Seibê lo escondería con gusto
+para averiguar dónde esta esa zorra.
+
+734
+01:30:53,455 --> 01:30:55,373
+Sí que es un granuja.
+
+735
+01:30:55,540 --> 01:30:57,959
+No se quedaría quieto
+aunque le cortaran la cabeza.
+
+736
+01:30:58,084 --> 01:31:01,046
+De acuerdo.
+¡Matemos a toda la pandilla de Seibê!
+
+737
+01:31:01,212 --> 01:31:03,839
+Solo me aguanté por la mujer.
+
+738
+01:31:04,006 --> 01:31:07,468
+Junten paja y saquémoslo con humo.
+
+739
+01:31:08,010 --> 01:31:11,429
+¿Sacarlos como mapaches y matarlos?
+¡Qué divertido!
+
+740
+01:31:41,832 --> 01:31:44,375
+Incorpórese.
+
+741
+01:31:45,376 --> 01:31:48,546
+¿Qué hará ahora?
+
+742
+01:31:48,713 --> 01:31:51,673
+Iré al lado y compraré un ataúd.
+
+743
+01:31:52,507 --> 01:31:55,468
+¿Cómo puede rendirse así?
+
+744
+01:31:55,635 --> 01:31:57,262
+¡Idiota!
+
+745
+01:31:58,430 --> 01:32:00,472
+Aún no he muerto.
+
+746
+01:32:00,639 --> 01:32:03,183
+Hay un montón de hombres
+que debo matar antes.
+
+747
+01:32:31,334 --> 01:32:32,751
+¿Es seguro?
+
+748
+01:32:32,918 --> 01:32:35,128
+¿Y si los hombres de Ushitora
+nos revisan?
+
+749
+01:32:35,253 --> 01:32:38,340
+Están muy ocupados.
+Mira.
+
+750
+01:32:38,507 --> 01:32:40,092
+<i>¿Qué hace Ushitora?</i>
+
+751
+01:32:40,217 --> 01:32:44,095
+Sacando a Seibê y a sus hombres
+con humo.
+
+752
+01:32:44,261 --> 01:32:47,974
+<i>Suena interesante.
+Bájenme. Quiero ver.</i>
+
+753
+01:32:48,140 --> 01:32:51,268
+- ¡Es una locura!
+- <i>¡Bájenme!</i>
+
+754
+01:32:58,524 --> 01:33:02,111
+<i>No puedo ver desde aquí.
+Vamos para allá.</i>
+
+755
+01:34:14,299 --> 01:34:16,426
+¡Uno, soy yo! ¡No dispares!
+
+756
+01:34:19,304 --> 01:34:21,264
+¡Idiota! ¡No dejes tu puesto!
+
+757
+01:34:21,431 --> 01:34:23,516
+Kannuki está vigilando
+la parte de atrás.
+
+758
+01:34:23,683 --> 01:34:29,396
+Escucha, maté a esos dos
+que mataron a tres de los nuestros.
+
+759
+01:34:29,563 --> 01:34:32,482
+¿Viniste para decirme eso?
+¡Vuelve allí!
+
+760
+01:34:46,745 --> 01:34:48,622
+¡No te escaparás!
+
+761
+01:34:48,788 --> 01:34:51,541
+¡Ven aquí, perra codiciosa!
+
+762
+01:34:51,708 --> 01:34:53,335
+¿Dónde están Seibê y Yoichiro?
+
+763
+01:34:53,501 --> 01:34:55,961
+- ¡No lo sé!
+- ¡Dínoslo o te mataremos!
+
+764
+01:35:02,175 --> 01:35:04,219
+¡Madre!
+
+765
+01:35:09,974 --> 01:35:14,144
+¡Seibê, sal!
+¡Yoichiro pide piedad!
+
+766
+01:35:15,938 --> 01:35:17,272
+¡Seibê!
+
+767
+01:35:17,439 --> 01:35:22,110
+<i>¡Tú ganas! ¡Estoy saliendo!
+¡No mates a mi hijo ni a mí!</i>
+
+768
+01:35:22,276 --> 01:35:24,028
+¡Bien!
+
+769
+01:35:29,032 --> 01:35:32,953
+¡Todo mi territorio es tuyo!
+
+770
+01:35:33,120 --> 01:35:35,372
+¡Puedes asumir!
+
+771
+01:35:42,086 --> 01:35:44,587
+¡Sucia escoria!
+
+772
+01:36:00,685 --> 01:36:02,854
+Solo queda el samurái.
+
+773
+01:36:03,021 --> 01:36:04,397
+¿Dónde está?
+
+774
+01:36:04,564 --> 01:36:07,817
+- No hay nadie allí.
+- ¡No puede ser!
+
+775
+01:36:08,817 --> 01:36:12,446
+- Véalo usted mismo.
+- No puede desaparecer.
+
+776
+01:36:12,613 --> 01:36:16,241
+Está herido.
+No puede llegar lejos.
+
+777
+01:36:19,410 --> 01:36:23,247
+Viejo, en marcha.
+
+778
+01:36:27,084 --> 01:36:28,543
+¡Maldito!
+
+779
+01:36:28,710 --> 01:36:30,796
+¡El carpintero huyó!
+
+780
+01:36:30,921 --> 01:36:33,964
+Eso es un problema.
+¿No hay nadie cerca?
+
+781
+01:36:35,925 --> 01:36:38,594
+Se pone peor.
+
+782
+01:36:38,761 --> 01:36:41,305
+¡Inokichi viene hacia aquí!
+
+783
+01:36:41,430 --> 01:36:44,265
+No tenemos opción.
+Pídale que lo ayude.
+
+784
+01:36:44,391 --> 01:36:47,727
+- Pero--
+- ¡Inténtelo!
+
+785
+01:36:51,605 --> 01:36:54,525
+- Por las dudas.
+- Gracias.
+
+786
+01:37:09,079 --> 01:37:11,123
+¿Qué hace?
+
+787
+01:37:11,290 --> 01:37:13,959
+El carpintero y yo
+íbamos a enterrar este cuerpo...
+
+788
+01:37:14,126 --> 01:37:16,544
+...pero el maldito se asustó y huyó.
+
+789
+01:37:16,711 --> 01:37:18,629
+¿Puedes darme una mano?
+
+790
+01:37:18,796 --> 01:37:21,299
+¿Bromea? ¡Claro que no!
+
+791
+01:37:22,258 --> 01:37:25,969
+- ¿Le temes a los muertos?
+- ¿Qué dijo?
+
+792
+01:37:26,136 --> 01:37:28,263
+Hablas mucho,
+pero se te ve el miedo en el rostro.
+
+793
+01:37:28,430 --> 01:37:31,349
+¿Qué? ¡Yo no le temo a nada!
+
+794
+01:37:31,516 --> 01:37:33,434
+Entonces apúrate y ayúdame.
+
+795
+01:37:33,601 --> 01:37:35,311
+No podría ser más fácil.
+
+796
+01:37:35,478 --> 01:37:40,024
+¿Estás seguro? Vamos al cementerio.
+Vi fantasmas allí hace un tiempo.
+
+797
+01:37:40,190 --> 01:37:42,025
+¿Fantasmas?
+
+798
+01:37:42,192 --> 01:37:44,194
+¡Veo fantasmas y me relajo!
+
+799
+01:37:44,361 --> 01:37:46,821
+Bueno. Entonces vamos.
+
+800
+01:38:03,753 --> 01:38:07,130
+- ¿Aquí está bien?
+- Sí. Gracias.
+
+801
+01:38:12,135 --> 01:38:14,595
+¿Dónde están los fantasmas?
+
+802
+01:38:14,720 --> 01:38:17,974
+Solo se le aparecen
+a las personas miedosas como yo...
+
+803
+01:38:18,224 --> 01:38:20,226
+...no a los valientes como tú.
+
+804
+01:38:21,893 --> 01:38:26,815
+Me siento mal dejándolo solo aquí.
+Le ayudaré a enterrarlo.
+
+805
+01:38:26,982 --> 01:38:30,693
+No te preocupes.
+¿No estabas buscando a alguien?
+
+806
+01:38:30,860 --> 01:38:33,738
+¡Es verdad!
+¡Mi hermano me matará!
+
+807
+01:38:52,129 --> 01:38:54,006
+¿Está bien?
+
+808
+01:38:54,882 --> 01:38:56,799
+Eso fue muy divertido.
+
+809
+01:38:56,925 --> 01:39:01,930
+¿Puede caminar?
+Hay un pequeño templo aquí cerca.
+
+810
+01:39:02,430 --> 01:39:04,139
+Puedo caminar.
+
+811
+01:39:13,773 --> 01:39:16,943
+No parece uno de los vivos.
+
+812
+01:39:19,945 --> 01:39:23,365
+Volveré a la vida
+luego de que duerma unos días.
+
+813
+01:39:25,826 --> 01:39:28,369
+Luce aun peor cuando sonríe.
+
+814
+01:40:14,452 --> 01:40:16,537
+Está atrasado, viejo.
+
+815
+01:40:16,662 --> 01:40:18,705
+Tengo hambre.
+
+816
+01:40:19,372 --> 01:40:22,584
+¡Soy yo!
+¡Gonji está en problemas!
+
+817
+01:40:25,128 --> 01:40:26,171
+¿Qué sucedió?
+
+818
+01:40:26,338 --> 01:40:28,255
+¡Lo atraparon
+cuando venía para aquí!
+
+819
+01:40:28,422 --> 01:40:31,926
+¡El arroz y el ungüento que le traía
+lo delataron!
+
+820
+01:40:33,928 --> 01:40:35,678
+¿Adónde lo llevaron?
+
+821
+01:40:35,845 --> 01:40:39,516
+A la casa de Seibê.
+Ushitora se mudó allí.
+
+822
+01:40:41,601 --> 01:40:44,228
+¿Planea luchar con eso?
+
+823
+01:40:44,395 --> 01:40:46,814
+- ¡Haré <i>sashimi</i> con ellos!
+- Espere.
+
+824
+01:40:48,273 --> 01:40:52,402
+Use esto.
+Ser carpintero tiene sus ventajas.
+
+825
+01:40:52,568 --> 01:40:57,031
+Está mal usar la espada de un muerto,
+pero es lo mejor que pude conseguir.
+
+826
+01:42:40,581 --> 01:42:45,961
+Huya mientras él lucha
+contra Ushitora y sus hombres.
+
+827
+01:42:47,087 --> 01:42:51,132
+¿Le dijiste que me atraparon?
+¡Estúpido entrometido!
+
+828
+01:42:51,299 --> 01:42:53,092
+¡Rápido!
+
+829
+01:43:45,973 --> 01:43:47,932
+¡No se acerque más!
+
+830
+01:44:15,832 --> 01:44:17,667
+¡Mamá!
+
+831
+01:44:17,918 --> 01:44:20,669
+Los niños no deberían
+jugar con espadas.
+
+832
+01:44:21,337 --> 01:44:25,049
+Ve a tu casa con tu madre
+y vive una larga vida comiendo gachas.
+
+833
+01:44:33,390 --> 01:44:36,475
+Es un buen hombre.
+
+834
+01:44:41,063 --> 01:44:44,691
+Tengo que pedirle un favor.
+
+835
+01:44:45,400 --> 01:44:46,901
+¿Qué?
+
+836
+01:44:57,286 --> 01:45:01,080
+Sin mi pistola...
+
+837
+01:45:04,166 --> 01:45:06,502
+...me siento desnudo.
+
+838
+01:45:07,545 --> 01:45:13,216
+No puedo morir sin ella.
+
+839
+01:45:16,261 --> 01:45:17,803
+Por favor...
+
+840
+01:45:18,846 --> 01:45:21,348
+...déjeme sostenerla.
+
+841
+01:45:48,623 --> 01:45:50,541
+No se preocupe.
+
+842
+01:45:51,333 --> 01:45:53,794
+Disparé dos veces.
+
+843
+01:45:54,127 --> 01:45:56,797
+No tiene más balas.
+
+844
+01:46:02,593 --> 01:46:04,470
+¡Gracias!
+
+845
+01:46:28,283 --> 01:46:30,201
+¡No puedo!
+
+846
+01:46:30,452 --> 01:46:32,953
+Todo se oscurece.
+
+847
+01:46:34,538 --> 01:46:36,123
+¡Maldición!
+
+848
+01:47:34,174 --> 01:47:39,095
+¿Quién golpea el tambor para orar?
+
+849
+01:47:41,889 --> 01:47:46,519
+No preciso oraciones.
+
+850
+01:48:47,614 --> 01:48:49,366
+¡Oiga!
+
+851
+01:48:50,492 --> 01:48:53,537
+Samurái de pacotilla.
+¿Está allí?
+
+852
+01:48:54,996 --> 01:48:56,664
+Estoy aquí.
+
+853
+01:49:01,877 --> 01:49:06,423
+Lo estaré esperando...
+
+854
+01:49:10,259 --> 01:49:12,761
+...en las puertas del infierno.
+
+855
+01:49:16,223 --> 01:49:18,058
+Mírenlo.
+
+856
+01:49:19,642 --> 01:49:23,563
+Murió de forma tan imprudente
+como vivió.
+
+857
+01:49:30,068 --> 01:49:31,069
+¡Hansuke!
+
+858
+01:49:34,656 --> 01:49:36,115
+¿Qué sucede?
+
+859
+01:49:36,282 --> 01:49:37,784
+Ve a ahorcarte.
+
+860
+01:49:49,169 --> 01:49:53,631
+Ahora este pueblo se calmará.
+
+861
+01:49:55,967 --> 01:49:57,707
+Viejo.
+
+862
+01:50:08,853 --> 01:50:10,386
+Adiós.
+
+863
+01:50:17,265 --> 01:50:18,507
+FIN
+
+864
+01:50:18,673 --> 01:50:24,640
+Subtítulos por aRGENTeaM
+www.argenteam.net

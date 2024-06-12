@@ -1,0 +1,1615 @@
+﻿1
+00:00:09,641 --> 00:00:15,001
+<i>Ciudad Gótica, como toda gran metrópolis,
+tiene abundancia de pintorescas tiendas ...</i>
+
+2
+00:00:15,201 --> 00:00:16,881
+<i>... de tiendas únicas. </i>
+
+3
+00:00:17,081 --> 00:00:22,721
+<i>¿Y que podría ser más bizarro que el
+emporio Boutique de Cajas de Bon Bon? </i>
+
+4
+00:00:22,921 --> 00:00:26,361
+<i>Abierto temprano en
+esta soleada mañana ...</i>
+
+5
+00:00:26,561 --> 00:00:31,801
+<i>... casi como esperando algunos
+clientes igualmente bizarros. </i>
+
+6
+00:00:33,441 --> 00:00:35,761
+Bien, buenos días, caballeros.
+
+7
+00:00:35,961 --> 00:00:39,160
+¿Precisan algo en cajas vacías?
+
+8
+00:00:39,361 --> 00:00:41,920
+Estamos buscando algunas
+cajas de sombreros vacías.
+
+9
+00:00:41,921 --> 00:00:44,001
+Un montón de cajas
+de sombreros vacías.
+
+10
+00:00:44,201 --> 00:00:47,041
+Bueno, realmente ha
+venido al lugar correcto.
+
+11
+00:00:47,241 --> 00:00:52,600
+Tengo una colección de cajas de sombrero
+vacías incomparable en toda Ciudad Gótica.
+
+12
+00:00:52,801 --> 00:00:55,721
+Bueno, 700 de estas estarían bien.
+
+13
+00:00:56,721 --> 00:00:59,800
+- ¿Quiere que se las entregue?
+- Nos las llevaremos nosotros.
+
+14
+00:00:59,801 --> 00:01:02,041
+¿Setecientas cajas de sombreros?
+
+15
+00:01:02,441 --> 00:01:03,721
+Nosotros somos tres.
+
+16
+00:01:04,601 --> 00:01:06,121
+¿Efectivo o tarjeta?
+
+17
+00:01:06,320 --> 00:01:08,161
+Eso no me concierne, madam ...
+
+18
+00:01:08,361 --> 00:01:12,161
+... ya que no tengo intención de
+pagar por ellas de ninguna manera.
+
+19
+00:01:13,641 --> 00:01:14,841
+Oh.
+
+20
+00:01:20,001 --> 00:01:24,241
+<i>Mientras tanto detrás de los cercos
+de boj y las persianas plegables ...</i>
+
+21
+00:01:24,441 --> 00:01:26,641
+<i>... de la majestuosa
+Mansión Wayne ...</i>
+
+22
+00:01:26,841 --> 00:01:28,761
+Y así, profesor Overbeck ...
+
+23
+00:01:28,961 --> 00:01:32,040
+... como jefe de la Fundación Wayne,
+es para mí un gran placer ...
+
+24
+00:01:32,041 --> 00:01:33,880
+... entregarle este cheque ...
+
+25
+00:01:34,081 --> 00:01:37,201
+... que, de alguna manera, pueda
+ayudarlo con su buen trabajo ...
+
+26
+00:01:37,401 --> 00:01:40,761
+...en los Laboratorios de Energía
+Atómica de Ciudad Gótica.
+
+27
+00:01:40,961 --> 00:01:47,081
+¡Oh! Sr. Wayne, es un gran
+placer aceptar esto. Je.
+
+28
+00:01:48,241 --> 00:01:50,161
+El Batifono, señor.
+
+29
+00:01:50,361 --> 00:01:53,161
+- Gracias, Alfred. Necesito tu ayuda, Dick.
+- Claro, Bruce.
+
+30
+00:01:53,360 --> 00:01:56,480
+Ahora, si me disculpa, profesor,
+tengo algunos otros asuntos ...
+
+31
+00:01:56,481 --> 00:01:58,521
+... conectados con la fundación.
+
+32
+00:01:58,721 --> 00:02:00,080
+Pero por supuesto, Sr. Wayne.
+
+33
+00:02:00,080 --> 00:02:02,600
+Me gustaría estar un momento
+con esta encantadora dama ...
+
+34
+00:02:02,601 --> 00:02:05,001
+... para agradecerle
+el delicioso almuerzo.
+
+35
+00:02:05,201 --> 00:02:07,680
+Usted sabe, Sra. Cooper,
+que lo digo en serio.
+
+36
+00:02:07,681 --> 00:02:10,321
+Tiene cierta habilidad
+con el strudel.
+
+37
+00:02:10,521 --> 00:02:14,480
+¿Se robaron 700 cajas de sombrero
+de la Boutique de Cajas de Bon Bon?
+
+38
+00:02:14,681 --> 00:02:17,640
+Hay pocas dudas sobre la
+identidad del culpable, Batman.
+
+39
+00:02:17,640 --> 00:02:21,720
+El Alcaide Crichton me dijo que los convictos
+disfrutaron de un partido de softbol ...
+
+40
+00:02:21,721 --> 00:02:25,521
+... y el Sombrerero Loco anotó y se
+quedó con la gorra del Alcaide Crichton.
+
+41
+00:02:25,720 --> 00:02:27,440
+El alcaide era el árbitro.
+
+42
+00:02:27,441 --> 00:02:29,640
+Cálmese, comisionado.
+Vamos para allá.
+
+43
+00:02:29,641 --> 00:02:31,360
+A los Batitubos.
+
+44
+00:03:24,760 --> 00:03:29,560
+"LA
+CAPUCHA
+CONTAMINADA"
+
+45
+00:03:31,441 --> 00:03:32,960
+Baterías atómicas
+a todo poder.
+
+46
+00:03:32,961 --> 00:03:34,160
+Turbinas acelerando.
+
+47
+00:03:34,160 --> 00:03:36,241
+De acuerdo. Listos para salir.
+
+48
+00:04:09,640 --> 00:04:11,561
+CUARTEL GENERAL DE POLICÍA
+DE CIUDAD GÓTICA
+
+49
+00:04:11,561 --> 00:04:15,520
+Así que yo diría sigue el viejo
+patrón familiar del Sombrerero Loco.
+
+50
+00:04:15,521 --> 00:04:18,160
+- Pero no ha robado ningún sombrero.
+- Un sombrero, Robin.
+
+51
+00:04:18,161 --> 00:04:20,680
+O más bien una gorra
+al Alcaide Crichton ...
+
+52
+00:04:20,680 --> 00:04:22,801
+... junto con la última
+base en la prisión.
+
+53
+00:04:23,000 --> 00:04:26,800
+Que encontraremos entre el diamante de
+béisbol de la prisión y las canchas de tenis.
+
+54
+00:04:26,801 --> 00:04:28,001
+A veces me pregunto ...
+
+55
+00:04:28,200 --> 00:04:31,880
+... si el programa de rehabilitación del
+alcaide no se está yendo de las manos.
+
+56
+00:04:31,881 --> 00:04:34,520
+Y, por supuesto están
+las 700 cajas de sombreros ...
+
+57
+00:04:34,520 --> 00:04:37,720
+...junto con el ataque sobre la
+propiedad de la Boutique de Cajas.
+
+58
+00:04:37,721 --> 00:04:40,321
+Claro, y eso es al menos
+todo un pequeño hurto.
+
+59
+00:04:40,521 --> 00:04:43,041
+Eso se suma a serios problemas,
+Jefe O'Hara.
+
+60
+00:04:43,241 --> 00:04:45,080
+¿Quién sabe qué
+desastre se avecina ...
+
+61
+00:04:45,080 --> 00:04:49,281
+... cuando un hombre como el Sombrerero
+Loco está suelto en Ciudad Gótica?
+
+62
+00:04:49,480 --> 00:04:52,760
+¿Y quién sabe lo que
+te deparará a ti, Batman?
+
+63
+00:04:52,961 --> 00:04:57,521
+No se detendría ante nada para añadir esa
+capucha a su horrible horda de trofeos.
+
+64
+00:04:57,721 --> 00:05:00,601
+La pérdida de mi capucha
+es secundaria, comisionado.
+
+65
+00:05:00,801 --> 00:05:02,920
+Pero no el destino
+de Ciudad Gótica.
+
+66
+00:05:03,121 --> 00:05:05,480
+Cierto. Ese monstruo debe
+ser detenido de inmediato.
+
+67
+00:05:05,481 --> 00:05:08,720
+¿Por dónde empezamos, Batman? ¿El
+estadio de la prisión o la tienda de cajas?
+
+68
+00:05:08,721 --> 00:05:12,201
+Eso ya lo hizo, Robin.
+Debemos anticipar su próximo movimiento.
+
+69
+00:05:12,401 --> 00:05:16,241
+Y creo que la Baticueva es el lugar para eso.
+Discúlpenos, por favor.
+
+70
+00:05:20,081 --> 00:05:23,840
+Mirando hacia atrás, Jefe O'Hara,
+es difícil recordar cómo operabamos ...
+
+71
+00:05:23,841 --> 00:05:27,760
+... antes que esos dos samaritanos
+enmascarados aparecieran en la escena.
+
+72
+00:05:27,761 --> 00:05:30,200
+No es difícil para mí recordar,
+comisionado.
+
+73
+00:05:30,401 --> 00:05:31,780
+Las cosas eran un desastre.
+
+74
+00:05:33,200 --> 00:05:38,041
+<i>Samaritanos enmascarados o no, las
+cosas pueden ponerse aún peores ...</i>
+
+75
+00:05:38,241 --> 00:05:42,240
+<i>... a juzgar por lo que está pasando en el
+escondite actual del Sombrerero Loco ...</i>
+
+76
+00:05:42,241 --> 00:05:45,081
+<i>... en el desaparecido
+restaurante Bombín Verde. </i>
+
+77
+00:05:45,280 --> 00:05:51,521
+Guardar estos sombreros,
+es como perder viejos amigos, Polly.
+
+78
+00:05:51,801 --> 00:05:54,721
+Toma este chacó,
+por ejemplo. ¡Jo-jo!
+
+79
+00:05:54,921 --> 00:05:59,041
+Qué sorprendido estaba
+el guardia cuando se lo quité ...
+
+80
+00:05:59,241 --> 00:06:02,680
+... durante el momento que estaba
+desfilando con la bandera real.
+
+81
+00:06:02,680 --> 00:06:04,561
+¿No fue arriesgado, Jervis?
+
+82
+00:06:04,760 --> 00:06:06,081
+Un poco difícil.
+
+83
+00:06:06,280 --> 00:06:09,321
+Especialmente cuando el rey
+ordenó mi ejecución.
+
+84
+00:06:09,521 --> 00:06:11,401
+Pero escapé.
+
+85
+00:06:11,600 --> 00:06:13,721
+Con esta soga.
+
+86
+00:06:13,921 --> 00:06:18,281
+Casi un sombrero, pero a su
+manera, una especie de tocado.
+
+87
+00:06:20,361 --> 00:06:23,680
+Ajá. Y el sultán de Shargreve ...
+
+88
+00:06:23,881 --> 00:06:28,561
+... lo sorprendido que estaba cuando
+le quité esto durante una cacería de tigres.
+
+89
+00:06:28,760 --> 00:06:31,440
+Ciertamente buscabas
+problemas esa vez, Jervis.
+
+90
+00:06:31,441 --> 00:06:33,040
+Una soupçon.(Una sospecha)
+
+91
+00:06:33,241 --> 00:06:37,200
+Lo que me intriga, Jervis, es por que estás
+guardando todos estos sombreros robados.
+
+92
+00:06:37,201 --> 00:06:40,601
+Los tiempos cambian, Polly,
+y la gente con ellos.
+
+93
+00:06:40,801 --> 00:06:43,840
+He perdido la fascinación
+por robar sombreros.
+
+94
+00:06:44,161 --> 00:06:46,040
+¿Quieres decir que
+te estás enderezando?
+
+95
+00:06:46,040 --> 00:06:48,800
+Difícilmente.
+¿Crees que se me voló la tapa?
+
+96
+00:06:49,001 --> 00:06:51,120
+Esta fase de mi
+carrera no terminará ...
+
+97
+00:06:51,321 --> 00:06:55,721
+... hasta que la capucha del Cruzado
+Encapotado esté a salvo bajo mi custodia.
+
+98
+00:06:56,320 --> 00:06:57,960
+Oh, caramba, Jervis.
+
+99
+00:06:58,161 --> 00:06:59,801
+Me preocupaste por un minuto.
+
+100
+00:07:00,001 --> 00:07:03,000
+Quiero decir, una chica de guardería de 
+sombreros sin sombreros que guardar es ...
+
+101
+00:07:03,001 --> 00:07:07,801
+Y después de eso voy a cambiar mis
+tácticas y usar sombreros para robar.
+
+102
+00:07:08,000 --> 00:07:10,081
+¿Sombreros para robar?
+
+103
+00:07:10,521 --> 00:07:11,920
+Estoy confundida de nuevo.
+
+104
+00:07:11,921 --> 00:07:15,960
+Bueno, es un plan que se entiende mejor
+mientras se desarrolla, Polly ...
+
+105
+00:07:16,161 --> 00:07:18,800
+... que involucra al Baile de Sombreros
+de esta noche ...
+
+106
+00:07:18,800 --> 00:07:22,960
+... en el que tú estarás a cargo
+de la guardería de sombreros ...
+
+107
+00:07:23,161 --> 00:07:26,520
+... más el Pachá de Tres Colas
+de Panchagorum ...
+
+108
+00:07:27,080 --> 00:07:32,601
+... más esta pistola de plástico
+lleno de aerosol radiactivo ...
+
+109
+00:07:33,360 --> 00:07:38,840
+... más el Buda de Oro de Bergama
+y el rubí de valor incalculable en su frente ...
+
+110
+00:07:39,041 --> 00:07:40,760
+... y finalmente ...
+
+111
+00:07:40,961 --> 00:07:44,720
+... más el tanque de agua elevado
+en la parte trasera de esta propiedad.
+
+112
+00:07:45,280 --> 00:07:48,960
+Bajando la escalera la cual Benny
+y Skimmer ahora lo están haciendo.
+
+113
+00:07:48,961 --> 00:07:51,680
+¿Qué demonios están haciendo
+en el tanque de agua?
+
+114
+00:07:51,681 --> 00:07:55,761
+Preparando una tumba acuosa,
+elevada por supuesto ...
+
+115
+00:07:55,960 --> 00:07:58,440
+... para el Cruzado Encapotado.
+
+116
+00:07:58,880 --> 00:08:04,041
+Si no pienso en un medio más complicado
+de deshacerme de Batman primero.
+
+117
+00:08:09,160 --> 00:08:10,441
+"Sombrero.
+
+118
+00:08:10,640 --> 00:08:12,160
+Pamela.
+
+119
+00:08:12,361 --> 00:08:13,960
+Salacot.
+
+120
+00:08:14,161 --> 00:08:16,241
+Boina escocesa.
+
+121
+00:08:16,440 --> 00:08:18,040
+Casquete.
+
+122
+00:08:18,240 --> 00:08:19,681
+Redecilla."
+
+123
+00:08:19,880 --> 00:08:23,080
+No veo cómo anticipar el próximo
+movimiento del Sombrerero Loco ...
+
+124
+00:08:23,081 --> 00:08:26,440
+... sólo consiguiendo un montón de
+tarjetas de la Baticomputadora, Batman.
+
+125
+00:08:26,440 --> 00:08:29,320
+Estás en lo cierto, Robin.
+Sin duda, incluso esa maravilla mecánica ...
+
+126
+00:08:29,320 --> 00:08:32,561
+... siente el estrés y la tensión
+de la lucha contra el crimen ...
+
+127
+00:08:32,760 --> 00:08:37,280
+... y ha elegido este momento
+particular para decepcionarse.
+
+128
+00:08:37,481 --> 00:08:42,480
+Tal vez si activo
+el Interruptor de Concentración Acelerada.
+
+129
+00:08:53,361 --> 00:08:56,961
+Santa manualidad, Batman.
+Una nueva ofensiva por completo.
+
+130
+00:08:57,160 --> 00:08:58,400
+"El Salón del
+Sombrero de Copa.
+
+131
+00:08:58,400 --> 00:08:59,600
+El Baile del Tocado.
+
+132
+00:08:59,800 --> 00:09:01,240
+Hattie Hatfield."
+
+133
+00:09:01,440 --> 00:09:04,761
+Por supuesto. Debería haber hecho
+la conexión yo mismo, Robin.
+
+134
+00:09:04,960 --> 00:09:08,160
+Quizás yo también me
+he vuelto negligente.
+
+135
+00:09:08,361 --> 00:09:10,440
+Bueno, ¿cuál es la conexión?
+
+136
+00:09:10,640 --> 00:09:15,800
+El Baile Anual Caritativo del Tocado
+de Ciudad Gótica se celebra esta noche...
+
+137
+00:09:16,001 --> 00:09:19,240
+...en la Torre Gótica Oeste
+en el Salón Sombrero de Copa
+
+138
+00:09:19,441 --> 00:09:21,840
+Y Hattie Hatfield ...
+
+139
+00:09:22,041 --> 00:09:26,680
+... uh, la gran dama actual de
+Ciudad Gótica de la sociedad local ...
+
+140
+00:09:26,881 --> 00:09:29,201
+... está a la cabeza del evento.
+
+141
+00:09:29,400 --> 00:09:31,840
+¿No es ella la dueña
+del famoso rubí Hatfield?
+
+142
+00:09:31,840 --> 00:09:36,201
+Correcto, Robin. Y como recuerdo haber leído
+en la columna de chismes de la mañana ...
+
+143
+00:09:36,400 --> 00:09:43,080
+... el magnífico tocado de esta noche de la
+Sra. Hatfield se llevará a cabo en el lugar ...
+
+144
+00:09:43,280 --> 00:09:44,801
+... con ese rubí.
+
+145
+00:09:45,000 --> 00:09:47,200
+Oh, eso debería atraer a el
+Sombrerero Loco como un imán.
+
+146
+00:09:47,200 --> 00:09:48,400
+Sin duda, viejo compañero.
+
+147
+00:09:48,401 --> 00:09:51,760
+Así que como tenemos una
+de nuestras infrecuentes tardes libres ...
+
+148
+00:09:51,760 --> 00:09:55,840
+... creo que deberíamos revisar nuestros
+Batibúmeran y nuestras Baticuerdas.
+
+149
+00:09:56,040 --> 00:09:58,160
+Lo hicimos después
+de la última Batisubida.
+
+150
+00:09:58,160 --> 00:10:01,281
+Prevenido, prearmado, Robin.
+
+151
+00:10:01,480 --> 00:10:07,841
+Todas las paredes de la
+Torre Gótica Oeste son de vidrio puro.
+
+152
+00:10:13,400 --> 00:10:16,560
+<i>Pero incluso cuando el
+Baile del Tocado se pone en marcha ...</i>
+
+153
+00:10:16,761 --> 00:10:20,280
+<i>...qué noticias sorprendentes
+está recibiendo este gerente de hotel ...</i>
+
+154
+00:10:20,280 --> 00:10:22,920
+<i>... en el vestíbulo del
+Salón del Sombrero de Copa? </i>
+
+155
+00:10:23,120 --> 00:10:26,480
+¿El Pachá de los Tres Colas
+de Panchagorum?
+
+156
+00:10:26,680 --> 00:10:30,320
+Sí, está de incógnito
+en Ciudad Gótica.
+
+157
+00:10:30,520 --> 00:10:35,441
+Y me envió, como Primer Secretario
+del Consulado de Panchagorum ...
+
+158
+00:10:35,640 --> 00:10:40,720
+... para decirle que le encantaría entrar
+en el Baile del Tocado por unos momentos.
+
+159
+00:10:40,921 --> 00:10:42,841
+De incógnito, por supuesto.
+
+160
+00:10:44,201 --> 00:10:47,521
+<i>Para observar las costumbres
+populares y costumbres nativas. </i>
+
+161
+00:10:47,720 --> 00:10:49,561
+Pero es un hombre muy simple ...
+
+162
+00:10:49,760 --> 00:10:53,961
+...y confía en que no se
+sobrecargará la seguridad del hotel.
+
+163
+00:10:54,160 --> 00:10:56,920
+Oh, no, no. Asegúrele,
+señor, que no se hará.
+
+164
+00:10:57,121 --> 00:11:02,000
+No, para el Pachá de Tres Colas,
+seremos muy discretos. jeh.
+
+165
+00:11:06,640 --> 00:11:09,520
+<i>Permiso, permiso, permiso.</i>
+
+166
+00:11:11,040 --> 00:11:13,480
+Creo que será mejor que te avise, cariño.
+
+167
+00:11:13,880 --> 00:11:16,760
+El Pachá de Tres Colas de Panchagorum
+está a punto de caer ...
+
+168
+00:11:16,760 --> 00:11:18,880
+... a este pequeño asunto
+en cualquier momento.
+
+169
+00:11:18,880 --> 00:11:22,881
+¿Oh? entonces le daré un comprobante
+por el sombrero de tres colas.
+
+170
+00:11:24,440 --> 00:11:28,000
+No quiere que se sepa,
+pero mejor se lo digo a Hattie Hatfield.
+
+171
+00:11:32,040 --> 00:11:34,961
+- He oído que Jervis está subiendo.
+- Correcto.
+
+172
+00:11:35,160 --> 00:11:37,281
+¿Está todo listo, eh?
+
+173
+00:11:37,480 --> 00:11:40,880
+Skimmer y el resto de los chicos
+están en sus puestos.
+
+174
+00:11:49,160 --> 00:11:53,080
+¿El Pachá de Tres Colas
+de Panchagorum?
+
+175
+00:11:53,280 --> 00:11:55,840
+¿Has oído eso, Mabel?
+
+176
+00:11:56,040 --> 00:11:58,600
+<i>Pero mientras el paschá
+sube con el ascensor ...</i>
+
+177
+00:11:58,800 --> 00:12:04,200
+<i>... el dúo dinámico hace un ascenso no
+menos ortodoxo por la pared de vidrio. </i>
+
+178
+00:12:04,400 --> 00:12:07,440
+Parecía haber un asunto
+elegante en el piso 62, Batman.
+
+179
+00:12:07,640 --> 00:12:11,720
+Sólo muestra, Robin, que la gente que está en
+hoteles de cristal no deberían hacer fiestas.
+
+180
+00:12:11,721 --> 00:12:15,920
+Ojos al frente. Después de todo,
+no somos escaladores sociales.
+
+181
+00:12:16,680 --> 00:12:19,681
+<i>Mientras tanto de vuelta al
+ágape de almejas con clase ...</i>
+
+182
+00:12:19,880 --> 00:12:22,480
+¿Quiere guardar su sombrero
+de tres colas, señor?
+
+183
+00:12:22,480 --> 00:12:24,400
+Nunca dejo mi sombrero con nadie.
+
+184
+00:12:24,601 --> 00:12:26,560
+Mis borlas de tres colas ...
+
+185
+00:12:26,760 --> 00:12:30,560
+... son un símbolo de mi alto rango
+como comandante militar de Panchagorum.
+
+186
+00:12:30,560 --> 00:12:32,240
+Entonces quizás sus guantes.
+
+187
+00:12:32,240 --> 00:12:33,801
+Ni mis guantes, tampoco.
+
+188
+00:12:34,000 --> 00:12:38,321
+En este, tengo mi
+confiable atrapador de rubí.
+
+189
+00:12:38,640 --> 00:12:40,400
+Pero qué costumbre única.
+
+190
+00:12:40,600 --> 00:12:43,720
+Dejar prendas de vestir
+con una joven bonita en la puerta.
+
+191
+00:12:43,720 --> 00:12:47,680
+Tengo que poner en marcha esto
+en mis harenes de Panchagorum.
+
+192
+00:13:00,800 --> 00:13:04,400
+Soy Hattie Hatfield
+Su Excelencia de Tres Colas.
+
+193
+00:13:04,600 --> 00:13:05,920
+Entonces se corrió la voz.
+
+194
+00:13:05,920 --> 00:13:08,760
+Realmente quería estar de
+incógnito en esta pequeña visita.
+
+195
+00:13:08,761 --> 00:13:11,521
+- ¿Quién es ese?
+- El Sombrerero Loco, Robin. ¿Quién más?
+
+196
+00:13:11,720 --> 00:13:13,640
+¿Por qué tiene tres colas
+de caballo en su fez?
+
+197
+00:13:13,640 --> 00:13:16,680
+Obviamente un truco de algún tipo.
+
+198
+00:13:16,880 --> 00:13:19,520
+Vamos a colarnos y encontrar
+un mejor punto de vista.
+
+199
+00:13:19,520 --> 00:13:23,080
+Estoy seguro de que
+pasaremos desapercibidos.
+
+200
+00:13:31,520 --> 00:13:35,720
+En Panchagorum viajo desapercibido,
+y lo prefiero así.
+
+201
+00:13:35,921 --> 00:13:38,840
+Un hombre tan humilde.
+
+202
+00:13:39,520 --> 00:13:41,480
+Oh, amo tu sombrero.
+
+203
+00:13:42,000 --> 00:13:45,840
+Qué lugar único para
+llevar tus tres colas.
+
+204
+00:13:46,040 --> 00:13:48,340
+- Una concesión a los tiempos cambiantes.
+- Je.
+
+205
+00:13:49,000 --> 00:13:50,920
+¿Come algo?
+
+206
+00:13:53,000 --> 00:13:55,280
+Algo de champán
+para Su Pachá de Tres Colas.
+
+207
+00:13:55,480 --> 00:13:57,200
+Y un poco de caviar.
+
+208
+00:13:57,800 --> 00:14:00,320
+Él es tan encantador.
+Él es muy democrático.
+
+209
+00:14:00,920 --> 00:14:03,080
+Batman y Robin
+se esconden detrás de la mesa.
+
+210
+00:14:03,081 --> 00:14:04,520
+Sí, listos para la acción.
+
+211
+00:14:04,721 --> 00:14:06,320
+Y ellos la conseguirán.
+
+212
+00:14:06,520 --> 00:14:07,520
+No, gracias.
+
+213
+00:14:07,720 --> 00:14:10,840
+¿Quiere decir que no
+puedo interesarlo con nada?
+
+214
+00:14:11,041 --> 00:14:13,280
+Oh, yo no he dicho eso,
+querida dama.
+
+215
+00:14:13,480 --> 00:14:18,040
+Ese tocado suyo es muy interesante.
+Particularmente ese hermoso rubí.
+
+216
+00:14:20,440 --> 00:14:22,280
+- En sus marcas.
+- Comparado con esa ...
+
+217
+00:14:22,281 --> 00:14:26,520
+... las famosas piedras de Panchagorum
+están descoloridas y sin vida.
+
+218
+00:14:26,720 --> 00:14:28,360
+Pero en realidad no es nada.
+
+219
+00:14:28,560 --> 00:14:30,200
+Es una reliquia familiar.
+
+220
+00:14:30,400 --> 00:14:31,760
+Prepárate.
+
+221
+00:14:31,960 --> 00:14:33,200
+Pero qué brillantez.
+
+222
+00:14:33,520 --> 00:14:34,600
+Vamos.
+
+223
+00:14:36,280 --> 00:14:37,560
+Batman y Robin.
+
+224
+00:14:37,760 --> 00:14:39,360
+¿Qué están haciendo aquí?
+
+225
+00:14:39,561 --> 00:14:42,360
+El Pachá de Tres Colas
+es un impostor, Sra. Hatfield.
+
+226
+00:14:42,560 --> 00:14:46,760
+Si revisa su tocado,
+verá que su rubí se ha ido.
+
+227
+00:14:47,080 --> 00:14:48,600
+Se fue.
+
+228
+00:14:49,161 --> 00:14:50,200
+Atrás, ciudadanos.
+
+229
+00:15:56,800 --> 00:15:58,560
+Y ahora tú, Sombrerero Loco.
+
+230
+00:15:58,760 --> 00:16:02,760
+No hasta que arroje mi
+sombrero a la lona, Batman.
+
+231
+00:16:05,720 --> 00:16:07,240
+¡Santos fuegos artificiales!
+
+232
+00:16:10,120 --> 00:16:11,760
+Cuidado, Batman, gas soporífero.
+
+233
+00:16:11,960 --> 00:16:14,400
+No, Chico Maravilla,
+algo mucho más efectivo.
+
+234
+00:16:14,600 --> 00:16:16,600
+Aerosol radiactivo.
+
+235
+00:16:16,800 --> 00:16:19,680
+Prueba esto en tu capucha.
+
+236
+00:16:22,520 --> 00:16:24,160
+Demonio diabólico.
+
+237
+00:16:24,360 --> 00:16:28,640
+Ni un paso adelante, Chico Maravilla,
+o tú también tendrás lo tuyo.
+
+238
+00:16:28,840 --> 00:16:30,360
+No des ese paso, Robin.
+
+239
+00:16:36,120 --> 00:16:38,520
+Vaya, tú Tres Colas ...
+
+240
+00:16:45,800 --> 00:16:48,280
+Tu capucha, Batman.
+Se volvió rosa brillante.
+
+241
+00:16:48,280 --> 00:16:50,560
+Una forma de radiación
+virulenta, Robin.
+
+242
+00:16:50,560 --> 00:16:54,100
+Rápido. De vuelta a la Baticueva
+antes de que sea demasiado tarde.
+
+243
+00:17:13,120 --> 00:17:16,960
+Señor, todas sus otras capuchas están
+en la máquina de Batilimpieza en seco.
+
+244
+00:17:16,960 --> 00:17:18,480
+La he subido al máximo.
+
+245
+00:17:18,680 --> 00:17:22,320
+Pero aun así, me temo que no estarán
+listas por un par de horas más.
+
+246
+00:17:22,520 --> 00:17:23,760
+Santo autoservicio.
+
+247
+00:17:23,960 --> 00:17:26,640
+¿Qué hay de las nuevas capuchas
+en qué has estado trabajando, Alfred?
+
+248
+00:17:26,640 --> 00:17:30,560
+El material que pedí aún no ha llegado.
+Una tendencia de los tiempos, me temo, Sr.
+
+249
+00:17:30,560 --> 00:17:31,880
+Tenemos que hacer algo.
+
+250
+00:17:31,880 --> 00:17:35,040
+Sé un poco sobre la radiactividad
+y su efecto en el tejido humano.
+
+251
+00:17:35,040 --> 00:17:37,120
+Si te preocupas por mí,
+Robin, no lo hagas.
+
+252
+00:17:37,320 --> 00:17:42,640
+La Batipíldora antirradioactiva que tomé
+debería protegerme un poco más.
+
+253
+00:17:42,840 --> 00:17:45,760
+De mayor importancia es
+conseguir una capucha utilizable ...
+
+254
+00:17:45,760 --> 00:17:48,080
+... y usarla para detener
+al Sombrerero Loco.
+
+255
+00:17:48,680 --> 00:17:52,880
+Alfred, cambia la máquina de Batilimpieza
+en seco de máximo a súper instantáneo ...
+
+256
+00:17:53,079 --> 00:17:55,760
+... mientras Bruce Wayne
+hace una llamada telefónica.
+
+257
+00:17:55,760 --> 00:17:57,560
+- Muy bien señor.
+- ¿Bruce Wayne?
+
+258
+00:17:57,760 --> 00:18:02,520
+Sí, al Profesor Overbeck del Laboratorio
+de Energía Atómica de Ciudad Gótica.
+
+259
+00:18:03,120 --> 00:18:08,480
+Esta mañana el Sr. Wayne le entregó al
+Profesor Overbeck un cheque considerable ...
+
+260
+00:18:08,680 --> 00:18:09,960
+... por su buen trabajo.
+
+261
+00:18:10,160 --> 00:18:13,920
+Tal vez el buen profesor
+le gustaría devolver el favor ...
+
+262
+00:18:14,120 --> 00:18:18,760
+... haciendo algo para el
+amigo del Sr. Wayne, Batman.
+
+263
+00:18:24,640 --> 00:18:28,840
+LABORATORIO
+DE ENERGÍA ATÓMICA
+DE CIUDAD GÓTICA
+
+264
+00:18:28,840 --> 00:18:31,120
+Sí, Sr. Batman,
+el Sr. Wayne llamó.
+
+265
+00:18:31,320 --> 00:18:34,120
+Y estaré encantado de
+ayudarle en todo lo que pueda.
+
+266
+00:18:34,120 --> 00:18:35,360
+Pero esa capucha.
+
+267
+00:18:35,560 --> 00:18:37,790
+<i>Ach du lieber, esa capucha. </i>
+<i>(Oh, Dios, esa capucha)</i>
+
+268
+00:18:37,799 --> 00:18:42,520
+Sabe, no estoy seguro que el más avanzado
+proceso de descontaminación será de ayuda.
+
+269
+00:18:42,840 --> 00:18:44,560
+Sin embargo, lo intentaremos.
+
+270
+00:18:44,760 --> 00:18:48,120
+Haré que mi asistente le traiga
+un traje protector con capucha ...
+
+271
+00:18:48,120 --> 00:18:50,720
+... mientras espera aquí.
+Sólo un momento por favor.
+
+272
+00:18:54,760 --> 00:18:56,320
+Mantente alerta, Robin.
+
+273
+00:18:56,520 --> 00:18:59,440
+La noche tiene ojos y oídos.
+
+274
+00:19:00,400 --> 00:19:03,439
+Dios, Batman, eso me confunde.
+
+275
+00:19:04,320 --> 00:19:06,840
+No tuve tiempo de
+explicarte en el exterior ...
+
+276
+00:19:07,040 --> 00:19:10,040
+... pero nos estuvieron siguiendo
+al menos parte del camino.
+
+277
+00:19:10,040 --> 00:19:11,600
+¿El Sombrerero Loco?
+
+278
+00:19:11,799 --> 00:19:15,160
+Sin duda anticipando todos
+nuestros movimientos.
+
+279
+00:19:15,360 --> 00:19:18,320
+Y qué mejor ocasión para
+obtener mi capucha ...
+
+280
+00:19:18,519 --> 00:19:22,160
+... que en algún lugar que
+me la quite voluntariamente.
+
+281
+00:19:22,800 --> 00:19:26,040
+Puede que tenga
+una pequeña sorpresa.
+
+282
+00:19:26,240 --> 00:19:27,600
+Otto.
+
+283
+00:19:27,800 --> 00:19:29,079
+Otto.
+
+284
+00:19:29,280 --> 00:19:30,440
+Otto.
+
+285
+00:19:30,640 --> 00:19:31,680
+¿Si, profesor?
+
+286
+00:19:31,880 --> 00:19:33,840
+<i>¿Dónde has estado, Otto? </i>
+
+287
+00:19:34,040 --> 00:19:37,160
+<i>Mira, cuando llamo
+espero una respuesta. </i>
+
+288
+00:19:37,360 --> 00:19:39,880
+Estoy contestando, profesor.
+Estoy contestando
+
+289
+00:19:39,880 --> 00:19:42,799
+Ahora, mira, Otto, tengo
+aquí a Herr Batman conmigo ...
+
+290
+00:19:43,000 --> 00:19:46,440
+... con una capucha radioactiva
+<i>que debe descontaminarse. </i>
+
+291
+00:19:46,639 --> 00:19:50,720
+<i>Ahora, por favor tráeme un traje
+protector con capucha a la vez. </i>
+
+292
+00:19:50,920 --> 00:19:53,400
+Si, profesor, si.
+
+293
+00:19:57,680 --> 00:20:01,879
+Dame una mano con ese traje protector
+con capucha, y luego búscame otro.
+
+294
+00:20:03,120 --> 00:20:08,319
+Tan poco se sabe sobre esta
+radiactividad y sus agentes radiactivos.
+
+295
+00:20:08,520 --> 00:20:13,760
+Tan poco se sabe que sólo sabemos una
+cosa, que eventualmente son mortales.
+
+296
+00:20:14,079 --> 00:20:16,670
+Dios, Batman.
+Espero que la píldora siga funcionando.
+
+297
+00:20:16,679 --> 00:20:19,780
+Los efectos están empezando
+a desaparecer ligeramente.
+
+298
+00:20:20,040 --> 00:20:21,520
+Ah, aquí está.
+
+299
+00:20:24,040 --> 00:20:25,360
+Gracias. Gracias.
+
+300
+00:20:25,560 --> 00:20:29,430
+Ahora, Herr Batman, ¿podrías por favor
+sacarte tu capucha y colocarte esto?
+
+301
+00:20:29,439 --> 00:20:32,879
+Sí, y, oh, lo recuerdo,
+no quieres revelar tu identidad ...
+
+302
+00:20:33,080 --> 00:20:36,480
+... así que usa esto, por favor.
+
+303
+00:20:36,680 --> 00:20:39,480
+- ¿Necesitas ayuda, Batman?
+- No Robin.
+
+304
+00:20:39,680 --> 00:20:43,880
+Sólo recuerda, ojos y oídos.
+
+305
+00:20:47,160 --> 00:20:48,880
+Así que tu nombre es Otto.
+
+306
+00:20:49,080 --> 00:20:51,960
+Oh, discúlpame, Maravilla Chico.
+
+307
+00:20:52,160 --> 00:20:53,760
+Debería haberte presentado.
+
+308
+00:20:53,760 --> 00:20:57,080
+Sí, él es Otto.
+Otto Puffendorfer.
+
+309
+00:20:57,279 --> 00:21:01,160
+Verás, es mi asistente de confianza
+desde que tuve un pequeño laboratorio ...
+
+310
+00:21:01,360 --> 00:21:04,160
+... lejos en el viejo país.
+
+311
+00:21:04,360 --> 00:21:08,640
+- Aquí tiene, profesor.
+- Sí, sí ... Oh, no, no.
+
+312
+00:21:08,880 --> 00:21:10,360
+¿No?
+
+313
+00:21:10,560 --> 00:21:15,280
+Ah. Otto, Otto, saca esto
+y que lo descontaminen.
+
+314
+00:21:15,480 --> 00:21:19,040
+- Un momento, Otto Puffendorfer.
+- Suéltame, Chico Cerebro de Pájaro.
+
+315
+00:21:19,239 --> 00:21:21,420
+- ¡Oh!
+- Ahora tengo lo que siempre he querido.
+
+316
+00:21:23,280 --> 00:21:25,160
+No era Otto.
+
+317
+00:21:25,360 --> 00:21:27,000
+- No, era el Sombrerero Loco.
+- ¡Ah!
+
+318
+00:21:31,680 --> 00:21:32,840
+Herr Batman.
+
+319
+00:21:33,040 --> 00:21:36,070
+- ¿Cómo puedes tener dos capuchas?
+<i>- Se lo</i> explicaré más tarde, profesor.
+
+320
+00:21:36,079 --> 00:21:39,040
+- ¿Hay otra puerta en esa habitación?
+- Al final del pasillo.
+
+321
+00:21:42,360 --> 00:21:44,280
+Tengo la capucha de Batman.
+
+322
+00:21:44,479 --> 00:21:47,479
+El mayor logro de mi carrera.
+El final de la suya.
+
+323
+00:21:47,680 --> 00:21:50,280
+Y el fin de la lucha contra el
+crimen en Ciudad Gótica, jefe.
+
+324
+00:21:50,280 --> 00:21:52,119
+Oh, qué dulce victoria.
+
+325
+00:21:52,320 --> 00:21:54,380
+No nos damos por vencidos, caballeros.
+
+326
+00:21:54,680 --> 00:21:58,960
+La Victoria y la derrota tienen
+el mismo precio, Sombrerero Loco.
+
+327
+00:21:59,160 --> 00:22:01,920
+Es una especie de truco.
+No puede ser Batman.
+
+328
+00:22:02,320 --> 00:22:05,240
+¿Así como puedes ser el Pachá
+de Tres Colas de Panchagorum.
+
+329
+00:22:05,240 --> 00:22:08,280
+Y el asistente del profesor Overbeck,
+Sombrerero Loco?
+
+330
+00:22:08,280 --> 00:22:10,630
+<i>- Tomaré esa capucha.
+- Esa capucha está contaminada.</i>
+
+331
+00:22:10,639 --> 00:22:13,020
+¡Duro con ellos! ¡Duro con ellos!
+¡Duro con ellos!
+
+332
+00:22:19,800 --> 00:22:21,120
+Herr Batman, Herr Batman.
+
+333
+00:22:21,320 --> 00:22:24,200
+Robin está atrapado
+en el gabinete fluoroscópico.
+
+334
+00:22:24,200 --> 00:22:26,600
+Son rayos x de alto voltaje.
+
+335
+00:22:29,800 --> 00:22:31,720
+Oh, Herr Bat ... ¡Aah!
+
+336
+00:22:43,240 --> 00:22:45,879
+Otto. Otto. Alguien.
+
+337
+00:22:46,080 --> 00:22:51,360
+Sr. Sombrerero Elegante, serán irradiados
+para siempre sólo en cuestión de minutos.
+
+338
+00:22:51,560 --> 00:22:54,440
+No te preocupes mi amigo.
+No necesitas mirar.
+
+339
+00:22:58,200 --> 00:23:01,799
+Felices ferrotipos, dúo dinámico.
+
+340
+00:23:04,880 --> 00:23:09,280
+¿¿ES ESTO
+CREÍBLE??
+¿¿EN NUESTRA
+ERA CIENTÍFICA??
+
+341
+00:23:09,760 --> 00:23:13,000
+¡¡LA PRIMERA CAPUCHA DE BATMAN
+RADIOACTIVA!!
+
+342
+00:23:13,400 --> 00:23:18,160
+¿¿Y AHORA
+LOS CRUZADOS ENCAPOTADOS
+<u>FLUORESCENTES</u>
+<u>PARA SIEMPRE</u>??
+
+343
+00:23:18,720 --> 00:23:21,920
+¡¡SIGUEN<u> ENMARCADOS
+EN SU
+<u>MARCO DE REFERENCIA</u>!!
+
+344
+00:23:21,920 --> 00:23:27,320
+!MAÑANA!
+¡A LA MISMA BATIHORA,
+POR EL MISMO BATICANAL!
+
+345
+00:23:29,600 --> 00:23:39,600
+Subtitulado por:
+<i>damianomarbarros@gmail.com</i>
+

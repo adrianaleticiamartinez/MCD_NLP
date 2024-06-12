@@ -1,0 +1,1446 @@
+1
+00:00:22,422 --> 00:00:26,051
+- ¿Qué?
+- Solo estaba pensando cuánto te amo.
+
+2
+00:00:28,194 --> 00:00:31,129
+Bueno.
+
+3
+00:01:24,884 --> 00:01:28,361
+- Oye, mírate. Seguir escribiendo.
+- Está
+
+4
+00:01:28,386 --> 00:01:32,110
+bien, estaba a punto
+de tomarme un descanso.
+
+5
+00:01:32,258 --> 00:01:36,695
+- ¿Así que fue mejor hoy?
+- Mucho, pero aún es muy duro.
+
+6
+00:01:36,863 --> 00:01:41,664
+"Presentación de muestra de taller de
+escritura de posgrado por JS Buchman"
+
+7
+00:01:41,835 --> 00:01:45,669
+- Eso es todo lo que tengo.
+- ¿Sabes que?
+
+8
+00:01:45,839 --> 00:01:50,208
+Me gusta. Me gusta lo que
+tienes El JS, eso es genial.
+
+9
+00:01:50,376 --> 00:01:53,106
+Es muy escritora. JD
+Salinger, Pearl S. Buck.
+
+10
+00:01:53,279 --> 00:01:55,747
+Quiero decir, "Perla" no es
+exactamente una inicial, pero ...
+
+11
+00:01:55,915 --> 00:02:00,079
+¿Notaste las estanterías?
+Los arreglé por color.
+
+12
+00:02:00,253 --> 00:02:03,370
+Bueno. Esto hará que sea
+más fácil si queremos
+
+13
+00:02:03,395 --> 00:02:06,113
+leer algo que, por
+ejemplo, sea naranja.
+
+14
+00:02:07,227 --> 00:02:11,323
+Te equivocaste, por cierto,
+a todos les gustó este suéter.
+
+15
+00:02:11,498 --> 00:02:13,728
+Te extrañé hoy. ¿Me extrañaste?
+
+16
+00:02:13,933 --> 00:02:17,596
+Si. Definitivamente
+te extrañamos.
+
+17
+00:02:21,875 --> 00:02:26,107
+Perdóneme. ¿No crees
+que sé qué es esto?
+
+18
+00:02:26,279 --> 00:02:29,646
+Soy solo otra excusa barata
+para que no escribas.
+
+19
+00:02:31,251 --> 00:02:34,652
+Murray, te besaré en un minuto.
+Espera tu turno.
+
+20
+00:02:34,821 --> 00:02:36,618
+Sus pies están todos mojados.
+
+21
+00:02:38,825 --> 00:02:43,660
+Mira todas estas huellas de perro.
+Es como el teatro chino de Grauman.
+
+22
+00:02:43,830 --> 00:02:48,130
+- ¿Que pasó?
+- O Timmy está en el pozo ...
+
+23
+00:02:49,669 --> 00:02:51,136
+¡Dios mío, hay una inundación!
+
+24
+00:02:52,438 --> 00:02:54,906
+- Cariño, haz algo. - ¿Qué
+me propones que haga?
+
+25
+00:02:55,074 --> 00:02:57,269
+- Si lo supiera, lo haría.
+- ¿Por qué ponerse snippy?
+
+26
+00:02:57,443 --> 00:03:00,003
+No soy snippy, estoy mojado.
+¿Conseguirás algunas toallas?
+
+27
+00:03:00,213 --> 00:03:02,408
+Espera, usa los que
+tu madre nos dio.
+
+28
+00:03:03,683 --> 00:03:05,617
+- Agradable. - ¿Harías algo?
+
+29
+00:03:12,859 --> 00:03:16,727
+Tienes uno de los viejos aquí.
+Ha existido desde el principio.
+
+30
+00:03:16,896 --> 00:03:19,228
+Si este baño pudiera hablar.
+
+31
+00:03:19,399 --> 00:03:21,594
+Seamos todos agradecidos.
+
+32
+00:03:21,768 --> 00:03:24,760
+¿Vieron ustedes a la Sra. Wicker
+en su comercial de Nyquil?
+
+33
+00:03:24,938 --> 00:03:26,997
+Esa fue ella! Me debes $ 5.
+
+34
+00:03:27,173 --> 00:03:31,371
+Ella se detiene todo el tiempo. Ella
+venció a Estelle Getty por esa parte.
+
+35
+00:03:31,544 --> 00:03:33,341
+Estamos distrayendo al Sr.
+Wicker.
+
+36
+00:03:33,513 --> 00:03:35,208
+- No tu no eres.
+- No, no lo estamos.
+
+37
+00:03:35,381 --> 00:03:39,647
+- Pero tienes que escribir para escribir .
+.. - ¿Qué tienes atrapado aquí?
+
+38
+00:03:40,286 --> 00:03:42,584
+- No dejaría eso aquí.
+- Eso no es nuestro.
+
+39
+00:03:42,755 --> 00:03:44,120
+¿Qué es?
+
+40
+00:03:44,958 --> 00:03:46,425
+¿Puedo usar tu teléfono?
+
+41
+00:03:47,460 --> 00:03:49,655
+¿Ves lo que está pasando?
+Lo estamos perdiendo ahora.
+
+42
+00:03:49,829 --> 00:03:54,528
+No lo estamos perdiendo. Oh,
+tenemos que tirar esto. Maldito.
+
+43
+00:03:56,236 --> 00:04:01,299
+¿Que hacemos ahora? Qué...? Cariño,
+está recibiendo su caja de herramientas.
+
+44
+00:04:01,474 --> 00:04:03,601
+- ¿A dónde vas?
+- Emergencia en 3B.
+
+45
+00:04:03,776 --> 00:04:05,869
+- ¿Qué es esto, un picnic?
+- Mira...
+
+46
+00:04:06,112 --> 00:04:08,672
+- Volveré pronto. - ¿Pronto?
+"Pronto" es cuando?
+
+47
+00:04:08,848 --> 00:04:10,247
+Pronto...!
+
+48
+00:04:10,683 --> 00:04:13,015
+Ahora, de repente,
+tengo que orinar.
+
+49
+00:04:22,028 --> 00:04:24,019
+Cariño, usa el fregadero.
+
+50
+00:04:26,366 --> 00:04:28,231
+- No estoy usando el lavabo.
+- ¿Por qué no?
+
+51
+00:04:28,401 --> 00:04:31,962
+Porque una vez tuve una muy
+mala experiencia con eso.
+
+52
+00:04:32,138 --> 00:04:34,129
+Realmente no quiero discutirlo.
+
+53
+00:04:34,941 --> 00:04:36,465
+Oh, maldito.
+
+54
+00:04:36,643 --> 00:04:38,304
+Verás, eso es insolente.
+
+55
+00:04:38,511 --> 00:04:39,978
+Eso no es insolente.
+
+56
+00:04:40,146 --> 00:04:42,614
+Estas son letras que
+encontró detrás del inodoro.
+
+57
+00:04:42,815 --> 00:04:44,282
+¿Para nosotros?
+
+58
+00:04:47,353 --> 00:04:52,689
+- ¿Cartas a nosotros detrás del baño?
+- Sí, debe ser la otra familia.
+
+59
+00:04:52,859 --> 00:04:55,419
+Realmente tengo que
+ir de la peor manera.
+
+60
+00:04:55,595 --> 00:04:58,655
+- Voy a usar el baño.
+- No, no uses el baño.
+
+61
+00:04:58,831 --> 00:05:04,292
+- Intenta sonarlo. - Le hice sonar.
+El hombre no se puede sonar.
+
+62
+00:05:04,470 --> 00:05:06,995
+- Iré a buscarlo.
+- Espera, voy contigo.
+
+63
+00:05:07,173 --> 00:05:09,232
+- Tienes que escribir para hacer.
+- Ahora eso es insolente.
+
+64
+00:05:09,409 --> 00:05:12,503
+Eso es de apoyo.
+- Con un pequeño recorte.
+
+65
+00:05:14,180 --> 00:05:17,775
+- Estos son asombrosos.
+- No puedo creer que no tengas que irte.
+
+66
+00:05:17,950 --> 00:05:20,885
+De una pareja que debe haber
+vivido aquí como hace 50 años.
+
+67
+00:05:21,054 --> 00:05:23,113
+Te digo que eres
+como un camello.
+
+68
+00:05:23,656 --> 00:05:27,325
+12 de junio de 1943. Esta
+chica Millie está esperando
+
+69
+00:05:27,350 --> 00:05:30,950
+en nuestro departamento a
+su novia en el extranjero.
+
+70
+00:05:32,298 --> 00:05:36,359
+- ¿Quién es? - 11 D, arriba.
+Los Buchman
+
+71
+00:05:39,906 --> 00:05:44,104
+- Hola, estamos buscando al Sr. Wicker.
+- Él estaba aqui.
+
+72
+00:05:44,277 --> 00:05:48,236
+- Ya no está aquí?
+- No La historia de mi vida.
+
+73
+00:05:51,884 --> 00:05:55,376
+Lo siento. Es solo este tipo.
+
+74
+00:05:55,555 --> 00:06:01,152
+- ¿De qué tienen miedo?
+- No lo sé.
+
+75
+00:06:01,394 --> 00:06:04,761
+- Lo juro por Dios, no vale la pena.
+- Es. Realmente es.
+
+76
+00:06:04,931 --> 00:06:06,398
+¿Crees?
+
+77
+00:06:06,566 --> 00:06:09,967
+- ¿Conoces a alguien?
+- ¿Qué hay de Ira?
+
+78
+00:06:10,136 --> 00:06:12,604
+- Quien es Ira?
+- Está en la cárcel.
+
+79
+00:06:12,772 --> 00:06:14,330
+¿Es gracioso?
+
+80
+00:06:15,742 --> 00:06:18,711
+¿Dijo el Sr. Wicker
+a dónde iba ahora?
+
+81
+00:06:19,278 --> 00:06:22,270
+- Millie consiguió un trabajo en
+Schrafft's. - Realmente tengo que orinar.
+
+82
+00:06:22,448 --> 00:06:26,043
+Está ahorrando para comprarles una
+nueva Victrola. Es un tocadiscos.
+
+83
+00:06:26,219 --> 00:06:28,585
+- Lo sé. - No sabías "valise".
+
+84
+00:06:28,788 --> 00:06:31,018
+Sabía "valise".
+
+85
+00:06:32,325 --> 00:06:33,952
+¡Solo un minuto!
+
+86
+00:06:34,927 --> 00:06:37,987
+Si Wicker está allí, no
+quiero saber sobre esto.
+
+87
+00:06:38,765 --> 00:06:41,063
+- ¿Si? - Hola.
+
+88
+00:06:41,234 --> 00:06:43,634
+Nos dijeron que el Sr.
+Wicker estaba aquí.
+
+89
+00:06:43,803 --> 00:06:47,102
+Oh! Él era. El se fue.
+
+90
+00:06:47,273 --> 00:06:51,334
+- ¿Podría decirnos dónde está el Sr.
+Wicker? - ¿OMS?
+
+91
+00:06:51,511 --> 00:06:54,742
+Es como hablar con una glándula.
+¿Podría usar ...?
+
+92
+00:06:59,919 --> 00:07:03,514
+Dios, esto es solo
+para nosotros!
+
+93
+00:07:04,524 --> 00:07:06,287
+Este chico está
+tratando de dormir?
+
+94
+00:07:06,459 --> 00:07:10,361
+Estoy leyendo esto y es como si
+los escribiéramos en otro momento.
+
+95
+00:07:10,530 --> 00:07:14,489
+Supongo que este sería un momento
+en el que realmente escribiste.
+
+96
+00:07:15,501 --> 00:07:17,594
+Eso fue insolente.
+Ya veo eso ahora.
+
+97
+00:07:19,505 --> 00:07:23,908
+- Dime, ¿cómo es esto como nosotros?
+- En todos los sentidos. Se aman.
+
+98
+00:07:24,076 --> 00:07:29,912
+Ella tiene problemas con su madre.
+Él es solo tú, en todos los sentidos.
+
+99
+00:07:30,082 --> 00:07:32,050
+- ¿En qué manera?
+- De muchas maneras.
+
+100
+00:07:32,218 --> 00:07:36,518
+Excepto que él parece aceptar
+lo que ella dice sin dudar.
+
+101
+00:07:36,689 --> 00:07:38,782
+Déjame ver esto.
+
+102
+00:07:40,626 --> 00:07:45,086
+"Nos están enviando esta noche.
+No puedo decirte a dónde voy.
+
+103
+00:07:45,264 --> 00:07:50,167
+Realmente no importa. Todo lo que puedo
+pensar es en lo que estoy dejando atrás ...
+
+104
+00:07:50,336 --> 00:07:53,169
+... y lo que rezo volveré
+a casa algún día ".
+
+105
+00:07:53,339 --> 00:07:56,672
+Es como lo que me dijiste cuando
+fuiste a Jersey el fin de semana.
+
+106
+00:07:56,843 --> 00:07:58,174
+Exactamente.
+
+107
+00:07:58,377 --> 00:08:01,574
+"Anoche tu madre me invitó
+a cenar, literalmente.
+
+108
+00:08:01,747 --> 00:08:06,844
+Con la sopa, me convenció de que era
+responsable de la caída de Polonia ".
+
+109
+00:08:07,019 --> 00:08:10,216
+"Después de tres meses,
+por fin, la civilización.
+
+110
+00:08:10,389 --> 00:08:12,914
+Algunos de los muchachos
+salieron y fueron arados.
+
+111
+00:08:13,092 --> 00:08:16,584
+El sargento Cope, de la que
+te hablé, fue de compras ".
+
+112
+00:08:17,230 --> 00:08:21,530
+"El nuevo conserje comenzó hoy.
+Su nombre es Bill Wicker.
+
+113
+00:08:21,701 --> 00:08:25,797
+El es muy útil. Comenzó a arreglar
+el radiador pero tuvo que irse ".
+
+114
+00:08:25,972 --> 00:08:28,532
+"Nos han estado bombardeando
+desde el amanecer, pero en
+
+115
+00:08:28,557 --> 00:08:31,161
+lo único que puedo pensar es
+en nuestra última noche ...
+
+116
+00:08:31,310 --> 00:08:33,934
+... cuando bailamos
+hasta que los vecinos se
+
+117
+00:08:33,959 --> 00:08:36,931
+quejaron y tú te quedaste
+dormida en mis brazos ".
+
+118
+00:08:37,083 --> 00:08:41,019
+¿Cómo podría alguien bailar en este
+departamento? El piso es todo desordenado.
+
+119
+00:08:41,187 --> 00:08:43,951
+- No es una patraña.
+- Todo bien.
+
+120
+00:08:44,123 --> 00:08:47,380
+"Estoy sentado en nuestro
+departamento, contando los
+
+121
+00:08:47,405 --> 00:08:50,416
+minutos hasta que podamos
+bailar aquí de nuevo".
+
+122
+00:08:50,563 --> 00:08:55,830
+"Te estoy enviando esta suciedad. Es una
+verdadera basura de honesta para Dios.
+
+123
+00:08:56,002 --> 00:09:01,565
+Si te paras, al menos sabremos
+que estamos en la misma tierra.
+
+124
+00:09:01,741 --> 00:09:08,840
+¿Qué tal la próxima vez que bailemos en
+ese departamento, es como hombre y mujer?
+
+125
+00:09:09,015 --> 00:09:12,212
+¿Qué dices? "¿Qué dijo ella?
+
+126
+00:09:14,086 --> 00:09:17,021
+Eso es. No hay mas.
+
+127
+00:09:36,876 --> 00:09:40,243
+Estos nazis son
+tan desagradables.
+
+128
+00:09:40,413 --> 00:09:42,540
+Este es el cuarto
+mensaje que dejo.
+
+129
+00:09:42,715 --> 00:09:46,583
+Sr. Wicker, son los Buchmans.
+Te lo ruego.
+
+130
+00:09:47,053 --> 00:09:48,452
+Él está aquí.
+
+131
+00:09:48,621 --> 00:09:52,250
+- No te enfades con él.
+- Guardo todos mis recortes para ti.
+
+132
+00:09:52,425 --> 00:09:55,292
+No es él. - ¿Quién no?
+
+133
+00:09:55,461 --> 00:09:58,225
+- Nuestro baño está roto.
+- ¿De Verdad?
+
+134
+00:09:58,397 --> 00:10:00,422
+No, es un gran rumor
+que estoy difundiendo.
+
+135
+00:10:01,567 --> 00:10:03,762
+De repente me tengo que ir.
+
+136
+00:10:04,537 --> 00:10:05,902
+Usa el fregadero.
+
+137
+00:10:06,305 --> 00:10:10,639
+No está usando el fregadero. Yo no uso el
+fregadero, él no está usando el fregadero.
+
+138
+00:10:10,810 --> 00:10:15,144
+- Conocimos a una chica muy linda en 3B.
+- ¿Ella tiene un baño?
+
+139
+00:10:15,314 --> 00:10:17,509
+- Probablemente -
+Olvídate de ella.
+
+140
+00:10:17,683 --> 00:10:20,049
+- Ella está un poco necesitada.
+- ¿Qué tan necesitado?
+
+141
+00:10:20,252 --> 00:10:23,415
+De acuerdo, listo? Marcia
+de la librería necesitada.
+
+142
+00:10:24,323 --> 00:10:27,156
+- Quien es Marcia?
+- Ella estaba antes que nosotros.
+
+143
+00:10:27,326 --> 00:10:30,989
+- ¿Quieres que arregle el baño? - Hay
+una caja de herramientas en la cocina.
+
+144
+00:10:31,163 --> 00:10:35,122
+No es factible. Lo intenté.
+- Tú no eres yo.
+
+145
+00:10:35,301 --> 00:10:38,031
+¿Qué tal una historia sobre
+las personas en este edificio?
+
+146
+00:10:38,237 --> 00:10:40,728
+Eso es bueno. ¿Como que?
+
+147
+00:10:40,973 --> 00:10:46,309
+Como esa chica, o esta pareja en estas
+cartas, o nosotros, cómo estamos todos ...
+
+148
+00:10:46,479 --> 00:10:49,471
+- ¿Cómo estamos todos buscando el súper?
+- Lo que sea.
+
+149
+00:10:49,649 --> 00:10:51,674
+- Bueno. Empieza a escribir.
+- Estoy.
+
+150
+00:10:51,884 --> 00:10:53,146
+Todo bien.
+
+151
+00:10:55,187 --> 00:10:59,817
+- Oye, ¿qué hiciste allí?
+- Ella dijo que podía.
+
+152
+00:11:01,727 --> 00:11:03,888
+El lavabo del baño!
+
+153
+00:11:09,402 --> 00:11:12,701
+- Tenemos que movernos ahora.
+- Lo sé.
+
+154
+00:11:19,378 --> 00:11:22,370
+- Oye, ¿a dónde fuiste?
+- Me detuve en la torre.
+
+155
+00:11:22,548 --> 00:11:26,848
+- ¿Esa chica está ahí con los hombros?
+- La trasladaron a la clásica.
+
+156
+00:11:29,388 --> 00:11:30,823
+Bailando a través
+de la Segunda Guerra
+
+157
+00:11:30,848 --> 00:11:32,540
+Mundial. Realmente te
+estás metiendo en esto.
+
+158
+00:11:32,692 --> 00:11:35,661
+¿Quieres lindy más tarde?
+Es un baile
+
+159
+00:11:36,962 --> 00:11:40,454
+- Tal vez lo sabía, tal vez no lo sabía.
+- Adivina que.
+
+160
+00:11:40,633 --> 00:11:43,295
+- ¿Apareció el mimbre?
+- No, terminé mi historia.
+
+161
+00:11:43,502 --> 00:11:44,969
+¡Bien por usted!
+
+162
+00:11:45,271 --> 00:11:49,230
+- Ustedes quieren lo de siempre?
+- ¿Seguro Por qué no?
+
+163
+00:11:49,408 --> 00:11:53,742
+- ¿Y eso sería qué?
+- Hamburguesa con queso. Ensalada del chef.
+
+164
+00:11:53,913 --> 00:11:56,507
+- ¿Medianamente raro? - bien.
+
+165
+00:11:56,682 --> 00:12:00,516
+Esa es la hamburguesa.
+
+166
+00:12:02,488 --> 00:12:04,615
+- Entonces, ¿puedo leerlo?
+- ¿Te va a gustar?
+
+167
+00:12:04,790 --> 00:12:06,314
+- Por supuesto.
+- ¿Cómo puedo saber?
+
+168
+00:12:06,559 --> 00:12:09,187
+Porque lo escribiste
+Me va a gustar
+
+169
+00:12:09,361 --> 00:12:11,693
+¿Te va a gustar
+porque lo escribí?
+
+170
+00:12:11,864 --> 00:12:14,424
+Me va a gustar porque es bueno.
+
+171
+00:12:14,600 --> 00:12:18,092
+Si no te gusta, ¿me vas a decir ...?
+Todo bien.
+
+172
+00:12:24,610 --> 00:12:26,805
+- Bueno. - ¿Qué dije?
+
+173
+00:12:26,979 --> 00:12:31,109
+Dije "mmm". Es bueno.
+Fue un buen mmm.
+
+174
+00:12:31,283 --> 00:12:35,310
+Es el mejor mmm que hay.
+Espera un segundo...
+
+175
+00:12:36,856 --> 00:12:39,791
+¿De verdad crees que se
+juntaron después de la guerra?
+
+176
+00:12:39,959 --> 00:12:44,862
+Sí, creo que se casaron, bailaron
+en el departamento, todo. Usted no?
+
+177
+00:12:45,030 --> 00:12:50,093
+No, creo que el chico Leo
+terminó con la chica francesa.
+
+178
+00:12:51,670 --> 00:12:55,265
+- ¿Qué chica francesa?
+- El del mercado.
+
+179
+00:12:55,441 --> 00:12:56,931
+Ella le vendió un poco de fruta.
+
+180
+00:12:57,510 --> 00:13:02,072
+Muchos hombres han sido arrancados
+por una mujer con una buena nectarina.
+
+181
+00:13:02,915 --> 00:13:07,648
+- ¿De dónde sacas eso?
+- En tres cartas menciona el mercado.
+
+182
+00:13:07,853 --> 00:13:09,514
+¿Tengo que explicarlo?
+
+183
+00:13:09,755 --> 00:13:13,247
+- No conoces a Leo.
+- Yo soy Leo. ¿Cómo podría no conocerlo?
+
+184
+00:13:13,425 --> 00:13:15,859
+- Ya veo lo que pasa.
+- ¿Qué esta pasando?
+
+185
+00:13:16,028 --> 00:13:19,691
+Entiendo. Simplemente te irías y pelearías
+en esta gran guerra y me dejarías atrás ...
+
+186
+00:13:19,865 --> 00:13:23,164
+... y quédate en Francia y come fruta.
+¿Es eso lo que quieres?
+
+187
+00:13:23,335 --> 00:13:25,997
+Solo quiero usar el baño.
+¿Quieres venir?
+
+188
+00:13:26,172 --> 00:13:27,764
+No me tengo que ir.
+
+189
+00:13:27,973 --> 00:13:30,635
+Esponja, eso es lo que eres.
+
+190
+00:13:36,182 --> 00:13:39,345
+- ¿Olvidaste cerrar la puerta?
+- No, tu?
+
+191
+00:13:39,518 --> 00:13:42,078
+O A: Tenemos ladrones, o B ...
+
+192
+00:13:42,254 --> 00:13:44,950
+Hola, Buchman. - ¡Aleluya!
+
+193
+00:13:45,124 --> 00:13:48,787
+- Casi termino. Te va a encantar.
+- Eso espero, porque ...
+
+194
+00:13:48,961 --> 00:13:52,590
+Lo siento, de verdad. Mi esposa
+estaba por un premio Cleo anoche.
+
+195
+00:13:52,765 --> 00:13:56,701
+- ¿Cómo estuvo ella?
+- Bueno, es un honor ser nominado.
+
+196
+00:13:57,269 --> 00:13:59,100
+- Lo siento. - Está bien.
+
+197
+00:13:59,271 --> 00:14:01,980
+La pareja que vivió
+aquí antes que nosotros,
+
+198
+00:14:02,005 --> 00:14:04,232
+¿te los recordamos
+de alguna manera?
+
+199
+00:14:04,376 --> 00:14:07,641
+Nunca lo pensé antes, pero
+ahora que lo mencionas, no.
+
+200
+00:14:07,813 --> 00:14:10,646
+- ¿Cómo eran ellos?
+- Eran una pareja dulce.
+
+201
+00:14:10,850 --> 00:14:13,478
+Era quiropráctico.
+El otro, él era ...
+
+202
+00:14:13,652 --> 00:14:16,382
+- "Él"? ¿Era un él y un él?
+- A él y a él.
+
+203
+00:14:20,593 --> 00:14:23,289
+¿Estás seguro de que estamos
+hablando de las mismas personas?
+
+204
+00:14:23,495 --> 00:14:25,725
+No pueden ser los chicos.
+Esa es Millie
+
+205
+00:14:25,898 --> 00:14:30,130
+- Deben ser los Bartons.
+- Bartons? Entonces él volvió a ella.
+
+206
+00:14:30,302 --> 00:14:33,169
+- ¡Nectarina! - Muy buena gente.
+
+207
+00:14:33,339 --> 00:14:36,570
+Ahora tienen una
+casa en Patchogue.
+
+208
+00:14:36,742 --> 00:14:38,972
+Ahí está mi busca.
+Tengo que ir...
+
+209
+00:14:39,144 --> 00:14:42,045
+- Ve a terminar aquí primero.
+- Sí por favor.
+
+210
+00:14:42,214 --> 00:14:46,913
+- Viven en Patchogue. No está tan lejos.
+- Si vives en Quogue.
+
+211
+00:14:48,053 --> 00:14:51,511
+- Está justo cerca de Patchogue.
+- Deberíamos llevarle esto a ella.
+
+212
+00:14:51,690 --> 00:14:55,649
+- Sé que ella querría tenerlos.
+- Entonces, ¿por qué tenemos que salir?
+
+213
+00:14:55,828 --> 00:14:58,729
+Se parecen mucho a nosotros.
+¿No quieres ver cómo termina?
+
+214
+00:14:58,898 --> 00:15:04,996
+No se parecen mucho a nosotros. Puede
+finalizarlo de la forma que desee.
+
+215
+00:15:05,170 --> 00:15:09,197
+- Leo iría.
+- Leo se fue. Él está en Patchogue.
+
+216
+00:15:09,375 --> 00:15:13,277
+Estoy hablando del Leo que cambió sus
+cigarrillos por una bicicleta averiada ...
+
+217
+00:15:13,445 --> 00:15:15,504
+... y pedaleó por
+carreteras bombardeadas ...
+
+218
+00:15:15,681 --> 00:15:18,149
+... solo para darle una
+tarjeta el día de San Valentín.
+
+219
+00:15:18,317 --> 00:15:21,343
+¿Y estás diciendo qué, yo
+no hago ese tipo de cosas?
+
+220
+00:15:26,425 --> 00:15:30,122
+¿Cómo pueden hacer un
+tren completo sin un baño?
+
+221
+00:15:33,032 --> 00:15:36,661
+¿Hola? ¿Hay alguien en casa?
+
+222
+00:15:36,835 --> 00:15:41,204
+- Hay alguien en la casa. - ¿Olvidaste
+cerrar la puerta otra vez?
+
+223
+00:15:42,074 --> 00:15:45,407
+- Millie? - Si.
+
+224
+00:15:45,577 --> 00:15:48,045
+Lo siento. ¡Guauu!
+
+225
+00:15:48,213 --> 00:15:52,343
+- Bill Wicker nos dio su dirección.
+- Adelante.
+
+226
+00:15:52,518 --> 00:15:55,612
+Soy Jamie Buchman Este
+es mi esposo, Paul.
+
+227
+00:15:55,788 --> 00:15:59,485
+Debo decir que te ves exactamente
+como en nuestras cabezas.
+
+228
+00:15:59,658 --> 00:16:02,218
+- ¿Quién es? - Son los Buchmans.
+
+229
+00:16:02,428 --> 00:16:04,020
+Bueno.
+
+230
+00:16:04,830 --> 00:16:08,391
+- Vivimos en tu antiguo departamento.
+- En la calle 12?
+
+231
+00:16:08,567 --> 00:16:13,004
+- Si.
+- Por favor, entra. Siéntate.
+
+232
+00:16:13,172 --> 00:16:18,269
+Esta es nuestra primera vez en Patchogue.
+Creo que has hecho un gran trabajo con eso.
+
+233
+00:16:18,444 --> 00:16:21,918
+- Los Wickers envían lo mejor.
+- Es gracioso,
+
+234
+00:16:21,943 --> 00:16:24,737
+pensé que la vi en
+la televisión ...
+
+235
+00:16:24,883 --> 00:16:27,374
+... besando una botella de Nyquil?
+Esa es ella.
+
+236
+00:16:27,553 --> 00:16:28,850
+Lo sabía.
+
+237
+00:16:29,054 --> 00:16:31,716
+¡Me debes $ 5!
+
+238
+00:16:33,392 --> 00:16:38,853
+- ¿Qué puedo hacer por ti?
+- Es extraño. Sentimos que ya te conocemos.
+
+239
+00:16:39,031 --> 00:16:41,499
+- Encontramos tus cartas.
+- mis cartas?
+
+240
+00:16:41,700 --> 00:16:44,794
+- Si. - ¿Lo hiciste?
+
+241
+00:16:45,104 --> 00:16:48,870
+- ¿Cuál es una palabra de seis
+letras para maleta? - Valise!
+
+242
+00:16:49,041 --> 00:16:52,499
+- Estos son los Buchmans.
+- He oído. ¿Quienes son?
+
+243
+00:16:52,711 --> 00:16:55,544
+- No estoy realmente seguro.
+- Vivimos en tu antiguo departamento.
+
+244
+00:16:55,714 --> 00:16:58,376
+- Dos tipos vivían en nuestro
+viejo departamento. - Se movieron.
+
+245
+00:16:58,550 --> 00:17:00,177
+¿Por qué no vas a visitarlos?
+
+246
+00:17:00,352 --> 00:17:04,083
+- Leemos tus cartas.
+- ¿Leíste nuestras cartas?
+
+247
+00:17:04,256 --> 00:17:08,249
+- Estaban detrás de nuestro baño.
+- ¿De qué están hablando?
+
+248
+00:17:08,427 --> 00:17:11,362
+- Mostrarles.
+- No recuerdo ninguna letra.
+
+249
+00:17:11,530 --> 00:17:13,691
+Pero tienes que.
+
+250
+00:17:14,466 --> 00:17:17,958
+Mira, lo siento. No son nuestros.
+- Déjame ver.
+
+251
+00:17:18,170 --> 00:17:19,603
+No son nuestros.
+
+252
+00:17:19,772 --> 00:17:24,368
+- Eres los Bartons, ¿verdad? Eres millie
+- Aguanta. ¿Que hacen chicos?
+
+253
+00:17:24,576 --> 00:17:26,066
+¿Qué quieres decir?
+
+254
+00:17:26,578 --> 00:17:31,106
+Vi esto en Diane Sawyer. Lo
+siguiente que nos pedirán es dinero.
+
+255
+00:17:31,283 --> 00:17:34,081
+- No, no queremos dinero!
+- Dijo que dirías eso.
+
+256
+00:17:34,787 --> 00:17:38,655
+- Ni siquiera nos gusta Diane Sawyer.
+- Es el otro que no nos gusta.
+
+257
+00:17:38,824 --> 00:17:39,984
+Creo que mejor te vas.
+
+258
+00:17:40,159 --> 00:17:44,118
+Debes recordar. ¿Los caminos bombardeados?
+¿La suciedad?
+
+259
+00:17:44,296 --> 00:17:46,161
+Fifi y la nectarina ...?
+
+260
+00:17:46,331 --> 00:17:48,231
+¿Por favor?
+
+261
+00:17:51,437 --> 00:17:52,836
+Lo siento.
+
+262
+00:17:54,039 --> 00:17:55,404
+Yo también.
+
+263
+00:18:21,066 --> 00:18:25,435
+Ni siquiera tuve que irme.
+Solo lo hice porque pude.
+
+264
+00:18:25,604 --> 00:18:29,233
+- ¿Estás bien?
+- Simplemente no entiendo.
+
+265
+00:18:29,408 --> 00:18:32,370
+¿Por qué diría ella que
+estos no eran de ella?
+
+266
+00:18:32,395 --> 00:18:35,735
+Tal vez ella se olvidó.
+Ha sido un largo tiempo.
+
+267
+00:18:35,881 --> 00:18:38,850
+- No tan largo.
+- Sí, pero la gente lo olvida.
+
+268
+00:18:39,017 --> 00:18:42,885
+¿Recuerdas aquella vez que no podíamos
+recordar dónde estacionamos el auto?
+
+269
+00:18:43,055 --> 00:18:46,218
+¿Qué voy a hacer contigo?
+
+270
+00:18:49,561 --> 00:18:52,200
+Si eso está al otro lado
+del pasillo sobre el
+
+271
+00:18:52,225 --> 00:18:54,921
+estéreo, no lo estoy rechazando.
+No me importa
+
+272
+00:18:55,067 --> 00:18:56,898
+Me respaldas.
+
+273
+00:19:00,072 --> 00:19:02,040
+- ¿Puedo pasar? - Por supuesto.
+
+274
+00:19:02,241 --> 00:19:07,235
+Por favor sí. Nuestra casa es su casa.
+Literalmente.
+
+275
+00:19:07,412 --> 00:19:12,475
+Dios mío, esto se
+siente muy raro.
+
+276
+00:19:12,651 --> 00:19:17,884
+Nunca pensé que volvería. Veo que
+todavía no han arreglado esto.
+
+277
+00:19:25,898 --> 00:19:30,858
+- ¿De dónde vino ese edificio?
+- Alguien lo dejó allí.
+
+278
+00:19:32,237 --> 00:19:37,038
+- Vivimos aquí cerca de 30 años.
+- ¿Puedo hacerte una pregunta?
+
+279
+00:19:37,209 --> 00:19:39,939
+¿En qué dirección te
+enfrentaste al sofá?
+
+280
+00:19:41,480 --> 00:19:45,211
+Lo probé aquí. Lo probé
+junto a la ventana.
+
+281
+00:19:45,384 --> 00:19:50,686
+Hice todo, pero lo puse de lado. Sin
+embargo, esto es bueno. Esto es bueno.
+
+282
+00:19:50,923 --> 00:19:52,413
+Gracias.
+
+283
+00:19:52,824 --> 00:19:54,587
+Si, son mios.
+
+284
+00:19:54,760 --> 00:19:59,857
+- Pensé que tal vez lo eran.
+- Le dije que no me creía.
+
+285
+00:20:00,032 --> 00:20:06,494
+Estarían mejor detrás de tu baño. Todo lo
+que necesito es que Manny los encuentre.
+
+286
+00:20:06,672 --> 00:20:10,768
+- Manny sería quien?
+- Conociste a Manny esta tarde.
+
+287
+00:20:10,943 --> 00:20:14,071
+- Mi esposo. - ¿No fue ...?
+
+288
+00:20:14,246 --> 00:20:18,842
+¿León? No no. Mi
+Leo nunca volvió.
+
+289
+00:20:19,017 --> 00:20:21,815
+Lo perdí en la guerra.
+
+290
+00:20:21,987 --> 00:20:26,947
+- Bueno, hay un tapón de conversación.
+- Lo siento mucho.
+
+291
+00:20:27,125 --> 00:20:31,425
+Manny era primo de Leo
+y estaban muy unidos.
+
+292
+00:20:31,597 --> 00:20:37,194
+Después de recibir las noticias,
+nos cuidamos unos a otros.
+
+293
+00:20:37,369 --> 00:20:42,773
+De todos modos, si voy a tomar
+mi tren, será mejor que me vaya.
+
+294
+00:20:42,941 --> 00:20:45,876
+¡Dios mío, me casé con Ira!
+
+295
+00:20:53,652 --> 00:20:59,522
+- Fue muy agradable conocerte.
+- Ustedes dos cuiden el uno del otro.
+
+296
+00:20:59,691 --> 00:21:03,092
+- No lo dejes ir a la batalla.
+No te preocupes.
+
+297
+00:21:07,165 --> 00:21:12,569
+Dios mío ... jugué eso una y
+otra vez en mi vieja Victrola.
+
+298
+00:21:12,738 --> 00:21:14,763
+Eso es como un tocadiscos.
+
+299
+00:21:19,578 --> 00:21:21,671
+¡Ve a bailar con ella!
+
+300
+00:21:22,614 --> 00:21:25,048
+Muchas gracias a ambos.
+
+301
+00:21:28,954 --> 00:21:32,390
+¿Te gustaría tener ese baile?
+
+302
+00:22:12,464 --> 00:22:14,898
+- La Sra. Wicker no tuvo
+entrenamiento formal? - Ninguna.
+
+303
+00:22:15,067 --> 00:22:16,364
+¡Asombroso!
+
+304
+00:22:16,535 --> 00:22:19,561
+- Ella es natural.
+- Shh! Aquí viene ella.
+
+305
+00:22:24,176 --> 00:22:27,373
+- ¿Es maravillosa o qué?
+- ¡Ella es alucinante!
+

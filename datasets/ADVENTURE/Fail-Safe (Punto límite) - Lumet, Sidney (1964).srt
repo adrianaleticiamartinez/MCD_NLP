@@ -1,0 +1,7575 @@
+1
+00:00:23,245 --> 00:00:26,442
+"Ciudad de Nueva York, 5:30 AM"
+
+2
+00:01:28,145 --> 00:01:30,010
+LÍMITE DE SEGURIDAD
+
+3
+00:03:07,181 --> 00:03:08,910
+¿Warren?
+
+4
+00:03:09,984 --> 00:03:11,918
+No te despiertes.
+
+5
+00:03:11,986 --> 00:03:13,749
+Te haré el desayuno.
+
+6
+00:03:14,888 --> 00:03:16,879
+No hay tiempo.
+La junta empieza a las 10:00.
+
+7
+00:03:16,957 --> 00:03:20,415
+No te preocupes.
+Ahí siempre tienen café.
+
+8
+00:03:20,494 --> 00:03:22,758
+¿Tomarás un avión?
+
+9
+00:03:22,830 --> 00:03:26,766
+Me llevaré una avioneta.
+Luego puedo volver cuando quiera.
+
+10
+00:03:35,477 --> 00:03:37,945
+¿Qué harás hoy?
+
+11
+00:03:38,013 --> 00:03:39,446
+Iré de compras.
+
+12
+00:03:39,514 --> 00:03:41,982
+Le compraré ropa a los niños.
+
+13
+00:03:42,050 --> 00:03:44,280
+Crecen muy rápido.
+
+14
+00:03:47,122 --> 00:03:49,454
+¿Necesitas dinero?
+Cobré un cheque.
+
+15
+00:04:02,872 --> 00:04:04,305
+Otra vez tuve el sueño.
+
+16
+00:04:07,977 --> 00:04:09,968
+Siempre termina en el mismo lugar.
+
+17
+00:04:10,046 --> 00:04:13,311
+Supongo que eso está bien.
+
+18
+00:04:13,382 --> 00:04:16,818
+Algún día iré a ver a ese matador,
+descubriré quién es.
+
+19
+00:04:18,054 --> 00:04:20,614
+Cuando lo haga, será mi fin.
+
+20
+00:04:20,689 --> 00:04:23,817
+No digas eso.
+Sólo es un sueño.
+
+21
+00:04:26,062 --> 00:04:27,825
+Quizá debería renunciar.
+
+22
+00:04:27,897 --> 00:04:30,832
+¿En qué te beneficiaría?
+
+23
+00:04:30,900 --> 00:04:34,495
+Estoy seguro que dejaría de soñar eso.
+Están relacionados.
+
+24
+00:04:35,972 --> 00:04:40,409
+Katie, el sueño y lo que hago--
+
+25
+00:04:41,978 --> 00:04:46,813
+A veces siento que la única manera
+de que desaparezca es renunciando.
+
+26
+00:04:46,883 --> 00:04:50,683
+Pero no puedes renunciar.
+No puedes abandonar toda tu vida.
+
+27
+00:04:52,389 --> 00:04:54,516
+Tú también eres mi vida.
+
+28
+00:04:55,592 --> 00:04:57,526
+Los niños y tú.
+
+29
+00:05:02,532 --> 00:05:04,523
+Quizá tengo que elegir.
+
+30
+00:05:05,635 --> 00:05:07,830
+O quizá es demasiado tarde.
+
+31
+00:05:07,904 --> 00:05:10,669
+Warren, no vayas.
+Falta a la junta.
+
+32
+00:05:10,741 --> 00:05:12,538
+¿Les digo que me fui de compras
+con mi esposa?
+
+33
+00:05:12,610 --> 00:05:14,771
+Yo no iré de compras.
+
+34
+00:05:14,846 --> 00:05:17,747
+Podemos almorzar juntos.
+No hemos hecho eso en meses.
+
+35
+00:05:17,815 --> 00:05:19,840
+Iremos a un restaurante francés
+y beberemos vino.
+
+36
+00:05:19,917 --> 00:05:22,784
+Esta junta es especial.
+El Secretario estará ahí.
+
+37
+00:05:22,854 --> 00:05:25,982
+Se hará en la sala de guerra para
+mostrar qué tan actualizados estamos.
+
+38
+00:05:28,025 --> 00:05:29,890
+Podrías tomarte un día libre.
+
+39
+00:05:29,961 --> 00:05:32,896
+¿A media semana?
+Eso es inmoral.
+
+40
+00:05:35,666 --> 00:05:38,134
+Podemos salir a cenar.
+Regresaré para entonces.
+
+41
+00:05:38,202 --> 00:05:39,669
+Si puedo conseguir niñera.
+
+42
+00:05:40,938 --> 00:05:44,397
+Me tienes a mí.
+Puedes tener lo que quieras.
+
+43
+00:06:00,993 --> 00:06:02,426
+¿Qué haría sin ti?
+
+44
+00:06:04,096 --> 00:06:06,428
+No te iría muy bien.
+
+45
+00:06:07,666 --> 00:06:10,134
+Eso no va a pasar, ¿o sí?
+
+46
+00:06:12,337 --> 00:06:13,929
+Desde luego que no.
+
+47
+00:06:56,650 --> 00:06:58,282
+<i>"Washington, D.C., 5:30 AM"
+Dijo 100 millones de muertos.</i>
+
+48
+00:06:58,317 --> 00:06:59,915
+<i>"Washington, D.C., 5:30 AM"
+Dijo 100 millones de muertos.</i>
+
+49
+00:06:59,987 --> 00:07:02,319
+Ahora dice que 60 millones.
+
+50
+00:07:02,389 --> 00:07:04,823
+Digo que 60 millones es quizá
+el precio más alto...
+
+51
+00:07:04,892 --> 00:07:07,486
+que debemos estar preparados
+para pagar en una guerra.
+
+52
+00:07:07,561 --> 00:07:11,258
+¿Cuál es la diferencia entre
+60 y 100 millones de muertos?
+
+53
+00:07:11,332 --> 00:07:13,994
+- Cuarenta millones.
+- Vaya diferencia.
+
+54
+00:07:14,068 --> 00:07:17,629
+¿Dice que salvar la vida de 40 millones
+no es importante?
+
+55
+00:07:17,705 --> 00:07:19,332
+Ése no es el punto, profesor.
+
+56
+00:07:19,406 --> 00:07:22,808
+Lo importante es salvar
+esos 60 millones de vidas.
+
+57
+00:07:22,877 --> 00:07:25,778
+Enfrente los hechos, Sr. Foster.
+Hablamos de guerra.
+
+58
+00:07:25,847 --> 00:07:30,011
+En todas las guerras, incluyendo la
+termonuclear, hay ganador y perdedor.
+
+59
+00:07:30,085 --> 00:07:31,882
+¿Cuál prefiere ser?
+
+60
+00:07:31,953 --> 00:07:36,356
+En una guerra nuclear, todos pierden.
+La guerra no es lo que solía ser.
+
+61
+00:07:36,424 --> 00:07:38,483
+Sigue siendo la resolución
+de un conflicto económico y político.
+
+62
+00:07:38,560 --> 00:07:42,018
+¿Qué clase de resolución es
+con 100 millones de muertos?
+
+63
+00:07:42,097 --> 00:07:44,725
+- No tienen que ser 100 millones.
+- ¡Ni siquiera 60!
+
+64
+00:07:44,799 --> 00:07:47,700
+Era lo mismo hace mil años, señor...
+
+65
+00:07:47,769 --> 00:07:50,533
+donde también había guerras
+que arrasaban con ciudades enteras.
+
+66
+00:07:50,605 --> 00:07:54,837
+El punto aún es quién gana y quién
+pierde, supervivencia de una cultura.
+
+67
+00:07:54,909 --> 00:07:56,377
+¿Una cultura?
+
+68
+00:07:56,445 --> 00:07:58,379
+Con la mayoría de su gente muerta...
+
+69
+00:07:58,447 --> 00:08:00,881
+el resto muriendo,
+la comida envenenada...
+
+70
+00:08:00,950 --> 00:08:02,713
+y el aire inadecuado para respirar...
+
+71
+00:08:02,785 --> 00:08:05,879
+- ¿llama a eso una cultura?
+- Sí, eso hago.
+
+72
+00:08:05,955 --> 00:08:09,220
+No soy un poeta.
+Soy un científico político...
+
+73
+00:08:09,292 --> 00:08:13,820
+que prefiere que sobreviva
+la cultura estadounidense y no la rusa.
+
+74
+00:08:13,896 --> 00:08:18,890
+¿Pero cómo sería en realidad?
+¿Quién sobreviviría?
+
+75
+00:08:26,642 --> 00:08:28,576
+Es una pregunta interesante.
+
+76
+00:08:30,647 --> 00:08:33,411
+Yo diría que...
+
+77
+00:08:33,483 --> 00:08:36,748
+convictos y archiveros.
+
+78
+00:08:38,989 --> 00:08:43,255
+Los peores convictos, aquellos
+encerrados en aislamiento penal...
+
+79
+00:08:43,327 --> 00:08:45,761
+y los archiveros más ordinarios...
+
+80
+00:08:45,829 --> 00:08:48,297
+probablemente
+de grandes compañías aseguradoras...
+
+81
+00:08:48,365 --> 00:08:50,731
+porque estarían en cuartos
+aislados del fuego...
+
+82
+00:08:50,801 --> 00:08:55,261
+protegidos por toneladas del mejor
+aislante en el mundo: el papel.
+
+83
+00:08:56,840 --> 00:08:58,432
+Imaginen lo que sucedería.
+
+84
+00:08:58,508 --> 00:09:02,239
+El pequeño grupo de criminales pelearía
+contra el ejército de archiveros...
+
+85
+00:09:02,312 --> 00:09:04,941
+por los últimos medios de sustento.
+
+86
+00:09:05,016 --> 00:09:08,076
+Los convictos
+conocerían la violencia...
+
+87
+00:09:08,152 --> 00:09:11,883
+pero los archiveros
+conocerían la organización.
+
+88
+00:09:11,956 --> 00:09:14,447
+¿Quién creen que ganaría?
+
+89
+00:09:18,363 --> 00:09:22,322
+Todo es una hipótesis, claro,
+pero es divertido analizarla.
+
+90
+00:09:23,701 --> 00:09:26,727
+Es hora de irse a casa.
+No fue mi intención predicar tanto.
+
+91
+00:09:26,804 --> 00:09:29,500
+Normalmente, no voy a una cena
+y hablo hasta el desayuno.
+
+92
+00:09:29,574 --> 00:09:33,135
+Tonterías. Estamos fascinados.
+Espero que no afectemos su trabajo.
+
+93
+00:09:33,211 --> 00:09:35,475
+No. Tengo una junta a las 10:00
+en el Pentágono.
+
+94
+00:09:35,546 --> 00:09:37,208
+Tengo tiempo para llegar a casa
+y cambiarme.
+
+95
+00:09:37,282 --> 00:09:40,183
+Por favor regrese,
+profesor Groeteschele, con su esposa.
+
+96
+00:09:40,252 --> 00:09:41,810
+Estaré encantado.
+
+97
+00:09:58,570 --> 00:10:02,666
+Yo soy Ilsa Wolfe.
+Nos presentaron antes de la cena.
+
+98
+00:10:02,741 --> 00:10:05,335
+Quiero que me lleve a casa.
+
+99
+00:10:15,555 --> 00:10:18,149
+Tendrá que decirme cómo llegar.
+
+100
+00:10:18,224 --> 00:10:20,852
+Quédese en este camino.
+
+101
+00:10:37,544 --> 00:10:40,377
+Puede bromear sobre los convictos
+y los archiveros...
+
+102
+00:10:40,447 --> 00:10:44,407
+porque sabe
+que no habrá sobrevivientes.
+
+103
+00:10:44,485 --> 00:10:45,918
+No muchos.
+
+104
+00:10:46,987 --> 00:10:49,649
+Ninguno.
+
+105
+00:10:51,125 --> 00:10:53,059
+Ésa es la belleza.
+
+106
+00:10:55,629 --> 00:11:00,225
+A la guerra nuclear le dicen
+de muchas maneras, pero nunca bella.
+
+107
+00:11:00,301 --> 00:11:03,668
+La gente teme llamarla así,
+pero eso es lo que sienten.
+
+108
+00:11:03,737 --> 00:11:05,170
+¿La belleza de la muerte?
+
+109
+00:11:05,239 --> 00:11:07,730
+No sea condescendiente conmigo.
+
+110
+00:11:07,808 --> 00:11:10,902
+¿Qué vende además de eso, profesor?
+
+111
+00:11:12,980 --> 00:11:15,471
+Todos sabemos que vamos a morir..
+
+112
+00:11:15,549 --> 00:11:21,011
+pero usted lo convierte en un juego
+maravilloso que incluye al mundo.
+
+113
+00:11:22,491 --> 00:11:27,019
+- Lo hace parecer posible.
+- Es posible, incluso probable.
+
+114
+00:11:27,095 --> 00:11:30,656
+Hace de la muerte un entretenimiento...
+
+115
+00:11:30,732 --> 00:11:33,599
+algo que puede jugarse en una sala.
+
+116
+00:11:33,668 --> 00:11:35,192
+Como en cualquier otro lugar.
+
+117
+00:11:40,008 --> 00:11:42,101
+Hay un lugar incluso mejor.
+
+118
+00:11:44,112 --> 00:11:45,875
+Dé vuelta allí.
+
+119
+00:12:04,800 --> 00:12:06,631
+¿Aquí vive?
+
+120
+00:12:06,702 --> 00:12:08,795
+No bromee.
+
+121
+00:12:08,871 --> 00:12:11,999
+¿Por qué no?
+Yo soy el bromista.
+
+122
+00:12:12,074 --> 00:12:15,601
+Hago de la muerte un juego
+para que la gente como Ud. se emocione.
+
+123
+00:12:15,678 --> 00:12:17,805
+Esta noche la observé.
+
+124
+00:12:17,880 --> 00:12:19,814
+Le encantaría poder hacerlo.
+
+125
+00:12:19,882 --> 00:12:22,180
+Le encantaría oprimir el botón.
+
+126
+00:12:22,251 --> 00:12:24,982
+Sería muy emocionante.
+
+127
+00:12:25,055 --> 00:12:26,989
+Saber que debe morir...
+
+128
+00:12:27,057 --> 00:12:30,652
+para tener el poder
+de llevarse a todos con usted--
+
+129
+00:12:30,727 --> 00:12:34,322
+a toda la multitud con sus planes,
+sus pequeñas esperanzas...
+
+130
+00:12:34,398 --> 00:12:37,663
+nacidos para ser asesinados,
+y volver la cabeza...
+
+131
+00:12:37,734 --> 00:12:39,998
+cerrando los ojos.
+
+132
+00:12:40,070 --> 00:12:44,666
+Ud. podría hacerlo realidad,
+podría hacerles eso.
+
+133
+00:12:44,741 --> 00:12:46,436
+Pero tiene miedo...
+
+134
+00:12:46,510 --> 00:12:50,105
+así que busca la emoción
+en otro lugar.
+
+135
+00:12:50,180 --> 00:12:53,115
+¿Y quién mejor que un hombre
+que no tiene miedo?
+
+136
+00:13:13,438 --> 00:13:16,965
+No soy como usted.
+
+137
+00:13:22,580 --> 00:13:25,879
+"Omaha, Nebraska 5:30, AM"
+
+138
+00:13:34,793 --> 00:13:37,057
+- ¿Aviador?
+- ¿Señor?
+
+139
+00:13:37,129 --> 00:13:40,064
+El general Bogan viene hacia acá.
+Dígale que ya vi la nueva computadora.
+
+140
+00:13:40,132 --> 00:13:42,794
+Volveré antes de que él parta
+para revisarla con él.
+
+141
+00:13:42,868 --> 00:13:45,496
+- Sí, señor.
+- Estaré en mi cuarto si me necesita.
+
+142
+00:13:45,571 --> 00:13:47,402
+- Sí, señor. ¿Señor?
+- ¿Sí?
+
+143
+00:13:47,473 --> 00:13:49,065
+Tengo un mensaje telefónico para usted.
+
+144
+00:13:49,141 --> 00:13:51,905
+Quieren que les llame,
+dijeron que era urgente.
+
+145
+00:14:01,920 --> 00:14:03,785
+Deme línea, por favor.
+
+146
+00:14:14,334 --> 00:14:16,632
+Hola.
+
+147
+00:14:16,703 --> 00:14:19,604
+Sí, recibí el mensaje.
+¿Por qué crees que estoy llamando?
+
+148
+00:14:24,010 --> 00:14:26,103
+¿De dónde sacó el dinero?
+
+149
+00:14:28,682 --> 00:14:30,775
+No, yo iré.
+
+150
+00:14:39,660 --> 00:14:43,391
+Iré a la ciudad, aviador.
+Ésta es la dirección.
+
+151
+00:14:43,464 --> 00:14:45,830
+Estaré ahí media hora,
+luego regresaré a la base.
+
+152
+00:14:45,900 --> 00:14:47,333
+Sí, señor.
+
+153
+00:14:48,703 --> 00:14:50,898
+Abotónese antes de que llegue
+el general.
+
+154
+00:14:50,971 --> 00:14:52,404
+Sí, señor.
+
+155
+00:14:54,208 --> 00:14:56,574
+Oficina del general Bogan.
+Aviador Slote.
+
+156
+00:14:56,644 --> 00:14:58,407
+No, señor, general.
+Acaba de irse.
+
+157
+00:14:58,479 --> 00:15:01,505
+Maldición, lo necesito.
+¿Adónde iba?
+
+158
+00:15:07,722 --> 00:15:09,986
+Conklin, ¿sabe dónde es eso?
+
+159
+00:15:12,294 --> 00:15:14,319
+Sí, señor.
+Es de camino a la base.
+
+160
+00:15:14,396 --> 00:15:18,162
+Vaya para allá.
+Yo lo recogeré, aviador. Gracias.
+
+161
+00:15:23,238 --> 00:15:25,502
+- Ésta es la casa, general.
+- ¿Está seguro?
+
+162
+00:15:25,574 --> 00:15:28,338
+¿No hay otra calle con este nombre?
+
+163
+00:15:28,410 --> 00:15:31,675
+He vivido en Omaha toda mi vida.
+La conozco como la palma de mi mano.
+
+164
+00:15:31,747 --> 00:15:34,614
+No se moleste en bajar.
+
+165
+00:15:48,397 --> 00:15:50,262
+"Cascio el portero
+Sótano"
+
+166
+00:16:02,245 --> 00:16:04,713
+- ¡Gastas mi dinero en esto!
+- ¡Dame eso!
+
+167
+00:16:04,781 --> 00:16:06,874
+Si vuelves a levantarle la mano
+a mi madre una vez más--
+
+168
+00:16:06,949 --> 00:16:10,544
+¡Sólo una gota!
+¿Quién diablos eres tú?
+
+169
+00:16:11,854 --> 00:16:14,084
+- ¿Sí?
+- Soy el general Bogan.
+
+170
+00:16:14,157 --> 00:16:16,955
+Busco al coronel Cascio.
+Dio esta dirección.
+
+171
+00:16:17,026 --> 00:16:19,723
+- Claro, general.
+- Deja entrar al caballero, Luke.
+
+172
+00:16:19,797 --> 00:16:24,166
+Es un honor.
+Mi hijo siempre habla bien de usted.
+
+173
+00:16:24,234 --> 00:16:26,395
+Siento molestarlo, coronel.
+
+174
+00:16:26,470 --> 00:16:28,961
+Llegaron personas importante
+y debemos ser sus guías.
+
+175
+00:16:32,743 --> 00:16:35,473
+Sí, señor.
+Ya voy.
+
+176
+00:16:35,546 --> 00:16:38,572
+¿Por qué no pasa, general?
+
+177
+00:16:38,649 --> 00:16:41,243
+Gracias, yo--
+
+178
+00:16:42,653 --> 00:16:46,384
+De vez en cuando tomo una gota.
+
+179
+00:16:46,456 --> 00:16:49,823
+Este muchacho se altera de más.
+
+180
+00:16:49,893 --> 00:16:51,417
+Estoy listo, señor.
+
+181
+00:16:53,665 --> 00:16:56,930
+Maldito niño mocoso.
+
+182
+00:17:22,227 --> 00:17:26,186
+Es ese diputado Raskob,
+ha estado husmeando en las bases.
+
+183
+00:17:26,264 --> 00:17:28,290
+Washington quiere
+que lo tranquilicemos.
+
+184
+00:17:28,367 --> 00:17:33,031
+- Está en uno de esos comités.
+- Sí, señor.
+
+185
+00:17:33,105 --> 00:17:37,940
+También irá Gordon Knapp para ver
+el equipo que fabrica su compañía.
+
+186
+00:17:38,010 --> 00:17:39,978
+Él estará de nuestro lado.
+
+187
+00:17:40,045 --> 00:17:42,809
+Si no ven sus cosas con buenos ojos,
+se enciende como cohete.
+
+188
+00:17:42,882 --> 00:17:44,315
+Sí, señor.
+
+189
+00:17:48,120 --> 00:17:51,351
+Hace tiempo hubiera dicho:
+"se hincha como globo".
+
+190
+00:17:53,192 --> 00:17:55,990
+- Los tiempos cambian.
+- Sí, señor.
+
+191
+00:18:01,268 --> 00:18:04,533
+<i>"Anchorage, Alaska 5:30, AM"
+Ploesti era duro.</i>
+
+192
+00:18:04,604 --> 00:18:08,165
+Perdimos a la mitad del grupo.
+
+193
+00:18:08,241 --> 00:18:11,005
+Regensburg fue el peor para nosotros.
+
+194
+00:18:11,077 --> 00:18:15,013
+Nunca volé el B-17, sólo los B-24.
+
+195
+00:18:16,750 --> 00:18:18,547
+El 24 era un buen avión.
+
+196
+00:18:18,618 --> 00:18:22,520
+Sabías que estabas volándolo,
+y no al revés, como con estas cosas.
+
+197
+00:18:22,589 --> 00:18:25,217
+Aún tienes que volar
+el Vindicator, Grady.
+
+198
+00:18:25,292 --> 00:18:27,692
+Somos los últimos del grupo, Flynn.
+No te engañes.
+
+199
+00:18:27,761 --> 00:18:32,164
+- Los aviones no necesitarán pilotos.
+- De todos modos serás muy viejo.
+
+200
+00:18:32,232 --> 00:18:35,293
+Después del hombre, la máquina.
+Vamos a la mitad del camino.
+
+201
+00:18:36,570 --> 00:18:38,765
+Mira esos niños.
+
+202
+00:18:40,374 --> 00:18:43,036
+¿Recuerdas la tripulación
+que tenías en los 24?
+
+203
+00:18:43,110 --> 00:18:45,374
+Judíos, italianos, de todos lados.
+
+204
+00:18:45,446 --> 00:18:47,710
+Podías diferenciarlos.
+Eran personas.
+
+205
+00:18:47,782 --> 00:18:50,910
+Estos muchachos-- Si los abrieras,
+encontrarías que tienen transistores.
+
+206
+00:18:50,985 --> 00:18:54,546
+- Son buenos muchachos.
+- Claro.
+
+207
+00:18:54,622 --> 00:18:57,989
+Sabes que son buenos en lo que hacen,
+pero no los conoces. ¿Cómo podrías?
+
+208
+00:18:58,059 --> 00:19:00,721
+Cada vez que despegamos
+tenemos tripulación diferente.
+
+209
+00:19:00,795 --> 00:19:03,229
+Ésa es la política, Grady.
+
+210
+00:19:03,297 --> 00:19:05,629
+Elimina el factor personal.
+
+211
+00:19:05,700 --> 00:19:07,931
+Ahora todo es más complicado.
+
+212
+00:19:08,003 --> 00:19:10,597
+El tiempo de reacción es más rápido.
+
+213
+00:19:10,672 --> 00:19:14,335
+Ya no puedes confiar en la gente
+como antes.
+
+214
+00:19:14,409 --> 00:19:17,105
+¿En quién confías tú?
+
+215
+00:19:17,179 --> 00:19:20,080
+Muy bien, caballeros.
+El cielo nos espera.
+
+216
+00:19:23,251 --> 00:19:26,243
+¿Sabes algo, Billy?
+
+217
+00:19:26,321 --> 00:19:29,449
+Me gusta el factor personal.
+
+218
+00:20:00,056 --> 00:20:02,650
+Ésos son bombarderos Vindicator,
+del Comando Aéreo Estratégico...
+
+219
+00:20:02,725 --> 00:20:04,283
+haciendo rondas de rutina.
+
+220
+00:20:04,360 --> 00:20:07,295
+Cada uno de esos aviones lleva
+cuatro misiles Bloodhound aire-aire...
+
+221
+00:20:07,363 --> 00:20:09,126
+armados con ojivas nucleares.
+
+222
+00:20:09,198 --> 00:20:11,962
+Son para usarse
+contra aviones enemigos atacantes.
+
+223
+00:20:12,035 --> 00:20:15,369
+Además, cada avión lleva dos bombas
+de hidrógeno de 20 megatones...
+
+224
+00:20:15,439 --> 00:20:17,771
+diseñadas para detonar
+sobre objetivos enemigos.
+
+225
+00:20:17,841 --> 00:20:21,140
+En cualquier momento, noche o día,
+esos aviones están en el aire...
+
+226
+00:20:21,211 --> 00:20:23,509
+en caso de un ataque sorpresa
+a nuestras bases.
+
+227
+00:20:23,580 --> 00:20:25,514
+Pueden ver algunos
+de los otros grupos--
+
+228
+00:20:25,582 --> 00:20:27,413
+- ¿Quién los controla?
+- Nosotros.
+
+229
+00:20:27,484 --> 00:20:30,476
+Este cuarto es el centro nervioso,
+Sr. Raskob.
+
+230
+00:20:30,554 --> 00:20:34,490
+Estas máquinas reciben constantemente
+información de todo el mundo.
+
+231
+00:20:34,558 --> 00:20:36,355
+Y del espacio.
+
+232
+00:20:36,427 --> 00:20:39,692
+La Cía. del Sr. Knapp hizo el trabajo
+electrónico en el satélite Argos.
+
+233
+00:20:39,763 --> 00:20:43,790
+¿Le gustaría ver qué fotografía
+ahora mismo? Coronel.
+
+234
+00:20:43,867 --> 00:20:48,168
+La imagen que va a ver
+la toma en este instante...
+
+235
+00:20:48,239 --> 00:20:52,437
+una cámara a 500 km en el cielo
+viajando a 32,200 km por hora.
+
+236
+00:20:53,711 --> 00:20:57,340
+"Haciendo exploración de rutina
+de una parte de Rusia..."
+
+237
+00:20:57,415 --> 00:20:59,349
+"que incluye el sitio soviético ICAM--"
+¿Puede ampliar la escala?
+
+238
+00:20:59,417 --> 00:21:00,850
+¿Coronel?
+
+239
+00:21:10,628 --> 00:21:14,860
+"Sigue destino selectivo"
+
+240
+00:21:14,933 --> 00:21:17,333
+"Máximo acercamiento"
+
+241
+00:21:17,402 --> 00:21:21,169
+Ésos son los sitios de cohetes
+vistos a 500 kilómetros.
+
+242
+00:21:21,240 --> 00:21:24,038
+- Estoy impresionado.
+- Muy pronto tendrá mayor definición.
+
+243
+00:21:24,110 --> 00:21:26,442
+Seremos capaces de ver a la gente,
+no sólo a las máquinas.
+
+244
+00:21:26,512 --> 00:21:29,538
+Le mostraremos el pelo de su cabeza.
+
+245
+00:21:29,615 --> 00:21:33,210
+- Supongo que ellos nos hacen lo mismo.
+- Ud. puede verlos.
+
+246
+00:21:33,285 --> 00:21:35,879
+Veamos los submarinos rusos
+en el Pacífico.
+
+247
+00:21:35,955 --> 00:21:38,890
+Ésa es la costa oeste de los EE.UU.,
+las islas de Hawaii...
+
+248
+00:21:38,958 --> 00:21:40,550
+y ésos son submarinos rusos.
+
+249
+00:21:40,626 --> 00:21:45,154
+- ¿Están tan cerca?
+- Hay uno a 80 km de San Francisco.
+
+250
+00:21:45,231 --> 00:21:48,667
+Aguas internacionales.
+No podemos hacer nada salvo vigilarlo.
+
+251
+00:21:48,734 --> 00:21:51,294
+Está demasiado cerca.
+¿Qué hace ahí?
+
+252
+00:21:51,370 --> 00:21:53,895
+Nos investiga,
+igual que nosotros a los rusos.
+
+253
+00:21:53,973 --> 00:21:55,908
+¿Está armado?
+
+254
+00:21:57,611 --> 00:22:02,742
+"Submarino soviético Kronstadt"
+
+255
+00:22:04,151 --> 00:22:08,747
+"Tubos de torpedo de ojiva nuclear"
+
+256
+00:22:08,822 --> 00:22:10,847
+"Sumergido a profundidad de 36 metros"
+
+257
+00:22:10,924 --> 00:22:14,917
+Nuestros instrumentos son tan buenos
+que sabemos la diferencia...
+
+258
+00:22:14,995 --> 00:22:19,227
+entre una ballena soltando gas
+y ese submarino purgando sus tanques.
+
+259
+00:22:19,299 --> 00:22:23,759
+No hay duda, general. Estoy seguro
+que tenemos lo mejor que hay.
+
+260
+00:22:25,238 --> 00:22:28,436
+- Estamos orgullosos de lo que hacemos.
+- Deberían estarlo, coronel.
+
+261
+00:22:28,509 --> 00:22:32,104
+- El dinero está bien gastado.
+- No lo dudo ni un poco.
+
+262
+00:22:32,180 --> 00:22:33,772
+Y no tienen que abrumarme.
+
+263
+00:22:33,848 --> 00:22:36,612
+Mi comité no trata con fondos...
+
+264
+00:22:36,684 --> 00:22:38,777
+sino con la manera en que se gastan.
+
+265
+00:22:38,853 --> 00:22:42,789
+La está viendo a su alrededor.
+Es impresionante, ¿no?
+
+266
+00:22:44,091 --> 00:22:46,958
+La verdad es que estas máquinas
+me dan pánico.
+
+267
+00:22:47,028 --> 00:22:48,962
+No me gusta la idea de que
+al quitarme el sombrero...
+
+268
+00:22:49,030 --> 00:22:51,965
+alguna cosa allá arriba
+sepa que estoy perdiendo el pelo.
+
+269
+00:22:52,033 --> 00:22:54,831
+Quiero asegurarme de que esa cosa
+no tenga iniciativa.
+
+270
+00:22:54,902 --> 00:22:58,338
+Entiendo, pero estos sistemas
+tienen ese riesgo.
+
+271
+00:22:58,406 --> 00:23:00,340
+¿Quién dice
+que debemos correr el riesgo?
+
+272
+00:23:00,408 --> 00:23:03,742
+¿Quién eligió a quién
+para hacer las cosas así?
+
+273
+00:23:03,812 --> 00:23:05,837
+Yo soy el único aquí
+que fue elegido popularmente.
+
+274
+00:23:05,914 --> 00:23:07,472
+Nadie me dio ese poder.
+
+275
+00:23:07,549 --> 00:23:09,141
+Es la naturaleza de la tecnología.
+
+276
+00:23:09,218 --> 00:23:10,810
+Las máquinas están desarrolladas
+para enfrentar situaciones.
+
+277
+00:23:10,886 --> 00:23:12,979
+Ellas toman el control,
+empiezan a crear situaciones.
+
+278
+00:23:13,055 --> 00:23:16,684
+- No necesariamente.
+- Siempre hay una probabilidad.
+
+279
+00:23:16,758 --> 00:23:19,818
+Tenemos comprobaciones
+y verificaciones en todo.
+
+280
+00:23:19,895 --> 00:23:21,590
+¿Quién revisa al que revisa?
+
+281
+00:23:21,663 --> 00:23:24,598
+¿Dónde está el final de la línea?
+¿Quién tiene la responsabilidad?
+
+282
+00:23:24,666 --> 00:23:26,463
+- El presidente.
+- Nadie.
+
+283
+00:23:26,535 --> 00:23:29,595
+Él no puede saber todo lo que pasa.
+Es demasiado complicado.
+
+284
+00:23:29,671 --> 00:23:32,663
+Si quiere saber,
+eso es lo que me molesta.
+
+285
+00:23:32,741 --> 00:23:36,234
+Lo único en lo que todos concuerdan
+es que no hay un responsable.
+
+286
+00:23:41,251 --> 00:23:43,185
+¿Pasa algo malo, general?
+
+287
+00:23:43,253 --> 00:23:47,019
+Vieron un OVNI
+cerca de la Bahía de Hudson, señor.
+
+288
+00:23:47,090 --> 00:23:49,684
+Lo que están viendo, caballeros,
+es un objeto volador no identificado...
+
+289
+00:23:49,759 --> 00:23:51,556
+detectado por nuestro radar.
+
+290
+00:23:51,628 --> 00:23:54,961
+Hasta que lo identifiquemos,
+lo consideramos hostil.
+
+291
+00:23:55,031 --> 00:23:56,521
+¿Qué hacen al respecto?
+
+292
+00:23:56,599 --> 00:23:59,898
+Pasamos a Condición Azul,
+la cual es nuestra alerta menor.
+
+293
+00:23:59,969 --> 00:24:02,369
+Al mismo tiempo, informamos
+a esos bombarderos Vindicator...
+
+294
+00:24:02,438 --> 00:24:05,236
+que vieron en el aire.
+
+295
+00:24:05,308 --> 00:24:09,109
+Ahora comenzarán a volar
+hacia sus límites de seguridad.
+
+296
+00:24:09,179 --> 00:24:11,977
+¿"Límites de seguridad"?
+
+297
+00:24:12,049 --> 00:24:14,574
+Puntos fijos en el cielo en
+el perímetro de la Unión Soviética...
+
+298
+00:24:14,652 --> 00:24:16,381
+que se cambian todos los días.
+
+299
+00:24:16,453 --> 00:24:18,387
+Los aviones volarán a esos puntos
+y orbitarán...
+
+300
+00:24:18,455 --> 00:24:21,049
+hasta que reciban la orden de atacar.
+
+301
+00:24:21,125 --> 00:24:22,717
+¿Y si no reciben esa orden?
+
+302
+00:24:22,793 --> 00:24:24,954
+Regresarán a sus rondas normales.
+
+303
+00:24:25,029 --> 00:24:28,590
+En resumen, no podemos empezar
+la guerra sin una orden expresa.
+
+304
+00:24:28,666 --> 00:24:30,691
+¿Cómo reciben esa orden?
+¿Por radio?
+
+305
+00:24:30,768 --> 00:24:34,431
+Sí, y a través de la caja de límite
+de seguridad en cada avión...
+
+306
+00:24:34,505 --> 00:24:37,668
+que sólo puede activarse
+bajo la orden expresa del presidente.
+
+307
+00:24:37,741 --> 00:24:40,232
+- ¿Él tiene que decirles?
+- No directamente.
+
+308
+00:24:40,311 --> 00:24:42,074
+Su voz puede ser imitada.
+
+309
+00:24:42,146 --> 00:24:44,945
+Él sólo da la orden
+y el resto se hace electrónicamente.
+
+310
+00:24:45,016 --> 00:24:48,008
+Nadie puede interferir con la caja
+de límite de seguridad, Sr. Raskob.
+
+311
+00:24:51,122 --> 00:24:52,919
+Todas esas luces nuevas
+son aviones de caza...
+
+312
+00:24:52,991 --> 00:24:55,687
+que van tras el objeto no identificado.
+
+313
+00:24:55,760 --> 00:24:58,593
+Coronel Cascio,
+amplíe la escala, por favor.
+
+314
+00:25:01,433 --> 00:25:04,231
+Parece estar muy tranquilo, general.
+¿Sucede a menudo?
+
+315
+00:25:04,302 --> 00:25:06,327
+Unas seis veces al mes.
+
+316
+00:25:06,404 --> 00:25:08,838
+Probablemente es un avión
+fuera de rumbo.
+
+317
+00:25:08,907 --> 00:25:11,933
+- ¿Y si no lo es?
+- Entonces es otra cosa.
+
+318
+00:25:12,010 --> 00:25:15,947
+"OVNI en ángeles 9"
+Significa que está a 9,000 metros...
+
+319
+00:25:16,015 --> 00:25:18,779
+"Velocidad 845- Rumbo 196"
+y va a 845 km por hora...
+
+320
+00:25:18,851 --> 00:25:21,342
+con rumbo 196.
+
+321
+00:25:21,420 --> 00:25:22,978
+Va directamente a Detroit.
+
+322
+00:25:23,055 --> 00:25:25,114
+<i>Siete minutos
+para límite de seguridad.</i>
+
+323
+00:25:29,195 --> 00:25:31,959
+Procedimiento normal, Sr. Raskob.
+
+324
+00:25:32,031 --> 00:25:34,795
+En este punto, comenzamos
+una cuenta regresiva automática.
+
+325
+00:25:36,936 --> 00:25:39,803
+Es poco probable que los bombarderos
+lleguen a sus límites de seguridad.
+
+326
+00:25:39,872 --> 00:25:42,807
+Sucede una de cada 20 veces.
+"OVNI pierde altitud"
+
+327
+00:25:42,875 --> 00:25:45,639
+Normalmente identificamos
+la alteración mucho antes.
+
+328
+00:25:45,711 --> 00:25:47,804
+"Aviones de caza sobrevolando"
+
+329
+00:25:47,880 --> 00:25:52,818
+"Hacen reconocimiento visual"
+
+330
+00:25:54,554 --> 00:25:59,821
+"Señal de radar errática"
+
+331
+00:25:59,893 --> 00:26:02,088
+<i>Seis minutos para límite de seguridad.</i>
+
+332
+00:26:05,198 --> 00:26:09,157
+¿Qué tiene allí, Blackie?
+¿Otro OVNI?
+
+333
+00:26:09,236 --> 00:26:12,831
+¿Será un avión comercial o una parvada?
+El premio es un dólar.
+
+334
+00:26:12,906 --> 00:26:15,170
+Un avión. Por supuesto.
+
+335
+00:26:15,242 --> 00:26:17,176
+Debería darme ventaja.
+
+336
+00:26:21,314 --> 00:26:25,649
+Leí su memorándum
+sobre la credibilidad del enemigo.
+
+337
+00:26:25,720 --> 00:26:29,019
+No creo que Groeteschele
+hable hoy de eso.
+
+338
+00:26:30,258 --> 00:26:31,987
+¿Cree que debería olvidarlo?
+
+339
+00:26:32,059 --> 00:26:33,993
+¿Por qué hablar de asuntos delicados?
+
+340
+00:26:34,061 --> 00:26:36,359
+Tenemos que hablar de eso
+uno de estos días, Stark.
+
+341
+00:26:36,431 --> 00:26:37,864
+Toda esta política de aniquilación--
+
+342
+00:26:37,932 --> 00:26:41,527
+No tiene sentido acumular bombas
+cuando ya tenemos la capacidad--
+
+343
+00:26:41,602 --> 00:26:43,968
+Pero hoy no.
+
+344
+00:26:46,207 --> 00:26:48,698
+Buenos días, señor secretario.
+
+345
+00:26:48,776 --> 00:26:52,041
+- ¿Por qué no se sienta allá?
+- Gracias.
+
+346
+00:26:54,682 --> 00:26:57,208
+- Buenos días, señor secretario.
+- Buenos días, caballeros.
+
+347
+00:27:06,195 --> 00:27:08,891
+- ¿Todos están aquí, general Stark?
+- Sí, señor.
+
+348
+00:27:14,136 --> 00:27:17,663
+Muy bien, profesor Groeteschele.
+
+349
+00:27:17,739 --> 00:27:22,301
+Veo que tenemos una alerta
+para complementar nuestra discusión.
+
+350
+00:27:22,377 --> 00:27:26,040
+Pero establecimos el tema de la guerra
+accidental la semana pasada...
+
+351
+00:27:26,114 --> 00:27:30,415
+así que no podemos usarla hoy.
+
+352
+00:27:30,487 --> 00:27:32,853
+El tema de hoy es la guerra limitada.
+
+353
+00:27:32,922 --> 00:27:34,913
+No es algo teórico.
+
+354
+00:27:34,991 --> 00:27:36,925
+De esto depende
+qué clase de armas usaremos...
+
+355
+00:27:36,993 --> 00:27:39,052
+dónde las ubicaremos
+y cómo las utilizaremos.
+
+356
+00:27:39,128 --> 00:27:41,619
+En breve, toda nuestra postura militar.
+
+357
+00:27:41,698 --> 00:27:44,292
+¿La guerra limitada es posible?
+
+358
+00:27:44,367 --> 00:27:47,131
+¿Podemos limitar el intercambio
+de armas nucleares...
+
+359
+00:27:47,203 --> 00:27:48,761
+a objetivos militares...
+
+360
+00:27:48,838 --> 00:27:52,604
+o inevitablemente debemos dirigir
+la guerra a la destrucción de ciudades?
+
+361
+00:27:52,675 --> 00:27:55,143
+- Es preciso.
+- ¿Por qué?
+
+362
+00:27:55,211 --> 00:27:59,841
+El objetivo de la guerra es infligir
+el mayor daño posible al enemigo...
+
+363
+00:27:59,916 --> 00:28:02,282
+y destruir su habilidad de resistir.
+
+364
+00:28:02,352 --> 00:28:05,618
+En la última guerra, ambos lados
+pudieron usar guerra bacteriológica.
+
+365
+00:28:05,689 --> 00:28:08,886
+- No lo hicieron.
+- No hubiera sido decisivo.
+
+366
+00:28:08,959 --> 00:28:10,551
+¿Está seguro?
+
+367
+00:28:10,628 --> 00:28:14,120
+Quizá la gente no pudo aceptar la idea
+de matar civiles.
+
+368
+00:28:14,198 --> 00:28:18,931
+Dígale eso a los civiles de Londres,
+Hamburgo, Dresden o Tokio...
+
+369
+00:28:19,003 --> 00:28:22,063
+muertos por millares
+durante bombardeos.
+
+370
+00:28:22,139 --> 00:28:23,868
+Omito Hiroshima y Nagasaki...
+
+371
+00:28:23,941 --> 00:28:26,808
+ya que esas acciones pertenecen
+más a la Tercera Guerra Mundial...
+
+372
+00:28:26,877 --> 00:28:28,469
+que a la Segunda Guerra Mundial.
+
+373
+00:28:28,546 --> 00:28:31,982
+Todavía no veo cómo podemos
+restringir una guerra.
+
+374
+00:28:32,049 --> 00:28:34,779
+Podemos llegar a un acuerdo mutuo
+con los rusos...
+
+375
+00:28:34,852 --> 00:28:38,152
+de sólo atacar bases de misiles.
+
+376
+00:28:38,223 --> 00:28:40,817
+¿Y si las bases de misiles
+están cerca de ciudades?
+
+377
+00:28:40,892 --> 00:28:43,156
+Eso sería un incentivo
+para moverlas a otro lugar.
+
+378
+00:28:43,228 --> 00:28:46,527
+Podrían pensar que esa oferta
+es un signo de debilidad.
+
+379
+00:28:46,598 --> 00:28:50,329
+- Valdría la pena intentarlo.
+- Tienen tanto que perder como nosotros.
+
+380
+00:28:50,402 --> 00:28:52,734
+Estamos hablando del tema equivocado.
+
+381
+00:28:54,039 --> 00:28:55,870
+Debemos detener la guerra,
+no limitarla.
+
+382
+00:28:57,242 --> 00:29:00,541
+Eso no depende de nosotros,
+general Black.
+
+383
+00:29:00,612 --> 00:29:02,341
+Nosotros somos los que más sabemos
+de ella.
+
+384
+00:29:02,414 --> 00:29:05,679
+Usted es un soldado, Blackie.
+Obedece órdenes.
+
+385
+00:29:05,750 --> 00:29:09,186
+- No las diseña.
+- No se engañe, Stark.
+
+386
+00:29:09,254 --> 00:29:12,156
+Decimos que una guerra puede pelearse
+haciendo política.
+
+387
+00:29:12,224 --> 00:29:15,887
+Si decimos que aceptamos una guerra
+limitada con armas nucleares...
+
+388
+00:29:15,962 --> 00:29:17,395
+le quitamos la presión a todos.
+
+389
+00:29:17,463 --> 00:29:19,124
+Es lo que ellos quieren oír.
+
+390
+00:29:19,198 --> 00:29:22,895
+Podemos seguir haciendo lo que hacemos,
+y en realidad nadie sale lastimado.
+
+391
+00:29:22,969 --> 00:29:25,233
+Pero la guerra no puede ser limitada,
+y usted lo sabe.
+
+392
+00:29:25,304 --> 00:29:27,204
+No estoy seguro.
+
+393
+00:29:27,273 --> 00:29:30,037
+Ya no existe la guerra limitada.
+
+394
+00:29:30,109 --> 00:29:32,839
+No con bombas de hidrógeno.
+
+395
+00:29:32,912 --> 00:29:36,109
+Una vez que esas bombas caigan,
+no podrá limitar nada.
+
+396
+00:29:37,350 --> 00:29:41,810
+¿Usted apoya el desarme?
+
+397
+00:29:44,992 --> 00:29:46,755
+No lo sé.
+
+398
+00:29:46,827 --> 00:29:50,228
+Es la lógica de su posición.
+
+399
+00:29:50,297 --> 00:29:53,425
+Es un revés peculiar.
+Le interesaría a la prensa.
+
+400
+00:29:53,500 --> 00:29:57,903
+El militar que es la paloma,
+y el civil que es el halcón.
+
+401
+00:30:00,307 --> 00:30:02,935
+Vamos demasiado rápido.
+
+402
+00:30:03,010 --> 00:30:04,500
+Las cosas se salen de control.
+
+403
+00:30:04,578 --> 00:30:06,512
+¿Puede ser más específico, general?
+
+404
+00:30:07,848 --> 00:30:09,543
+Todos tratamos de hacer la guerra
+más eficiente.
+
+405
+00:30:09,616 --> 00:30:12,517
+- Ése es nuestro trabajo.
+- Y tenemos éxito.
+
+406
+00:30:12,586 --> 00:30:16,022
+Ahora tenemos la capacidad
+de destruir el mundo varias veces.
+
+407
+00:30:16,089 --> 00:30:18,581
+Lo cual no significa
+que debamos hacerlo.
+
+408
+00:30:18,660 --> 00:30:22,596
+No podremos detenerlo.
+Ésa es la lógica de su posición.
+
+409
+00:30:23,998 --> 00:30:26,091
+Construimos una máquina de guerra
+que actúa más rápido...
+
+410
+00:30:26,167 --> 00:30:28,692
+que la habilidad del hombre
+para controlarla.
+
+411
+00:30:28,770 --> 00:30:31,796
+Ponemos hombres en situaciones
+que son muy difíciles de controlar.
+
+412
+00:30:31,873 --> 00:30:33,602
+Debemos hacer más rudos
+a los hombres.
+
+413
+00:30:33,675 --> 00:30:36,940
+Supongamos que ellos
+nos atacan primero.
+
+414
+00:30:37,011 --> 00:30:40,606
+Nosotros respondemos,
+y todos estamos acabados.
+
+415
+00:30:40,682 --> 00:30:44,379
+¿Preferiría que sólo nosotros
+estuviéramos acabados?
+
+416
+00:30:44,452 --> 00:30:47,785
+Debemos prepararnos.
+
+417
+00:30:47,855 --> 00:30:52,884
+Nos estamos preparando.
+Debemos ir más despacio.
+
+418
+00:30:52,961 --> 00:30:56,124
+No estoy de acuerdo.
+Debemos ir más rápido.
+
+419
+00:30:56,198 --> 00:30:58,792
+Naturalmente, eso significa
+correr riesgos...
+
+420
+00:30:58,867 --> 00:31:02,428
+pero nuestra intención
+es minimizar esos riesgos.
+
+421
+00:31:02,504 --> 00:31:05,496
+Claro que sólo podemos controlar
+nuestras acciones.
+
+422
+00:31:05,574 --> 00:31:10,375
+El concepto de guerra limitada se basa
+en que los rusos piensen igual.
+
+423
+00:31:10,446 --> 00:31:14,473
+También presupone que no habrá
+accidentes en ningún bando.
+
+424
+00:31:14,550 --> 00:31:18,953
+Pero supongan que ese objeto volador
+no identificado...
+
+425
+00:31:19,021 --> 00:31:22,855
+fuera uno de sus misiles de 50
+megatones que dispararon por error.
+
+426
+00:31:22,925 --> 00:31:25,952
+¿Qué podríamos hacer? ¿Cómo podrían
+demostrar que fue un accidente?
+
+427
+00:31:26,029 --> 00:31:28,156
+¿Habría alguna diferencia
+si lo demostraran?
+
+428
+00:31:28,231 --> 00:31:32,497
+Aunque les creyéramos, ¿pensaríamos
+en limitar nuestra respuesta...
+
+429
+00:31:32,569 --> 00:31:35,265
+o los atacaríamos
+con todo lo que tenemos?
+
+430
+00:31:37,373 --> 00:31:39,739
+Desapareció, general.
+¿Qué le pasó?
+
+431
+00:31:39,809 --> 00:31:42,505
+Coronel Cascio,
+pasemos a Condición Amarilla.
+
+432
+00:31:44,247 --> 00:31:47,512
+Está más abajo del nivel
+en que el radar lo puede localizar.
+
+433
+00:31:47,584 --> 00:31:49,176
+Pasó a la siguiente etapa
+de alerta.
+
+434
+00:31:49,252 --> 00:31:51,345
+Es procedimiento operativo estándar.
+
+435
+00:31:51,421 --> 00:31:53,048
+Podría ser un avión comercial
+que va a estrellarse.
+
+436
+00:31:53,123 --> 00:31:56,024
+O un avión enemigo
+tomando medidas evasivas.
+
+437
+00:31:56,092 --> 00:31:58,391
+Naturalmente,
+nos preparamos para lo peor.
+
+438
+00:31:58,462 --> 00:32:00,396
+<i>Dos minutos para límite de seguridad.</i>
+
+439
+00:32:05,269 --> 00:32:07,703
+¿Qué son esos aviones
+tras los bombarderos, general?
+
+440
+00:32:07,772 --> 00:32:09,967
+Aviones de caza.
+Es parte de la Condición Amarilla.
+
+441
+00:32:10,040 --> 00:32:13,407
+Desde ahora, seguirán a los bombarderos
+adonde vayan.
+
+442
+00:32:13,477 --> 00:32:16,708
+- ¿Qué sigue de la Condición Amarilla?
+- La verde.
+
+443
+00:32:16,781 --> 00:32:18,544
+- ¿Y luego?
+- La roja.
+
+444
+00:32:18,616 --> 00:32:20,709
+Pero nunca hemos estado en roja.
+
+445
+00:32:20,785 --> 00:32:22,878
+Roja significa guerra, ¿verdad?
+
+446
+00:32:26,791 --> 00:32:32,560
+"El OVNI no es un vehículo
+de succión de aire"
+
+447
+00:32:34,966 --> 00:32:37,400
+"Repito: no es de succión de aire"
+
+448
+00:32:40,305 --> 00:32:43,069
+- ¿Succión de aire?
+- ¿Qué significa eso?
+
+449
+00:32:43,141 --> 00:32:45,609
+Los aviones Jet succionan aire
+a través de sus turbinas.
+
+450
+00:32:45,677 --> 00:32:48,168
+Nuestro sistema de alerta
+registra la turbulencia que esto crea.
+
+451
+00:32:48,246 --> 00:32:51,272
+Si un avión comercial pierde potencia,
+no crearía turbulencia.
+
+452
+00:32:51,349 --> 00:32:53,579
+Podría ser un cohete.
+
+453
+00:32:53,652 --> 00:32:55,085
+¿Fuera de rumbo?
+
+454
+00:32:56,188 --> 00:32:57,815
+O con rumbo fijo.
+
+455
+00:32:57,889 --> 00:33:00,687
+<i>Un minuto para límite de seguridad.</i>
+
+456
+00:33:00,759 --> 00:33:04,251
+Podría ser un cohete ruso volando bajo
+para que nuestro radar no lo registre.
+
+457
+00:33:04,329 --> 00:33:06,264
+- ¿Podría ser eso?
+- Podría ser cualquier cosa.
+
+458
+00:33:06,332 --> 00:33:09,426
+- ¿Cómo lo averiguan?
+- Nuestros aviones lo están rastreando.
+
+459
+00:33:09,502 --> 00:33:11,402
+No puedo esperar demasiado.
+
+460
+00:33:11,470 --> 00:33:16,066
+<i>13, 12, 11, 10, 9...</i>
+
+461
+00:33:16,142 --> 00:33:20,078
+<i>8, 7, 6, 5, 4...</i>
+
+462
+00:33:20,146 --> 00:33:23,274
+<i>3, 2, 1.</i>
+
+463
+00:33:23,349 --> 00:33:25,783
+<i>Todos los grupos
+en el límite de seguridad.</i>
+
+464
+00:33:25,852 --> 00:33:28,377
+Justo a tiempo.
+Eso es volar.
+
+465
+00:33:30,122 --> 00:33:32,022
+- ¿Sí, señor?
+- Pase a Condición Verde.
+
+466
+00:33:39,299 --> 00:33:42,962
+Dígale a los aviones que orbiten
+hasta que identifiquemos al OVNI.
+
+467
+00:33:43,036 --> 00:33:45,630
+- Ésas son sus órdenes.
+- Dígales de nuevo.
+
+468
+00:33:45,706 --> 00:33:48,641
+- Tiene que irse.
+- Lo siento.
+
+469
+00:33:48,709 --> 00:33:52,475
+- Es una orden.
+- Se equivoca de cliente.
+
+470
+00:33:52,546 --> 00:33:55,140
+Creo que podríamos estar en guerra
+en dos minutos.
+
+471
+00:33:55,215 --> 00:33:57,809
+No llegaré con mi familia,
+así que me quedaré a ver qué pasa.
+
+472
+00:33:57,885 --> 00:33:59,477
+Éste no es lugar para usted.
+
+473
+00:33:59,553 --> 00:34:01,987
+Si esas bombas estallan,
+no tengo a dónde ir.
+
+474
+00:34:02,055 --> 00:34:04,751
+Si quiere que me vaya,
+llame a la policía militar.
+
+475
+00:34:04,825 --> 00:34:07,658
+- Creo que se eleva de nuevo.
+- No podemos esperar más tiempo.
+
+476
+00:34:07,728 --> 00:34:09,662
+Amplíe la escala.
+
+477
+00:34:21,910 --> 00:34:27,007
+"OVNI avistado..."
+
+478
+00:34:27,081 --> 00:34:32,348
+"y contactado por radio"
+
+479
+00:34:32,420 --> 00:34:37,016
+"Es un vuelo comercial..."
+
+480
+00:34:39,260 --> 00:34:45,028
+"fuera de rumbo
+debido a fuerte viento de cola..."
+
+481
+00:34:45,099 --> 00:34:49,696
+"y a una falla eléctrica..."
+
+482
+00:34:49,772 --> 00:34:55,369
+"en dos motores"
+Eso es, caballeros.
+
+483
+00:34:55,444 --> 00:34:57,912
+"Recuperó la energía a 107 metros"
+Siento haberlos alarmado.
+
+484
+00:34:57,980 --> 00:35:00,540
+Contacte a todos los aviones,
+que continúen con sus rondas.
+
+485
+00:35:00,616 --> 00:35:02,607
+Sí, señor.
+
+486
+00:35:09,792 --> 00:35:11,521
+¿Coronel Grady?
+
+487
+00:35:11,593 --> 00:35:13,720
+¿Qué pasa, Thomas?
+
+488
+00:35:13,796 --> 00:35:17,755
+¿Cuál ha sido el mayor tiempo que pasó
+en un límite de seguridad?
+
+489
+00:35:17,833 --> 00:35:20,564
+El mayor tiempo que pasé
+fueron tres minutos...
+
+490
+00:35:20,637 --> 00:35:24,038
+pero parecieron tres años.
+
+491
+00:35:24,107 --> 00:35:26,940
+- ¿Ésta es su primera vez?
+- Sí, señor.
+
+492
+00:35:27,010 --> 00:35:29,410
+- ¿Está nervioso?
+- No, señor.
+
+493
+00:35:29,479 --> 00:35:31,743
+Es natural.
+
+494
+00:35:33,316 --> 00:35:37,275
+Estaba calculando el combustible,
+señor.
+
+495
+00:35:39,522 --> 00:35:42,423
+¿Cómo está la formación del grupo,
+Sullivan?
+
+496
+00:35:42,492 --> 00:35:44,255
+Están en órbita, señor.
+
+497
+00:35:44,327 --> 00:35:47,421
+Incluso el número seis está dentro.
+
+498
+00:35:47,497 --> 00:35:49,590
+El viejo Flynn.
+
+499
+00:35:49,666 --> 00:35:52,260
+Mitad hombre, mitad pájaro.
+
+500
+00:35:54,105 --> 00:35:58,098
+Muchas gracias, general.
+Debo decir que fue muy--
+
+501
+00:36:00,177 --> 00:36:02,771
+- ¿Qué es eso, coronel?
+- Estoy revisando, señor.
+
+502
+00:36:21,532 --> 00:36:23,295
+Aquí se ve bien.
+
+503
+00:36:24,535 --> 00:36:26,469
+Envíe un K-13.
+
+504
+00:36:29,875 --> 00:36:33,470
+Hubo un corto en el indicador
+de fallas. Reemplazaremos la unidad.
+
+505
+00:36:33,545 --> 00:36:36,207
+El indicador de fallas
+es nuestro control maestro.
+
+506
+00:36:36,281 --> 00:36:39,512
+Nos indica si falla
+cualquiera de estos otros componentes.
+
+507
+00:36:39,584 --> 00:36:42,644
+- ¿Algo falló?
+- No hay indicación alguna.
+
+508
+00:36:42,721 --> 00:36:45,189
+Lo sabremos
+en cuanto reemplacen la unidad.
+
+509
+00:37:02,708 --> 00:37:05,176
+Señor, la caja de límite de seguridad.
+
+510
+00:37:13,753 --> 00:37:16,017
+Debe haber un error.
+
+511
+00:37:16,089 --> 00:37:17,852
+Verifique con Omaha.
+
+512
+00:37:24,430 --> 00:37:25,988
+No puedo comunicarme.
+Hay interferencia.
+
+513
+00:37:26,065 --> 00:37:28,124
+¿Qué clase de interferencia?
+
+514
+00:37:28,201 --> 00:37:30,328
+No lo sé, señor.
+Nunca había oído algo así antes.
+
+515
+00:37:30,403 --> 00:37:33,270
+Intente con otra banda.
+Intente con todas.
+
+516
+00:37:37,945 --> 00:37:39,412
+No puedo comunicarme.
+
+517
+00:37:40,814 --> 00:37:42,748
+Deben estar tratando de evitar
+que recibamos nuestra señal de ataque.
+
+518
+00:37:42,816 --> 00:37:45,046
+Es demasiado tarde para eso.
+
+519
+00:37:45,119 --> 00:37:48,418
+Solicito permiso para autentificar
+en canal secundario.
+
+520
+00:37:48,489 --> 00:37:50,116
+Permiso concedido.
+
+521
+00:38:05,239 --> 00:38:08,607
+Orden confirmada.
+Solicito permiso para verificar, señor.
+
+522
+00:38:10,478 --> 00:38:12,139
+Permiso concedido.
+
+523
+00:38:20,989 --> 00:38:23,924
+"Ultra secreto"
+
+524
+00:38:48,350 --> 00:38:52,377
+- La secuencia del código es correcta.
+- Señal de ataque.
+
+525
+00:38:54,190 --> 00:38:57,887
+Ahora abriremos
+nuestras órdenes de operación.
+
+526
+00:39:15,212 --> 00:39:17,305
+"Moscú"
+
+527
+00:39:30,560 --> 00:39:33,495
+Listo para acercamiento
+y órdenes de penetración, señor.
+
+528
+00:39:38,168 --> 00:39:41,160
+¿Y dice que estas alertas
+suceden seis veces al mes?
+
+529
+00:39:41,238 --> 00:39:43,502
+Más o menos.
+Usualmente no es tan dramático.
+
+530
+00:39:43,573 --> 00:39:45,666
+Rara vez llegamos
+al límite de seguridad.
+
+531
+00:39:45,742 --> 00:39:47,334
+Esto debe acabar con sus nervios.
+
+532
+00:39:47,410 --> 00:39:50,005
+Igual sería si tuviera que hablar
+en el Congreso.
+
+533
+00:39:52,083 --> 00:39:56,918
+Esa luz de allá al noroeste--
+Se dirige a Rusia.
+
+534
+00:40:02,893 --> 00:40:05,361
+Por eso algunos quieren
+que volvamos a las bombas...
+
+535
+00:40:05,429 --> 00:40:08,193
+para el contraataque
+en vez de usar misiles.
+
+536
+00:40:08,266 --> 00:40:12,532
+Son más lentas y dan más tiempo
+para evaluación y análisis.
+
+537
+00:40:12,603 --> 00:40:14,537
+Los cohetes tienen el defecto
+de sus virtudes.
+
+538
+00:40:14,605 --> 00:40:17,938
+Son demasiado rápidos.
+Dejan muy poco tiempo para pensar.
+
+539
+00:40:18,009 --> 00:40:20,204
+Me parece que este punto de vista
+es anticuado.
+
+540
+00:40:20,278 --> 00:40:24,045
+Debido a la naturaleza
+de la guerra moderna, el--
+
+541
+00:40:25,417 --> 00:40:28,045
+Ponga eso en proyección polar.
+
+542
+00:40:44,636 --> 00:40:47,833
+- ¿Sí, señor?
+- Comuníqueme con el Presidente.
+
+543
+00:40:47,906 --> 00:40:50,739
+Soy Buck, el traductor.
+Me mandaron llamar.
+
+544
+00:40:50,809 --> 00:40:52,743
+¿Puedo ver su identificación?
+
+545
+00:40:55,648 --> 00:40:59,414
+Dice que tiene una pequeña cicatriz
+en su muñeca izquierda. ¿Puedo verla?
+
+546
+00:40:59,485 --> 00:41:02,249
+Sí.
+Un perro me mordió de niño.
+
+547
+00:41:02,322 --> 00:41:03,755
+Sí, señor.
+
+548
+00:41:15,168 --> 00:41:17,932
+Hola, Buck.
+¿Qué tal está su ruso hoy?
+
+549
+00:41:18,004 --> 00:41:21,201
+Bien, señor.
+Supongo.
+
+550
+00:41:21,274 --> 00:41:24,266
+Muy bien.
+Quizá lo necesitemos.
+
+551
+00:41:26,612 --> 00:41:28,945
+Sujétese, Jennie.
+Bajaremos mucho.
+
+552
+00:41:38,092 --> 00:41:41,687
+Dígale a Joe que todavía no informe
+a los diarios.
+
+553
+00:41:41,762 --> 00:41:44,390
+Avísele al vicepresidente qué pasa.
+Él sabrá qué hacer.
+
+554
+00:41:45,866 --> 00:41:49,893
+Pensándolo bien,
+digámosle algo a la prensa.
+
+555
+00:41:49,970 --> 00:41:52,632
+Que Joe les diga que es urgente,
+pero no un asunto de vida o muerte.
+
+556
+00:41:52,706 --> 00:41:54,640
+Extraoficialmente.
+Sin indiscreciones.
+
+557
+00:41:54,708 --> 00:41:57,768
+Si las hay, el indiscreto
+y el periódico morirán para siempre.
+
+558
+00:41:57,845 --> 00:41:59,472
+Se lo diré a Joe con esas palabras.
+
+559
+00:41:59,546 --> 00:42:02,983
+¿Quién está hoy en el Pentágono?
+Quiero informarles.
+
+560
+00:42:03,051 --> 00:42:06,350
+El Secretario de Defensa.
+Los Jefes del Estado Mayor.
+
+561
+00:42:06,421 --> 00:42:09,151
+Y Groeteschele, quien les agrada
+tanto, está dando un discurso.
+
+562
+00:42:09,224 --> 00:42:11,488
+- ¿Blackie está allí?
+- Está el general Black.
+
+563
+00:42:11,559 --> 00:42:14,494
+Ése es Blackie. Qué bueno que está.
+Fuimos juntos a la universidad.
+
+564
+00:42:14,562 --> 00:42:16,655
+Es inteligente
+y dice lo que piensa.
+
+565
+00:42:16,731 --> 00:42:18,164
+Eso es todo por ahora.
+A trabajar.
+
+566
+00:42:18,233 --> 00:42:21,498
+Que enciendan el aire.
+Aquí abajo hace un calor infernal.
+
+567
+00:42:22,737 --> 00:42:25,604
+Estamos muy abajo.
+Quizá sea el infierno.
+
+568
+00:42:29,611 --> 00:42:32,478
+- ¿Sabe qué sucedió?
+- No, señor.
+
+569
+00:42:32,547 --> 00:42:34,845
+Uno de nuestros Vindicator
+recibió mal la señal.
+
+570
+00:42:34,916 --> 00:42:38,182
+Va a bombardear Moscú.
+Debemos detenerlo.
+
+571
+00:42:39,255 --> 00:42:41,553
+Es más fácil decirlo que hacerlo.
+
+572
+00:42:41,624 --> 00:42:46,652
+Pero tenemos algo de tiempo;
+no mucho, pero algo, así que relájese.
+
+573
+00:42:46,729 --> 00:42:48,526
+Es más fácil decirlo que hacerlo,
+señor.
+
+574
+00:42:49,598 --> 00:42:51,031
+Si las cosas se ponen candentes...
+
+575
+00:42:51,100 --> 00:42:53,034
+quizá tenga que usar
+el teléfono directo al Kremlin.
+
+576
+00:42:53,102 --> 00:42:56,970
+Ahí es donde Ud. entra.
+Ojalá no lleguemos tan lejos.
+
+577
+00:42:57,039 --> 00:42:59,234
+Espero que no, señor.
+
+578
+00:42:59,308 --> 00:43:03,335
+<i>- El general Bogan de Omaha, señor.
+- Comuníqueme.</i>
+
+579
+00:43:03,412 --> 00:43:06,870
+El Grupo 6 está 322 km más allá
+del límite de seguridad, señor.
+
+580
+00:43:06,949 --> 00:43:08,883
+Aún no hacemos contacto.
+
+581
+00:43:08,951 --> 00:43:12,046
+<i>- ¿Saben qué salió mal?
+- No, señor, no sabemos.</i>
+
+582
+00:43:12,122 --> 00:43:15,057
+<i>¿Por qué no pueden comunicarse
+por radio?</i>
+
+583
+00:43:15,125 --> 00:43:16,683
+No estamos seguros, señor.
+
+584
+00:43:16,760 --> 00:43:19,752
+Intentamos con todas las frecuencias.
+No podemos hacer contacto.
+
+585
+00:43:19,830 --> 00:43:21,491
+<i>- ¿Por qué?
+- No lo sé.</i>
+
+586
+00:43:21,565 --> 00:43:23,897
+Hubo un destello en el tablero
+antes de que sucediera...
+
+587
+00:43:23,967 --> 00:43:26,561
+y el indicador de falla
+sufrió un corto al mismo tiempo.
+
+588
+00:43:26,636 --> 00:43:29,366
+Los rusos podrían bloquear la
+recepción con algún artefacto nuevo...
+
+589
+00:43:29,439 --> 00:43:30,906
+<i>que desconocemos.</i>
+
+590
+00:43:30,974 --> 00:43:32,566
+¿Por qué harían eso?
+¿Se acostumbra?
+
+591
+00:43:32,642 --> 00:43:34,439
+No, señor, pero es posible.
+
+592
+00:43:34,511 --> 00:43:37,742
+En otras palabras, es posible que
+el mecanismo de límite de seguridad...
+
+593
+00:43:37,814 --> 00:43:39,247
+les esté dando la señal de ataque...
+
+594
+00:43:39,316 --> 00:43:43,344
+al mismo tiempo que no pueden
+comunicarse para confirmarlo.
+
+595
+00:43:43,421 --> 00:43:45,514
+Es posible.
+No es probable, pero--
+
+596
+00:43:45,590 --> 00:43:49,287
+- ¿Es posible?
+- Sí, señor.
+
+597
+00:43:49,360 --> 00:43:52,261
+Muy bien.
+Si recuperamos el contacto por radio...
+
+598
+00:43:52,330 --> 00:43:55,060
+¿los bombarderos responderán
+a una orden de regresar?
+
+599
+00:43:55,132 --> 00:43:56,929
+Si nos comunicamos con ellos
+antes de cinco minutos.
+
+600
+00:43:57,001 --> 00:44:00,801
+Después de eso, sus órdenes son
+ignorar comandos verbales.
+
+601
+00:44:00,872 --> 00:44:02,931
+¿Incluso si yo hablo con ellos?
+
+602
+00:44:03,007 --> 00:44:05,100
+Su voz puede ser imitada
+por el enemigo, señor.
+
+603
+00:44:05,176 --> 00:44:06,939
+Entrenamos a nuestros hombres en eso.
+
+604
+00:44:07,011 --> 00:44:08,603
+Una vez que pasan cierto punto...
+
+605
+00:44:08,679 --> 00:44:11,079
+no pueden confiar
+en transmisiones verbales.
+
+606
+00:44:11,148 --> 00:44:14,379
+¿Cuál es el siguiente paso, general,
+si seguimos el procedimiento estándar?
+
+607
+00:44:15,520 --> 00:44:17,455
+Ya tenemos aviones de caza
+en el aire.
+
+608
+00:44:17,523 --> 00:44:20,117
+Les ordenaríamos perseguir
+a los bombarderos...
+
+609
+00:44:20,192 --> 00:44:23,218
+localizarlos visualmente
+y desviarlos de su rumbo.
+
+610
+00:44:23,295 --> 00:44:25,627
+¿Y si los bombarderos no responden?
+
+611
+00:44:25,697 --> 00:44:29,030
+Ordenaríamos a los aviones
+de caza que los derribaran.
+
+612
+00:44:34,373 --> 00:44:35,806
+¿Quién da esa orden?
+
+613
+00:44:36,875 --> 00:44:38,365
+Usted, señor.
+
+614
+00:44:42,548 --> 00:44:44,539
+Gracias, general.
+Me comunicaré con usted.
+
+615
+00:44:47,152 --> 00:44:49,086
+Comuníqueme con el Sr. Swenson
+en el Pentágono.
+
+616
+00:45:11,144 --> 00:45:12,702
+Habla Swenson.
+
+617
+00:45:12,779 --> 00:45:14,838
+Señor secretario,
+debo tomar una decisión.
+
+618
+00:45:14,914 --> 00:45:16,506
+Es mi decisión, y yo la tomaré...
+
+619
+00:45:16,583 --> 00:45:19,518
+pero quiero su consejo y el de su gente
+y lo necesito rápido.
+
+620
+00:45:22,755 --> 00:45:24,690
+El Presidente dice
+que quizá ordene a nuestros aviones...
+
+621
+00:45:24,758 --> 00:45:26,521
+que derriben al Grupo 6.
+
+622
+00:45:28,596 --> 00:45:30,029
+Quiere nuestra opinión.
+
+623
+00:45:30,097 --> 00:45:34,033
+Me opongo, señor,
+porque es algo prematuro.
+
+624
+00:45:34,101 --> 00:45:37,036
+Nuestros aviones aún no llegan
+a territorio soviético.
+
+625
+00:45:37,104 --> 00:45:39,072
+Todavía están a cientos de kilómetros.
+
+626
+00:45:39,139 --> 00:45:41,539
+Debemos hacerlo ahora
+antes de que sea tarde.
+
+627
+00:45:41,609 --> 00:45:43,702
+Quizá ya sea muy tarde.
+
+628
+00:45:43,777 --> 00:45:46,712
+Esos aviones se alejaron de los
+bombarderos al recibir la orden.
+
+629
+00:45:46,780 --> 00:45:48,839
+Han estado volando
+en dirección contraria.
+
+630
+00:45:48,916 --> 00:45:52,044
+- Son más rápidos que los Vindicator.
+- No por mucho.
+
+631
+00:45:52,119 --> 00:45:55,646
+- No estoy seguro de que los alcancen.
+- Que usen los quemadores auxiliares.
+
+632
+00:45:55,723 --> 00:45:58,386
+- Eso aumentará su velocidad.
+- Y agotará su combustible.
+
+633
+00:45:58,460 --> 00:46:01,054
+No podrán regresar.
+Caerán en el océano.
+
+634
+00:46:01,129 --> 00:46:04,394
+- Debemos intentarlo.
+- ¿Y si los alcanzan?
+
+635
+00:46:04,466 --> 00:46:07,060
+¿Por qué atacarán?
+¿No pueden hacer alguna seña?
+
+636
+00:46:07,135 --> 00:46:09,433
+Nuestros hombres fueron entrenados para
+esperar cualquier cosa del enemigo...
+
+637
+00:46:09,504 --> 00:46:12,405
+incluso el que envíen aviones de caza
+disfrazados como nuestros.
+
+638
+00:46:12,474 --> 00:46:14,237
+Son buenos hombres.
+Nos encargamos de eso.
+
+639
+00:46:14,309 --> 00:46:17,244
+Si sus órdenes son atacar, la única
+forma de detenerlos es derribándolos.
+
+640
+00:46:17,312 --> 00:46:19,906
+No tenemos alternativa.
+
+641
+00:46:19,981 --> 00:46:21,744
+En este momento, los rusos
+están observando sus tableros...
+
+642
+00:46:21,816 --> 00:46:23,750
+tratando de deducir qué tramamos.
+
+643
+00:46:23,818 --> 00:46:28,084
+Si no los convencemos de que es
+un accidente que queremos corregir...
+
+644
+00:46:28,156 --> 00:46:31,854
+tendremos una situación
+con la que nadie contó...
+
+645
+00:46:31,927 --> 00:46:33,918
+y que sólo un lunático desearía.
+
+646
+00:46:36,432 --> 00:46:38,423
+Señor presidente...
+
+647
+00:46:38,501 --> 00:46:41,129
+opinamos que envíe
+a los aviones de caza.
+
+648
+00:46:41,203 --> 00:46:43,137
+Gracias.
+
+649
+00:46:47,877 --> 00:46:50,437
+Con el general Bogan, por favor.
+
+650
+00:47:00,890 --> 00:47:02,323
+¿Sí, señor presidente?
+
+651
+00:47:02,391 --> 00:47:05,953
+Los aviones deben alcanzar
+a los Vindicator...
+
+652
+00:47:06,029 --> 00:47:08,463
+y si es necesario, deben derribarlos.
+
+653
+00:47:09,866 --> 00:47:12,767
+Señor, será necesario.
+
+654
+00:47:12,836 --> 00:47:14,963
+Lo sé, general.
+Dé la orden.
+
+655
+00:47:25,348 --> 00:47:28,476
+Coronel, ordene a los aviones
+atacar al Grupo 6.
+
+656
+00:47:30,220 --> 00:47:34,316
+No tienen posibilidad
+de alcanzarlos, señor.
+
+657
+00:47:34,391 --> 00:47:37,155
+Es una orden.
+
+658
+00:47:37,227 --> 00:47:40,322
+Pero caerán en el Océano Ártico,
+general.
+
+659
+00:47:40,398 --> 00:47:42,525
+Se congelarán
+antes de abrir sus paracaídas.
+
+660
+00:47:44,235 --> 00:47:47,329
+Coronel, tome el teléfono
+y dé esa orden.
+
+661
+00:47:47,405 --> 00:47:50,169
+Cada segundo que espere
+los aleja más.
+
+662
+00:47:52,310 --> 00:47:54,335
+Los mataremos.
+No sobrevivirán.
+
+663
+00:47:55,413 --> 00:47:56,880
+<i>Aquí Dirección de Aviones de Caza.</i>
+
+664
+00:47:56,948 --> 00:47:59,781
+<i>Nos comunicamos oralmente
+con Tango-Alfa-Uno.</i>
+
+665
+00:47:59,851 --> 00:48:03,184
+<i>Puede hablar con ellos en el canal 7,
+banda sencilla.</i>
+
+666
+00:48:06,758 --> 00:48:09,022
+¿Hablo en clave o claro?
+
+667
+00:48:09,093 --> 00:48:10,856
+Hable claro.
+
+668
+00:48:12,231 --> 00:48:15,064
+Tango-Alfa-Uno,
+habla el coronel Cascio en Último Uno.
+
+669
+00:48:15,134 --> 00:48:17,864
+<i>Aquí Tango-Alfa-Uno.
+Lo oigo perfectamente.</i>
+
+670
+00:48:17,936 --> 00:48:19,870
+El Grupo 6 atravesó
+el límite de seguridad...
+
+671
+00:48:19,938 --> 00:48:21,997
+y va en rumbo a atacar Moscú.
+
+672
+00:48:22,074 --> 00:48:24,440
+Es un error.
+
+673
+00:48:24,510 --> 00:48:27,570
+Usen quemadores auxiliares,
+alcancen y ataquen al Grupo 6.
+
+674
+00:48:29,615 --> 00:48:31,048
+<i>Entendido.</i>
+
+675
+00:48:31,116 --> 00:48:34,882
+<i>Usar quemadores auxiliares,
+alcanzar y atacar al Grupo 6.</i>
+
+676
+00:48:36,455 --> 00:48:38,389
+<i>¿Oyeron la orden?</i>
+
+677
+00:48:39,958 --> 00:48:43,416
+<i>¿Alcanzar a los Vindicator?
+¿A quién quieren engañar?</i>
+
+678
+00:48:43,495 --> 00:48:47,262
+<i>Sólo volamos 80 k/h más rápido.
+Ellos van a la mitad del camino.</i>
+
+679
+00:48:47,333 --> 00:48:49,426
+<i>Ya lo oyeron.
+Usaremos quemadores auxiliares.</i>
+
+680
+00:48:49,502 --> 00:48:52,801
+<i>¿Yvolaremos este avión con saliva?</i>
+
+681
+00:48:52,872 --> 00:48:56,569
+<i>Se nos acabará el combustible,
+y ellos estarán a cientos de km.</i>
+
+682
+00:48:56,643 --> 00:48:59,407
+<i>- Caray, eso es organización.
+- Dejen de hablar.</i>
+
+683
+00:48:59,479 --> 00:49:02,778
+<i>Desperdiciamos tiempo. Cuando lo
+indique, usen quemadores auxiliares.</i>
+
+684
+00:49:02,849 --> 00:49:07,286
+<i>Cinco, cuatro, tres, dos, uno, ahora.</i>
+
+685
+00:49:14,994 --> 00:49:17,588
+¿Alerto a Rescate Aeronaval?
+
+686
+00:49:21,168 --> 00:49:26,697
+No tiene caso. Muestre a los aviones
+en el tablero en escala más amplia.
+
+687
+00:49:26,774 --> 00:49:28,207
+Sí, señor.
+
+688
+00:49:36,016 --> 00:49:37,950
+Hermoso.
+
+689
+00:49:43,858 --> 00:49:45,792
+<i>Los aviones de caza van en camino,
+señor.</i>
+
+690
+00:49:48,395 --> 00:49:49,828
+Gracias.
+
+691
+00:49:52,701 --> 00:49:56,137
+Buck, esperemos que esto termine
+en los siguientes minutos.
+
+692
+00:49:56,204 --> 00:50:00,300
+Pero si no,
+llegaremos a conocernos muy bien.
+
+693
+00:50:00,375 --> 00:50:04,471
+Escuche todas mis conversaciones,
+trate de entender cómo pienso.
+
+694
+00:50:04,546 --> 00:50:07,310
+- Podría ser útil.
+- Sí, señor.
+
+695
+00:50:10,752 --> 00:50:14,313
+- ¿Cómo notó al general Bogan?
+- ¿Señor?
+
+696
+00:50:14,389 --> 00:50:18,883
+¿Parecía preocupado?
+¿Seguro? ¿Asustado?
+
+697
+00:50:18,960 --> 00:50:21,360
+Asustado no.
+
+698
+00:50:21,429 --> 00:50:22,987
+Supongo que un poco preocupado.
+
+699
+00:50:23,064 --> 00:50:24,656
+Bogan es un piloto veterano...
+
+700
+00:50:24,733 --> 00:50:26,497
+pero no le teme
+a todo este equipo nuevo.
+
+701
+00:50:26,569 --> 00:50:29,333
+Si él está preocupado,
+yo estoy preocupado.
+
+702
+00:50:29,405 --> 00:50:32,340
+¿Conoce al Sr. Swenson,
+el Secretario de Defensa?
+
+703
+00:50:32,408 --> 00:50:34,308
+He leído sobre él, señor.
+
+704
+00:50:34,377 --> 00:50:37,346
+Su voz no le dará información.
+Es duro como piedra.
+
+705
+00:50:37,413 --> 00:50:42,680
+Pero le hacemos caso, Buck.
+Si da consejo, lo seguimos.
+
+706
+00:50:42,752 --> 00:50:44,185
+Sí, señor.
+
+707
+00:50:50,293 --> 00:50:52,193
+Comuníqueme a la sala de conferencia
+de guerra en el Pentágono...
+
+708
+00:50:52,261 --> 00:50:54,855
+y ponga al general Bogan en Omaha
+en conferencia conmigo.
+
+709
+00:50:54,931 --> 00:50:56,364
+<i>Sí, señor.</i>
+
+710
+00:50:58,601 --> 00:51:00,194
+<i>Listo, señor.</i>
+
+711
+00:51:00,270 --> 00:51:02,670
+- ¿Sr. Swenson?
+- Sí, Sr. presidente.
+
+712
+00:51:02,739 --> 00:51:07,199
+Si nuestros aviones derriban
+a los Vindicator, lo peor habrá pasado.
+
+713
+00:51:07,277 --> 00:51:09,643
+Al menos para nosotros.
+
+714
+00:51:09,713 --> 00:51:13,046
+Quiero que la gente considere
+lo que haremos si no los derribamos.
+
+715
+00:51:13,116 --> 00:51:16,517
+Lo pondré en el intercomunicador
+para que lo oigamos aquí y en Omaha.
+
+716
+00:51:16,586 --> 00:51:20,044
+El Gral. Bogan está con el Sr. Knapp
+de "Amalgamated Electronics"...
+
+717
+00:51:20,123 --> 00:51:22,387
+<i>y con el diputado Raskob.</i>
+
+718
+00:51:22,459 --> 00:51:26,395
+Tienen mi permiso para escuchar
+y decir lo que quieran.
+
+719
+00:51:26,463 --> 00:51:28,795
+<i>Correcto, señor.</i>
+
+720
+00:51:30,701 --> 00:51:35,401
+Caballeros, debemos responder
+cuatro preguntas y no tenemos tiempo.
+
+721
+00:51:35,473 --> 00:51:38,931
+Primera: ¿Qué pasó?
+Segunda: ¿Qué haremos al respecto?
+
+722
+00:51:39,010 --> 00:51:40,944
+Tercera: ¿Qué pensarán los rusos
+sobre todo esto?
+
+723
+00:51:41,012 --> 00:51:44,004
+Y cuarta:
+¿Qué harán al respecto?
+
+724
+00:51:44,082 --> 00:51:47,415
+Mantengan la conversación
+en estos puntos.
+
+725
+00:51:47,485 --> 00:51:50,181
+Falla mecánica.
+
+726
+00:51:50,254 --> 00:51:52,916
+- Eso pasó.
+- ¿Una falla mecánica doble?
+
+727
+00:51:52,991 --> 00:51:56,256
+- ¿Sabe cuáles son las probabilidades?
+- Quizá alguien enloqueció.
+
+728
+00:51:56,327 --> 00:52:00,423
+No importa.
+Algo falló: un hombre, una máquina.
+
+729
+00:52:00,498 --> 00:52:02,762
+Estaba destinado a suceder
+y sucedió.
+
+730
+00:52:02,834 --> 00:52:07,033
+Quizá nunca sabremos qué o por qué.
+Ahora no importa.
+
+731
+00:52:07,106 --> 00:52:09,040
+<i>- Sr. Secretario.
+- Sí, general Bogan.</i>
+
+732
+00:52:09,108 --> 00:52:11,872
+El Sr. Knapp sabe tanto
+de equipo electrónico como cualquiera.
+
+733
+00:52:11,944 --> 00:52:13,206
+<i>Él quisiera decir algo.</i>
+
+734
+00:52:13,278 --> 00:52:16,805
+Mientras más complejo
+es un sistema electrónico...
+
+735
+00:52:16,882 --> 00:52:19,043
+es más propenso a accidentes.
+
+736
+00:52:19,118 --> 00:52:21,609
+<i>- Tarde o temprano, falla.
+- ¿Qué falla?</i>
+
+737
+00:52:21,687 --> 00:52:25,248
+Un transistor revienta.
+Un condensador se quema.
+
+738
+00:52:25,324 --> 00:52:28,122
+<i>A veces se cansan, como la gente.</i>
+
+739
+00:52:28,193 --> 00:52:31,162
+El Sr. Knapp pasa por alto un factor.
+
+740
+00:52:31,230 --> 00:52:33,323
+Los humanos supervisan las máquinas.
+
+741
+00:52:33,399 --> 00:52:37,961
+Aun si la máquina falla, el humano
+siempre puede corregir el error.
+
+742
+00:52:38,037 --> 00:52:39,630
+Ojalá tuviera razón.
+
+743
+00:52:39,706 --> 00:52:43,142
+El hecho es que las máquinas
+trabajan tan rápido...
+
+744
+00:52:43,209 --> 00:52:44,972
+son tan complejas...
+
+745
+00:52:45,045 --> 00:52:48,139
+y los errores son tan sutiles...
+
+746
+00:52:48,214 --> 00:52:50,307
+<i>que muy seguido,
+un ser humano no puede saber...</i>
+
+747
+00:52:50,383 --> 00:52:52,613
+<i>si la máquina está mintiendo
+o si dice la verdad.</i>
+
+748
+00:52:52,685 --> 00:52:56,644
+Quizá esta vez
+no hubo ninguna falla.
+
+749
+00:52:56,723 --> 00:52:59,988
+Quizá los rusos disfrazaron
+la posición real del Grupo 6.
+
+750
+00:53:00,060 --> 00:53:02,790
+Quizá el Grupo 6 está volando
+de regreso en este momento.
+
+751
+00:53:02,862 --> 00:53:04,989
+¿Y qué vemos en el tablero?
+¿Auroras boreales?
+
+752
+00:53:05,065 --> 00:53:08,432
+Quizá un grupo de aviones soviéticos
+quieren convencernos...
+
+753
+00:53:08,501 --> 00:53:10,162
+<i>que accidentalmente lanzamos
+un grupo de bombarderos.</i>
+
+754
+00:53:10,236 --> 00:53:12,932
+- ¿Con qué propósito?
+- Como excusa para responder.
+
+755
+00:53:13,007 --> 00:53:14,998
+Si quisieran hacerlo,
+no necesitarían una excusa.
+
+756
+00:53:15,076 --> 00:53:17,874
+<i>- Simplemente atacarían.
+- Nos obligarían a ocupar...</i>
+
+757
+00:53:17,945 --> 00:53:21,346
+<i>a nuestra primera línea de defensa
+en matar a nuestros hombres.</i>
+
+758
+00:53:21,415 --> 00:53:23,508
+¡No estoy de acuerdo con eso!
+
+759
+00:53:23,584 --> 00:53:27,281
+Debemos asumir que es nuestro accidente
+y no su plan.
+
+760
+00:53:27,354 --> 00:53:30,016
+Estoy de acuerdo, general.
+¿Sí, Saunders?
+
+761
+00:53:30,091 --> 00:53:33,026
+Es un reporte que los rusos
+enviaron siete grupos de bombarderos.
+
+762
+00:53:33,094 --> 00:53:35,494
+- ¿Eso es poco usual?
+- Para ellos es normal...
+
+763
+00:53:35,563 --> 00:53:38,191
+- como para nosotros.
+- ¿Qué rumbo llevan?
+
+764
+00:53:38,265 --> 00:53:42,224
+Patrones de rondas normales
+dentro de sus fronteras.
+
+765
+00:53:42,303 --> 00:53:45,295
+Tienen un número anormalmente grande
+de aviones de caza en el aire, señor.
+
+766
+00:53:45,372 --> 00:53:46,863
+Casi la mitad de sus aviones de caza.
+
+767
+00:53:46,942 --> 00:53:50,309
+Tienen el mismo problema con el Grupo 6
+que nosotros tuvimos con el OVNI.
+
+768
+00:53:50,378 --> 00:53:53,370
+No saben qué es,
+por qué está ahí o a quién pertenece.
+
+769
+00:53:53,448 --> 00:53:56,042
+Supongo que ellos saben todo
+respecto al Grupo 6.
+
+770
+00:53:56,118 --> 00:53:58,552
+Lo vieron volar hasta el límite.
+Lo han visto antes.
+
+771
+00:53:58,620 --> 00:54:00,315
+Conocen el procedimiento.
+
+772
+00:54:00,388 --> 00:54:02,879
+<i>- Hasta entonces, no había problema.
+- Y cuando los vieron seguir--</i>
+
+773
+00:54:02,958 --> 00:54:05,392
+Enviaron a sus aviones de caza
+sólo por si acaso.
+
+774
+00:54:05,460 --> 00:54:08,156
+No creo que hagan nada
+a menos que crucen su frontera.
+
+775
+00:54:08,230 --> 00:54:10,460
+Estoy de acuerdo.
+
+776
+00:54:10,532 --> 00:54:12,796
+Entonces depende
+de los aviones de caza.
+
+777
+00:54:16,805 --> 00:54:18,966
+Yo opino que no harán nada.
+
+778
+00:54:20,008 --> 00:54:21,874
+No se quedarán ahí esperando,
+profesor.
+
+779
+00:54:21,944 --> 00:54:25,243
+Si nuestros bombarderos cruzan,
+los rusos se rendirán.
+
+780
+00:54:25,314 --> 00:54:27,782
+¿Quién es ese profesor, Sr. secretario?
+¿Qué hace ahí?
+
+781
+00:54:27,850 --> 00:54:31,342
+El profesor Groeteschele es
+consejero civil del Pentágono, general.
+
+782
+00:54:31,420 --> 00:54:34,412
+¿Puede explicar su aseveración,
+profesor?
+
+783
+00:54:34,490 --> 00:54:37,254
+El objetivo ruso es dominar el mundo.
+
+784
+00:54:37,326 --> 00:54:39,419
+Ellos creen que el comunismo
+prevalecerá con el tiempo...
+
+785
+00:54:39,495 --> 00:54:41,895
+si la Unión Soviética
+permanece intacta.
+
+786
+00:54:41,964 --> 00:54:44,797
+Saben que una guerra dejaría a la
+Unión Soviética totalmente destruida.
+
+787
+00:54:44,867 --> 00:54:46,300
+Por lo tanto, se rendirían.
+
+788
+00:54:46,369 --> 00:54:49,202
+¿Y si ellos creen
+que pueden derrotarnos primero?
+
+789
+00:54:49,272 --> 00:54:51,433
+Ellos saben que quizá tengamos
+un "sistema del fin del mundo":
+
+790
+00:54:51,507 --> 00:54:55,069
+misiles que se activen días o semanas
+después de que la guerra termine...
+
+791
+00:54:55,145 --> 00:54:58,774
+y destruyan al enemigo incluso
+después de que él nos haya destruido.
+
+792
+00:54:58,849 --> 00:55:01,113
+Quizá crean que ni los capitalistas
+están tan locos...
+
+793
+00:55:01,185 --> 00:55:03,779
+como para matar a todos
+después de haber muerto.
+
+794
+00:55:03,854 --> 00:55:06,322
+Son fanáticos marxistas,
+no gente normal.
+
+795
+00:55:06,390 --> 00:55:09,120
+No razonan igual que usted,
+general Black.
+
+796
+00:55:09,193 --> 00:55:12,629
+No los motivan las emociones humanas
+como la ira y la piedad.
+
+797
+00:55:12,696 --> 00:55:14,288
+Son máquinas calculadoras.
+
+798
+00:55:14,364 --> 00:55:16,958
+Verán el balance general
+y verán que no pueden ganar.
+
+799
+00:55:17,034 --> 00:55:18,558
+Entonces, ¿qué sugiere que hagamos?
+
+800
+00:55:20,871 --> 00:55:23,931
+- Nada.
+- ¿Nada?
+
+801
+00:55:24,007 --> 00:55:25,474
+Los rusos se rendirán...
+
+802
+00:55:25,542 --> 00:55:28,011
+y la amenaza del comunismo
+terminará para siempre.
+
+803
+00:55:28,079 --> 00:55:30,570
+Ésa es una sandez.
+No se engañe.
+
+804
+00:55:30,648 --> 00:55:32,639
+Hay generales rusos que reaccionarán
+igual que yo:
+
+805
+00:55:32,717 --> 00:55:34,651
+la mejor defensa
+es una buena ofensiva.
+
+806
+00:55:34,719 --> 00:55:38,416
+Si ven que se acercan los problemas,
+atacarán sin importarles qué dijo Marx.
+
+807
+00:55:38,489 --> 00:55:40,821
+Sr. secretario, estoy convencido...
+
+808
+00:55:40,892 --> 00:55:45,124
+que los rusos se rendirán
+cuando sepan que bombardearemos Moscú.
+
+809
+00:55:45,196 --> 00:55:49,326
+Saben que hagan lo que hagan,
+no escaparán a la destrucción.
+
+810
+00:55:49,400 --> 00:55:51,664
+¿No se da cuenta, señor?
+Es nuestra oportunidad.
+
+811
+00:55:51,736 --> 00:55:54,000
+Nunca hubiéramos hecho
+el primer movimiento deliberadamente...
+
+812
+00:55:54,072 --> 00:55:56,870
+pero el Grupo 6 lo hizo por nosotros
+accidentalmente.
+
+813
+00:55:56,941 --> 00:55:59,671
+Debemos aprovecharlo.
+La historia lo exige.
+
+814
+00:55:59,744 --> 00:56:02,942
+<i>Debemos aconsejar al Presidente
+que no haga volver a esos aviones.</i>
+
+815
+00:56:05,651 --> 00:56:07,084
+Se les acaba el combustible.
+
+816
+00:56:12,491 --> 00:56:14,254
+Está disparando de cualquier manera.
+
+817
+00:56:44,291 --> 00:56:46,816
+Ahí va el número dos.
+
+818
+00:57:27,134 --> 00:57:30,797
+Señor presidente,
+los aviones de caza fracasaron.
+
+819
+00:57:31,872 --> 00:57:33,999
+<i>Cayeron al mar.</i>
+
+820
+00:57:41,817 --> 00:57:44,342
+¿Qué probabilidad tienen
+nuestros bombarderos de llegar a Moscú?
+
+821
+00:57:47,456 --> 00:57:50,118
+La hemos calculado cien veces:
+
+822
+00:57:50,192 --> 00:57:54,492
+su capacidad de defensa es menor que
+lo que nuestros aviones pueden hacer.
+
+823
+00:57:54,563 --> 00:57:59,091
+Los Vindicator son tan rápidos
+que los rusos no podrán defenderse.
+
+824
+00:58:01,603 --> 00:58:03,901
+Uno o dos bombarderos cruzarán.
+
+825
+00:58:06,641 --> 00:58:08,074
+Gracias.
+
+826
+00:58:13,382 --> 00:58:16,318
+Hablaré con el Presidente
+del Consejo soviético ahora.
+
+827
+00:58:17,653 --> 00:58:19,416
+Me traducirá lo que me diga.
+
+828
+00:58:19,489 --> 00:58:21,423
+Él tendrá a su propio traductor
+diciéndole lo que yo digo.
+
+829
+00:58:21,491 --> 00:58:23,982
+Pero requiero algo más de usted.
+
+830
+00:58:24,060 --> 00:58:28,292
+- Sí, señor, lo que pueda hacer.
+- El Presidente soviético es sincero...
+
+831
+00:58:28,364 --> 00:58:33,028
+pero a veces la voz de una persona
+dice más que sus palabras.
+
+832
+00:58:33,102 --> 00:58:36,265
+Son palabras en un idioma
+que no significan lo mismo en el otro.
+
+833
+00:58:36,339 --> 00:58:38,136
+- ¿Me entiende?
+- Creo que sí, señor.
+
+834
+00:58:38,207 --> 00:58:40,732
+Es crucial que el Presidente
+del Consejo y yo nos entendamos.
+
+835
+00:58:40,810 --> 00:58:42,243
+No tengo que decirle cuánto.
+
+836
+00:58:42,311 --> 00:58:46,577
+Así que quiero saber qué dice
+y lo que Ud. cree que siente.
+
+837
+00:58:46,649 --> 00:58:49,813
+Cualquier inflexión en su voz,
+cualquier tono...
+
+838
+00:58:49,887 --> 00:58:53,050
+cualquier emoción
+que agregue a sus palabras...
+
+839
+00:58:53,123 --> 00:58:54,852
+quiero que usted me avise.
+
+840
+00:58:54,925 --> 00:58:56,654
+- Sí, señor. Haré lo que pueda.
+- Sé que lo hará.
+
+841
+00:58:56,727 --> 00:58:58,957
+Es todo lo que podemos hacer.
+
+842
+00:58:59,029 --> 00:59:01,429
+No tema decir lo que piensa.
+
+843
+00:59:01,498 --> 00:59:03,432
+No tema que esto sea
+demasiado grande para usted.
+
+844
+00:59:05,102 --> 00:59:08,697
+Es grande, pero depende
+de lo que haga cada uno de nosotros.
+
+845
+00:59:10,073 --> 00:59:12,041
+Es la primera lección de historia.
+
+846
+00:59:14,545 --> 00:59:16,604
+Ahora hablaré con Moscú.
+
+847
+00:59:59,325 --> 01:00:00,792
+<i>Es el Presidente del Consejo, señor.</i>
+
+848
+01:00:00,860 --> 01:00:04,318
+Habla el Presidente
+de los Estados Unidos.
+
+849
+01:00:04,396 --> 01:00:06,830
+¿Me escucha claramente?
+
+850
+01:00:09,168 --> 01:00:13,070
+Muy bien, Sr. presidente.
+¿Cómo está?
+
+851
+01:00:13,138 --> 01:00:16,904
+Le hablo por un asunto
+de gran urgencia.
+
+852
+01:00:16,976 --> 01:00:19,877
+Espero que resulte ser
+un asunto menor...
+
+853
+01:00:19,945 --> 01:00:22,243
+pero es la primera vez que sucede.
+
+854
+01:00:22,314 --> 01:00:24,179
+Si se interpreta mal,
+podría ser--
+
+855
+01:00:24,250 --> 01:00:27,742
+¿Tiene que ver con los aviones...
+
+856
+01:00:27,820 --> 01:00:29,448
+que detectamos con rumbo a Rusia?
+
+857
+01:00:29,523 --> 01:00:31,457
+Sí, Sr. presidente.
+
+858
+01:00:33,860 --> 01:00:38,797
+Supongo que es otro de sus vuelos
+de reconocimiento fuera de rumbo.
+
+859
+01:00:40,033 --> 01:00:42,968
+Señor presidente,
+les hemos advertido repetidamente...
+
+860
+01:00:43,036 --> 01:00:45,004
+que estos vuelos constantes
+de aviones armados--
+
+861
+01:00:45,071 --> 01:00:48,529
+Esto es un error grave.
+
+862
+01:00:48,608 --> 01:00:50,542
+Eso es, un error.
+
+863
+01:00:53,947 --> 01:00:57,508
+Muy bien.
+Hábleme del error.
+
+864
+01:00:57,584 --> 01:01:01,452
+Un grupo de bombarderos armados
+con dos bombas de 20 megatones...
+
+865
+01:01:01,521 --> 01:01:03,547
+se dirige a su país.
+
+866
+01:01:06,627 --> 01:01:09,494
+Observaremos con gran interés...
+
+867
+01:01:09,564 --> 01:01:10,997
+mientras los hace regresar.
+
+868
+01:01:11,065 --> 01:01:13,556
+Hasta ahora no hemos podido
+hacerlos regresar.
+
+869
+01:01:18,739 --> 01:01:22,106
+¿Los pilotos de esos aviones
+son dementes?
+
+870
+01:01:22,176 --> 01:01:25,634
+No estamos seguros.
+Podría ser una falla mecánica.
+
+871
+01:01:25,713 --> 01:01:28,079
+Sólo puedo decirle que es un accidente.
+
+872
+01:01:28,149 --> 01:01:32,017
+No es un intento de provocar guerra.
+No es parte de un ataque general.
+
+873
+01:01:35,489 --> 01:01:39,085
+¿Cómo sé que no tienen
+cientos de aviones más...
+
+874
+01:01:40,329 --> 01:01:42,763
+volando bajo para que nuestro radar
+no los detecte?
+
+875
+01:01:44,132 --> 01:01:46,828
+Porque espero demostrarle
+que es un accidente--
+
+876
+01:01:46,902 --> 01:01:48,494
+que nosotros somos los responsables...
+
+877
+01:01:48,570 --> 01:01:50,663
+y que hacemos todo lo posible
+por corregirlo.
+
+878
+01:01:53,375 --> 01:01:54,808
+- Continúe.
+- Debió haber visto...
+
+879
+01:01:54,876 --> 01:01:57,572
+que enviamos aviones de caza
+para derribar a los bombarderos.
+
+880
+01:02:00,048 --> 01:02:03,449
+¿Aviones estadounidenses para
+derribar bombarderos estadounidenses?
+
+881
+01:02:03,518 --> 01:02:04,746
+Eso es correcto.
+
+882
+01:02:06,521 --> 01:02:08,682
+- ¿Y usted dio esa orden?
+- Sí.
+
+883
+01:02:11,361 --> 01:02:14,296
+¿Cómo sé que los aviones
+sencillamente no volaron...
+
+884
+01:02:14,364 --> 01:02:17,856
+a una baja altitud
+para escapar a nuestro radar?
+
+885
+01:02:17,934 --> 01:02:20,459
+En nuestro tablero, la medida
+sólo podría ser interpretada...
+
+886
+01:02:20,536 --> 01:02:22,299
+como aviones fuera de control.
+
+887
+01:02:22,372 --> 01:02:24,704
+Ustedes tienen el mismo equipo
+que nosotros. ¿Qué les indicó?
+
+888
+01:02:27,644 --> 01:02:31,045
+No nos indica qué está pensando usted,
+Sr. presidente.
+
+889
+01:02:31,114 --> 01:02:32,638
+Yo se lo estoy diciendo.
+
+890
+01:02:34,651 --> 01:02:36,346
+¿Y me pide que le crea?
+
+891
+01:02:36,419 --> 01:02:37,716
+Debe creerme.
+
+892
+01:02:39,222 --> 01:02:41,690
+Pide que le crea
+en un momento extraño.
+
+893
+01:02:41,758 --> 01:02:43,784
+Si no confiamos ahora
+el uno en el otro...
+
+894
+01:02:43,861 --> 01:02:45,852
+quizá no haya otra oportunidad.
+
+895
+01:02:49,099 --> 01:02:52,557
+Vimos a sus aviones caer al mar.
+
+896
+01:02:54,505 --> 01:02:57,269
+Quería oír su explicación...
+
+897
+01:02:58,609 --> 01:03:00,736
+y saber si usted había dado la orden.
+
+898
+01:03:03,347 --> 01:03:06,874
+Es difícil ordenar a los hombres
+que mueran, ¿no?
+
+899
+01:03:06,950 --> 01:03:08,042
+Lo es.
+
+900
+01:03:11,555 --> 01:03:16,288
+Señor, alguien trata de convencerlo
+que es un truco.
+
+901
+01:03:16,360 --> 01:03:18,352
+Quieren que contraataque cuanto antes.
+
+902
+01:03:20,331 --> 01:03:24,028
+El espacio aéreo soviético
+aún no ha sido violado.
+
+903
+01:03:25,670 --> 01:03:28,070
+Pero si sucede, estaremos obligados
+a derribar sus bombarderos.
+
+904
+01:03:29,374 --> 01:03:33,367
+Y luego entraremos en alerta máxima
+con nuestros misiles y aviones.
+
+905
+01:03:33,445 --> 01:03:36,710
+Lo entiendo. Espero que puedan derribar
+a nuestros bombarderos.
+
+906
+01:03:38,183 --> 01:03:41,675
+Pero le pido que no haga nada
+que no pueda ser anulado.
+
+907
+01:03:44,222 --> 01:03:46,156
+Sabe que debemos protegernos.
+
+908
+01:03:46,224 --> 01:03:49,318
+Y sabe que si Uds. lanzan misiles,
+nosotros debemos hacer lo mismo.
+
+909
+01:03:49,394 --> 01:03:52,387
+Si eso sucede,
+quedará muy poco del mundo.
+
+910
+01:03:55,167 --> 01:03:56,794
+Entiendo.
+
+911
+01:03:56,869 --> 01:03:58,803
+¿Hay algo más que desee decir?
+
+912
+01:03:58,871 --> 01:04:00,736
+Quiero hacer una sugerencia.
+
+913
+01:04:01,741 --> 01:04:03,766
+Tendré una línea telefónica abierta...
+
+914
+01:04:03,843 --> 01:04:05,606
+entre nuestra central en Omaha...
+
+915
+01:04:05,678 --> 01:04:08,476
+y sus oficiales similares
+en la Unión Soviética.
+
+916
+01:04:08,547 --> 01:04:10,606
+Haremos lo que podamos para ayudarlos.
+
+917
+01:04:13,252 --> 01:04:14,742
+No necesitamos su ayuda.
+
+918
+01:04:14,820 --> 01:04:18,256
+Somos perfectamente capaces
+de defender a nuestro país.
+
+919
+01:04:18,324 --> 01:04:22,283
+Como desee, pero debo decirle
+lo que me dice mi gente.
+
+920
+01:04:22,361 --> 01:04:24,227
+Sin importar lo que hagan...
+
+921
+01:04:24,297 --> 01:04:27,357
+al menos uno de nuestros aviones
+alcanzará el objetivo.
+
+922
+01:04:29,169 --> 01:04:30,431
+¿Cuál es el objetivo?
+
+923
+01:04:30,504 --> 01:04:31,664
+Moscú.
+
+924
+01:04:34,407 --> 01:04:37,399
+Volveré a llamarle cuando vea
+qué lograron nuestros aviones.
+
+925
+01:05:32,634 --> 01:05:35,034
+¿La formación se mantiene,
+Sullivan?
+
+926
+01:05:36,371 --> 01:05:38,305
+Todos están en línea, señor.
+
+927
+01:05:38,373 --> 01:05:40,864
+- ¿Cuánto falta para la frontera?
+- Dos minutos.
+
+928
+01:05:43,846 --> 01:05:45,837
+Será mejor que nos separemos.
+
+929
+01:05:46,982 --> 01:05:50,611
+El avión número seis es el líder.
+Flynn.
+
+930
+01:05:50,686 --> 01:05:52,085
+<i>Estoy aquí, coronel.</i>
+
+931
+01:05:56,191 --> 01:05:57,954
+<i>- A trabajar.
+- Entendido.</i>
+
+932
+01:05:58,694 --> 01:06:00,787
+Muestre los aviones de caza
+soviéticos.
+
+933
+01:06:01,964 --> 01:06:03,989
+Amplíe la escala
+de la frontera rusa.
+
+934
+01:06:09,272 --> 01:06:11,934
+- Ya sucedió.
+- Cruzaron la frontera.
+
+935
+01:06:14,510 --> 01:06:16,740
+Bueno, Buck,
+estamos en territorio soviético.
+
+936
+01:06:21,217 --> 01:06:23,811
+Técnicamente,
+estamos en estado de guerra.
+
+937
+01:06:28,925 --> 01:06:31,393
+Comuníqueme con Interpretación
+de Defensa Enemiga.
+
+938
+01:06:31,461 --> 01:06:33,520
+<i>Interpretación de Defensa Enemiga,
+general Bogan.</i>
+
+939
+01:06:33,596 --> 01:06:34,961
+¿Cómo ve la situación?
+
+940
+01:06:35,031 --> 01:06:36,896
+<i>Nuestro avión número seis,
+que lleva equipo defensivo...</i>
+
+941
+01:06:36,966 --> 01:06:38,901
+<i>y artefactos de camuflaje,
+es ahora el líder.</i>
+
+942
+01:06:38,969 --> 01:06:41,335
+<i>Yesas luces nuevas
+son señuelos que soltó.</i>
+
+943
+01:06:41,405 --> 01:06:43,202
+¿Los aviones de caza rusos
+lanzaron misiles?
+
+944
+01:06:43,274 --> 01:06:45,834
+<i>Aún no. Verá los misiles
+en su pantalla como pequeños puntos...</i>
+
+945
+01:06:45,910 --> 01:06:47,901
+<i>que aparecen repentinamente
+y luego desaparecen.</i>
+
+946
+01:06:47,978 --> 01:06:49,502
+<i>He ahí algunos.</i>
+
+947
+01:06:49,580 --> 01:06:51,309
+<i>Puede ver que los señuelos
+los confundieron.</i>
+
+948
+01:06:51,382 --> 01:06:53,509
+<i>Todavía no se están agrupando
+donde están los aviones reales.</i>
+
+949
+01:06:54,351 --> 01:06:57,752
+Quite los señuelos de la pantalla
+para que veamos sólo los aviones.
+
+950
+01:06:57,821 --> 01:06:59,550
+<i>Listo, general.</i>
+
+951
+01:07:00,658 --> 01:07:03,286
+<i>Siguen tras los señuelos.
+Nuestros muchachos no lo hacen fácil.</i>
+
+952
+01:07:03,360 --> 01:07:04,588
+Caray.
+
+953
+01:07:06,096 --> 01:07:07,859
+<i>Ya localizaron
+a uno de nuestros aviones.</i>
+
+954
+01:07:07,932 --> 01:07:10,230
+Derríbenlos. Derríbenlos.
+
+955
+01:07:23,381 --> 01:07:25,212
+¡Ya basta!
+
+956
+01:07:25,283 --> 01:07:27,808
+¡No es un maldito juego de fútbol!
+¡Recuérdenlo!
+
+957
+01:07:29,821 --> 01:07:31,812
+<i>Ese avión está en problemas.</i>
+
+958
+01:07:43,568 --> 01:07:46,094
+Parece que los soviéticos
+tienen un misil muy lento...
+
+959
+01:07:46,172 --> 01:07:49,039
+con un mayor rango
+del que pensábamos que tenían.
+
+960
+01:07:49,108 --> 01:07:51,474
+La poca velocidad
+hizo que nuestro misil calculara...
+
+961
+01:07:51,544 --> 01:07:53,341
+que eran aviones sin piloto
+o señuelos...
+
+962
+01:07:53,412 --> 01:07:55,744
+así que los ignoró
+y fue tras los aviones de caza.
+
+963
+01:07:57,149 --> 01:07:59,845
+Podemos compensarlo.
+El ajuste es menor.
+
+964
+01:08:05,891 --> 01:08:07,552
+<i>El Presidente del Consejo soviético
+está en la línea, señor.</i>
+
+965
+01:08:10,029 --> 01:08:11,860
+Sí, señor presidente.
+
+966
+01:08:14,533 --> 01:08:17,001
+Tenemos poco tiempo,
+Sr. presidente.
+
+967
+01:08:19,239 --> 01:08:20,706
+Su voz es diferente, señor.
+
+968
+01:08:22,175 --> 01:08:24,109
+No es una voz de enojo.
+Se suavizó.
+
+969
+01:08:25,345 --> 01:08:27,336
+¿Cómo utilizamos este tiempo?
+
+970
+01:08:28,648 --> 01:08:32,140
+Suena afligido, triste.
+
+971
+01:08:32,219 --> 01:08:34,346
+¿Cuánta suerte tienen
+sus aviones de caza?
+
+972
+01:08:36,590 --> 01:08:37,614
+¿Suerte?
+
+973
+01:08:38,458 --> 01:08:40,255
+Nada de suerte.
+
+974
+01:08:40,327 --> 01:08:42,318
+Sólo derribamos
+uno de sus bombarderos.
+
+975
+01:08:42,396 --> 01:08:44,387
+¿Y los otros cinco?
+
+976
+01:08:46,233 --> 01:08:47,928
+Quizá sí, quizá no.
+
+977
+01:08:49,569 --> 01:08:52,232
+Sus artefactos de camuflaje
+son mejores de lo que pensamos.
+
+978
+01:08:54,042 --> 01:08:56,169
+Aparecieron cientos de objetivos
+en el radar.
+
+979
+01:08:57,345 --> 01:09:00,314
+Quizá son señuelos.
+Quizá son bombarderos reales.
+
+980
+01:09:00,381 --> 01:09:03,043
+Muchos de mis expertos
+están convencidos que son reales.
+
+981
+01:09:04,652 --> 01:09:07,177
+Me piden que envíe
+a mis bombarderos ahora mismo.
+
+982
+01:09:07,255 --> 01:09:08,313
+¿Y por qué no lo hace?
+
+983
+01:09:10,024 --> 01:09:12,492
+- Buena pregunta.
+- ¿Por qué no ha contraatacado?
+
+984
+01:09:14,195 --> 01:09:16,288
+Me arriesgo a que Ud. sea sincero.
+
+985
+01:09:17,932 --> 01:09:20,560
+Mis generales no están contentos
+conmigo por esto...
+
+986
+01:09:20,635 --> 01:09:24,731
+y estoy seguro de que sus generales
+no están contentos con usted.
+
+987
+01:09:24,806 --> 01:09:26,798
+Pero hay tiempo para el sentido común.
+
+988
+01:09:29,344 --> 01:09:31,608
+Debo tener pruebas, Sr. presidente.
+
+989
+01:09:31,680 --> 01:09:33,773
+Ninguno de nosotros quiere guerra...
+
+990
+01:09:33,849 --> 01:09:37,012
+pero debemos estar convencidos
+de que esto es...
+
+991
+01:09:37,086 --> 01:09:38,451
+verdaderamente un error--
+
+992
+01:09:38,520 --> 01:09:41,546
+que sus intenciones no son hostiles
+y que es posible que haya paz.
+
+993
+01:09:41,623 --> 01:09:44,558
+Señor presidente,
+permítame preguntarle algo.
+
+994
+01:09:45,260 --> 01:09:48,593
+Antes de que nuestros aviones pasaran
+el límite de seguridad...
+
+995
+01:09:48,664 --> 01:09:51,360
+hubo un destello blanco
+en nuestro tablero.
+
+996
+01:09:52,367 --> 01:09:55,336
+Creemos que está relacionado
+con fallas mecánicas...
+
+997
+01:09:55,404 --> 01:09:57,235
+que pudieron activar
+su señal de ataque.
+
+998
+01:09:57,306 --> 01:10:00,799
+¿La interferencia de radio
+de ustedes pudo causar esto?
+
+999
+01:10:02,212 --> 01:10:04,703
+Están discutiendo con él, señor--
+
+1000
+01:10:04,781 --> 01:10:07,807
+le dicen que no le responda--
+la información es ultra secreta.
+
+1001
+01:10:07,884 --> 01:10:11,547
+¿No pudimos comunicarnos con nuestros
+aviones debido a su interferencia?
+
+1002
+01:10:14,124 --> 01:10:16,115
+No sé cuál interferencia.
+
+1003
+01:10:16,192 --> 01:10:17,250
+Creo que sí sabe.
+
+1004
+01:10:19,229 --> 01:10:22,323
+No podemos ser responsables
+por sus fallas mecánicas.
+
+1005
+01:10:22,398 --> 01:10:24,229
+¿Es posible?
+¿Pudo haber sucedido?
+
+1006
+01:10:28,872 --> 01:10:31,966
+Pidió pruebas, señor presidente.
+Ésta podría ser la prueba.
+
+1007
+01:10:33,577 --> 01:10:35,670
+Siguen discutiendo.
+
+1008
+01:10:36,313 --> 01:10:37,712
+Dicen que no confían en usted.
+
+1009
+01:10:38,749 --> 01:10:39,738
+Dicen que deben confiar en usted.
+
+1010
+01:10:41,118 --> 01:10:42,210
+Dicen que es un truco.
+
+1011
+01:10:42,953 --> 01:10:45,444
+Pagamos por nuestras sospechas mutuas.
+
+1012
+01:10:45,523 --> 01:10:47,821
+Me doy cuenta,
+pero debemos derribar el muro.
+
+1013
+01:10:47,892 --> 01:10:51,589
+Debemos derribarlo ahora. No podemos
+darnos el lujo de desconfiar.
+
+1014
+01:10:55,533 --> 01:10:58,024
+Interferimos sus radios...
+
+1015
+01:10:58,102 --> 01:11:01,094
+con un artefacto especial
+que ni siquiera yo conocía.
+
+1016
+01:11:02,640 --> 01:11:05,336
+Supongo que debería estar muy orgulloso
+de nuestros científicos.
+
+1017
+01:11:06,778 --> 01:11:09,246
+Fue más efectivo
+de lo que nadie soñó.
+
+1018
+01:11:09,314 --> 01:11:11,373
+¿Pero por qué?
+¿Por qué esta vez?
+
+1019
+01:11:12,884 --> 01:11:15,284
+Tenemos computadoras, como las suyas.
+
+1020
+01:11:16,288 --> 01:11:19,780
+Calcularon que esta vez
+su alerta podría ser real.
+
+1021
+01:11:19,858 --> 01:11:21,587
+¿En qué se basaron?
+
+1022
+01:11:24,129 --> 01:11:26,620
+Probabilidad.
+En la ley de los promedios.
+
+1023
+01:11:28,200 --> 01:11:29,690
+Tienen su propia lógica.
+
+1024
+01:11:29,768 --> 01:11:34,467
+No es humana, pero es positiva,
+así que hacemos caso.
+
+1025
+01:11:34,539 --> 01:11:37,565
+¿Puede suspender la interferencia para
+que hable con el comandante del grupo?
+
+1026
+01:11:39,912 --> 01:11:42,312
+- ¿Regresará si Ud. se lo ordena?
+- Existe la posibilidad.
+
+1027
+01:11:43,416 --> 01:11:44,508
+Daré esa orden.
+
+1028
+01:11:45,585 --> 01:11:46,779
+General Bogan.
+
+1029
+01:11:46,852 --> 01:11:48,149
+Sí, Sr. presidente.
+
+1030
+01:11:48,221 --> 01:11:49,848
+Comuníqueme con el Grupo 6, rápido.
+
+1031
+01:11:49,922 --> 01:11:51,287
+Ahora mismo, señor.
+
+1032
+01:11:52,291 --> 01:11:54,782
+<i>- ¿Cómo se llama el comandante?
+- Es el coronel Jack Grady, señor.</i>
+
+1033
+01:11:54,860 --> 01:11:57,226
+- ¿Tiene esposa?
+- Investigaré, señor.
+
+1034
+01:11:57,296 --> 01:11:59,423
+Pavo Uno, aquí Último Uno.
+¿Me oye?
+
+1035
+01:12:00,266 --> 01:12:02,359
+Pavo Uno, aquí Último Uno.
+¿Me oye?
+
+1036
+01:12:03,035 --> 01:12:05,094
+<i>- Sí, señor, tiene esposa.
+- Encuéntrela.</i>
+
+1037
+01:12:05,171 --> 01:12:06,832
+Si no puedo convencerlo,
+quizá ella lo haga.
+
+1038
+01:12:06,906 --> 01:12:09,670
+- Sí, señor.
+- Pavo Uno, ¿me oye?
+
+1039
+01:12:09,742 --> 01:12:11,869
+Pavo Uno, aquí Último Uno,
+¿me oye?
+
+1040
+01:12:11,944 --> 01:12:14,311
+Tengo un mensaje importante.
+Pavo Uno, ¿me oye?
+
+1041
+01:12:18,919 --> 01:12:21,183
+<i>Pavo Uno, ¿me oye?</i>
+
+1042
+01:12:21,255 --> 01:12:23,815
+<i>Pavo Uno, ¿me oye?
+Aquí Último Uno.</i>
+
+1043
+01:12:23,890 --> 01:12:25,448
+Dejaron de interferir la señal.
+
+1044
+01:12:26,526 --> 01:12:29,893
+Aquí Pavo Uno. No estoy autorizado
+para recibir mensajes.
+
+1045
+01:12:29,963 --> 01:12:34,366
+Coronel Grady, le habla
+el Presidente de los Estados Unidos.
+
+1046
+01:12:34,434 --> 01:12:38,063
+La misión que está volando
+se inició por una falla mecánica.
+
+1047
+01:12:38,138 --> 01:12:40,003
+<i>Es un error.</i>
+
+1048
+01:12:40,073 --> 01:12:42,007
+<i>Le ordeno a usted
+y a los otros aviones...</i>
+
+1049
+01:12:42,075 --> 01:12:43,542
+que regresen a su base ahora mismo.
+
+1050
+01:12:43,610 --> 01:12:45,544
+¿Me oye? ¡Ahora mismo!
+
+1051
+01:12:47,715 --> 01:12:50,149
+Coronel Grady, le repito.
+Soy el Presidente.
+
+1052
+01:12:50,218 --> 01:12:53,085
+Ya no puedo recibir
+alteraciones tácticas verbales.
+
+1053
+01:12:53,154 --> 01:12:54,416
+Lo sé, pero--
+
+1054
+01:12:54,489 --> 01:12:57,083
+¡Me ordenaron específicamente no hacer
+lo que usted me está pidiendo!
+
+1055
+01:12:57,158 --> 01:12:59,149
+¡Maldición, Grady,
+soy el Presidente!
+
+1056
+01:13:12,307 --> 01:13:13,638
+Sigue en línea, señor.
+
+1057
+01:13:23,819 --> 01:13:26,515
+Señor presidente,
+creo que sería prudente...
+
+1058
+01:13:26,588 --> 01:13:28,681
+que saliera de Moscú...
+
+1059
+01:13:28,757 --> 01:13:31,351
+para que esté fuera de peligro.
+
+1060
+01:13:31,427 --> 01:13:34,089
+Nos permitirá continuar negociando...
+
+1061
+01:13:34,163 --> 01:13:36,154
+incluso si sucede lo peor.
+
+1062
+01:13:38,067 --> 01:13:40,900
+Ya hice esos arreglos.
+Su voz es más dura.
+
+1063
+01:13:44,440 --> 01:13:47,432
+Desafortunadamente,
+no podemos salir de Moscú.
+
+1064
+01:13:49,712 --> 01:13:51,703
+Continúa aquí,
+abierta a sus bombas...
+
+1065
+01:13:51,780 --> 01:13:53,213
+y cuando sea destruida...
+
+1066
+01:13:54,584 --> 01:13:57,417
+y todos hayan muerto
+porque no hubo tiempo para evacuar...
+
+1067
+01:13:59,789 --> 01:14:01,620
+¿dónde negociaremos,
+Sr. presidente?
+
+1068
+01:14:01,691 --> 01:14:04,660
+¿Iré a Ginebra, con sombrero en mano,
+rogando por paz?
+
+1069
+01:14:04,728 --> 01:14:06,923
+Le ofrecí ayuda.
+Usted la rehusó.
+
+1070
+01:14:06,996 --> 01:14:09,624
+La ofrezco de nuevo.
+Le ayudaremos a derribar los aviones.
+
+1071
+01:14:13,303 --> 01:14:14,964
+Establezca
+su línea telefónica abierta.
+
+1072
+01:14:15,038 --> 01:14:17,506
+Me comunicaré cuando esté
+a una distancia prudente de Moscú.
+
+1073
+01:14:19,209 --> 01:14:22,144
+Active el teléfono Último Uno/Rojo Uno,
+por favor.
+
+1074
+01:14:25,982 --> 01:14:27,712
+¿Podemos detenerlos, señor?
+
+1075
+01:14:45,503 --> 01:14:47,562
+Fuego. Fuego.
+
+1076
+01:14:47,638 --> 01:14:50,368
+Antes de que dispare.
+
+1077
+01:14:50,441 --> 01:14:54,844
+Coronel, cállese o haré
+que lo saquen de este cuarto.
+
+1078
+01:15:05,090 --> 01:15:07,854
+Cayeron dos.
+Faltan cuatro.
+
+1079
+01:15:25,844 --> 01:15:27,971
+- Discúlpeme, señor.
+- ¿Sí?
+
+1080
+01:15:28,046 --> 01:15:30,480
+Cada minuto que esperamos
+está contra nosotros.
+
+1081
+01:15:30,549 --> 01:15:31,811
+Ahora, Sr. secretario.
+
+1082
+01:15:31,883 --> 01:15:35,513
+Ahora es cuando debemos comenzar
+el ataque.
+
+1083
+01:15:35,588 --> 01:15:37,920
+No hacemos ataques sorpresa.
+
+1084
+01:15:37,990 --> 01:15:40,220
+Eso nos hicieron en Pearl Harbor.
+
+1085
+01:15:40,293 --> 01:15:42,727
+Y los japoneses
+tuvieron razón al hacerlo.
+
+1086
+01:15:43,796 --> 01:15:46,822
+Desde su punto de vista,
+éramos su enemigo mortal.
+
+1087
+01:15:46,899 --> 01:15:49,993
+Mientras existiéramos,
+éramos una amenaza mortal para ellos.
+
+1088
+01:15:50,069 --> 01:15:53,197
+Su único error fue que fracasaron
+en destruirnos desde el principio...
+
+1089
+01:15:53,272 --> 01:15:55,263
+y pagaron por ese error en Hiroshima.
+
+1090
+01:15:55,341 --> 01:15:57,673
+Habla de un tipo de guerra distinto.
+
+1091
+01:15:57,743 --> 01:16:01,372
+Exacto. Esta vez,
+podemos acabarlos desde el principio.
+
+1092
+01:16:01,447 --> 01:16:03,506
+Y si actuamos ahora mismo...
+
+1093
+01:16:03,583 --> 01:16:05,517
+nuestras bajas serán mínimas.
+
+1094
+01:16:05,585 --> 01:16:07,212
+¿Sabe qué está diciendo?
+
+1095
+01:16:11,892 --> 01:16:14,884
+¿Cree que el comunismo
+no es nuestro enemigo mortal?
+
+1096
+01:16:14,962 --> 01:16:17,328
+Está justificando el asesinato.
+
+1097
+01:16:17,397 --> 01:16:20,457
+Sí, evitar que nos asesinen.
+
+1098
+01:16:20,534 --> 01:16:23,697
+¿En nombre de qué?
+¿Para preservar qué?
+
+1099
+01:16:23,770 --> 01:16:28,104
+Incluso si sobrevivimos, ¿qué somos?
+¿Somos mejores que ellos?
+
+1100
+01:16:28,175 --> 01:16:30,006
+Entonces,
+¿qué nos da el derecho a vivir?
+
+1101
+01:16:30,077 --> 01:16:32,136
+¿Qué nos hace merecedores
+de sobrevivir, Groeteschele?
+
+1102
+01:16:32,212 --> 01:16:34,043
+¿El ser despiadados
+y atacar primero?
+
+1103
+01:16:34,114 --> 01:16:35,547
+¡Sí!
+
+1104
+01:16:36,550 --> 01:16:41,317
+Aquellos que pueden sobrevivir
+son los únicos que valen la pena.
+
+1105
+01:16:41,388 --> 01:16:43,380
+Pelear por la vida
+no es lo mismo que asesinar.
+
+1106
+01:16:43,458 --> 01:16:46,325
+¿Dónde fija el límite
+una vez que ubica al enemigo?
+
+1107
+01:16:46,394 --> 01:16:48,589
+¿Cuánto hubieran durado los nazis...
+
+1108
+01:16:48,663 --> 01:16:51,564
+si cada judío al que persiguieron
+los hubiera recibido con una pistola?
+
+1109
+01:16:51,633 --> 01:16:55,763
+Pero aprendí de ellos, general Black.
+Ah, aprendí.
+
+1110
+01:16:55,837 --> 01:16:58,465
+Aprendió demasiado bien, profesor.
+
+1111
+01:16:58,540 --> 01:17:00,531
+Aprendió tan bien
+que ahora no hay diferencia...
+
+1112
+01:17:00,608 --> 01:17:02,599
+entre usted y lo que quiere matar.
+
+1113
+01:17:26,635 --> 01:17:28,068
+<i>Sí, Sr. presidente.</i>
+
+1114
+01:17:29,605 --> 01:17:31,732
+Contacte a nuestro embajador en Moscú.
+
+1115
+01:17:32,741 --> 01:17:36,404
+También a los delegados soviéticos
+de la ONU.
+
+1116
+01:17:36,478 --> 01:17:38,469
+Póngalos en mi línea.
+
+1117
+01:17:39,615 --> 01:17:41,606
+Cuando el Presidente del Consejo
+soviético vuelva a comunicarse...
+
+1118
+01:17:41,684 --> 01:17:43,743
+pónganos a todos en la línea.
+
+1119
+01:17:43,819 --> 01:17:45,377
+<i>Sí, Sr. presidente.</i>
+
+1120
+01:17:45,454 --> 01:17:47,479
+¿El teléfono está abierto
+entre Omaha...
+
+1121
+01:17:47,556 --> 01:17:49,491
+y el Cuartel General
+de Mando soviético?
+
+1122
+01:17:49,559 --> 01:17:51,550
+<i>- Sí, señor, todo listo.
+- Manténgalo abierto.</i>
+
+1123
+01:18:05,308 --> 01:18:06,297
+General Black.
+
+1124
+01:18:08,211 --> 01:18:09,303
+Sí, Sr. presidente.
+
+1125
+01:18:13,183 --> 01:18:14,741
+¿Recuerda el Viejo Testamento?
+
+1126
+01:18:15,752 --> 01:18:16,912
+<i>Un poco.</i>
+
+1127
+01:18:18,788 --> 01:18:20,847
+¿Recuerda la historia
+del sacrificio de Abraham?
+
+1128
+01:18:20,924 --> 01:18:23,860
+El viejo... como se llame--
+la contaba en la capilla...
+
+1129
+01:18:23,928 --> 01:18:25,919
+al menos dos veces al año.
+
+1130
+01:18:28,199 --> 01:18:29,427
+La recuerdo, señor.
+
+1131
+01:18:30,468 --> 01:18:33,232
+Téngala en mente
+en las siguientes horas.
+
+1132
+01:18:33,304 --> 01:18:34,430
+Necesito su ayuda.
+
+1133
+01:18:36,240 --> 01:18:38,003
+<i>Vaya al campo Andrews
+ahora mismo.</i>
+
+1134
+01:18:38,075 --> 01:18:40,066
+Sus órdenes estarán esperando
+cuando llegue.
+
+1135
+01:18:40,811 --> 01:18:41,869
+<i>Sí, señor.</i>
+
+1136
+01:18:43,214 --> 01:18:45,842
+Blackie, ¿Katherine
+y los niños están en N.Y.?
+
+1137
+01:18:47,918 --> 01:18:48,907
+Sí, señor.
+
+1138
+01:18:50,855 --> 01:18:52,880
+Quizá le esté pidiendo demasiado.
+
+1139
+01:18:56,294 --> 01:18:57,625
+Haré lo que me pida.
+
+1140
+01:19:02,501 --> 01:19:03,832
+Buena suerte, Blackie.
+
+1141
+01:19:05,637 --> 01:19:07,298
+General Bogan.
+
+1142
+01:19:07,372 --> 01:19:08,862
+<i>¿Sí, Sr. presidente?</i>
+
+1143
+01:19:08,940 --> 01:19:11,340
+Activé el teléfono
+entre Ud. y el Cuartel soviético.
+
+1144
+01:19:11,410 --> 01:19:13,537
+- ¿Puede probarlo, por favor?
+- Sí, señor.
+
+1145
+01:19:19,151 --> 01:19:21,142
+"Ultra Secreto"
+
+1146
+01:19:46,646 --> 01:19:50,241
+Aquí el general Bogan,
+del Comando Aéreo Estratégico en Omaha.
+
+1147
+01:19:50,316 --> 01:19:52,682
+<i>Yo soy el traductor
+del mariscal Nevsky.</i>
+
+1148
+01:19:54,353 --> 01:19:56,446
+<i>El mariscal Nevsky envía saludos.</i>
+
+1149
+01:19:58,324 --> 01:19:59,484
+Igualmente.
+
+1150
+01:19:59,559 --> 01:20:02,756
+<i>Nuestra recepción es clara.
+¿Cómo nos escuchan?</i>
+
+1151
+01:20:02,829 --> 01:20:04,889
+Los escuchamos claramente.
+
+1152
+01:20:04,965 --> 01:20:07,160
+Un momento, por favor.
+Señor presidente...
+
+1153
+01:20:07,234 --> 01:20:08,223
+<i>ya nos comunicamos.</i>
+
+1154
+01:20:08,302 --> 01:20:09,291
+Gracias, general.
+
+1155
+01:20:09,369 --> 01:20:12,532
+Póngame en su sistema megafónico
+para que todos me oigan.
+
+1156
+01:20:12,606 --> 01:20:14,597
+Quiero que los rusos
+también puedan oír.
+
+1157
+01:20:14,675 --> 01:20:15,733
+Sí, señor.
+
+1158
+01:20:16,510 --> 01:20:17,602
+<i>Listo, señor.</i>
+
+1159
+01:20:23,984 --> 01:20:26,885
+Caballeros, soy el Presidente
+de los Estados Unidos.
+
+1160
+01:20:28,622 --> 01:20:31,614
+Las órdenes que dé
+al personal estadounidense...
+
+1161
+01:20:32,793 --> 01:20:35,728
+deben considerarse órdenes directas
+del Comandante en Jefe.
+
+1162
+01:20:36,865 --> 01:20:39,527
+Deben obedecerse cabalmente...
+
+1163
+01:20:39,601 --> 01:20:42,536
+sin reserva y de inmediato.
+
+1164
+01:20:43,872 --> 01:20:45,703
+<i>Debemos hacer todo lo que podamos...</i>
+
+1165
+01:20:45,774 --> 01:20:48,538
+<i>para prevenir que nuestros aviones
+ataquen Moscú.</i>
+
+1166
+01:20:50,245 --> 01:20:53,373
+<i>El Presidente soviético
+se comportó como yo lo habría hecho...</i>
+
+1167
+01:20:53,448 --> 01:20:55,507
+<i>en condiciones similares.</i>
+
+1168
+01:20:56,284 --> 01:20:57,808
+<i>Retrasó el contraataque.</i>
+
+1169
+01:20:57,886 --> 01:21:01,151
+Pienso que él cree
+que esto es un accidente...
+
+1170
+01:21:01,222 --> 01:21:05,921
+pero debemos convencerlo a él
+y a sus consejeros que sí lo es.
+
+1171
+01:21:07,529 --> 01:21:10,397
+Por lo tanto, le ordeno
+a todos los estadounidenses...
+
+1172
+01:21:10,466 --> 01:21:12,263
+que cooperen completamente...
+
+1173
+01:21:12,334 --> 01:21:13,801
+<i>con los oficiales soviéticos...</i>
+
+1174
+01:21:14,804 --> 01:21:17,739
+<i>para derribar
+nuestros aviones invasores.</i>
+
+1175
+01:21:19,608 --> 01:21:22,600
+<i>Les darán cualquier información
+que soliciten.</i>
+
+1176
+01:21:23,979 --> 01:21:27,938
+<i>Si alguien duda,
+si ocultan información...</i>
+
+1177
+01:21:29,251 --> 01:21:31,446
+pueden provocar las consecuencias
+más trágicas.
+
+1178
+01:21:32,721 --> 01:21:34,985
+No puedo enfatizar esto
+lo suficiente.
+
+1179
+01:21:37,226 --> 01:21:38,284
+¿Hay alguna pregunta?
+
+1180
+01:21:41,530 --> 01:21:44,898
+Caballeros, espero que se conduzcan
+como patriotas...
+
+1181
+01:21:47,470 --> 01:21:49,495
+y les deseo éxito.
+
+1182
+01:21:55,779 --> 01:21:57,610
+<i>¿Los misiles en estos bombarderos...</i>
+
+1183
+01:21:57,681 --> 01:22:00,980
+<i>tienen capacidad de búsqueda
+de infrarrojo y de radar?</i>
+
+1184
+01:22:01,051 --> 01:22:03,485
+<i>Varios de nuestros aviones de caza
+fueron destruidos...</i>
+
+1185
+01:22:03,553 --> 01:22:07,284
+<i>por un misil que parece buscar
+no una fuente infrarroja...</i>
+
+1186
+01:22:07,357 --> 01:22:08,722
+<i>sino el transmisor de radar.</i>
+
+1187
+01:22:08,792 --> 01:22:09,781
+<i>¿Es posible?</i>
+
+1188
+01:22:09,860 --> 01:22:11,851
+El coronel Cascio le responderá.
+
+1189
+01:22:14,030 --> 01:22:15,725
+Responda la pregunta, coronel.
+
+1190
+01:22:17,702 --> 01:22:19,727
+Es una orden directa.
+
+1191
+01:22:19,804 --> 01:22:21,431
+¡Es una orden, coronel!
+
+1192
+01:22:22,707 --> 01:22:24,402
+¡Coronel!
+
+1193
+01:22:26,210 --> 01:22:27,802
+Espere un momento, por favor.
+
+1194
+01:22:27,879 --> 01:22:28,868
+Mayor Handel.
+
+1195
+01:22:32,717 --> 01:22:34,048
+<i>General Bogan--</i>
+
+1196
+01:22:35,052 --> 01:22:37,111
+¡Sargento Collins, ahora mismo!
+
+1197
+01:22:40,258 --> 01:22:42,249
+Usted es el respaldo
+en Control de Armas, ¿verdad?
+
+1198
+01:22:42,326 --> 01:22:43,315
+Sí, señor.
+
+1199
+01:22:43,394 --> 01:22:46,886
+¿Los misiles tienen capacidad
+de búsqueda de infrarrojo y de radar?
+
+1200
+01:22:48,900 --> 01:22:50,265
+Sí, señor.
+
+1201
+01:22:50,334 --> 01:22:52,860
+¡Fuerte y claro!
+¡Deben saber que somos sinceros!
+
+1202
+01:22:55,540 --> 01:22:58,008
+Tienen ambas capacidades, señor.
+
+1203
+01:22:58,076 --> 01:23:00,101
+<i>¿El mecanismo de búsqueda de radar
+puede sobrecargarse...</i>
+
+1204
+01:23:00,178 --> 01:23:02,271
+<i>si incrementamos
+la potencia de la señal?</i>
+
+1205
+01:23:03,115 --> 01:23:04,173
+¡Dígales!
+
+1206
+01:23:05,918 --> 01:23:07,146
+Sí, señor.
+
+1207
+01:23:07,786 --> 01:23:10,118
+Puede sobrecargarse...
+
+1208
+01:23:11,390 --> 01:23:13,324
+pero al incrementar
+la potencia de salida...
+
+1209
+01:23:13,392 --> 01:23:16,725
+y saltar rápidamente
+de una a otra frecuencia del radar...
+
+1210
+01:23:17,763 --> 01:23:19,754
+lo que sucede
+es que el mecanismo de disparo...
+
+1211
+01:23:19,831 --> 01:23:23,824
+interpreta el aumento de amperaje
+como proximidad al objetivo...
+
+1212
+01:23:23,902 --> 01:23:25,996
+y detona la ojiva.
+
+1213
+01:23:29,976 --> 01:23:31,500
+<i>Gracias, general Bogan.</i>
+
+1214
+01:23:31,577 --> 01:23:33,442
+<i>Nos comunicaremos con ustedes.</i>
+
+1215
+01:23:34,714 --> 01:23:36,147
+Eso es todo, sargento.
+
+1216
+01:23:53,199 --> 01:23:55,224
+¿Qué significa?
+
+1217
+01:23:55,301 --> 01:23:58,237
+Les dijimos cómo hacer estallar
+nuestros misiles aire-aire...
+
+1218
+01:23:59,306 --> 01:24:02,867
+y con ello, nuestros aviones.
+
+1219
+01:24:11,452 --> 01:24:12,976
+Nos ven en su radar.
+
+1220
+01:24:14,455 --> 01:24:17,618
+Thomas, envíe el código
+para el plan de vuelo alterno.
+
+1221
+01:24:17,691 --> 01:24:19,716
+Bajaremos hasta el suelo.
+
+1222
+01:24:37,779 --> 01:24:41,078
+Tratan de eludir a los aviones de caza
+volando demasiado bajo para el radar.
+
+1223
+01:24:46,254 --> 01:24:48,222
+Lo siento, general, yo--
+
+1224
+01:24:48,289 --> 01:24:51,053
+No sé qué sucedió.
+No pude hacerlo.
+
+1225
+01:24:51,126 --> 01:24:53,117
+Fue como--
+No sé, un ataque o algo.
+
+1226
+01:24:53,194 --> 01:24:54,422
+Coronel, yo--
+
+1227
+01:24:56,798 --> 01:24:58,026
+Olvídelo.
+
+1228
+01:25:00,602 --> 01:25:02,661
+¿Quién pudo anticipar
+esta situación?
+
+1229
+01:25:04,105 --> 01:25:05,630
+General, yo--
+
+1230
+01:25:06,809 --> 01:25:08,970
+Creo que esto es una trampa.
+
+1231
+01:25:10,413 --> 01:25:12,404
+Ellos querían que esto sucediera.
+
+1232
+01:25:13,783 --> 01:25:16,513
+Sabemos que han intentado que falle
+nuestra señal de límite de seguridad.
+
+1233
+01:25:17,787 --> 01:25:22,417
+Creo que deberíamos decirle
+al Presidente que es una trampa.
+
+1234
+01:25:22,491 --> 01:25:24,891
+Están usando el tiempo
+para preparar sus misiles...
+
+1235
+01:25:24,960 --> 01:25:26,951
+y llevar a sus bombarderos
+a posición.
+
+1236
+01:25:27,029 --> 01:25:28,963
+No tenemos pruebas de eso.
+
+1237
+01:25:29,031 --> 01:25:31,795
+Podrían volar sus bombarderos
+al ras del suelo.
+
+1238
+01:25:31,867 --> 01:25:33,801
+Quizá ya dispararon misiles...
+
+1239
+01:25:33,869 --> 01:25:35,928
+y los pusieron en las órbitas
+de satélites conocidos...
+
+1240
+01:25:36,005 --> 01:25:37,529
+para que no podamos detectarlos.
+
+1241
+01:25:37,606 --> 01:25:40,667
+Calculamos ese problema. Los misiles
+se pueden esconder con los satélites.
+
+1242
+01:25:40,744 --> 01:25:42,837
+Calculamos muchos problemas.
+
+1243
+01:25:42,913 --> 01:25:45,381
+No reporto nada
+de lo que no esté seguro.
+
+1244
+01:25:47,451 --> 01:25:49,578
+Creo que deberíamos recomendar
+un ataque total.
+
+1245
+01:25:49,653 --> 01:25:51,644
+¡No es nuestra decisión!
+El Pentágono--
+
+1246
+01:25:51,721 --> 01:25:54,656
+Ellos no saben lo que sabemos.
+Ellos ya no son soldados.
+
+1247
+01:25:54,724 --> 01:25:56,954
+Son políticos.
+
+1248
+01:25:57,027 --> 01:25:59,052
+No les importa lo que nos suceda.
+
+1249
+01:26:00,363 --> 01:26:03,025
+Sí ellos se equivocan,
+así es la política.
+
+1250
+01:26:03,100 --> 01:26:05,728
+Envían hombres a morir.
+¿Para qué?
+
+1251
+01:26:07,003 --> 01:26:09,369
+Para hacer algún trato,
+para vendernos.
+
+1252
+01:26:10,907 --> 01:26:13,274
+Salve al mundo, sálvenos.
+
+1253
+01:26:13,344 --> 01:26:15,869
+Salve a nuestro país
+antes de que ellos lo destruyan...
+
+1254
+01:26:15,947 --> 01:26:17,938
+con su maldita política.
+
+1255
+01:26:19,016 --> 01:26:22,179
+Ordene un ataque, general. Póngale fin
+a esto de una vez por todas.
+
+1256
+01:26:22,253 --> 01:26:24,244
+Usted tiene el poder.
+¡Usted puede hacerlo!
+
+1257
+01:26:24,322 --> 01:26:25,482
+¡Coronel!
+
+1258
+01:26:26,657 --> 01:26:30,593
+Está hablando de traición. Deténgase
+o haré que lo pongan bajo arresto.
+
+1259
+01:26:31,896 --> 01:26:34,194
+<i>General Bogan, soy el mariscal Nevsky.</i>
+
+1260
+01:26:34,265 --> 01:26:35,926
+Sí, mariscal.
+
+1261
+01:26:36,000 --> 01:26:37,831
+<i>¿Puede darnos
+la longitud y latitud...</i>
+
+1262
+01:26:37,902 --> 01:26:39,392
+<i>de los tres aviones restantes?</i>
+
+1263
+01:26:39,470 --> 01:26:41,267
+Sí, pero no podemos darles la altitud.
+
+1264
+01:26:41,339 --> 01:26:43,398
+Las señales que recibimos
+están muy distorsionadas.
+
+1265
+01:26:43,474 --> 01:26:45,909
+<i>¿Puede darnos por favor
+la posición de los tres aviones?</i>
+
+1266
+01:26:45,978 --> 01:26:47,946
+<i>Podemos enviar aviones
+a varias altitudes.</i>
+
+1267
+01:26:48,013 --> 01:26:49,275
+Puedo hacerlo.
+
+1268
+01:26:51,183 --> 01:26:53,617
+Caballeros, estoy tomando el mando
+de este puesto...
+
+1269
+01:26:53,685 --> 01:26:56,279
+por órdenes concretas
+del Presidente de los Estados Unidos.
+
+1270
+01:26:56,355 --> 01:26:58,983
+Él sabe que el general Bogan
+está mentalmente desequilibrado...
+
+1271
+01:26:59,057 --> 01:27:01,048
+y me advirtió
+que lo observara con atención.
+
+1272
+01:27:01,126 --> 01:27:03,458
+Las negociaciones que el general Bogan
+condujo con el enemigo...
+
+1273
+01:27:03,529 --> 01:27:05,292
+son los actos de un lunático.
+
+1274
+01:27:05,364 --> 01:27:07,423
+Con la autorización directa
+del Presidente...
+
+1275
+01:27:07,499 --> 01:27:10,024
+ahora les ordeno
+que todas las órdenes de--
+
+1276
+01:27:10,102 --> 01:27:13,196
+¿Coronel?
+Tenemos órdenes, coronel.
+
+1277
+01:27:13,272 --> 01:27:15,263
+Si hace un alboroto, lo mataremos.
+
+1278
+01:27:17,142 --> 01:27:18,200
+Usted es un traidor.
+
+1279
+01:27:18,277 --> 01:27:20,610
+Usted es peor que cualquiera.
+
+1280
+01:27:20,680 --> 01:27:22,841
+Usa uniforme.
+Tiene hombres bajo su mando.
+
+1281
+01:27:22,916 --> 01:27:26,283
+¡Está de campaña, pero los quiere
+muertos antes de que lo descubran!
+
+1282
+01:27:26,352 --> 01:27:28,252
+¡Me quiere ver muerto!
+
+1283
+01:27:28,321 --> 01:27:30,812
+Esta mañana me di cuenta
+cuando me vio con esas personas.
+
+1284
+01:27:33,793 --> 01:27:36,023
+¡Yo soy mejor que usted!
+
+1285
+01:27:38,598 --> 01:27:40,065
+¡Es un error!
+
+1286
+01:27:40,967 --> 01:27:44,403
+¡Nos está traicionando!
+¡Comete un error!
+
+1287
+01:27:45,538 --> 01:27:48,632
+Yo soy mejor que usted.
+Usted es un traidor.
+
+1288
+01:27:48,708 --> 01:27:51,006
+¡Nos traiciona a todos!
+
+1289
+01:28:01,889 --> 01:28:03,083
+¿Mariscal Nevsky?
+
+1290
+01:28:03,157 --> 01:28:04,351
+<i>Sí, señor.</i>
+
+1291
+01:28:05,559 --> 01:28:07,652
+Estoy preparado para darle
+la longitud y latitud...
+
+1292
+01:28:07,728 --> 01:28:10,219
+de nuestros bombarderos
+de acuerdo a su petición.
+
+1293
+01:28:10,297 --> 01:28:12,925
+<i>Estoy consciente de su problema,
+general Bogan.</i>
+
+1294
+01:28:13,000 --> 01:28:15,093
+<i>Nosotros también sufrimos
+de esos problemas.</i>
+
+1295
+01:28:15,169 --> 01:28:16,602
+<i>Espero su información.</i>
+
+1296
+01:28:16,670 --> 01:28:18,160
+Mayor Handel.
+
+1297
+01:28:30,218 --> 01:28:31,879
+General,
+más vale que llame un médico--
+
+1298
+01:28:31,953 --> 01:28:33,716
+Derribaron a otro.
+
+1299
+01:28:35,957 --> 01:28:38,289
+De cualquier forma, siéntese.
+Fue un golpe fuerte.
+
+1300
+01:28:41,863 --> 01:28:44,195
+Cualquiera puede enloquecer
+bajo presión.
+
+1301
+01:28:44,266 --> 01:28:46,359
+Yo opino que él estaba al borde--
+
+1302
+01:28:46,434 --> 01:28:48,425
+Era un buen soldado.
+
+1303
+01:28:58,580 --> 01:29:00,776
+<i>El Presidente del Consejo soviético
+está en la línea, señor.</i>
+
+1304
+01:29:00,850 --> 01:29:03,080
+<i>El embajador y el delegado soviético
+también.</i>
+
+1305
+01:29:03,152 --> 01:29:05,643
+<i>- ¿Ya les informaron?
+- Sí, señor, como usted lo pidió.</i>
+
+1306
+01:29:05,721 --> 01:29:06,813
+Bien.
+
+1307
+01:29:08,491 --> 01:29:09,890
+Jay, ¿dónde está?
+
+1308
+01:29:09,959 --> 01:29:12,484
+En el piso superior de la embajada
+en Moscú, señor.
+
+1309
+01:29:12,561 --> 01:29:14,085
+¿Usted dónde está, Sr. Lentov?
+
+1310
+01:29:14,163 --> 01:29:16,256
+<i>En el edificio de la ONU, en N. Y.</i>
+
+1311
+01:29:18,768 --> 01:29:21,601
+Supongo que hay una razón...
+
+1312
+01:29:21,671 --> 01:29:25,004
+por la cual se nos unen el embajador
+y el camarada Lentov.
+
+1313
+01:29:25,074 --> 01:29:27,042
+La hay, señor presidente.
+
+1314
+01:29:28,811 --> 01:29:30,335
+Entonces, continuemos.
+
+1315
+01:29:31,714 --> 01:29:35,549
+Su voz es más firme, señor.
+Decisiva.
+
+1316
+01:29:35,619 --> 01:29:37,348
+Como si estuviera decidido.
+
+1317
+01:29:39,356 --> 01:29:42,348
+En unos minutos,
+quizá caigan las bombas.
+
+1318
+01:29:44,995 --> 01:29:48,055
+Nuestras fuerzas
+están en estado de alerta máxima.
+
+1319
+01:29:50,400 --> 01:29:53,563
+Si no quedamos satisfechos,
+debo enviar a estas fuerzas.
+
+1320
+01:29:54,638 --> 01:29:56,765
+¿Qué propone, señor?
+
+1321
+01:29:56,840 --> 01:30:00,469
+¿Su gente cree que aún hay posibilidad
+de derribar a los bombarderos?
+
+1322
+01:30:03,447 --> 01:30:05,915
+Siempre existe la posibilidad.
+
+1323
+01:30:05,982 --> 01:30:07,974
+Pero le pregunto,
+¿y si no los derriban?
+
+1324
+01:30:10,455 --> 01:30:11,615
+¿Qué hará?
+
+1325
+01:30:11,689 --> 01:30:14,055
+¿Ya tomó una decisión?
+
+1326
+01:30:14,125 --> 01:30:15,752
+Sí.
+
+1327
+01:30:17,161 --> 01:30:20,619
+Es mi decisión,
+y yo asumo toda la responsabilidad.
+
+1328
+01:30:22,100 --> 01:30:23,089
+Sr. Swenson...
+
+1329
+01:30:23,167 --> 01:30:24,794
+<i>¿está en línea?</i>
+
+1330
+01:30:24,869 --> 01:30:25,995
+Sí, Sr. presidente.
+
+1331
+01:30:26,070 --> 01:30:28,231
+<i>- ¿General Bogan?
+- Sí, señor.</i>
+
+1332
+01:30:30,341 --> 01:30:34,744
+Esto es lo que sucederá
+si uno de nuestros bombarderos ataca:
+
+1333
+01:30:34,812 --> 01:30:39,647
+arrojará dos bombas
+de 20 megatones sobre Moscú.
+
+1334
+01:30:39,717 --> 01:30:41,879
+<i>- ¿Jay?
+- ¿Sí, Sr. presidente?</i>
+
+1335
+01:30:41,954 --> 01:30:44,320
+Quizá oiga
+el sonido de los motores...
+
+1336
+01:30:44,390 --> 01:30:46,324
+justo antes de que caigan las bombas,
+quizá no.
+
+1337
+01:30:46,392 --> 01:30:49,657
+En cualquier caso, oirá el sonido
+de los misiles defensivos.
+
+1338
+01:30:49,728 --> 01:30:52,458
+Justo después de eso,
+las bombas explotarán.
+
+1339
+01:30:53,665 --> 01:30:55,963
+Me dijeron
+que lo que oiremos aquí...
+
+1340
+01:30:56,034 --> 01:30:58,764
+será un sonido agudo, chillante.
+
+1341
+01:30:59,972 --> 01:31:01,963
+Ése será el teléfono del embajador...
+
+1342
+01:31:02,040 --> 01:31:04,031
+derritiéndose con el calor
+de la bola de fuego.
+
+1343
+01:31:05,477 --> 01:31:07,604
+Cuando oigamos ese sonido...
+
+1344
+01:31:09,314 --> 01:31:11,544
+el embajador habrá muerto.
+
+1345
+01:31:12,551 --> 01:31:14,417
+<i>Señor Embajador, ¿entendió...</i>
+
+1346
+01:31:14,487 --> 01:31:16,648
+<i>que debe quedarse justo donde está?</i>
+
+1347
+01:31:16,723 --> 01:31:18,748
+<i>Sí, Sr. presidente.</i>
+
+1348
+01:31:18,825 --> 01:31:20,383
+Tiene que atacar.
+
+1349
+01:31:22,095 --> 01:31:23,528
+¿Ésta es su propuesta?
+
+1350
+01:31:25,098 --> 01:31:27,999
+¿Sacrificar un estadounidense
+por cinco millones de rusos?
+
+1351
+01:31:28,067 --> 01:31:30,365
+¡No, no, escúcheme!
+
+1352
+01:31:32,639 --> 01:31:36,268
+Ordené el despegue de un bombardero
+Vindicator de Washington.
+
+1353
+01:31:36,342 --> 01:31:39,641
+En unos minutos, estará volando
+sobre la ciudad de Nueva York.
+
+1354
+01:31:39,712 --> 01:31:42,806
+Lleva dos bombas de 20 megatones.
+
+1355
+01:31:43,883 --> 01:31:46,351
+En cuanto yo sepa
+que Moscú ha sido bombardeada...
+
+1356
+01:31:47,755 --> 01:31:50,724
+le ordenaré a ese avión
+que arroje sus bombas.
+
+1357
+01:31:50,791 --> 01:31:53,783
+Usará el edificio Empire State
+como punto de impacto.
+
+1358
+01:31:55,162 --> 01:31:58,222
+Cuando oigamos que el teléfono
+del Sr. Lentov se derrite...
+
+1359
+01:32:01,135 --> 01:32:03,729
+usted sabrá que él ha muerto...
+
+1360
+01:32:03,804 --> 01:32:06,068
+y junto con él, Nueva York.
+
+1361
+01:32:08,576 --> 01:32:09,600
+Santa madre de Dios.
+
+1362
+01:32:10,344 --> 01:32:11,606
+No.
+
+1363
+01:32:14,114 --> 01:32:15,809
+No puede hacerlo.
+
+1364
+01:32:17,585 --> 01:32:19,246
+¿Qué otra cosa puede hacer?
+
+1365
+01:32:21,957 --> 01:32:24,983
+No se me ocurre otra salida,
+señor presidente, a menos--
+
+1366
+01:32:27,028 --> 01:32:29,553
+a menos que sienta
+que con el ofrecimiento basta.
+
+1367
+01:32:30,665 --> 01:32:32,098
+Que nuestras intenciones basten.
+
+1368
+01:32:34,803 --> 01:32:36,395
+¿Cree que es suficiente?
+
+1369
+01:32:38,039 --> 01:32:41,497
+Si hubiera bombarderos rusos
+volando hacia Nueva York...
+
+1370
+01:32:43,512 --> 01:32:46,948
+¿aceptaría sólo mis buenas intenciones?
+
+1371
+01:32:48,450 --> 01:32:49,917
+No.
+
+1372
+01:32:51,119 --> 01:32:53,053
+Creo que fue un accidente.
+
+1373
+01:32:55,391 --> 01:32:57,552
+Pero también creo que su medida...
+
+1374
+01:32:57,627 --> 01:32:59,618
+es la única salida.
+
+1375
+01:33:01,864 --> 01:33:04,856
+Le pido que crea
+que desearía que no fuera así.
+
+1376
+01:33:06,736 --> 01:33:07,794
+Sí.
+
+1377
+01:33:09,105 --> 01:33:12,268
+Ojalá que no tenga que tomar
+esa medida.
+
+1378
+01:33:37,768 --> 01:33:39,099
+¿Cuánto falta para el objetivo?
+
+1379
+01:33:40,671 --> 01:33:42,070
+14 minutos, señor.
+
+1380
+01:33:42,139 --> 01:33:44,130
+¿Cuántos aviones quedan?
+
+1381
+01:33:44,207 --> 01:33:46,198
+Sólo nosotros y el número seis.
+
+1382
+01:33:50,614 --> 01:33:51,672
+Flynn.
+
+1383
+01:33:52,416 --> 01:33:53,678
+<i>Sigo aquí, Grady.</i>
+
+1384
+01:33:53,750 --> 01:33:55,741
+¿Cuál es tu condición?
+
+1385
+01:33:55,819 --> 01:33:58,151
+<i>El fuego antiaéreo dañó
+un poco las alas. Eso es todo.</i>
+
+1386
+01:33:58,221 --> 01:34:00,314
+<i>La velocidad bajó a 1350.
+Sin resistencia al avance.</i>
+
+1387
+01:34:01,325 --> 01:34:03,556
+¿Cuántos señuelos te quedan?
+
+1388
+01:34:03,628 --> 01:34:05,619
+<i>¿Cuántos necesitas?</i>
+
+1389
+01:34:05,697 --> 01:34:07,722
+Bueno, yo tengo las bombas.
+Tú no.
+
+1390
+01:34:07,799 --> 01:34:10,791
+Quiero que te encargues de algunos
+de los aviones que me persigan.
+
+1391
+01:34:10,868 --> 01:34:12,733
+<i>- Lo haré.
+- ¿Billy?</i>
+
+1392
+01:34:12,804 --> 01:34:13,998
+<i>¿Sí?</i>
+
+1393
+01:34:14,973 --> 01:34:16,531
+Confío en ti.
+
+1394
+01:34:21,613 --> 01:34:24,207
+<i>General Bogan,
+¿puede explicar esta maniobra?</i>
+
+1395
+01:34:24,282 --> 01:34:25,909
+<i>Uno de sus aviones
+volvió a aparecer.</i>
+
+1396
+01:34:25,984 --> 01:34:28,384
+Es procedimiento estándar,
+mariscal Nevsky.
+
+1397
+01:34:28,453 --> 01:34:31,251
+Es nuestro avión número seis,
+el avión señuelo.
+
+1398
+01:34:31,322 --> 01:34:33,654
+Quiere alejar a sus aviones de caza
+del otro avión...
+
+1399
+01:34:33,725 --> 01:34:34,714
+que es el que lleva las bombas.
+
+1400
+01:34:34,792 --> 01:34:36,260
+<i>Ya veo.</i>
+
+1401
+01:34:36,328 --> 01:34:39,263
+Sólo lleva equipo defensivo.
+No tiene que preocuparse por él.
+
+1402
+01:34:39,331 --> 01:34:42,596
+<i>Gracias. De cualquier manera
+trataremos de derribarlo.</i>
+
+1403
+01:34:43,736 --> 01:34:47,035
+Dividirá sus fuerzas.
+No tiene tiempo para eso.
+
+1404
+01:34:49,575 --> 01:34:53,944
+Le digo que no lleva bombas.
+¡No se preocupe por él!
+
+1405
+01:34:56,682 --> 01:34:58,616
+¡Dejará que el otro avión pase!
+
+1406
+01:35:04,490 --> 01:35:06,082
+¡Se lo dije!
+
+1407
+01:35:09,095 --> 01:35:10,562
+<i>Hubo un--</i>
+
+1408
+01:35:11,297 --> 01:35:13,390
+<i>El mariscal Nevsky se desmayó.</i>
+
+1409
+01:35:14,968 --> 01:35:17,596
+<i>Parece--
+Bueno, no sé.</i>
+
+1410
+01:35:18,772 --> 01:35:20,797
+<i>El general Koniev está ahora al mando.</i>
+
+1411
+01:35:22,375 --> 01:35:23,637
+Bogan, ¿qué pasó?
+
+1412
+01:35:23,710 --> 01:35:28,272
+El mariscal Nevsky envió sus aviones
+contra un avión que no llevaba bombas.
+
+1413
+01:35:29,349 --> 01:35:33,149
+Eso significa que es casi seguro
+que nuestro avión cruzará.
+
+1414
+01:35:33,219 --> 01:35:36,916
+<i>El mariscal se dio cuenta.
+Fue demasiado para él.</i>
+
+1415
+01:35:36,990 --> 01:35:39,185
+<i>General Bogan,
+soy el general Koniev.</i>
+
+1416
+01:35:39,259 --> 01:35:41,250
+<i>¿Tienen al último avión
+en su pantalla?</i>
+
+1417
+01:35:41,327 --> 01:35:42,761
+No, señor, no lo tenemos.
+
+1418
+01:35:42,830 --> 01:35:45,663
+<i>El radar no lo detecta,
+y vuela tan rápido...</i>
+
+1419
+01:35:45,733 --> 01:35:47,394
+<i>que la defensa antiaérea es inútil.</i>
+
+1420
+01:35:47,468 --> 01:35:49,663
+<i>Debo asumir que el avión cruzará.</i>
+
+1421
+01:35:49,737 --> 01:35:51,568
+<i>- Sí.
+- Pretendo dirigir...</i>
+
+1422
+01:35:51,639 --> 01:35:54,733
+<i>todos nuestros cohetes restantes
+a la trayectoria estimada del avión...</i>
+
+1423
+01:35:54,809 --> 01:35:56,800
+<i>y dispararlos todos a la vez.</i>
+
+1424
+01:35:56,877 --> 01:35:59,971
+<i>Espero que cree
+una barrera termonuclear...</i>
+
+1425
+01:36:00,047 --> 01:36:02,038
+<i>que nada pueda penetrar.</i>
+
+1426
+01:36:02,116 --> 01:36:04,311
+Eso podría resultar.
+Vale la pena intentarlo.
+
+1427
+01:36:16,231 --> 01:36:19,200
+Habla inglés muy bien, general.
+
+1428
+01:36:19,267 --> 01:36:22,532
+<i>Fui el enlace con su Cuartel General
+en Londres durante la guerra.</i>
+
+1429
+01:36:24,005 --> 01:36:25,996
+Estuve apostado
+justo afuera de Londres.
+
+1430
+01:36:27,075 --> 01:36:30,135
+<i>Sí, lo sé.
+Con la 8a. Fuerza Aérea.</i>
+
+1431
+01:36:30,212 --> 01:36:32,043
+¿Le gustó Londres?
+
+1432
+01:36:33,548 --> 01:36:34,913
+<i>Mucho.</i>
+
+1433
+01:36:37,919 --> 01:36:39,181
+A mí también.
+
+1434
+01:36:40,088 --> 01:36:43,057
+<i>Las grandes ciudades
+son en las que se puede caminar.</i>
+
+1435
+01:36:44,326 --> 01:36:46,658
+<i>A mí me gustaba mucho
+caminar en Londres.</i>
+
+1436
+01:36:46,728 --> 01:36:48,662
+<i>En cualquier lugar
+encuentra historia.</i>
+
+1437
+01:36:50,767 --> 01:36:53,327
+General, ¿está en Moscú ahora?
+
+1438
+01:36:53,402 --> 01:36:54,494
+<i>No.</i>
+
+1439
+01:36:55,605 --> 01:36:57,698
+<i>Me ordenaron salir.</i>
+
+1440
+01:36:57,774 --> 01:36:59,469
+¿Y su--
+
+1441
+01:37:05,047 --> 01:37:06,537
+Es un día difícil.
+
+1442
+01:37:09,185 --> 01:37:10,413
+<i>Sí, es un día difícil.</i>
+
+1443
+01:37:10,486 --> 01:37:12,750
+"General Koniev"
+
+1444
+01:37:12,822 --> 01:37:14,687
+<i>Adiós, amigo.</i>
+
+1445
+01:37:16,159 --> 01:37:17,786
+Adiós, amigo.
+
+1446
+01:37:21,063 --> 01:37:23,157
+- Coronel Grady, señor.
+- ¿Qué pasa, Thomas?
+
+1447
+01:37:23,233 --> 01:37:24,257
+El indicador de infrarrojo...
+
+1448
+01:37:24,334 --> 01:37:27,064
+muestra que encendieron un gran número
+de cohetes tierra-aire adelante.
+
+1449
+01:37:27,137 --> 01:37:28,764
+Los veremos pronto en la pantalla.
+
+1450
+01:37:28,839 --> 01:37:31,069
+¿Qué sabe de esos cohetes?
+
+1451
+01:37:31,141 --> 01:37:32,733
+Son iguales a los nuestros, señor.
+
+1452
+01:37:32,810 --> 01:37:34,869
+Están diseñados para buscar
+motores que producen calor...
+
+1453
+01:37:34,945 --> 01:37:36,708
+como los de un avión.
+
+1454
+01:37:37,681 --> 01:37:40,115
+No somos el blanco. Estamos muy abajo.
+Estallarían con nosotros.
+
+1455
+01:37:40,184 --> 01:37:42,209
+¿Qué hacen con ellos?
+
+1456
+01:37:43,787 --> 01:37:45,186
+<i>- ¿General Bogan?
+- Sí.</i>
+
+1457
+01:37:45,255 --> 01:37:47,746
+<i>Encontraron a la Sra. Grady.
+Está esperando.</i>
+
+1458
+01:37:47,825 --> 01:37:49,258
+Señor presidente.
+
+1459
+01:37:49,326 --> 01:37:51,385
+<i>- Tenemos a la esposa de Grady.
+- ¿Podemos hablar con él?</i>
+
+1460
+01:37:51,461 --> 01:37:54,692
+El procedimiento dicta que nos contacte
+al tener el objetivo a su alcance.
+
+1461
+01:37:54,765 --> 01:37:57,064
+Ésas son sus órdenes
+para que nosotros evaluemos el ataque.
+
+1462
+01:37:57,135 --> 01:38:00,195
+- Ha seguido las órdenes hasta ahora.
+- Sí, señor.
+
+1463
+01:38:00,271 --> 01:38:01,761
+Mantengan los dedos cruzados.
+
+1464
+01:38:02,841 --> 01:38:04,365
+- Thomas.
+- Sí, señor.
+
+1465
+01:38:05,476 --> 01:38:07,307
+¿Los cohetes rusos
+perseguirían misiles?
+
+1466
+01:38:07,378 --> 01:38:09,642
+No veo por qué no.
+Un misil produce calor.
+
+1467
+01:38:10,582 --> 01:38:12,345
+Creo que sé qué van a hacer.
+
+1468
+01:38:12,417 --> 01:38:16,012
+Los cohetes estallarán sobre nosotros
+para derribarnos con la explosión.
+
+1469
+01:38:16,087 --> 01:38:18,317
+Pueden hacerlo.
+¿Cuántos misiles aire-aire quedan?
+
+1470
+01:38:18,389 --> 01:38:19,549
+Dos.
+
+1471
+01:38:20,525 --> 01:38:23,358
+Cuando vea en la pantalla
+que encienden los cohetes...
+
+1472
+01:38:23,428 --> 01:38:26,795
+dispare nuestros misiles y guíelos
+hacia arriba para máxima elevación.
+
+1473
+01:38:26,865 --> 01:38:27,889
+Hacia arriba.
+
+1474
+01:38:27,966 --> 01:38:29,797
+Sí. Quizá sus cohetes sigan
+a los misiles...
+
+1475
+01:38:29,869 --> 01:38:31,598
+exploten muy alto
+y no nos hagan daño.
+
+1476
+01:38:31,670 --> 01:38:32,932
+Sí, señor.
+
+1477
+01:38:34,573 --> 01:38:37,269
+Coronel, están a nuestro alcance.
+Debemos reportarnos.
+
+1478
+01:38:37,343 --> 01:38:38,970
+Vigile esa pantalla.
+
+1479
+01:38:40,946 --> 01:38:43,346
+Último Uno, aquí Pavo Uno.
+
+1480
+01:38:43,415 --> 01:38:45,679
+<i>- ¿Me oyen?
+- Grady, habla el general Bogan.</i>
+
+1481
+01:38:45,751 --> 01:38:49,448
+Siga recibiendo sin importar qué oiga.
+¿Entendió? Siga recibiendo.
+
+1482
+01:38:49,521 --> 01:38:51,682
+Jack.
+
+1483
+01:38:51,757 --> 01:38:53,088
+Soy Helen.
+
+1484
+01:38:53,792 --> 01:38:54,781
+<i>Soy Helen.</i>
+
+1485
+01:38:54,860 --> 01:38:56,794
+¿Reconoces mi voz?
+
+1486
+01:38:56,862 --> 01:38:58,693
+<i>No es un truco.</i>
+
+1487
+01:38:58,764 --> 01:38:59,958
+Soy yo.
+
+1488
+01:39:00,032 --> 01:39:02,967
+<i>Jack, tienes que dar media vuelta.</i>
+
+1489
+01:39:03,035 --> 01:39:05,004
+<i>No tires esas bombas.</i>
+
+1490
+01:39:05,071 --> 01:39:07,130
+- ¿Me oyes?
+- ¿Es su esposa?
+
+1491
+01:39:08,108 --> 01:39:10,269
+Encendieron los cohetes.
+
+1492
+01:39:10,343 --> 01:39:12,277
+Dispare el uno.
+
+1493
+01:39:12,345 --> 01:39:13,937
+<i>¿Me estás oyendo?</i>
+
+1494
+01:39:14,581 --> 01:39:16,276
+Dispare el dos.
+
+1495
+01:39:18,985 --> 01:39:21,180
+Manténgalos al menos
+750 metros sobre los cohetes.
+
+1496
+01:39:21,254 --> 01:39:24,382
+<i>- Sí, señor.
+- Jack--</i>
+
+1497
+01:39:24,457 --> 01:39:27,017
+¡No hay guerra!
+¡Estamos bien!
+
+1498
+01:39:28,895 --> 01:39:30,362
+¡Debes regresar!
+
+1499
+01:39:31,231 --> 01:39:32,698
+Están a 5,500 metros.
+
+1500
+01:39:32,766 --> 01:39:35,701
+- ¡Adelante! ¡Adelante!
+- 5,800.
+
+1501
+01:39:35,769 --> 01:39:38,398
+- 6,100 metros.
+- ¡Los cohetes los están siguiendo!
+
+1502
+01:39:38,472 --> 01:39:40,406
+Dales el máximo impulso.
+Mientras más alto lleguen, mejor.
+
+1503
+01:39:40,474 --> 01:39:42,567
+Nunca te he mentido, ¿verdad?
+
+1504
+01:39:42,643 --> 01:39:45,806
+- 15,200.
+- No podría, por ningún motivo.
+
+1505
+01:39:45,880 --> 01:39:47,814
+<i>¡Tienes que creerme!</i>
+
+1506
+01:39:47,882 --> 01:39:49,577
+24,400 metros.
+
+1507
+01:39:49,650 --> 01:39:52,380
+27,400. 30,500.
+
+1508
+01:39:52,453 --> 01:39:55,684
+- Disminuyen la velocidad.
+- 39,600. 42,600.
+
+1509
+01:39:55,756 --> 01:39:59,351
+<i>- Necesitamos altitud.
+- ¡Jack, por favor respóndeme!</i>
+
+1510
+01:39:59,427 --> 01:40:00,860
+¡51,800!
+
+1511
+01:40:00,928 --> 01:40:05,365
+Jack, ¿qué no--
+¡Respóndeme, por favor!
+
+1512
+01:40:05,433 --> 01:40:08,334
+<i>¡No se confíe, señor!
+¡Debemos salir de aquí!</i>
+
+1513
+01:40:09,303 --> 01:40:10,601
+¡No!
+
+1514
+01:40:13,108 --> 01:40:14,166
+¡Sosténganse!
+
+1515
+01:40:17,012 --> 01:40:18,570
+¡Sus cohetes los están alcanzando!
+
+1516
+01:40:18,647 --> 01:40:20,774
+Recibiremos algo del impacto.
+Sujétense.
+
+1517
+01:40:22,284 --> 01:40:24,013
+Allá van.
+
+1518
+01:40:33,662 --> 01:40:35,653
+Creo que ahora lo lograremos.
+
+1519
+01:40:37,733 --> 01:40:39,928
+¿Cuánto falta para Moscú?
+
+1520
+01:40:40,002 --> 01:40:41,367
+Siete minutos, señor.
+
+1521
+01:40:42,437 --> 01:40:44,372
+Miren...
+
+1522
+01:40:44,440 --> 01:40:48,069
+podemos elegir a qué altitud
+lanzar las bombas.
+
+1523
+01:40:48,144 --> 01:40:50,203
+Es la única elección
+que podemos hacer ahora.
+
+1524
+01:40:52,048 --> 01:40:54,175
+Recibimos mucha radiación
+por la explosión.
+
+1525
+01:40:54,250 --> 01:40:56,718
+No duraríamos más de dos días.
+
+1526
+01:40:59,022 --> 01:41:01,013
+Así que volaré bajo.
+
+1527
+01:41:01,891 --> 01:41:03,916
+Cuando estemos sobre el objetivo...
+
+1528
+01:41:04,894 --> 01:41:06,919
+subiremos a 1,500 metros.
+
+1529
+01:41:08,331 --> 01:41:10,492
+Las bombas están programadas
+para explotar a 1,500.
+
+1530
+01:41:13,069 --> 01:41:14,536
+Estallaremos con ellas.
+
+1531
+01:41:18,542 --> 01:41:19,531
+¿Está bien?
+
+1532
+01:41:26,083 --> 01:41:29,143
+Qué más da.
+De todos modos no hay a qué regresar.
+
+1533
+01:41:40,731 --> 01:41:44,531
+General Stark, ¿hay papeles
+o documentos en Nueva York...
+
+1534
+01:41:44,601 --> 01:41:48,867
+que sean absolutamente esenciales
+para gobernar a los Estados Unidos?
+
+1535
+01:41:50,407 --> 01:41:51,739
+¿General Stark?
+
+1536
+01:41:53,078 --> 01:41:55,012
+No, señor.
+
+1537
+01:41:55,080 --> 01:41:57,810
+Hay documentos importantes, pero...
+
+1538
+01:41:57,882 --> 01:41:59,873
+ninguno de ellos
+es absolutamente esencial.
+
+1539
+01:42:01,820 --> 01:42:03,811
+¿Les advertirá?
+
+1540
+01:42:04,889 --> 01:42:07,790
+Muchas vidas podrían salvarse
+si la gente tuviera unos minutos.
+
+1541
+01:42:07,859 --> 01:42:10,987
+Con tan poco tiempo,
+haría más daño que bien.
+
+1542
+01:42:11,062 --> 01:42:13,087
+Sólo se produciría pánico.
+
+1543
+01:42:15,800 --> 01:42:16,789
+¿Y esto?
+
+1544
+01:42:16,868 --> 01:42:19,962
+"La primera dama visita Nueva York"
+
+1545
+01:42:28,013 --> 01:42:29,378
+Quizá--
+
+1546
+01:42:30,516 --> 01:42:32,711
+Quizá no sepa
+que su esposa está allá.
+
+1547
+01:42:34,587 --> 01:42:35,918
+Lo sabe.
+
+1548
+01:42:42,294 --> 01:42:44,285
+Caballeros, perdemos el tiempo.
+
+1549
+01:42:46,499 --> 01:42:48,592
+Hice unos cálculos...
+
+1550
+01:42:48,667 --> 01:42:50,999
+basados en el efecto de dos bombas
+de 20 megatones...
+
+1551
+01:42:51,070 --> 01:42:53,766
+arrojadas en la Ciudad de N.Y.
+en un día laboral normal.
+
+1552
+01:42:55,107 --> 01:42:57,871
+Calculo que los muertos inmediatos
+serían tres millones.
+
+1553
+01:42:57,943 --> 01:43:01,038
+En este cálculo incluyo a aquellos
+enterrados bajo los edificios.
+
+1554
+01:43:02,115 --> 01:43:04,174
+Nada cambiaría,
+almirante Wilcox...
+
+1555
+01:43:04,251 --> 01:43:06,685
+si lograran llegar a un refugio.
+
+1556
+01:43:06,753 --> 01:43:08,744
+De todas formas morirían.
+
+1557
+01:43:09,756 --> 01:43:12,987
+Agregue otro millón o dos
+que morirán en unas cinco semanas.
+
+1558
+01:43:15,428 --> 01:43:19,865
+El problema inmediato sería el control
+de incendios y la excavación.
+
+1559
+01:43:19,933 --> 01:43:22,697
+No para buscar muertos.
+Sería un esfuerzo desperdiciado.
+
+1560
+01:43:23,837 --> 01:43:26,601
+Aunque no haya documentos
+irremplazables en la ciudad...
+
+1561
+01:43:26,673 --> 01:43:29,403
+muchas de las grandes corporaciones
+mantienen sus registros ahí.
+
+1562
+01:43:30,544 --> 01:43:32,740
+Será necesario...
+
+1563
+01:43:35,583 --> 01:43:38,074
+rescatar la mayor cantidad de registros
+que podamos.
+
+1564
+01:43:44,792 --> 01:43:46,783
+Nuestra economía depende de ello.
+
+1565
+01:43:52,867 --> 01:43:54,858
+Nuestra economía depende de ello.
+
+1566
+01:44:01,976 --> 01:44:04,035
+"Y el Señor dijo:
+
+1567
+01:44:05,681 --> 01:44:08,172
+'el que esté libre de pecado...
+
+1568
+01:44:08,250 --> 01:44:10,241
+que arroje la primera piedra'".
+
+1569
+01:44:19,928 --> 01:44:21,054
+¿Señor?
+
+1570
+01:44:24,733 --> 01:44:26,724
+¿Puedo beber algo, por favor?
+
+1571
+01:44:37,679 --> 01:44:39,671
+¿Cómo llegó a ser traductor, Buck?
+
+1572
+01:44:39,749 --> 01:44:41,740
+No tiene tipo de académico.
+
+1573
+01:44:43,553 --> 01:44:46,579
+Tengo talento para los idiomas, señor.
+
+1574
+01:44:48,224 --> 01:44:50,317
+Oigo un idioma una vez y lo aprendo.
+
+1575
+01:44:51,427 --> 01:44:52,860
+Ni siquiera sé cómo.
+
+1576
+01:44:54,897 --> 01:44:57,092
+Descubrieron esto en el ejército.
+
+1577
+01:44:57,166 --> 01:44:59,100
+Suena arrepentido.
+
+1578
+01:44:59,168 --> 01:45:01,193
+Ah, no.
+Es un trabajo muy interesante.
+
+1579
+01:45:04,040 --> 01:45:06,372
+Quiero decir, a veces.
+
+1580
+01:45:07,510 --> 01:45:09,535
+Bueno, hoy hizo un buen trabajo, Buck.
+
+1581
+01:45:11,214 --> 01:45:12,272
+Gracias, señor.
+
+1582
+01:45:13,284 --> 01:45:15,718
+Sólo repetí lo que él dijo.
+
+1583
+01:45:15,786 --> 01:45:18,721
+No se paralizó.
+Otro hombre pudo haberlo hecho.
+
+1584
+01:45:21,158 --> 01:45:23,149
+Usted fue quien no se paralizó.
+
+1585
+01:45:27,698 --> 01:45:30,496
+Me pregunto cómo estará afuera.
+Parecía que llovería.
+
+1586
+01:45:32,770 --> 01:45:35,261
+Dijeron por la radio
+que en la tarde estaría despejado.
+
+1587
+01:45:41,645 --> 01:45:42,907
+<i>Es el Presidente del Consejo
+soviético, señor.</i>
+
+1588
+01:45:44,248 --> 01:45:45,476
+Sí, señor presidente.
+
+1589
+01:45:49,688 --> 01:45:51,121
+Señor...
+
+1590
+01:45:53,925 --> 01:45:56,086
+ordené a nuestros misiles
+de largo alcance...
+
+1591
+01:45:56,161 --> 01:45:58,152
+que cancelen la alerta.
+
+1592
+01:46:01,366 --> 01:46:03,926
+Sólo la parte de nuestra defensa...
+
+1593
+01:46:04,002 --> 01:46:06,300
+que tiene posibilidades
+de derribar a su bombardero...
+
+1594
+01:46:07,472 --> 01:46:09,531
+sigue activa.
+
+1595
+01:46:09,607 --> 01:46:12,337
+No creemos tener grandes posibilidades.
+
+1596
+01:46:13,778 --> 01:46:14,767
+Lo sé.
+
+1597
+01:46:17,115 --> 01:46:19,983
+Y sin embargo, no es culpa de nadie.
+
+1598
+01:46:20,052 --> 01:46:21,576
+No estoy de acuerdo.
+
+1599
+01:46:22,922 --> 01:46:24,947
+Ningún humano hizo mal.
+
+1600
+01:46:26,726 --> 01:46:28,785
+No se puede culpar a nadie.
+
+1601
+01:46:28,861 --> 01:46:30,726
+Nos pueden culpar a nosotros.
+
+1602
+01:46:30,796 --> 01:46:33,390
+Perdimos el control
+de nuestras máquinas.
+
+1603
+01:46:35,000 --> 01:46:37,901
+Aun así, fue un accidente.
+
+1604
+01:46:37,970 --> 01:46:41,838
+Dos grandes ciudades serán destruidas,
+millones de inocentes morirán.
+
+1605
+01:46:41,907 --> 01:46:44,774
+¿Qué les decimos, señor?
+¿"Los accidentes suceden"?
+
+1606
+01:46:44,844 --> 01:46:46,311
+No lo aceptaré.
+
+1607
+01:46:50,182 --> 01:46:52,047
+Lo único que sé...
+
+1608
+01:46:52,118 --> 01:46:54,610
+es que mientras tengamos armas--
+
+1609
+01:46:54,688 --> 01:46:56,815
+Lo único que sé es que los hombres
+son responsables.
+
+1610
+01:46:56,890 --> 01:46:59,017
+Somos responsables
+por lo que nos suceda.
+
+1611
+01:47:00,127 --> 01:47:02,186
+Hoy probamos un poco del futuro.
+
+1612
+01:47:02,262 --> 01:47:04,890
+¿Aprendemos de ello
+o continuamos como hasta ahora?
+
+1613
+01:47:04,965 --> 01:47:09,026
+¿Qué hacemos. señor presidente?
+¿Qué le decimos a los muertos?
+
+1614
+01:47:12,139 --> 01:47:14,130
+Creo que si somos hombres...
+
+1615
+01:47:15,409 --> 01:47:16,842
+debemos decir...
+
+1616
+01:47:18,245 --> 01:47:20,179
+que esto no volverá a pasar.
+
+1617
+01:47:21,581 --> 01:47:24,106
+¿Pero cree que es posible...
+
+1618
+01:47:24,184 --> 01:47:26,209
+con todo lo que se interpone
+entre nosotros?
+
+1619
+01:47:26,286 --> 01:47:28,847
+Nosotros lo pusimos ahí
+y no estamos imposibilitados.
+
+1620
+01:47:28,923 --> 01:47:31,483
+Lo que pusimos entre nosotros,
+podemos quitarlo.
+
+1621
+01:47:35,029 --> 01:47:37,020
+<i>- ¿Señor presidente?
+- Sí, Jay.</i>
+
+1622
+01:47:38,199 --> 01:47:41,760
+<i>Oigo el sonido de explosiones
+del noreste.</i>
+
+1623
+01:47:41,836 --> 01:47:44,270
+<i>El cielo está muy brillante,
+y encendido--</i>
+
+1624
+01:48:01,957 --> 01:48:03,982
+Comuníqueme con el general Black.
+
+1625
+01:48:16,605 --> 01:48:18,129
+<i>Sí, Sr. presidente.</i>
+
+1626
+01:48:20,342 --> 01:48:22,173
+¿Sí, Sr. presidente?
+
+1627
+01:48:23,312 --> 01:48:25,246
+Moscú fue destruida.
+
+1628
+01:48:26,248 --> 01:48:28,239
+Suelte sus bombas
+de acuerdo con el plan.
+
+1629
+01:48:29,885 --> 01:48:31,147
+<i>Sí, señor.</i>
+
+1630
+01:48:41,030 --> 01:48:43,658
+Ya recibieron las instrucciones,
+no hay nada más que decir.
+
+1631
+01:48:45,869 --> 01:48:47,894
+Sólo daré una última orden.
+
+1632
+01:48:49,339 --> 01:48:54,868
+Nadie más tendrá que ver
+con el lanzamiento de las bombas.
+
+1633
+01:48:57,213 --> 01:49:01,809
+Repito: yo volaré el avión
+y arrojaré las bombas.
+
+1634
+01:49:04,654 --> 01:49:06,781
+El acto final es mío.
+
+1635
+01:49:06,856 --> 01:49:09,917
+Sí, señor.
+Nos acercamos al objetivo.
+
+1636
+01:49:12,463 --> 01:49:14,590
+Cuenta regresiva desde diez.
+Deme la señal.
+
+1637
+01:49:19,537 --> 01:49:21,334
+<i>Diez, nueve...</i>
+
+1638
+01:49:21,405 --> 01:49:23,339
+<i>ocho, siete...</i>
+
+1639
+01:49:23,407 --> 01:49:25,341
+<i>seis, cinco...</i>
+
+1640
+01:49:25,409 --> 01:49:27,343
+<i>cuatro, tres...</i>
+
+1641
+01:49:27,411 --> 01:49:29,242
+<i>dos, uno.</i>
+
+1642
+01:49:29,313 --> 01:49:30,280
+Ahora.
+
+1643
+01:49:37,021 --> 01:49:38,955
+¡General Black!
+
+1644
+01:49:39,023 --> 01:49:41,754
+Katie--
+El sueño--
+
+1645
+01:49:43,094 --> 01:49:44,493
+¡El sueño!
+
+1646
+01:49:47,699 --> 01:49:49,166
+El matador.
+
+1647
+01:49:51,036 --> 01:49:52,298
+¡El matador!
+
+1648
+01:49:54,105 --> 01:49:55,595
+El matador.
+
+1649
+01:49:58,276 --> 01:49:59,607
+¡Yo!
+
+1650
+01:50:00,679 --> 01:50:01,873
+Yo.
+
+1651
+01:50:36,182 --> 01:50:38,673
+LÍMITE DE SEGURIDAD
+
+1652
+01:51:56,565 --> 01:52:00,626
+"Los productores de este filme
+desean enfatizar...
+
+1653
+01:52:00,703 --> 01:52:04,696
+que la postura
+del Departamento de Defensa...
+
+1654
+01:52:04,773 --> 01:52:06,900
+y de la Fuerza Aérea
+de los Estados Unidos...
+
+1655
+01:52:06,975 --> 01:52:11,503
+es que se tiene un sistema rígido
+de seguridad y control...
+
+1656
+01:52:11,580 --> 01:52:16,108
+que asegura que lo acontecido
+en esta historia no puede suceder"
+

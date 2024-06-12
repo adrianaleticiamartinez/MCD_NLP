@@ -1,0 +1,4306 @@
+1
+00:00:02,859 --> 00:00:04,259
+<font size="19"><font color=#FFFF00>Enhorabuena.</font></font>
+
+2
+00:00:04,633 --> 00:00:06,554
+<font size="19"><font color=#FFFF00>Ya ha conseguido usted
+lo que quería.</font></font>
+
+3
+00:00:08,033 --> 00:00:10,433
+<font size="19"><font color=#FFFF00>Fuera lo espera un chófer
+con un coche oficial.</font></font>
+
+4
+00:00:12,474 --> 00:00:13,874
+<font size="19"><font color=#FFFF00>Gracias.</font></font>
+
+5
+00:00:14,393 --> 00:00:15,794
+<font size="19"><font color=#FFFF00>Prefiero ir en metro.</font></font>
+
+6
+00:00:47,713 --> 00:00:49,274
+<font size="19"><font color=#FFFF00>Sí, soy yo otra vez.</font></font>
+
+7
+00:00:49,914 --> 00:00:52,514
+<font size="19"><font color=#FFFF00>Escúcheme con atención,
+no tenemos mucho tiempo.</font></font>
+
+8
+00:00:52,834 --> 00:00:56,234
+<font size="19"><font color=#FFFF00>Saben dónde está, así que tiene
+que salir de ahí inmediatamente.</font></font>
+
+9
+00:00:57,033 --> 00:00:58,753
+<font size="19"><font color=#FFFF00>Yo ya no puedo hacer más por usted.</font></font>
+
+10
+00:01:00,274 --> 00:01:01,673
+<font size="19"><font color=#FFFF00>Me obligan a irme.</font></font>
+
+11
+00:01:11,194 --> 00:01:13,194
+<font size="19"><font color=#FFFF00>¡Sanitario, rápido!</font></font>
+
+12
+00:01:20,794 --> 00:01:22,433
+<font size="19"><font color=#FFFF00>¡Ayúdame, por favor!</font></font>
+
+13
+00:01:28,633 --> 00:01:30,033
+<font size="19"><font color=#FFFF00>¡Sanitario!</font></font>
+
+14
+00:01:30,113 --> 00:01:31,514
+<font size="19"><font color=#FFFF00>¡Deprisa!</font></font>
+
+15
+00:01:37,554 --> 00:01:39,234
+<font size="19"><font color=#FFFF00>¡Por favor, un médico!</font></font>
+
+16
+00:01:40,073 --> 00:01:41,474
+<font size="19"><font color=#FFFF00>¡Me desangro!</font></font>
+
+17
+00:01:41,914 --> 00:01:43,673
+<font size="19"><font color=#FFFF00>¡Ayúdame, por favor!</font></font>
+
+18
+00:01:44,033 --> 00:01:45,514
+<font size="19"><font color=#FFFF00>¡Un médico, por favor!</font></font>
+
+19
+00:01:46,353 --> 00:01:49,234
+<font size="19"><font color=#FFFF00>Cabo, organice los pelotones
+para la retirada.</font></font>
+
+20
+00:01:49,313 --> 00:01:50,794
+<font size="19"><font color=#FFFF00>A sus órdenes, mi capitán.</font></font>
+
+21
+00:01:50,874 --> 00:01:52,914
+<font size="19"><font color=#FFFF00>¡Caballeros! Hay que salir de aquí</font></font>
+
+22
+00:01:52,993 --> 00:01:55,433
+<font size="19"><font color=#FFFF00>antes de que vengan
+esos puñeteros yanquis.</font></font>
+
+23
+00:01:55,794 --> 00:01:57,353
+<font size="19"><font color=#FFFF00>Ayuda aquí, por favor.</font></font>
+
+24
+00:02:00,474 --> 00:02:01,874
+<font size="19"><font color=#FFFF00>No puedo moverme.</font></font>
+
+25
+00:02:07,073 --> 00:02:08,794
+<font size="19"><font color=#FFFF00>¡Cubran los flancos!</font></font>
+
+26
+00:02:09,194 --> 00:02:10,594
+<font size="19"><font color=#FFFF00>¡Vamos! ¡Vamos!</font></font>
+
+27
+00:02:35,194 --> 00:02:37,194
+<font size="19"><font color=#FFFF00>¡Vamos, vamos, corred, alguno!</font></font>
+
+28
+00:03:46,741 --> 00:03:50,939
+<font size="19"><font color=#FFFF00>Sincronizado y corregido por Chitorafa</font></font>
+
+29
+00:03:50,963 --> 00:03:53,161
+<font size="19"><font color=#FFFF00>_</font></font>
+
+30
+00:04:42,753 --> 00:04:44,594
+<font size="19"><font color=#FFFF00>Mi reino por una linterna.</font></font>
+
+31
+00:04:44,673 --> 00:04:46,794
+<font size="19"><font color=#FFFF00>- ¿Qué?
+- Nada, cosas mías.</font></font>
+
+32
+00:04:54,673 --> 00:04:56,073
+<font size="19"><font color=#FFFF00>¿Se te duermen los pies?</font></font>
+
+33
+00:04:58,633 --> 00:05:00,353
+<font size="19"><font color=#FFFF00>Apenas puedo caminar 100 metros.</font></font>
+
+34
+00:05:02,313 --> 00:05:03,713
+<font size="19"><font color=#FFFF00>¿Vómitos?</font></font>
+
+35
+00:05:07,274 --> 00:05:08,874
+<font size="19"><font color=#FFFF00>Tengo el puto beriberi, ¿no?</font></font>
+
+36
+00:05:11,033 --> 00:05:12,433
+<font size="19"><font color=#FFFF00>Me cago en todo.</font></font>
+
+37
+00:05:12,514 --> 00:05:14,514
+<font size="19"><font color=#FFFF00>Cambiando la dieta te recuperarás.</font></font>
+
+38
+00:05:14,594 --> 00:05:17,393
+<font size="19"><font color=#FFFF00>Pues ya me dirá usted
+a qué restaurante me va a llevar,</font></font>
+
+39
+00:05:17,474 --> 00:05:20,154
+<font size="19"><font color=#FFFF00>porque aquí...
+yo no he visto ninguno.</font></font>
+
+40
+00:05:24,993 --> 00:05:26,514
+<font size="19"><font color=#FFFF00>En un rato vuelvo, ¿de acuerdo?</font></font>
+
+41
+00:05:47,794 --> 00:05:50,834
+<font size="19"><font color=#FFFF00>- No tienes un buen día, Julián.
+- ¿Quién puede tenerlo aquí?</font></font>
+
+42
+00:05:51,713 --> 00:05:54,753
+<font size="19"><font color=#FFFF00>Cuba, Filipinas, se llenan la boca
+con el Imperio español,</font></font>
+
+43
+00:05:54,834 --> 00:05:57,514
+<font size="19"><font color=#FFFF00>pero podrían alimentar
+dignamente a sus soldados.</font></font>
+
+44
+00:05:57,594 --> 00:06:00,194
+<font size="19"><font color=#FFFF00>He visto morir a más hombres
+por fiebres y beriberi</font></font>
+
+45
+00:06:00,274 --> 00:06:01,673
+<font size="19"><font color=#FFFF00>que por balas del enemigo.</font></font>
+
+46
+00:06:02,954 --> 00:06:04,954
+<font size="19"><font color=#FFFF00>- Me voy a repartir el correo.
+- Muy bien.</font></font>
+
+47
+00:06:05,033 --> 00:06:07,594
+<font size="19"><font color=#FFFF00>En casa no quiere saber nadie
+nada de la parienta,</font></font>
+
+48
+00:06:07,673 --> 00:06:10,274
+<font size="19"><font color=#FFFF00>pero aquí todo el mundo se muere
+por recibir carta.</font></font>
+
+49
+00:06:10,353 --> 00:06:12,113
+<font size="19"><font color=#FFFF00>¡Un médico, rápido!</font></font>
+
+50
+00:06:12,194 --> 00:06:14,554
+<font size="19"><font color=#FFFF00>Otro que se nos va. Luego te veo.</font></font>
+
+51
+00:06:21,633 --> 00:06:23,794
+<font size="19"><font color=#FFFF00>Un cañonazo reventó
+un parapeto a su lado.</font></font>
+
+52
+00:06:23,874 --> 00:06:26,433
+<font size="19"><font color=#FFFF00>Las astillas le han provocado
+múltiples heridas</font></font>
+
+53
+00:06:26,514 --> 00:06:28,353
+<font size="19"><font color=#FFFF00>y un traumatismo severo
+en el tórax.</font></font>
+
+54
+00:06:28,433 --> 00:06:30,993
+<font size="19"><font color=#FFFF00>No puede respirar,
+hay que intubarlo. Una bujía.</font></font>
+
+55
+00:06:34,753 --> 00:06:36,154
+<font size="19"><font color=#FFFF00>Bujía.</font></font>
+
+56
+00:06:45,274 --> 00:06:46,673
+<font size="19"><font color=#FFFF00>Mierda.</font></font>
+
+57
+00:06:46,753 --> 00:06:48,154
+<font size="19"><font color=#FFFF00>¿Qué hacemos?</font></font>
+
+58
+00:06:48,954 --> 00:06:50,554
+<font size="19"><font color=#FFFF00>Otra bujía, rápido.</font></font>
+
+59
+00:06:56,234 --> 00:06:58,594
+<font size="19"><font color=#FFFF00>- ¿Qué haces?
+- Tiene los pulmones colapsados.</font></font>
+
+60
+00:06:58,673 --> 00:07:00,514
+<font size="19"><font color=#FFFF00>Hay que sacar el aire
+por otro sitio.</font></font>
+
+61
+00:07:03,154 --> 00:07:04,554
+<font size="19"><font color=#FFFF00>Bujía.</font></font>
+
+62
+00:07:06,274 --> 00:07:08,313
+<font size="19"><font color=#FFFF00>Copón, ¿eres enfermero o mecánico?</font></font>
+
+63
+00:07:12,113 --> 00:07:14,154
+<font size="19"><font color=#FFFF00>- ¿Qué ha pasado?
+- Traumatismo múltiple</font></font>
+
+64
+00:07:14,234 --> 00:07:16,794
+<font size="19"><font color=#FFFF00>y laceraciones y cortes en tórax.
+Lo he intubado,</font></font>
+
+65
+00:07:16,874 --> 00:07:19,154
+<font size="19"><font color=#FFFF00>pero la respiración no mejoraba,
+así que...</font></font>
+
+66
+00:07:19,234 --> 00:07:22,234
+<font size="19"><font color=#FFFF00>Nada, le he abierto
+una pequeña incisión en la pleura.</font></font>
+
+67
+00:07:22,874 --> 00:07:24,834
+<font size="19"><font color=#FFFF00>¿De dónde has sacado semejante idea?</font></font>
+
+68
+00:07:25,474 --> 00:07:28,514
+<font size="19"><font color=#FFFF00>Se lo vi hacer a un médico americano
+una vez en Madrid.</font></font>
+
+69
+00:07:29,033 --> 00:07:30,433
+<font size="19"><font color=#FFFF00>El doctor House.</font></font>
+
+70
+00:07:30,514 --> 00:07:33,474
+<font size="19"><font color=#FFFF00>- Pensé que podría funcionar.
+- Parece que lo ha hecho.</font></font>
+
+71
+00:07:33,554 --> 00:07:34,954
+<font size="19"><font color=#FFFF00>- Buen trabajo.
+- Gracias.</font></font>
+
+72
+00:07:35,033 --> 00:07:38,234
+<font size="19"><font color=#FFFF00>Señores, busquémosle una cama,
+no está fuera de peligro.</font></font>
+
+73
+00:08:00,874 --> 00:08:03,594
+<font size="19"><font color=#FFFF00>Si esto no es una tomadura de pelo,
+se le parece mucho.</font></font>
+
+74
+00:08:03,834 --> 00:08:05,594
+<font size="19"><font color=#FFFF00>Perdone, pero no la entiendo.</font></font>
+
+75
+00:08:05,673 --> 00:08:09,353
+<font size="19"><font color=#FFFF00>Le he pedido un dosier con el último
+año de actividades del Ministerio</font></font>
+
+76
+00:08:09,433 --> 00:08:11,673
+<font size="19"><font color=#FFFF00>y me ha entregado 18 folios</font></font>
+
+77
+00:08:11,753 --> 00:08:15,554
+<font size="19"><font color=#FFFF00>llenos de presupuestos sin desglosar
+e informes de misión incompletos.</font></font>
+
+78
+00:08:16,194 --> 00:08:18,954
+<font size="19"><font color=#FFFF00>Se lo diré otra vez, a ver
+si ahora me entiende, Martí.</font></font>
+
+79
+00:08:19,313 --> 00:08:22,753
+<font size="19"><font color=#FFFF00>Tiene 48 horas para poner en orden
+este desastre.</font></font>
+
+80
+00:08:27,554 --> 00:08:29,954
+<font size="19"><font color=#FFFF00>Marisa, ¿qué haces aquí?</font></font>
+
+81
+00:08:32,313 --> 00:08:33,713
+<font size="19"><font color=#FFFF00>Pregúntale a tu jefe.</font></font>
+
+82
+00:08:44,113 --> 00:08:45,514
+<font size="19"><font color=#FFFF00>- Por favor.
+- Gracias.</font></font>
+
+83
+00:08:45,594 --> 00:08:47,834
+<font size="19"><font color=#FFFF00>- Malas noticias, ¿no?
+- Así es.</font></font>
+
+84
+00:08:48,194 --> 00:08:49,794
+<font size="19"><font color=#FFFF00>Presidencia nos quiere hacer</font></font>
+
+85
+00:08:49,914 --> 00:08:52,154
+<font size="19"><font color=#FFFF00>una auditoría de cuentas
+y una inspección.</font></font>
+
+86
+00:08:52,234 --> 00:08:55,554
+<font size="19"><font color=#FFFF00>Tanto vaivén de subsecretarios
+les ha llamado la atención.</font></font>
+
+87
+00:08:55,633 --> 00:08:58,313
+<font size="19"><font color=#FFFF00>- ¿Le traigo un café, jefe?
+- Mejor una tila.</font></font>
+
+88
+00:09:03,033 --> 00:09:05,713
+<font size="19"><font color=#FFFF00>Ernesto, dígame.
+Esa mujer y usted...</font></font>
+
+89
+00:09:05,794 --> 00:09:07,594
+<font size="19"><font color=#FFFF00>No, es una larga historia.</font></font>
+
+90
+00:09:07,993 --> 00:09:10,673
+<font size="19"><font color=#FFFF00>¿Podría hacer algo
+para que se relaje un poco?</font></font>
+
+91
+00:09:10,753 --> 00:09:12,474
+<font size="19"><font color=#FFFF00>Más bien todo lo contrario.</font></font>
+
+92
+00:09:12,554 --> 00:09:15,234
+<font size="19"><font color=#FFFF00>Pues no nos queda más remedio
+que ordenar todo esto.</font></font>
+
+93
+00:09:15,313 --> 00:09:17,713
+<font size="19"><font color=#FFFF00>Así es. Si esa mujer
+quiere las cuentas claras,</font></font>
+
+94
+00:09:17,794 --> 00:09:20,274
+<font size="19"><font color=#FFFF00>le daremos las del Gran Capitán.
+Que se prepare.</font></font>
+
+95
+00:09:20,353 --> 00:09:22,713
+<font size="19"><font color=#FFFF00>Recuerde la que se montó en 1506
+con aquello.</font></font>
+
+96
+00:09:22,794 --> 00:09:25,353
+<font size="19"><font color=#FFFF00>Pidieron funcionarios extra
+de todas las épocas</font></font>
+
+97
+00:09:25,433 --> 00:09:28,474
+<font size="19"><font color=#FFFF00>para revisar las cuentas
+de Gonzalo Fernández de Córdoba.</font></font>
+
+98
+00:09:28,554 --> 00:09:31,234
+<font size="19"><font color=#FFFF00>- Cómo se cabreó el rey Fernando.
+- Más o menos como yo.</font></font>
+
+99
+00:09:31,594 --> 00:09:34,633
+<font size="19"><font color=#FFFF00>En fin, hay que avisar
+a administración y a las patrullas,</font></font>
+
+100
+00:09:34,713 --> 00:09:38,393
+<font size="19"><font color=#FFFF00>asignarles tareas, informes,
+presupuestos, catálogo de puertas,</font></font>
+
+101
+00:09:38,474 --> 00:09:39,954
+<font size="19"><font color=#FFFF00>que se pongan a trabajar ya.</font></font>
+
+102
+00:09:40,033 --> 00:09:43,554
+<font size="19"><font color=#FFFF00>Si arriba quieren saber del volumen
+de trabajo de este Ministerio</font></font>
+
+103
+00:09:43,633 --> 00:09:47,514
+<font size="19"><font color=#FFFF00>se van a enterar, bueno, y de paso
+nos vamos a enterar nosotros.</font></font>
+
+104
+00:09:47,753 --> 00:09:50,673
+<font size="19"><font color=#FFFF00>Ya lo decía mi santa esposa.</font></font>
+
+105
+00:09:50,753 --> 00:09:53,154
+<font size="19"><font color=#FFFF00>"Salva, tienes talento,
+pero a desordenado</font></font>
+
+106
+00:09:53,234 --> 00:09:55,033
+<font size="19"><font color=#FFFF00>es que no te gana nadie".</font></font>
+
+107
+00:10:00,954 --> 00:10:02,353
+<font size="19"><font color=#FFFF00>¿Tan mal estoy?</font></font>
+
+108
+00:10:05,154 --> 00:10:07,073
+<font size="19"><font color=#FFFF00>Esto es solo
+la opinión de un médico.</font></font>
+
+109
+00:10:07,633 --> 00:10:09,433
+<font size="19"><font color=#FFFF00>Si es la opinión, cuéntemela.</font></font>
+
+110
+00:10:10,633 --> 00:10:12,474
+<font size="19"><font color=#FFFF00>Si me muero, no será de oírla.</font></font>
+
+111
+00:10:14,834 --> 00:10:16,633
+<font size="19"><font color=#FFFF00>Todavía no estás fuera de peligro.</font></font>
+
+112
+00:10:17,914 --> 00:10:19,993
+<font size="19"><font color=#FFFF00>El impacto ha desplazado
+el esternón</font></font>
+
+113
+00:10:20,113 --> 00:10:22,474
+<font size="19"><font color=#FFFF00>y la presión sobre los pulmones
+es muy fuerte.</font></font>
+
+114
+00:10:23,514 --> 00:10:25,834
+<font size="19"><font color=#FFFF00>La bujía que te puse ayudó,
+pero no basta.</font></font>
+
+115
+00:10:28,113 --> 00:10:29,514
+<font size="19"><font color=#FFFF00>¿Esto lo hizo usted?</font></font>
+
+116
+00:10:29,673 --> 00:10:31,073
+<font size="19"><font color=#FFFF00>Sí.</font></font>
+
+117
+00:10:32,834 --> 00:10:36,673
+<font size="19"><font color=#FFFF00>El médico me dijo que...
+si no hubiera sido por ese chisme,</font></font>
+
+118
+00:10:37,594 --> 00:10:39,154
+<font size="19"><font color=#FFFF00>me habría quedado en el sitio.</font></font>
+
+119
+00:10:40,713 --> 00:10:42,113
+<font size="19"><font color=#FFFF00>Así que gracias.</font></font>
+
+120
+00:10:44,073 --> 00:10:45,633
+<font size="19"><font color=#FFFF00>¿Le puedo pedir otro favor?</font></font>
+
+121
+00:10:46,113 --> 00:10:47,514
+<font size="19"><font color=#FFFF00>Si me hablas de tú.</font></font>
+
+122
+00:10:48,393 --> 00:10:49,794
+<font size="19"><font color=#FFFF00>Soy Julián.</font></font>
+
+123
+00:10:51,433 --> 00:10:54,274
+<font size="19"><font color=#FFFF00>- Yo, Rafael.
+- Pues tú dirás, Rafael.</font></font>
+
+124
+00:10:57,073 --> 00:10:58,474
+<font size="19"><font color=#FFFF00>En mi saco...</font></font>
+
+125
+00:10:58,993 --> 00:11:00,514
+<font size="19"><font color=#FFFF00>En mi saco hay una joya,</font></font>
+
+126
+00:11:01,353 --> 00:11:05,113
+<font size="19"><font color=#FFFF00>un camafeo que fue de mi abuela,
+que en paz descanse.</font></font>
+
+127
+00:11:06,834 --> 00:11:08,234
+<font size="19"><font color=#FFFF00>Me gustaría que...</font></font>
+
+128
+00:11:11,234 --> 00:11:12,633
+<font size="19"><font color=#FFFF00>bueno...</font></font>
+
+129
+00:11:13,433 --> 00:11:14,834
+<font size="19"><font color=#FFFF00>que lo tuviera alguien,</font></font>
+
+130
+00:11:15,313 --> 00:11:17,514
+<font size="19"><font color=#FFFF00>pero no podré dárselo en persona,
+me temo.</font></font>
+
+131
+00:11:21,554 --> 00:11:22,954
+<font size="19"><font color=#FFFF00>¿Ella?</font></font>
+
+132
+00:11:25,393 --> 00:11:28,874
+<font size="19"><font color=#FFFF00>Perdón por la intromisión,
+pero la vi al recoger tus cosas.</font></font>
+
+133
+00:11:33,753 --> 00:11:35,154
+<font size="19"><font color=#FFFF00>Se llama María.</font></font>
+
+134
+00:11:36,073 --> 00:11:38,313
+<font size="19"><font color=#FFFF00>- Es guapa, ¿verdad?
+- Mucho.</font></font>
+
+135
+00:11:41,033 --> 00:11:42,554
+<font size="19"><font color=#FFFF00>Es la única razón</font></font>
+
+136
+00:11:43,274 --> 00:11:46,113
+<font size="19"><font color=#FFFF00>que ha hecho que este infierno
+haya merecido la pena.</font></font>
+
+137
+00:11:47,673 --> 00:11:49,874
+<font size="19"><font color=#FFFF00>Cuando conoces a una persona así,
+que...</font></font>
+
+138
+00:11:51,313 --> 00:11:52,713
+<font size="19"><font color=#FFFF00>bueno...</font></font>
+
+139
+00:11:55,834 --> 00:11:57,914
+<font size="19"><font color=#FFFF00>que hace que cada cosa que te pase</font></font>
+
+140
+00:11:58,993 --> 00:12:00,393
+<font size="19"><font color=#FFFF00>sea mejor,</font></font>
+
+141
+00:12:03,874 --> 00:12:05,874
+<font size="19"><font color=#FFFF00>tu vida deja de ser solo tuya</font></font>
+
+142
+00:12:09,353 --> 00:12:11,474
+<font size="19"><font color=#FFFF00>y también le pertenece
+un poquito a ella.</font></font>
+
+143
+00:12:13,713 --> 00:12:15,113
+<font size="19"><font color=#FFFF00>No sé si me entiendes.</font></font>
+
+144
+00:12:15,954 --> 00:12:17,353
+<font size="19"><font color=#FFFF00>Perfectamente.</font></font>
+
+145
+00:12:19,794 --> 00:12:21,713
+<font size="19"><font color=#FFFF00>Entonces tienes que prometerme</font></font>
+
+146
+00:12:23,313 --> 00:12:24,993
+<font size="19"><font color=#FFFF00>que le harás llegar esa joya</font></font>
+
+147
+00:12:25,954 --> 00:12:27,353
+<font size="19"><font color=#FFFF00>cuando...</font></font>
+
+148
+00:12:32,313 --> 00:12:33,713
+<font size="19"><font color=#FFFF00>cuando puedas.</font></font>
+
+149
+00:12:34,753 --> 00:12:37,914
+<font size="19"><font color=#FFFF00>Lo haría encantado, pero seguro
+que podrás hacerlo tú mismo.</font></font>
+
+150
+00:12:39,713 --> 00:12:41,113
+<font size="19"><font color=#FFFF00>Por si acaso.</font></font>
+
+151
+00:12:42,554 --> 00:12:43,954
+<font size="19"><font color=#FFFF00>Prometido.</font></font>
+
+152
+00:13:01,393 --> 00:13:03,433
+<font size="19"><font color=#FFFF00>Ayudamos a la resistencia
+en Numancia,</font></font>
+
+153
+00:13:03,514 --> 00:13:05,874
+<font size="19"><font color=#FFFF00>conseguimos que Napoleón
+perdiera en Bailén</font></font>
+
+154
+00:13:05,954 --> 00:13:08,433
+<font size="19"><font color=#FFFF00>y nos expedientan
+por un informe mal redactado.</font></font>
+
+155
+00:13:08,514 --> 00:13:11,914
+<font size="19"><font color=#FFFF00>En España, si no eres futbolista,
+da igual lo que hagas por tu país.</font></font>
+
+156
+00:13:11,993 --> 00:13:13,673
+<font size="19"><font color=#FFFF00>Ni eso, pregúntale a Cardeñosa.</font></font>
+
+157
+00:13:14,594 --> 00:13:15,993
+<font size="19"><font color=#FFFF00>Adelante.</font></font>
+
+158
+00:13:17,353 --> 00:13:18,834
+<font size="19"><font color=#FFFF00>- Buenos días.
+- Buenos días.</font></font>
+
+159
+00:13:19,914 --> 00:13:21,313
+<font size="19"><font color=#FFFF00>Escúchenme con atención.</font></font>
+
+160
+00:13:21,393 --> 00:13:23,834
+<font size="19"><font color=#FFFF00>Van a enfrentarse
+a la misión más difícil</font></font>
+
+161
+00:13:23,914 --> 00:13:25,834
+<font size="19"><font color=#FFFF00>a la que se han enfrentado jamás.</font></font>
+
+162
+00:13:26,474 --> 00:13:29,194
+<font size="19"><font color=#FFFF00>Ay... Una inspección de trabajo.</font></font>
+
+163
+00:13:29,433 --> 00:13:31,914
+<font size="19"><font color=#FFFF00>Una inspección, ¿y eso qué es?</font></font>
+
+164
+00:13:31,993 --> 00:13:34,393
+<font size="19"><font color=#FFFF00>Presidencia quiere
+supervisar el Ministerio</font></font>
+
+165
+00:13:34,474 --> 00:13:36,594
+<font size="19"><font color=#FFFF00>y comprobar
+que todo funciona como debe.</font></font>
+
+166
+00:13:36,673 --> 00:13:40,433
+<font size="19"><font color=#FFFF00>- ¿Acaso no lo hace?
+- Sí, pero en los últimos tiempos</font></font>
+
+167
+00:13:40,514 --> 00:13:43,914
+<font size="19"><font color=#FFFF00>han sido lo bastante convulsos
+como para comprobarlo.</font></font>
+
+168
+00:13:44,393 --> 00:13:47,073
+<font size="19"><font color=#FFFF00>Hay que dejar todo esto
+limpio y reluciente.</font></font>
+
+169
+00:13:47,474 --> 00:13:50,154
+<font size="19"><font color=#FFFF00>Si pensáis que voy a coger
+un mocho y voy a limpiar,</font></font>
+
+170
+00:13:50,234 --> 00:13:53,474
+<font size="19"><font color=#FFFF00>- estáis muy equivocado.
+- Ay, amigo... Alonso, hijo,</font></font>
+
+171
+00:13:53,554 --> 00:13:56,993
+<font size="19"><font color=#FFFF00>veo que su problema
+con los eufemismos no mejora.</font></font>
+
+172
+00:13:57,113 --> 00:13:59,673
+<font size="19"><font color=#FFFF00>Se trata de revisar
+lo hecho hasta ahora</font></font>
+
+173
+00:13:59,794 --> 00:14:03,874
+<font size="19"><font color=#FFFF00>- y subsanar los posibles errores.
+- O sea, papeleo, papeleo, papeleo.</font></font>
+
+174
+00:14:04,313 --> 00:14:07,914
+<font size="19"><font color=#FFFF00>- Pura emoción y aventura.
+- No se me venga abajo tan rápido.</font></font>
+
+175
+00:14:08,194 --> 00:14:11,753
+<font size="19"><font color=#FFFF00>De supervisar informes se encargará
+Amelia, como jefa de patrulla,</font></font>
+
+176
+00:14:11,834 --> 00:14:15,554
+<font size="19"><font color=#FFFF00>Ustedes dos anotarán las puertas
+de nueva aparición,</font></font>
+
+177
+00:14:15,633 --> 00:14:19,673
+<font size="19"><font color=#FFFF00>catalogándolas, cruzándolas
+y anotando lugar y época.</font></font>
+
+178
+00:14:19,753 --> 00:14:22,554
+<font size="19"><font color=#FFFF00>No es justo que ellos viajen
+mientras yo hago papeleo.</font></font>
+
+179
+00:14:22,633 --> 00:14:24,594
+<font size="19"><font color=#FFFF00>Pero usted es la idónea
+para esa tarea.</font></font>
+
+180
+00:14:35,033 --> 00:14:37,594
+<font size="19"><font color=#FFFF00>¿Cómo mantenemos en orden
+la historia de España</font></font>
+
+181
+00:14:37,673 --> 00:14:40,033
+<font size="19"><font color=#FFFF00>si somos incapaces
+de encontrar una factura?</font></font>
+
+182
+00:14:40,113 --> 00:14:43,194
+<font size="19"><font color=#FFFF00>No se ponga pejiguera.
+Son cinco siglos de informes.</font></font>
+
+183
+00:14:43,274 --> 00:14:45,514
+<font size="19"><font color=#FFFF00>- No es tarea sencilla.
+- Y menos si a cada rato</font></font>
+
+184
+00:14:45,594 --> 00:14:48,033
+<font size="19"><font color=#FFFF00>te encuentras con un dibujito
+de Velázquez.</font></font>
+
+185
+00:14:48,113 --> 00:14:49,514
+<font size="19"><font color=#FFFF00>Sí.</font></font>
+
+186
+00:14:53,433 --> 00:14:54,834
+<font size="19"><font color=#FFFF00>¿Algún problema?</font></font>
+
+187
+00:14:58,594 --> 00:15:00,154
+<font size="19"><font color=#FFFF00>Creo que esto es para usted.</font></font>
+
+188
+00:15:00,914 --> 00:15:03,113
+<font size="19"><font color=#FFFF00>Entonces será mejor que lo vea yo.</font></font>
+
+189
+00:15:03,194 --> 00:15:05,433
+<font size="19"><font color=#FFFF00>"Querido Ernesto:
+¿Cómo estás?</font></font>
+
+190
+00:15:05,514 --> 00:15:07,514
+<font size="19"><font color=#FFFF00>Espero que todo vaya
+lo mejor posible.</font></font>
+
+191
+00:15:07,594 --> 00:15:10,433
+<font size="19"><font color=#FFFF00>Te sorprenderá que te escriba
+después de tanto tiempo,</font></font>
+
+192
+00:15:10,514 --> 00:15:12,794
+<font size="19"><font color=#FFFF00>pero hay algo
+que tengo que contarte.</font></font>
+
+193
+00:15:12,874 --> 00:15:15,874
+<font size="19"><font color=#FFFF00>De hecho, es algo que debería
+haberte contado hace mucho.</font></font>
+
+194
+00:15:16,353 --> 00:15:18,794
+<font size="19"><font color=#FFFF00>Espero que alguna vez
+puedas perdonarme,</font></font>
+
+195
+00:15:19,234 --> 00:15:21,514
+<font size="19"><font color=#FFFF00>aunque dudo que lo hagas
+cuando sepas que...</font></font>
+
+196
+00:15:22,113 --> 00:15:23,673
+<font size="19"><font color=#FFFF00>que tienes un hijo</font></font>
+
+197
+00:15:23,753 --> 00:15:26,794
+<font size="19"><font color=#FFFF00>y que no he sido capaz
+de decírtelo en todo este tiempo".</font></font>
+
+198
+00:15:32,313 --> 00:15:34,433
+<font size="19"><font color=#FFFF00>¿Hasta dónde ha leído, Angustias?</font></font>
+
+199
+00:15:36,474 --> 00:15:39,834
+<font size="19"><font color=#FFFF00>Bueno, solo hasta lo de que tiene
+usted un hijo secreto.</font></font>
+
+200
+00:15:42,914 --> 00:15:44,313
+<font size="19"><font color=#FFFF00>Ya.</font></font>
+
+201
+00:15:45,154 --> 00:15:46,554
+<font size="19"><font color=#FFFF00>Bueno, no...</font></font>
+
+202
+00:15:46,633 --> 00:15:49,194
+<font size="19"><font color=#FFFF00>No tiene firma ni fecha.</font></font>
+
+203
+00:15:49,834 --> 00:15:52,353
+<font size="19"><font color=#FFFF00>Hay que seguir buscando,
+debe haber algo, no sé,</font></font>
+
+204
+00:15:52,433 --> 00:15:54,514
+<font size="19"><font color=#FFFF00>un sobre, un registro de entrada.</font></font>
+
+205
+00:15:56,194 --> 00:15:57,594
+<font size="19"><font color=#FFFF00>Ayúdeme, por favor.</font></font>
+
+206
+00:16:22,753 --> 00:16:24,753
+<font size="19"><font color=#FFFF00>- ¿Cuándo ha sido?
+- Hace un par de horas.</font></font>
+
+207
+00:16:27,313 --> 00:16:29,313
+<font size="19"><font color=#FFFF00>¿Te importa si me encargo
+de sus cosas?</font></font>
+
+208
+00:16:29,393 --> 00:16:31,713
+<font size="19"><font color=#FFFF00>No, claro, como quieras.</font></font>
+
+209
+00:16:56,794 --> 00:17:00,073
+<font size="19"><font color=#FFFF00>Me marcho, Julián. A ver
+si para la próxima te toca carta.</font></font>
+
+210
+00:17:00,154 --> 00:17:02,874
+<font size="19"><font color=#FFFF00>Miguel, ¿tú sabes llegar a Baler?</font></font>
+
+211
+00:17:03,194 --> 00:17:04,594
+<font size="19"><font color=#FFFF00>Claro.</font></font>
+
+212
+00:17:05,194 --> 00:17:07,433
+<font size="19"><font color=#FFFF00>No paso tal cual por ahí,
+pero voy cerquita.</font></font>
+
+213
+00:17:10,554 --> 00:17:13,514
+<font size="19"><font color=#FFFF00>Nada, no sé quién me ha escrito
+ni cuándo.</font></font>
+
+214
+00:17:13,594 --> 00:17:15,554
+<font size="19"><font color=#FFFF00>No sé absolutamente nada.</font></font>
+
+215
+00:17:15,834 --> 00:17:17,874
+<font size="19"><font color=#FFFF00>Bueno, ahora sabe que tiene un hijo.</font></font>
+
+216
+00:17:21,993 --> 00:17:24,274
+<font size="19"><font color=#FFFF00>De hecho, lo sabemos los dos.</font></font>
+
+217
+00:17:25,313 --> 00:17:27,713
+<font size="19"><font color=#FFFF00>Angustias, espero
+su máxima discreción.</font></font>
+
+218
+00:17:28,234 --> 00:17:30,274
+<font size="19"><font color=#FFFF00>No diré nada ni aunque me torturen.</font></font>
+
+219
+00:17:31,353 --> 00:17:32,753
+<font size="19"><font color=#FFFF00>Bien.</font></font>
+
+220
+00:17:49,914 --> 00:17:53,594
+<font size="19"><font color=#FFFF00>- Oye, Miguel, ¿es todo el camino así?
+- Pues más o menos.</font></font>
+
+221
+00:17:54,313 --> 00:17:56,753
+<font size="19"><font color=#FFFF00>Si vamos a buen ritmo
+y no nos pasa nada,</font></font>
+
+222
+00:17:56,834 --> 00:17:59,713
+<font size="19"><font color=#FFFF00>- en dos días estamos ahí.
+- ¿Qué nos iba a pasar?</font></font>
+
+223
+00:17:59,794 --> 00:18:02,594
+<font size="19"><font color=#FFFF00>Pues a saber, que nos crucemos
+con la patrulla enemiga</font></font>
+
+224
+00:18:02,673 --> 00:18:04,914
+<font size="19"><font color=#FFFF00>o que nos muerda una bicha
+y haya que volver.</font></font>
+
+225
+00:18:04,993 --> 00:18:07,554
+<font size="19"><font color=#FFFF00>- ¿Una bicha? ¿Qué es eso?
+- Una serpiente, vamos.</font></font>
+
+226
+00:18:07,633 --> 00:18:09,433
+<font size="19"><font color=#FFFF00>O que nos pille una tormenta.</font></font>
+
+227
+00:18:09,794 --> 00:18:11,914
+<font size="19"><font color=#FFFF00>La lluvia en Sevilla
+será una maravilla,</font></font>
+
+228
+00:18:11,993 --> 00:18:14,993
+<font size="19"><font color=#FFFF00>pero aquí empieza a caer
+y quizá no para en tres días.</font></font>
+
+229
+00:18:16,993 --> 00:18:19,554
+<font size="19"><font color=#FFFF00>Estate tranquilo,
+no tiene por qué pasar nada.</font></font>
+
+230
+00:18:21,433 --> 00:18:22,834
+<font size="19"><font color=#FFFF00>Vamos.</font></font>
+
+231
+00:18:26,834 --> 00:18:28,514
+<font size="19"><font color=#FFFF00>A buenas horas, no te jode...</font></font>
+
+232
+00:18:38,393 --> 00:18:41,874
+<font size="19"><font color=#FFFF00>- ¿Esto es de vuestra primera misión?
+- No, la segunda,</font></font>
+
+233
+00:18:41,954 --> 00:18:44,194
+<font size="19"><font color=#FFFF00>- cuando salvamos a Lope de Vega.
+- Ya.</font></font>
+
+234
+00:18:45,514 --> 00:18:48,194
+<font size="19"><font color=#FFFF00>Eh, no tiene nada de malo
+que eches de menos el pasado</font></font>
+
+235
+00:18:48,274 --> 00:18:49,914
+<font size="19"><font color=#FFFF00>y a la gente que estuvo en él.</font></font>
+
+236
+00:18:50,834 --> 00:18:52,274
+<font size="19"><font color=#FFFF00>Debes mirar hacia delante.</font></font>
+
+237
+00:18:52,353 --> 00:18:55,353
+<font size="19"><font color=#FFFF00>Si no, te amargas el presente,
+te lo digo por experiencia.</font></font>
+
+238
+00:18:59,673 --> 00:19:01,673
+<font size="19"><font color=#FFFF00>Me encantaría
+viajar por las puertas</font></font>
+
+239
+00:19:01,753 --> 00:19:03,433
+<font size="19"><font color=#FFFF00>y que ellos hicieran el papeleo.</font></font>
+
+240
+00:19:03,514 --> 00:19:06,234
+<font size="19"><font color=#FFFF00>¿Quieres hundir definitivamente
+este Ministerio?</font></font>
+
+241
+00:19:06,313 --> 00:19:07,993
+<font size="19"><font color=#FFFF00>- Buenas.
+- Buenas.</font></font>
+
+242
+00:19:08,073 --> 00:19:10,274
+<font size="19"><font color=#FFFF00>- ¿Qué tal?
+- ¿Adónde habéis ido?</font></font>
+
+243
+00:19:10,353 --> 00:19:14,433
+<font size="19"><font color=#FFFF00>Pues 1930, a una clase
+de la universidad de Salamanca.</font></font>
+
+244
+00:19:14,514 --> 00:19:16,874
+<font size="19"><font color=#FFFF00>¿No os extraño que los alumnos
+se carcajearan</font></font>
+
+245
+00:19:16,954 --> 00:19:20,194
+<font size="19"><font color=#FFFF00>cuando el maestro empezó la clase
+diciendo: "Decíamos ayer"?</font></font>
+
+246
+00:19:20,274 --> 00:19:23,113
+<font size="19"><font color=#FFFF00>Es la primera clase de Unamuno
+después de su destierro.</font></font>
+
+247
+00:19:24,554 --> 00:19:25,954
+<font size="19"><font color=#FFFF00>Miguel de Unamuno,</font></font>
+
+248
+00:19:26,033 --> 00:19:28,594
+<font size="19"><font color=#FFFF00>uno de los escritores
+más importantes de España.</font></font>
+
+249
+00:19:31,234 --> 00:19:33,474
+<font size="19"><font color=#FFFF00>Primo de Rivera
+lo desterró seis años</font></font>
+
+250
+00:19:33,554 --> 00:19:35,794
+<font size="19"><font color=#FFFF00>después de criticar
+a su gobierno y al rey.</font></font>
+
+251
+00:19:35,874 --> 00:19:38,194
+<font size="19"><font color=#FFFF00>Si fue un mal patriota,
+se lo tenía merecido.</font></font>
+
+252
+00:19:38,274 --> 00:19:41,313
+<font size="19"><font color=#FFFF00>Unamuno quería una España
+más justa y más libre para todos.</font></font>
+
+253
+00:19:41,393 --> 00:19:42,794
+<font size="19"><font color=#FFFF00>¿Es ser mal patriota?</font></font>
+
+254
+00:19:42,874 --> 00:19:45,673
+<font size="19"><font color=#FFFF00>Seis años después regresó a España,
+volvió a dar clase</font></font>
+
+255
+00:19:45,753 --> 00:19:48,594
+<font size="19"><font color=#FFFF00>y empezó por esa frase,
+homenajeando a fray Luis de León</font></font>
+
+256
+00:19:48,673 --> 00:19:51,433
+<font size="19"><font color=#FFFF00>que hizo lo mismo exactamente
+400 años antes.</font></font>
+
+257
+00:19:51,874 --> 00:19:53,393
+<font size="19"><font color=#FFFF00>Por eso se reían los alumnos.</font></font>
+
+258
+00:19:54,234 --> 00:19:56,474
+<font size="19"><font color=#FFFF00>- Ah, vale, por eso.
+- Era por eso.</font></font>
+
+259
+00:19:56,993 --> 00:20:00,274
+<font size="19"><font color=#FFFF00>Es increíble, vivís un momento
+histórico y ni lo apreciáis.</font></font>
+
+260
+00:20:00,353 --> 00:20:03,073
+<font size="19"><font color=#FFFF00>- Voy a por algo de comer, ¿quieres?
+- Mejor voy contigo.</font></font>
+
+261
+00:20:09,753 --> 00:20:11,993
+<font size="19"><font color=#FFFF00>- ¿Tienes una navaja que corte?
+- En la bolsa.</font></font>
+
+262
+00:20:17,433 --> 00:20:19,753
+<font size="19"><font color=#FFFF00>Joder.</font></font>
+
+263
+00:20:20,154 --> 00:20:23,073
+<font size="19"><font color=#FFFF00>Yo buscándote novia
+y resulta que estás casado, truhán.</font></font>
+
+264
+00:20:23,154 --> 00:20:24,633
+<font size="19"><font color=#FFFF00>¿Qué coño haces con eso?</font></font>
+
+265
+00:20:25,353 --> 00:20:26,794
+<font size="19"><font color=#FFFF00>Oye, lo he visto sin querer.</font></font>
+
+266
+00:20:27,594 --> 00:20:29,274
+<font size="19"><font color=#FFFF00>Tampoco hace falta ponerse así.</font></font>
+
+267
+00:20:34,194 --> 00:20:36,033
+<font size="19"><font color=#FFFF00>- ¿Y cómo se llama?
+- Amelia.</font></font>
+
+268
+00:20:36,313 --> 00:20:37,713
+<font size="19"><font color=#FFFF00>Se llama Amelia.</font></font>
+
+269
+00:20:39,433 --> 00:20:42,274
+<font size="19"><font color=#FFFF00>Es muy guapa,
+si no te molesta que te lo diga.</font></font>
+
+270
+00:20:42,393 --> 00:20:43,794
+<font size="19"><font color=#FFFF00>No me molesta, lo es.</font></font>
+
+271
+00:20:44,673 --> 00:20:47,033
+<font size="19"><font color=#FFFF00>Y la persona más inteligente
+que he conocido.</font></font>
+
+272
+00:20:50,033 --> 00:20:52,154
+<font size="19"><font color=#FFFF00>La echas de menos, se te nota.</font></font>
+
+273
+00:20:53,154 --> 00:20:55,474
+<font size="19"><font color=#FFFF00>Mira, también te voy a enseñar
+a mi princesa.</font></font>
+
+274
+00:20:56,433 --> 00:20:57,834
+<font size="19"><font color=#FFFF00>A ver.</font></font>
+
+275
+00:21:06,194 --> 00:21:08,393
+<font size="19"><font color=#FFFF00>Qué... Qué mujer, qué mujer.</font></font>
+
+276
+00:21:08,993 --> 00:21:10,393
+<font size="19"><font color=#FFFF00>Enhorabuena.</font></font>
+
+277
+00:21:13,954 --> 00:21:15,874
+<font size="19"><font color=#FFFF00>Somos hombres afortunados, Julián.</font></font>
+
+278
+00:21:16,874 --> 00:21:18,353
+<font size="19"><font color=#FFFF00>No hay nada peor en este mundo</font></font>
+
+279
+00:21:18,433 --> 00:21:21,154
+<font size="19"><font color=#FFFF00>que no tener a nadie
+para compartir penas y alegrías.</font></font>
+
+280
+00:21:29,393 --> 00:21:30,794
+<font size="19"><font color=#FFFF00>Sí.</font></font>
+
+281
+00:21:31,753 --> 00:21:33,154
+<font size="19"><font color=#FFFF00>Supongo que sí.</font></font>
+
+282
+00:21:45,557 --> 00:21:50,219
+<font size="19"><font color=#FFFF00>_</font></font>
+
+283
+00:21:51,673 --> 00:21:53,713
+<font size="19"><font color=#FFFF00>"Un cabrón es un cabrón,</font></font>
+
+284
+00:21:53,794 --> 00:21:56,353
+<font size="19"><font color=#FFFF00>en el siglo XXI y en el XVI,
+y una ingenua, lo mismo".</font></font>
+
+285
+00:21:56,834 --> 00:21:59,353
+<font size="19"><font color=#FFFF00>"¿Me estás llamando ingenua? ¿A mí?".</font></font>
+
+286
+00:21:59,594 --> 00:22:02,353
+<font size="19"><font color=#FFFF00>Sí, a ti, Amelia,
+te llamo ingenua a ti.</font></font>
+
+287
+00:22:02,433 --> 00:22:05,794
+<font size="19"><font color=#FFFF00>Quédate preñada, anda, quédate
+preñada y a ver cómo lo explicas.</font></font>
+
+288
+00:22:05,874 --> 00:22:07,914
+<font size="19"><font color=#FFFF00>El padre es Lope de Vega,
+venga, hombre.</font></font>
+
+289
+00:22:07,993 --> 00:22:10,353
+<font size="19"><font color=#FFFF00>Si dices eso en tu época
+te meten en un convento</font></font>
+
+290
+00:22:10,433 --> 00:22:12,874
+<font size="19"><font color=#FFFF00>y si lo dices en la mía,
+en un psiquiátrico.</font></font>
+
+291
+00:23:15,954 --> 00:23:17,353
+<font size="19"><font color=#FFFF00>¿Va todo bien?</font></font>
+
+292
+00:23:20,113 --> 00:23:21,514
+<font size="19"><font color=#FFFF00>Sí.</font></font>
+
+293
+00:23:21,594 --> 00:23:24,113
+<font size="19"><font color=#FFFF00>Bueno, digamos
+que remover tantos papeles</font></font>
+
+294
+00:23:24,194 --> 00:23:27,554
+<font size="19"><font color=#FFFF00>- me ha traído recuerdos del pasado.
+- La nostalgia es muy tramposa.</font></font>
+
+295
+00:23:27,633 --> 00:23:30,753
+<font size="19"><font color=#FFFF00>No sirve de nada, deberías saberlo
+después de tanto tiempo.</font></font>
+
+296
+00:23:30,834 --> 00:23:34,073
+<font size="19"><font color=#FFFF00>No, no es nostalgia.
+Asuntos por resolver.</font></font>
+
+297
+00:23:36,554 --> 00:23:37,954
+<font size="19"><font color=#FFFF00>¿Quieres un café?</font></font>
+
+298
+00:23:39,914 --> 00:23:41,993
+<font size="19"><font color=#FFFF00>Gracias, luego, más tarde.</font></font>
+
+299
+00:23:54,954 --> 00:23:57,433
+<font size="19"><font color=#FFFF00>Todos los empleados del Ministerio</font></font>
+
+300
+00:23:57,554 --> 00:24:00,274
+<font size="19"><font color=#FFFF00>han trabajado sin parar
+desde que estuvo usted aquí.</font></font>
+
+301
+00:24:00,353 --> 00:24:02,353
+<font size="19"><font color=#FFFF00>Quedará satisfecha con el resultado.</font></font>
+
+302
+00:24:02,433 --> 00:24:03,834
+<font size="19"><font color=#FFFF00>No debe convencerme a mí.</font></font>
+
+303
+00:24:03,914 --> 00:24:06,554
+<font size="19"><font color=#FFFF00>Ellos son los auditores
+encargados del proceso</font></font>
+
+304
+00:24:06,633 --> 00:24:08,633
+<font size="19"><font color=#FFFF00>Les presento a Salvador Martí,</font></font>
+
+305
+00:24:08,713 --> 00:24:11,073
+<font size="19"><font color=#FFFF00>- subsecretario del Ministerio.
+- Encantado.</font></font>
+
+306
+00:24:11,154 --> 00:24:14,433
+<font size="19"><font color=#FFFF00>Les buscaré un lugar para que
+trabajen cómodamente. Adelante.</font></font>
+
+307
+00:24:14,514 --> 00:24:16,993
+<font size="19"><font color=#FFFF00>Quería que trabajaran
+en este mismo despacho.</font></font>
+
+308
+00:24:17,073 --> 00:24:19,993
+<font size="19"><font color=#FFFF00>¿En mi despacho?
+Ah, claro, por supuesto, sí.</font></font>
+
+309
+00:24:20,633 --> 00:24:22,033
+<font size="19"><font color=#FFFF00>Permiso.</font></font>
+
+310
+00:24:24,474 --> 00:24:26,514
+<font size="19"><font color=#FFFF00>Mientras buscamos dónde acomodarlos,</font></font>
+
+311
+00:24:26,594 --> 00:24:28,753
+<font size="19"><font color=#FFFF00>Ernesto los acompañará
+por el Ministerio</font></font>
+
+312
+00:24:28,834 --> 00:24:31,554
+<font size="19"><font color=#FFFF00>y aclarará cualquier duda
+que pueda surgirles.</font></font>
+
+313
+00:24:32,033 --> 00:24:35,073
+<font size="19"><font color=#FFFF00>Lo dejo todo en sus manos, entonces.
+Ya nos veremos.</font></font>
+
+314
+00:24:37,313 --> 00:24:41,073
+<font size="19"><font color=#FFFF00>Marisa, ¿te importa que hablemos
+antes de que te vayas?</font></font>
+
+315
+00:24:41,154 --> 00:24:42,914
+<font size="19"><font color=#FFFF00>Tengo mucho que hacer, Ernesto.</font></font>
+
+316
+00:24:42,993 --> 00:24:46,874
+<font size="19"><font color=#FFFF00>Claro, pero será solo un segundo,
+mientras nos tomamos un café.</font></font>
+
+317
+00:24:48,073 --> 00:24:49,474
+<font size="19"><font color=#FFFF00>- Un café.
+- Sí.</font></font>
+
+318
+00:24:54,073 --> 00:24:56,554
+<font size="19"><font color=#FFFF00>No son ni las 09:00
+y ya quieren un café.</font></font>
+
+319
+00:24:56,633 --> 00:24:59,393
+<font size="19"><font color=#FFFF00>Así tenemos los funcionarios
+la fama que tenemos...</font></font>
+
+320
+00:24:59,834 --> 00:25:01,234
+<font size="19"><font color=#FFFF00>de no...</font></font>
+
+321
+00:25:07,194 --> 00:25:08,594
+<font size="19"><font color=#FFFF00>Bueno...</font></font>
+
+322
+00:25:10,514 --> 00:25:12,274
+<font size="19"><font color=#FFFF00>Cuántos años sin vernos, ¿eh?</font></font>
+
+323
+00:25:14,033 --> 00:25:17,554
+<font size="19"><font color=#FFFF00>Y... tú, ¿qué tal?
+¿Cómo te ha tratado la vida?</font></font>
+
+324
+00:25:19,474 --> 00:25:21,433
+<font size="19"><font color=#FFFF00>Al grano, por favor, Ernesto.</font></font>
+
+325
+00:25:22,514 --> 00:25:23,914
+<font size="19"><font color=#FFFF00>Vaya.</font></font>
+
+326
+00:25:24,794 --> 00:25:27,794
+<font size="19"><font color=#FFFF00>Veo que el tiempo
+no te ha suavizado el carácter.</font></font>
+
+327
+00:25:27,914 --> 00:25:29,993
+<font size="19"><font color=#FFFF00>Antes de conocerte era menos seca.</font></font>
+
+328
+00:25:30,633 --> 00:25:32,033
+<font size="19"><font color=#FFFF00>Eso decía mi madre.</font></font>
+
+329
+00:25:33,594 --> 00:25:34,993
+<font size="19"><font color=#FFFF00>¿Qué quieres de mí?</font></font>
+
+330
+00:25:36,993 --> 00:25:38,393
+<font size="19"><font color=#FFFF00>Verás...</font></font>
+
+331
+00:25:39,194 --> 00:25:41,113
+<font size="19"><font color=#FFFF00>He encontrado una carta
+dirigida a mí</font></font>
+
+332
+00:25:41,194 --> 00:25:44,033
+<font size="19"><font color=#FFFF00>que alguien envió al Ministerio
+hace tiempo.</font></font>
+
+333
+00:25:45,353 --> 00:25:46,753
+<font size="19"><font color=#FFFF00>En ella...</font></font>
+
+334
+00:25:47,234 --> 00:25:48,633
+<font size="19"><font color=#FFFF00>venían a decir que...</font></font>
+
+335
+00:25:51,194 --> 00:25:53,794
+<font size="19"><font color=#FFFF00>bueno, que... que tengo un hijo.</font></font>
+
+336
+00:25:55,073 --> 00:25:56,594
+<font size="19"><font color=#FFFF00>Y yo quería saber si...</font></font>
+
+337
+00:25:57,154 --> 00:25:59,433
+<font size="19"><font color=#FFFF00>Si soy la madre
+de algún pequeño Ernesto.</font></font>
+
+338
+00:26:03,274 --> 00:26:05,033
+<font size="19"><font color=#FFFF00>Pues no, no lo soy.</font></font>
+
+339
+00:26:06,954 --> 00:26:10,433
+<font size="19"><font color=#FFFF00>No te tenía por un galán que fuese
+de novia en novia preguntando eso.</font></font>
+
+340
+00:26:10,514 --> 00:26:12,554
+<font size="19"><font color=#FFFF00>Por favor, sabes que yo no soy así.</font></font>
+
+341
+00:26:19,594 --> 00:26:21,154
+<font size="19"><font color=#FFFF00>Yo nunca supe mucho de ti.</font></font>
+
+342
+00:26:41,033 --> 00:26:43,514
+<font size="19"><font color=#FFFF00>Pues nada, ahí lo tienes, Baler.</font></font>
+
+343
+00:26:44,914 --> 00:26:47,474
+<font size="19"><font color=#FFFF00>- Pero son cuatro chozas.
+- Y una iglesia.</font></font>
+
+344
+00:26:47,554 --> 00:26:49,794
+<font size="19"><font color=#FFFF00>Sigue recto esa trocha
+y llegas a un puente.</font></font>
+
+345
+00:26:49,874 --> 00:26:52,474
+<font size="19"><font color=#FFFF00>Cruzas y en cinco minutos estás,
+no tiene pérdida.</font></font>
+
+346
+00:26:52,554 --> 00:26:54,234
+<font size="19"><font color=#FFFF00>Muy bien. Gracias, Miguel.</font></font>
+
+347
+00:26:54,673 --> 00:26:56,594
+<font size="19"><font color=#FFFF00>Nada, a ti por la compañía.</font></font>
+
+348
+00:27:03,234 --> 00:27:04,633
+<font size="19"><font color=#FFFF00>- Buen viaje.
+- Igualmente.</font></font>
+
+349
+00:27:06,194 --> 00:27:07,594
+<font size="19"><font color=#FFFF00>Cuidado con las bichas.</font></font>
+
+350
+00:27:41,914 --> 00:27:44,594
+<font size="19"><font color=#FFFF00>Vive Dios, en esta época
+o pasa el tiempo muy deprisa</font></font>
+
+351
+00:27:44,673 --> 00:27:46,313
+<font size="19"><font color=#FFFF00>o yo camino muy despacio.</font></font>
+
+352
+00:27:47,033 --> 00:27:50,313
+<font size="19"><font color=#FFFF00>¡Josefina, es nuestra vecina!</font></font>
+
+353
+00:27:50,393 --> 00:27:53,993
+<font size="19"><font color=#FFFF00>¡Rescate a los banqueros,
+desahucio a los obreros!</font></font>
+
+354
+00:27:54,073 --> 00:27:57,794
+<font size="19"><font color=#FFFF00>¡Rescate a los banqueros,
+desahucio a los obreros!</font></font>
+
+355
+00:27:57,914 --> 00:28:01,073
+<font size="19"><font color=#FFFF00>¡Josefina es nuestra vecina!</font></font>
+
+356
+00:28:01,433 --> 00:28:04,594
+<font size="19"><font color=#FFFF00>¡Josefina es nuestra vecina!</font></font>
+
+357
+00:28:05,433 --> 00:28:08,753
+<font size="19"><font color=#FFFF00>¿Os importaría decirme
+a qué viene toda esta algarabía?</font></font>
+
+358
+00:28:08,834 --> 00:28:11,113
+<font size="19"><font color=#FFFF00>Intentan desalojar
+a una anciana de su casa.</font></font>
+
+359
+00:28:11,633 --> 00:28:13,954
+<font size="19"><font color=#FFFF00>¿Toda esta gente
+contra una pobre vieja?</font></font>
+
+360
+00:28:14,033 --> 00:28:16,753
+<font size="19"><font color=#FFFF00>- Se han vuelto locos.
+- Quieren impedirlo.</font></font>
+
+361
+00:28:16,834 --> 00:28:19,393
+<font size="19"><font color=#FFFF00>- Tú, ¿en qué mundo vives?
+- En varios.</font></font>
+
+362
+00:28:19,474 --> 00:28:21,514
+<font size="19"><font color=#FFFF00>Y todos injustos, por lo que veo.</font></font>
+
+363
+00:28:21,594 --> 00:28:24,353
+<font size="19"><font color=#FFFF00>¡Josefina es nuestra vecina!</font></font>
+
+364
+00:28:24,433 --> 00:28:27,794
+<font size="19"><font color=#FFFF00>¡Josefina es nuestra vecina!</font></font>
+
+365
+00:28:27,874 --> 00:28:31,194
+<font size="19"><font color=#FFFF00>¡Desahucio a los obreros,
+rescate a los banqueros!</font></font>
+
+366
+00:28:31,274 --> 00:28:34,713
+<font size="19"><font color=#FFFF00>- ¡Desahucio a los obreros...!
+- Amigos, amigos,</font></font>
+
+367
+00:28:34,794 --> 00:28:38,673
+<font size="19"><font color=#FFFF00>no vamos a dejar sola a Josefina.
+Pararemos este desahucio.</font></font>
+
+368
+00:28:38,753 --> 00:28:42,713
+<font size="19"><font color=#FFFF00>¡Este desahucio lo vamos a parar!</font></font>
+
+369
+00:28:43,794 --> 00:28:46,393
+<font size="19"><font color=#FFFF00>¡Este desahucio</font></font>
+
+370
+00:28:46,954 --> 00:28:49,554
+<font size="19"><font color=#FFFF00>lo vamos a parar!</font></font>
+
+371
+00:28:50,274 --> 00:28:52,914
+<font size="19"><font color=#FFFF00>¡Este desahucio</font></font>
+
+372
+00:28:53,433 --> 00:28:55,914
+<font size="19"><font color=#FFFF00>lo vamos a parar!</font></font>
+
+373
+00:28:56,633 --> 00:28:59,113
+<font size="19"><font color=#FFFF00>¡Este desahucio</font></font>
+
+374
+00:28:59,194 --> 00:29:01,914
+<font size="19"><font color=#FFFF00>lo vamos a parar!</font></font>
+
+375
+00:29:03,154 --> 00:29:05,514
+<font size="19"><font color=#FFFF00>¡Este desahucio</font></font>
+
+376
+00:29:05,954 --> 00:29:08,673
+<font size="19"><font color=#FFFF00>lo vamos a parar!</font></font>
+
+377
+00:29:09,474 --> 00:29:11,954
+<font size="19"><font color=#FFFF00>¡Este desahucio</font></font>
+
+378
+00:29:12,033 --> 00:29:14,753
+<font size="19"><font color=#FFFF00>lo vamos a parar!</font></font>
+
+379
+00:29:18,154 --> 00:29:20,753
+<font size="19"><font color=#FFFF00>- ¡Vamos, a casa!
+- ¿Qué hace? ¡Suélteme!</font></font>
+
+380
+00:29:20,834 --> 00:29:22,234
+<font size="19"><font color=#FFFF00>¡Vamos, venga!</font></font>
+
+381
+00:29:25,234 --> 00:29:27,834
+<font size="19"><font color=#FFFF00>- ¡Vamos, vamos!
+- ¡Soltadla, hideputas!</font></font>
+
+382
+00:29:27,914 --> 00:29:29,313
+<font size="19"><font color=#FFFF00>¡Poco hombres sois!</font></font>
+
+383
+00:29:31,033 --> 00:29:33,073
+<font size="19"><font color=#FFFF00>- ¡Dejadlo!
+- ¡Lo vais a matar!</font></font>
+
+384
+00:29:33,154 --> 00:29:35,954
+<font size="19"><font color=#FFFF00>- ¡Burros! ¡Sois unos burros!
+- ¡Salvajes, soltadlo!</font></font>
+
+385
+00:29:36,033 --> 00:29:39,073
+<font size="19"><font color=#FFFF00>- ¡Iré a comisaría! ¿Cómo te llamas?
+- Alonso de Entrerríos.</font></font>
+
+386
+00:29:39,154 --> 00:29:40,554
+<font size="19"><font color=#FFFF00>- Me llamo...
+- Blanca.</font></font>
+
+387
+00:29:40,633 --> 00:29:42,713
+<font size="19"><font color=#FFFF00>No, soy Elena, Elena Castillo.</font></font>
+
+388
+00:29:42,794 --> 00:29:44,673
+<font size="19"><font color=#FFFF00>Y yo, Josefina Pérez, joven.</font></font>
+
+389
+00:29:46,113 --> 00:29:47,514
+<font size="19"><font color=#FFFF00>No opongas resis...</font></font>
+
+390
+00:29:47,594 --> 00:29:49,154
+<font size="19"><font color=#FFFF00>¿Queréis más? ¿Queréis más?</font></font>
+
+391
+00:29:49,594 --> 00:29:52,874
+<font size="19"><font color=#FFFF00>¡Este desahucio lo vamos a parar!</font></font>
+
+392
+00:29:53,234 --> 00:29:55,834
+<font size="19"><font color=#FFFF00>¡Este desahucio lo vamos a parar!</font></font>
+
+393
+00:30:12,993 --> 00:30:15,673
+<font size="19"><font color=#FFFF00>Como intentes alguna tontería
+te afeito con esto.</font></font>
+
+394
+00:30:15,753 --> 00:30:17,234
+<font size="19"><font color=#FFFF00>Levanta las manos.</font></font>
+
+395
+00:30:17,594 --> 00:30:19,514
+<font size="19"><font color=#FFFF00>Tranquilo, no voy armado.</font></font>
+
+396
+00:30:20,713 --> 00:30:22,113
+<font size="19"><font color=#FFFF00>Peor para ti.</font></font>
+
+397
+00:30:32,073 --> 00:30:34,194
+<font size="19"><font color=#FFFF00>Y ahora me vas a decir
+quién cojones eres.</font></font>
+
+398
+00:30:45,954 --> 00:30:47,353
+<font size="19"><font color=#FFFF00>¿Has visto a Alonso?</font></font>
+
+399
+00:30:48,194 --> 00:30:50,673
+<font size="19"><font color=#FFFF00>Hace horas que no veo más
+que negro sobre blanco.</font></font>
+
+400
+00:30:51,874 --> 00:30:54,113
+<font size="19"><font color=#FFFF00>- ¿Vosotros no vivíais juntos?
+- Sí.</font></font>
+
+401
+00:30:54,433 --> 00:30:56,673
+<font size="19"><font color=#FFFF00>Pero es que no he dormido
+en casa hoy.</font></font>
+
+402
+00:30:57,393 --> 00:31:00,914
+<font size="19"><font color=#FFFF00>Anoche conocí a una churri,
+nos tomamos unos cacharros</font></font>
+
+403
+00:31:00,993 --> 00:31:03,393
+<font size="19"><font color=#FFFF00>- y una cosa llevó a la otra...
+- No me interesa.</font></font>
+
+404
+00:31:07,033 --> 00:31:08,433
+<font size="19"><font color=#FFFF00>Pues como no venga Alonso</font></font>
+
+405
+00:31:08,834 --> 00:31:10,753
+<font size="19"><font color=#FFFF00>me tendré
+que hacer las puertas solo.</font></font>
+
+406
+00:31:11,954 --> 00:31:13,353
+<font size="19"><font color=#FFFF00>Te podías venir conmigo.</font></font>
+
+407
+00:31:14,874 --> 00:31:16,353
+<font size="19"><font color=#FFFF00>- ¿Yo?
+- Sí.</font></font>
+
+408
+00:31:18,753 --> 00:31:20,993
+<font size="19"><font color=#FFFF00>No debería,
+tengo mucho trabajo que hacer.</font></font>
+
+409
+00:31:21,113 --> 00:31:23,794
+<font size="19"><font color=#FFFF00>Quizá si no hicieras siempre
+lo que hay que hacer...</font></font>
+
+410
+00:31:23,874 --> 00:31:26,874
+<font size="19"><font color=#FFFF00>no te tendrían muerta de asco
+rellenando informes.</font></font>
+
+411
+00:31:28,594 --> 00:31:29,993
+<font size="19"><font color=#FFFF00>Eh.</font></font>
+
+412
+00:31:30,393 --> 00:31:31,794
+<font size="19"><font color=#FFFF00>Una puertecita.</font></font>
+
+413
+00:31:33,313 --> 00:31:34,713
+<font size="19"><font color=#FFFF00>Venga.</font></font>
+
+414
+00:31:46,073 --> 00:31:48,874
+<font size="19"><font color=#FFFF00>Total, ¿qué es lo peor
+que podría pasar?</font></font>
+
+415
+00:31:48,954 --> 00:31:51,914
+<font size="19"><font color=#FFFF00>La peste negra de 1348,
+la guerra de los comuneros,</font></font>
+
+416
+00:31:51,993 --> 00:31:54,993
+<font size="19"><font color=#FFFF00>las guerras carlistas,
+el bombardeo de Guernica.</font></font>
+
+417
+00:31:57,194 --> 00:32:00,154
+<font size="19"><font color=#FFFF00>- Tienes mala cara. ¿Te pasa algo?
+- Sí.</font></font>
+
+418
+00:32:00,554 --> 00:32:02,474
+<font size="19"><font color=#FFFF00>Que se vive muy bien
+en la ignorancia.</font></font>
+
+419
+00:32:03,554 --> 00:32:06,234
+<font size="19"><font color=#FFFF00>La ignorancia es la semilla
+de la estupidez humana.</font></font>
+
+420
+00:32:06,313 --> 00:32:08,794
+<font size="19"><font color=#FFFF00>Y el conocimiento,
+la semilla del sufrimiento.</font></font>
+
+421
+00:32:08,874 --> 00:32:11,274
+<font size="19"><font color=#FFFF00>Es decir, los listos
+sufren más que los tontos.</font></font>
+
+422
+00:32:11,353 --> 00:32:14,033
+<font size="19"><font color=#FFFF00>Te lo digo yo,
+que no soy muy inteligente, ¿sabes?</font></font>
+
+423
+00:32:14,113 --> 00:32:16,954
+<font size="19"><font color=#FFFF00>- Ahí llevas razón.
+- ¿En que no soy muy inteligente?</font></font>
+
+424
+00:32:17,033 --> 00:32:20,514
+<font size="19"><font color=#FFFF00>No, en lo otro.
+Siempre me acabas liando.</font></font>
+
+425
+00:32:24,033 --> 00:32:25,433
+<font size="19"><font color=#FFFF00>Pues esta es.</font></font>
+
+426
+00:32:28,874 --> 00:32:30,274
+<font size="19"><font color=#FFFF00>Pues esto va así.</font></font>
+
+427
+00:32:35,554 --> 00:32:36,954
+<font size="19"><font color=#FFFF00>¿Dónde estamos?</font></font>
+
+428
+00:32:38,874 --> 00:32:40,274
+<font size="19"><font color=#FFFF00>¿Cómo quieres que lo sepa?</font></font>
+
+429
+00:32:40,353 --> 00:32:43,393
+<font size="19"><font color=#FFFF00>¿Te imaginas que hemos viajado
+al principio de los tiempos</font></font>
+
+430
+00:32:43,474 --> 00:32:45,594
+<font size="19"><font color=#FFFF00>y no existe la Tierra?
+Sería alucinante.</font></font>
+
+431
+00:32:45,673 --> 00:32:47,393
+<font size="19"><font color=#FFFF00>No digas bobadas y dame eso.</font></font>
+
+432
+00:32:54,393 --> 00:32:55,794
+<font size="19"><font color=#FFFF00>¿Esto qué es?</font></font>
+
+433
+00:32:56,234 --> 00:32:57,753
+<font size="19"><font color=#FFFF00>El procedimiento.</font></font>
+
+434
+00:32:58,033 --> 00:33:00,194
+<font size="19"><font color=#FFFF00>Primero grabamos con eso
+sin que nos vean,</font></font>
+
+435
+00:33:00,274 --> 00:33:02,393
+<font size="19"><font color=#FFFF00>nos aseguramos
+de dónde y cuándo estamos</font></font>
+
+436
+00:33:02,474 --> 00:33:04,073
+<font size="19"><font color=#FFFF00>y nos vestimos para la ocasión.</font></font>
+
+437
+00:33:21,914 --> 00:33:24,753
+<font size="19"><font color=#FFFF00>- ¿Esto qué es?
+- Un pasillo con puertas del tiempo.</font></font>
+
+438
+00:33:28,514 --> 00:33:30,633
+<font size="19"><font color=#FFFF00>- ¿Hay puertas que dan al Ministerio?
+- Ajá.</font></font>
+
+439
+00:33:31,154 --> 00:33:33,633
+<font size="19"><font color=#FFFF00>- Pues menuda decepción.
+- Al contrario.</font></font>
+
+440
+00:33:34,433 --> 00:33:36,274
+<font size="19"><font color=#FFFF00>Son muy útiles, ojalá hubiera más.</font></font>
+
+441
+00:33:36,914 --> 00:33:40,433
+<font size="19"><font color=#FFFF00>Lo que debemos averiguar es
+en qué época estamos.</font></font>
+
+442
+00:33:40,874 --> 00:33:42,433
+<font size="19"><font color=#FFFF00>Pues entramos y preguntamos.</font></font>
+
+443
+00:33:43,274 --> 00:33:45,954
+<font size="19"><font color=#FFFF00>- ¿Así vestidos?
+- Claro. Vamos.</font></font>
+
+444
+00:33:52,433 --> 00:33:53,834
+<font size="19"><font color=#FFFF00>Tenemos que ser sutiles</font></font>
+
+445
+00:33:53,993 --> 00:33:55,753
+<font size="19"><font color=#FFFF00>- o nos tomarán por intrusos.
+- Sí.</font></font>
+
+446
+00:34:03,154 --> 00:34:04,554
+<font size="19"><font color=#FFFF00>¡Pacino!</font></font>
+
+447
+00:34:04,633 --> 00:34:07,834
+<font size="19"><font color=#FFFF00>Soy un hombre con mi propio pelo.
+¡No necesito pelucas!</font></font>
+
+448
+00:34:07,914 --> 00:34:09,433
+<font size="19"><font color=#FFFF00>Estás estupendo.</font></font>
+
+449
+00:34:09,794 --> 00:34:11,834
+<font size="19"><font color=#FFFF00>A la que le sienta bien esta época
+es a ti.</font></font>
+
+450
+00:34:12,633 --> 00:34:14,033
+<font size="19"><font color=#FFFF00>Gracias.</font></font>
+
+451
+00:34:14,874 --> 00:34:18,474
+<font size="19"><font color=#FFFF00>- ¿Qué? ¿De vuelta de una misión?
+- Sí.</font></font>
+
+452
+00:34:19,194 --> 00:34:20,594
+<font size="19"><font color=#FFFF00>Qué elegante, ¿no?</font></font>
+
+453
+00:34:20,794 --> 00:34:23,393
+<font size="19"><font color=#FFFF00>- Vamos a ver al conde de Aranda.
+- Coño, como la calle.</font></font>
+
+454
+00:34:23,474 --> 00:34:24,874
+<font size="19"><font color=#FFFF00>Eso es.</font></font>
+
+455
+00:34:24,954 --> 00:34:26,353
+<font size="19"><font color=#FFFF00>- Venga.
+- Venga.</font></font>
+
+456
+00:34:31,274 --> 00:34:32,954
+<font size="19"><font color=#FFFF00>Parece majete el Julián este.</font></font>
+
+457
+00:34:47,274 --> 00:34:49,993
+<font size="19"><font color=#FFFF00>Con su permiso, mi capitán.
+Yo digo que lo encerremos</font></font>
+
+458
+00:34:50,353 --> 00:34:52,433
+<font size="19"><font color=#FFFF00>y lo tengamos dos días
+a base de agua.</font></font>
+
+459
+00:34:52,514 --> 00:34:54,753
+<font size="19"><font color=#FFFF00>- Verá como habla.
+- No sea animal, teniente.</font></font>
+
+460
+00:34:54,834 --> 00:34:56,673
+<font size="19"><font color=#FFFF00>No trataremos así a un compatriota.</font></font>
+
+461
+00:34:56,753 --> 00:34:59,554
+<font size="19"><font color=#FFFF00>Podría ser un traidor
+y tener tratos con los tagalos.</font></font>
+
+462
+00:34:59,633 --> 00:35:01,594
+<font size="19"><font color=#FFFF00>¿Y si les trae planos
+o instrucciones?</font></font>
+
+463
+00:35:01,673 --> 00:35:03,713
+<font size="19"><font color=#FFFF00>¿Encontraron algo así
+entre sus cosas?</font></font>
+
+464
+00:35:03,794 --> 00:35:05,993
+<font size="19"><font color=#FFFF00>No, mi capitán.
+Hemos encontrado esto.</font></font>
+
+465
+00:35:11,594 --> 00:35:13,154
+<font size="19"><font color=#FFFF00>¿Y esto qué se supone que es?</font></font>
+
+466
+00:35:13,433 --> 00:35:16,234
+<font size="19"><font color=#FFFF00>Es un tensiómetro.
+Es para medir la presión arterial.</font></font>
+
+467
+00:35:16,313 --> 00:35:17,914
+<font size="19"><font color=#FFFF00>Les he dicho que soy enfermero.</font></font>
+
+468
+00:35:20,794 --> 00:35:22,673
+<font size="19"><font color=#FFFF00>Esto no me gusta nada, capitán.</font></font>
+
+469
+00:35:26,073 --> 00:35:27,113
+<font size="19"><font color=#FFFF00>Buenas.</font></font>
+
+470
+00:35:27,194 --> 00:35:28,993
+<font size="19"><font color=#FFFF00>Doctor Vigil,
+me viene de perlas.</font></font>
+
+471
+00:35:29,113 --> 00:35:32,274
+<font size="19"><font color=#FFFF00>Este hombre de aquí es enfermero,
+recién llegado de Manila.</font></font>
+
+472
+00:35:33,554 --> 00:35:36,594
+<font size="19"><font color=#FFFF00>Ha aparecido de la nada
+y se niega a decirnos qué hace aquí.</font></font>
+
+473
+00:35:37,554 --> 00:35:39,594
+<font size="19"><font color=#FFFF00>Ya le he dicho
+que es un asunto privado.</font></font>
+
+474
+00:35:40,274 --> 00:35:41,673
+<font size="19"><font color=#FFFF00>Pero si lo quiere saber...</font></font>
+
+475
+00:35:42,954 --> 00:35:44,353
+<font size="19"><font color=#FFFF00>Permiso.</font></font>
+
+476
+00:35:45,633 --> 00:35:48,433
+<font size="19"><font color=#FFFF00>Vengo a entregar este camafeo
+a una tagala del pueblo.</font></font>
+
+477
+00:35:48,514 --> 00:35:51,033
+<font size="19"><font color=#FFFF00>El otro día falleció un soldado,
+Rafael Ríos,</font></font>
+
+478
+00:35:51,113 --> 00:35:52,514
+<font size="19"><font color=#FFFF00>y en su lecho de muerte...</font></font>
+
+479
+00:35:53,113 --> 00:35:54,514
+<font size="19"><font color=#FFFF00>le prometí que lo haría.</font></font>
+
+480
+00:35:55,474 --> 00:35:56,874
+<font size="19"><font color=#FFFF00>No me joda.</font></font>
+
+481
+00:35:56,954 --> 00:35:59,073
+<font size="19"><font color=#FFFF00>No esperará
+que nos creamos esa patraña.</font></font>
+
+482
+00:36:03,113 --> 00:36:04,514
+<font size="19"><font color=#FFFF00>¿En qué hospital trabaja?</font></font>
+
+483
+00:36:04,594 --> 00:36:08,194
+<font size="19"><font color=#FFFF00>En el hospital militar de Arroceros,
+pero me trasladan al de Cañacao,</font></font>
+
+484
+00:36:08,274 --> 00:36:09,594
+<font size="19"><font color=#FFFF00>en la bahía.</font></font>
+
+485
+00:36:13,234 --> 00:36:15,914
+<font size="19"><font color=#FFFF00>- Lo que dice tiene sentido.
+- Eso no significa nada.</font></font>
+
+486
+00:36:16,274 --> 00:36:17,874
+<font size="19"><font color=#FFFF00>Tendrá preparado el discurso.</font></font>
+
+487
+00:36:17,954 --> 00:36:20,194
+<font size="19"><font color=#FFFF00>Que sea espía
+no significa que sea imbécil.</font></font>
+
+488
+00:36:20,274 --> 00:36:22,554
+<font size="19"><font color=#FFFF00>Oigan, yo no quiero
+causar ningún problema.</font></font>
+
+489
+00:36:22,993 --> 00:36:25,993
+<font size="19"><font color=#FFFF00>Haré lo que he venido a hacer
+y mañana a primera hora me iré.</font></font>
+
+490
+00:36:37,594 --> 00:36:41,033
+<font size="19"><font color=#FFFF00>Nos sería muy útil un enfermero,
+aunque solo sea unas horas.</font></font>
+
+491
+00:36:41,113 --> 00:36:43,393
+<font size="19"><font color=#FFFF00>A sus hombres les vendría bien
+una revisión.</font></font>
+
+492
+00:36:43,474 --> 00:36:45,313
+<font size="19"><font color=#FFFF00>¿Por qué no se la hace usted,
+doctor?</font></font>
+
+493
+00:36:45,393 --> 00:36:47,633
+<font size="19"><font color=#FFFF00>Desde que llegamos
+solo lo he visto pasear.</font></font>
+
+494
+00:36:48,753 --> 00:36:51,313
+<font size="19"><font color=#FFFF00>Hay demasiados soldados
+y un solo médico.</font></font>
+
+495
+00:36:51,753 --> 00:36:54,353
+<font size="19"><font color=#FFFF00>Tengo que pasear mucho
+entre paciente y paciente.</font></font>
+
+496
+00:36:58,154 --> 00:36:59,393
+<font size="19"><font color=#FFFF00>Usted decide, capitán.</font></font>
+
+497
+00:37:00,194 --> 00:37:02,433
+<font size="19"><font color=#FFFF00>No hace falta
+que me lo recuerde, teniente.</font></font>
+
+498
+00:37:09,713 --> 00:37:12,874
+<font size="19"><font color=#FFFF00>Puede quedarse hasta mañana.
+Toca, acompáñalo al barracón.</font></font>
+
+499
+00:37:15,514 --> 00:37:16,914
+<font size="19"><font color=#FFFF00>Gracias.</font></font>
+
+500
+00:37:28,993 --> 00:37:31,353
+<font size="19"><font color=#FFFF00>Le faltan las dos tildes
+a "Julián Martínez".</font></font>
+
+501
+00:37:31,993 --> 00:37:34,113
+<font size="19"><font color=#FFFF00>- Las mayúsculas no se acentúan.
+- Ahora sí.</font></font>
+
+502
+00:37:35,154 --> 00:37:38,514
+<font size="19"><font color=#FFFF00>Los ordenadores vienen con
+corrector ortográfico, por cierto.</font></font>
+
+503
+00:37:39,113 --> 00:37:40,954
+<font size="19"><font color=#FFFF00>Tampoco es para que sigas enfadada.</font></font>
+
+504
+00:37:44,753 --> 00:37:47,554
+<font size="19"><font color=#FFFF00>La orden era de comprobar
+la puerta, no de intervenir.</font></font>
+
+505
+00:37:47,633 --> 00:37:49,234
+<font size="19"><font color=#FFFF00>Bueno, yo solo quería saludar.</font></font>
+
+506
+00:37:50,033 --> 00:37:52,914
+<font size="19"><font color=#FFFF00>Supongo que ver así a Julián,
+así como de golpe...</font></font>
+
+507
+00:37:54,633 --> 00:37:57,433
+<font size="19"><font color=#FFFF00>- Bueno, que parecíais buenos amigos.
+- Lo éramos.</font></font>
+
+508
+00:37:57,633 --> 00:37:59,033
+<font size="19"><font color=#FFFF00>Ya.</font></font>
+
+509
+00:38:03,914 --> 00:38:06,393
+<font size="19"><font color=#FFFF00>Amelia, no quiero
+que te quedes con mal rollito.</font></font>
+
+510
+00:38:06,514 --> 00:38:07,914
+<font size="19"><font color=#FFFF00>Mira lo que he comprado.</font></font>
+
+511
+00:38:08,474 --> 00:38:10,594
+<font size="19"><font color=#FFFF00>- Mira.
+- ¿"Historias para no dormir"?</font></font>
+
+512
+00:38:10,673 --> 00:38:12,594
+<font size="19"><font color=#FFFF00>De Chicho Ibáñez Serrador,
+un genio.</font></font>
+
+513
+00:38:12,673 --> 00:38:14,433
+<font size="19"><font color=#FFFF00>¿Sabes lo mejor de vivir en 2016?</font></font>
+
+514
+00:38:14,954 --> 00:38:17,993
+<font size="19"><font color=#FFFF00>Que puedes comprar series
+de mi época, y eso sí eran series,</font></font>
+
+515
+00:38:18,073 --> 00:38:19,474
+<font size="19"><font color=#FFFF00>no lo de ahora.</font></font>
+
+516
+00:38:19,673 --> 00:38:21,073
+<font size="19"><font color=#FFFF00>¿Te vienes a casa a verla?</font></font>
+
+517
+00:38:27,073 --> 00:38:30,474
+<font size="19"><font color=#FFFF00>Dice Irene que ahora se lleva ver
+varios capítulos de una sentada.</font></font>
+
+518
+00:38:31,113 --> 00:38:33,033
+<font size="19"><font color=#FFFF00>Venga, vente
+y hacemos algo moderno.</font></font>
+
+519
+00:38:34,554 --> 00:38:35,954
+<font size="19"><font color=#FFFF00>Yo hago palomitas.</font></font>
+
+520
+00:38:36,154 --> 00:38:37,554
+<font size="19"><font color=#FFFF00>¿Qué es eso?</font></font>
+
+521
+00:38:37,993 --> 00:38:39,914
+<font size="19"><font color=#FFFF00>Tendrás que venir para descubrirlo.</font></font>
+
+522
+00:38:40,633 --> 00:38:42,033
+<font size="19"><font color=#FFFF00>¿A las 21:00?</font></font>
+
+523
+00:38:44,033 --> 00:38:45,353
+<font size="19"><font color=#FFFF00>Venga, a las 21:00.</font></font>
+
+524
+00:39:10,713 --> 00:39:12,993
+<font size="19"><font color=#FFFF00>- ¿Está buscando a la tagala?
+- Sí.</font></font>
+
+525
+00:39:14,274 --> 00:39:15,673
+<font size="19"><font color=#FFFF00>El sitio no es muy grande.</font></font>
+
+526
+00:39:15,874 --> 00:39:18,194
+<font size="19"><font color=#FFFF00>Si necesita ayuda,
+puedo ejercer de guía.</font></font>
+
+527
+00:39:18,954 --> 00:39:20,954
+<font size="19"><font color=#FFFF00>Va a ser de verdad
+que le gusta pasear.</font></font>
+
+528
+00:39:21,713 --> 00:39:25,073
+<font size="19"><font color=#FFFF00>Tanto como al teniente Martín Cerezo
+menospreciar a los demás.</font></font>
+
+529
+00:39:25,194 --> 00:39:26,914
+<font size="19"><font color=#FFFF00>¿Ese es el que quería encerrarme?</font></font>
+
+530
+00:39:27,914 --> 00:39:29,713
+<font size="19"><font color=#FFFF00>Por suerte para usted y para todos,</font></font>
+
+531
+00:39:29,794 --> 00:39:31,713
+<font size="19"><font color=#FFFF00>el capitán Las Morenas
+está al mando.</font></font>
+
+532
+00:39:32,234 --> 00:39:33,673
+<font size="19"><font color=#FFFF00>Es un hombre más razonable.</font></font>
+
+533
+00:39:35,073 --> 00:39:36,274
+<font size="19"><font color=#FFFF00>Soy Julián.</font></font>
+
+534
+00:39:37,834 --> 00:39:39,393
+<font size="19"><font color=#FFFF00>Doctor Rogelio Vigil.</font></font>
+
+535
+00:39:39,633 --> 00:39:40,874
+<font size="19"><font color=#FFFF00>Encantado.</font></font>
+
+536
+00:39:45,113 --> 00:39:46,993
+<font size="19"><font color=#FFFF00>- ¿Ha trabajado en Manila?
+- Sí.</font></font>
+
+537
+00:39:47,673 --> 00:39:49,753
+<font size="19"><font color=#FFFF00>Hace un año.
+Es el tiempo que llevo aquí.</font></font>
+
+538
+00:39:49,954 --> 00:39:51,874
+<font size="19"><font color=#FFFF00>- ¿Tanto?
+- Solo yo.</font></font>
+
+539
+00:39:52,554 --> 00:39:55,834
+<font size="19"><font color=#FFFF00>Las tropas llegaron hace unas
+semanas para controlar el lugar.</font></font>
+
+540
+00:39:55,954 --> 00:39:57,794
+<font size="19"><font color=#FFFF00>Y espero
+que no tarden mucho en irse.</font></font>
+
+541
+00:39:57,914 --> 00:40:00,154
+<font size="19"><font color=#FFFF00>Apenas nos quedan
+víveres y suministros.</font></font>
+
+542
+00:40:02,673 --> 00:40:04,073
+<font size="19"><font color=#FFFF00>Buenos días, doctor.</font></font>
+
+543
+00:40:05,033 --> 00:40:06,433
+<font size="19"><font color=#FFFF00>El pide sigue "duele".</font></font>
+
+544
+00:40:06,993 --> 00:40:08,474
+<font size="19"><font color=#FFFF00>¿Has vuelto a beber alcohol?</font></font>
+
+545
+00:40:08,633 --> 00:40:10,033
+<font size="19"><font color=#FFFF00>Solo una copita.</font></font>
+
+546
+00:40:11,234 --> 00:40:13,954
+<font size="19"><font color=#FFFF00>Julián,
+Alejo es el maestro de Baler.</font></font>
+
+547
+00:40:14,033 --> 00:40:16,313
+<font size="19"><font color=#FFFF00>- Hola.
+- Alejo tiene gota,</font></font>
+
+548
+00:40:16,393 --> 00:40:18,353
+<font size="19"><font color=#FFFF00>pero no hace caso
+de mis indicaciones.</font></font>
+
+549
+00:40:18,433 --> 00:40:21,393
+<font size="19"><font color=#FFFF00>- Y así no podemos mejorar, Alejo.
+- Solo una copita.</font></font>
+
+550
+00:40:21,594 --> 00:40:23,234
+<font size="19"><font color=#FFFF00>Que nos conocemos, Alejo.</font></font>
+
+551
+00:40:24,194 --> 00:40:26,633
+<font size="19"><font color=#FFFF00>Por cierto, si busca a alguien,
+él es su hombre.</font></font>
+
+552
+00:40:27,113 --> 00:40:28,633
+<font size="19"><font color=#FFFF00>Conoce a todo el mundo.</font></font>
+
+553
+00:40:28,914 --> 00:40:30,313
+<font size="19"><font color=#FFFF00>La busco a ella.</font></font>
+
+554
+00:40:30,834 --> 00:40:32,234
+<font size="19"><font color=#FFFF00>¿Sabe quién es?</font></font>
+
+555
+00:40:48,073 --> 00:40:49,474
+<font size="19"><font color=#FFFF00>¿María?</font></font>
+
+556
+00:40:56,514 --> 00:40:57,914
+<font size="19"><font color=#FFFF00>Vengo de parte de Rafael.</font></font>
+
+557
+00:41:20,713 --> 00:41:23,874
+<font size="19"><font color=#FFFF00>Dijo que si alguien en el mundo
+debía tenerlo, eras tú.</font></font>
+
+558
+00:41:26,874 --> 00:41:28,274
+<font size="19"><font color=#FFFF00>Es precioso.</font></font>
+
+559
+00:41:28,673 --> 00:41:30,594
+<font size="19"><font color=#FFFF00>- Muchísimas gracias.
+- No hay de qué.</font></font>
+
+560
+00:41:31,433 --> 00:41:33,474
+<font size="19"><font color=#FFFF00>¿Vienes desde Manila aquí para esto?</font></font>
+
+561
+00:41:33,673 --> 00:41:35,073
+<font size="19"><font color=#FFFF00>Hice una promesa.</font></font>
+
+562
+00:41:35,514 --> 00:41:37,113
+<font size="19"><font color=#FFFF00>Todos los hombres hacéis,</font></font>
+
+563
+00:41:37,514 --> 00:41:38,914
+<font size="19"><font color=#FFFF00>pero pocos cumplís.</font></font>
+
+564
+00:41:40,353 --> 00:41:41,914
+<font size="19"><font color=#FFFF00>Supongo que soy de esos pocos.</font></font>
+
+565
+00:41:43,313 --> 00:41:44,713
+<font size="19"><font color=#FFFF00>Rafael también era.</font></font>
+
+566
+00:41:45,794 --> 00:41:47,474
+<font size="19"><font color=#FFFF00>El mejor hombre que he conocido.</font></font>
+
+567
+00:41:48,834 --> 00:41:50,234
+<font size="19"><font color=#FFFF00>Y era un kastila.</font></font>
+
+568
+00:41:57,514 --> 00:41:58,914
+<font size="19"><font color=#FFFF00>Bueno, María, me marcho.</font></font>
+
+569
+00:41:59,554 --> 00:42:00,993
+<font size="19"><font color=#FFFF00>Espero que te vaya muy bien.</font></font>
+
+570
+00:42:06,154 --> 00:42:08,554
+<font size="19"><font color=#FFFF00>- ¿Vuelves ya a España?
+- No, no. Aún no.</font></font>
+
+571
+00:42:12,794 --> 00:42:14,753
+<font size="19"><font color=#FFFF00>Si tienes a tu mujer
+esperándote allí,</font></font>
+
+572
+00:42:14,834 --> 00:42:16,514
+<font size="19"><font color=#FFFF00>no tardes, no la hagas sufrir.</font></font>
+
+573
+00:42:32,274 --> 00:42:33,274
+<font size="19"><font color=#FFFF00>Jefe.</font></font>
+
+574
+00:42:34,353 --> 00:42:36,594
+<font size="19"><font color=#FFFF00>Por su cara,
+preveo problemas, Angustias,</font></font>
+
+575
+00:42:36,673 --> 00:42:38,954
+<font size="19"><font color=#FFFF00>y no quiero más
+hasta terminar con todo esto.</font></font>
+
+576
+00:42:39,033 --> 00:42:40,514
+<font size="19"><font color=#FFFF00>Me temo que no puede esperar.</font></font>
+
+577
+00:42:40,594 --> 00:42:42,874
+<font size="19"><font color=#FFFF00>Alonso acaba de llamar
+desde una comisaría,</font></font>
+
+578
+00:42:43,274 --> 00:42:45,794
+<font size="19"><font color=#FFFF00>detenido en una manifestación
+antidesahucios.</font></font>
+
+579
+00:42:45,914 --> 00:42:49,713
+<font size="19"><font color=#FFFF00>¿Qué? Pero ¿se puede saber qué coño
+hacía Alonso en una manifestación?</font></font>
+
+580
+00:42:49,954 --> 00:42:52,993
+<font size="19"><font color=#FFFF00>¿Quiere que usemos los trámites
+habituales para sacarlo?</font></font>
+
+581
+00:42:53,073 --> 00:42:55,033
+<font size="19"><font color=#FFFF00>Ni hablar.
+Esto no puede salir de aquí.</font></font>
+
+582
+00:42:55,113 --> 00:42:58,313
+<font size="19"><font color=#FFFF00>Si llega a oídos de Marisa,
+podemos darnos por expedientados.</font></font>
+
+583
+00:42:58,393 --> 00:43:01,194
+<font size="19"><font color=#FFFF00>- ¿Y qué vamos a hacer?
+- Me ocuparé personalmente.</font></font>
+
+584
+00:43:02,834 --> 00:43:06,073
+<font size="19"><font color=#FFFF00>- Traigo el informe la puerta que...
+- Pacino, necesito un favor.</font></font>
+
+585
+00:43:07,274 --> 00:43:10,514
+<font size="19"><font color=#FFFF00>- Sin problemas. ¿De qué se trata?
+- Ir a buscar a Alonso.</font></font>
+
+586
+00:43:10,594 --> 00:43:13,313
+<font size="19"><font color=#FFFF00>Angustias, póngame
+con el Ministerio del Interior.</font></font>
+
+587
+00:43:13,393 --> 00:43:15,874
+<font size="19"><font color=#FFFF00>Me deben un favor
+y me lo van a pagar ahora. Vamos.</font></font>
+
+588
+00:43:47,594 --> 00:43:48,993
+<font size="19"><font color=#FFFF00>¿Estás bien?</font></font>
+
+589
+00:43:50,594 --> 00:43:53,474
+<font size="19"><font color=#FFFF00>Estoy como soñando,
+si queréis que os sea sincero.</font></font>
+
+590
+00:43:55,433 --> 00:43:58,113
+<font size="19"><font color=#FFFF00>Bueno, eso debe de ser
+por los golpes que te han dado.</font></font>
+
+591
+00:43:58,234 --> 00:44:00,834
+<font size="19"><font color=#FFFF00>- ¿Te ha visto un médico?
+- No es por eso, os lo aseguro.</font></font>
+
+592
+00:44:05,353 --> 00:44:08,514
+<font size="19"><font color=#FFFF00>Bueno, a ver. Vas a tener
+que pasar aquí la noche,</font></font>
+
+593
+00:44:08,673 --> 00:44:10,794
+<font size="19"><font color=#FFFF00>pero no podrán
+retenerte por más tiempo.</font></font>
+
+594
+00:44:11,313 --> 00:44:13,794
+<font size="19"><font color=#FFFF00>Tendrás que pagar
+una sanción administrativa,</font></font>
+
+595
+00:44:13,874 --> 00:44:16,274
+<font size="19"><font color=#FFFF00>pero no te preocupes,
+yo me ocupo. Soy abogada.</font></font>
+
+596
+00:44:16,353 --> 00:44:19,073
+<font size="19"><font color=#FFFF00>¿Una sanción administrativa?
+¿Qué tormento es ese?</font></font>
+
+597
+00:44:19,154 --> 00:44:20,554
+<font size="19"><font color=#FFFF00>Una multa.</font></font>
+
+598
+00:44:21,033 --> 00:44:22,433
+<font size="19"><font color=#FFFF00>¿Una multa?</font></font>
+
+599
+00:44:25,073 --> 00:44:26,474
+<font size="19"><font color=#FFFF00>En otros tiempos,</font></font>
+
+600
+00:44:26,874 --> 00:44:30,594
+<font size="19"><font color=#FFFF00>por agredir a un alguacil,
+podían enviarte a galeras a remar.</font></font>
+
+601
+00:44:33,353 --> 00:44:35,033
+<font size="19"><font color=#FFFF00>Hablas un poco raro, ¿no?</font></font>
+
+602
+00:44:36,353 --> 00:44:37,753
+<font size="19"><font color=#FFFF00>Alonso de Entrerríos.</font></font>
+
+603
+00:44:40,874 --> 00:44:42,834
+<font size="19"><font color=#FFFF00>- Estás libre.
+- ¿Libre?</font></font>
+
+604
+00:44:44,234 --> 00:44:45,633
+<font size="19"><font color=#FFFF00>Y sin cargos.</font></font>
+
+605
+00:44:46,753 --> 00:44:48,154
+<font size="19"><font color=#FFFF00>Eh...</font></font>
+
+606
+00:44:49,594 --> 00:44:50,993
+<font size="19"><font color=#FFFF00>Muchas gracias por todo.</font></font>
+
+607
+00:44:51,713 --> 00:44:54,633
+<font size="19"><font color=#FFFF00>De todas formas,
+puedes llamarme si me necesitas.</font></font>
+
+608
+00:44:54,713 --> 00:44:56,554
+<font size="19"><font color=#FFFF00>- Ah.
+- ¿Me das tu número?</font></font>
+
+609
+00:44:56,874 --> 00:44:58,274
+<font size="19"><font color=#FFFF00>Yo es que no tengo de esto.</font></font>
+
+610
+00:44:58,353 --> 00:45:00,313
+<font size="19"><font color=#FFFF00>- Bueno, pues apúntamelo aquí.
+- Sí.</font></font>
+
+611
+00:45:09,794 --> 00:45:11,194
+<font size="19"><font color=#FFFF00>Hasta luego.</font></font>
+
+612
+00:45:13,874 --> 00:45:15,794
+<font size="19"><font color=#FFFF00>Solo tú te metes
+en una manifestación</font></font>
+
+613
+00:45:15,874 --> 00:45:17,834
+<font size="19"><font color=#FFFF00>a repartir leña
+con la Policía, vamos.</font></font>
+
+614
+00:45:17,914 --> 00:45:19,633
+<font size="19"><font color=#FFFF00>Es que... Es que... Es que...</font></font>
+
+615
+00:45:19,834 --> 00:45:21,514
+<font size="19"><font color=#FFFF00>Tienes al jefe contento, vamos.</font></font>
+
+616
+00:45:21,594 --> 00:45:24,194
+<font size="19"><font color=#FFFF00>Lo siento. Me poseyó
+una furia desconocida. No sé.</font></font>
+
+617
+00:45:24,274 --> 00:45:25,753
+<font size="19"><font color=#FFFF00>Más lo podías haber sentido.</font></font>
+
+618
+00:45:25,834 --> 00:45:28,194
+<font size="19"><font color=#FFFF00>Si es en mi época,
+los grises te muelen a palos.</font></font>
+
+619
+00:45:28,834 --> 00:45:31,874
+<font size="19"><font color=#FFFF00>Por lo visto, vuestra época
+no es tan diferente a la actual.</font></font>
+
+620
+00:45:31,954 --> 00:45:33,954
+<font size="19"><font color=#FFFF00>- ¿Y encima llamas a una abogada?
+- No, no.</font></font>
+
+621
+00:45:34,073 --> 00:45:36,154
+<font size="19"><font color=#FFFF00>Yo no llamé a nadie.
+Vino ella sola.</font></font>
+
+622
+00:45:40,514 --> 00:45:42,554
+<font size="19"><font color=#FFFF00>Es que si os lo cuento,
+no me vais a creer.</font></font>
+
+623
+00:45:44,234 --> 00:45:46,073
+<font size="19"><font color=#FFFF00>Yo a estas alturas
+me creo lo que sea.</font></font>
+
+624
+00:45:48,753 --> 00:45:53,713
+<font size="19"><font color=#FFFF00>Es abogada. Elena es exactamente
+igual a mi mujer, a Blanca.</font></font>
+
+625
+00:45:54,474 --> 00:45:55,874
+<font size="19"><font color=#FFFF00>O sea que se parece mucho.</font></font>
+
+626
+00:45:56,194 --> 00:45:58,113
+<font size="19"><font color=#FFFF00>No, no se parece.</font></font>
+
+627
+00:45:58,274 --> 00:46:01,874
+<font size="19"><font color=#FFFF00>Es ella, solo que no puede ser.
+Han pasado más de 400 años.</font></font>
+
+628
+00:46:03,954 --> 00:46:05,874
+<font size="19"><font color=#FFFF00>Puede que viaje también
+en el tiempo.</font></font>
+
+629
+00:46:06,914 --> 00:46:08,954
+<font size="19"><font color=#FFFF00>No, me habría reconocido.</font></font>
+
+630
+00:46:09,633 --> 00:46:11,353
+<font size="19"><font color=#FFFF00>Pues también es casualidad, ¿eh?</font></font>
+
+631
+00:46:11,914 --> 00:46:13,313
+<font size="19"><font color=#FFFF00>O brujería.</font></font>
+
+632
+00:46:17,914 --> 00:46:19,113
+<font size="19"><font color=#FFFF00>¿Esperáis a alguien?</font></font>
+
+633
+00:46:20,194 --> 00:46:21,594
+<font size="19"><font color=#FFFF00>Otro de vuestros amoríos.</font></font>
+
+634
+00:46:22,113 --> 00:46:23,514
+<font size="19"><font color=#FFFF00>Pues va a ser que no.</font></font>
+
+635
+00:46:24,073 --> 00:46:25,954
+<font size="19"><font color=#FFFF00>Y gracias a ti, querido amigo.</font></font>
+
+636
+00:46:29,433 --> 00:46:32,033
+<font size="19"><font color=#FFFF00>- ¿Dónde estabas?
+- Pues estaba en la cama, porque...</font></font>
+
+637
+00:46:32,113 --> 00:46:34,594
+<font size="19"><font color=#FFFF00>Bueno, le ha debido
+de sentar algo mal de la cena.</font></font>
+
+638
+00:46:34,673 --> 00:46:36,514
+<font size="19"><font color=#FFFF00>De hecho,
+se iba a acostar, ¿verdad?</font></font>
+
+639
+00:46:36,673 --> 00:46:39,033
+<font size="19"><font color=#FFFF00>- ¿No te quedas a ver la serie?
+- ¿Qué serie?</font></font>
+
+640
+00:47:21,474 --> 00:47:23,954
+<font size="19"><font color=#FFFF00>Si por mí fuera,
+no comerías ni un grano de arroz.</font></font>
+
+641
+00:47:24,393 --> 00:47:26,874
+<font size="19"><font color=#FFFF00>Así que te puedes dar
+con un canto en los dientes.</font></font>
+
+642
+00:47:59,274 --> 00:48:00,673
+<font size="19"><font color=#FFFF00>Así que sabes leer...</font></font>
+
+643
+00:48:02,154 --> 00:48:03,874
+<font size="19"><font color=#FFFF00>¿Me vas a apuntar por eso también?</font></font>
+
+644
+00:48:03,993 --> 00:48:06,594
+<font size="19"><font color=#FFFF00>Perdona, pero cuando aparece
+alguien nuevo aquí,</font></font>
+
+645
+00:48:06,673 --> 00:48:08,154
+<font size="19"><font color=#FFFF00>no suele ser para nada bueno.</font></font>
+
+646
+00:48:09,073 --> 00:48:10,514
+<font size="19"><font color=#FFFF00>Soy Vicente González Toca.</font></font>
+
+647
+00:48:10,834 --> 00:48:12,234
+<font size="19"><font color=#FFFF00>Julián Martínez.</font></font>
+
+648
+00:48:13,393 --> 00:48:15,393
+<font size="19"><font color=#FFFF00>Si quieres,
+cuando acabe te lo presto.</font></font>
+
+649
+00:48:15,753 --> 00:48:18,594
+<font size="19"><font color=#FFFF00>No, no me ha llevado a mí Dios
+por el camino de la lectura.</font></font>
+
+650
+00:48:19,393 --> 00:48:21,993
+<font size="19"><font color=#FFFF00>- Pero si sabes leer, sabrás escribir.
+- Sí, claro.</font></font>
+
+651
+00:48:22,594 --> 00:48:25,073
+<font size="19"><font color=#FFFF00>Me vendría bien
+escribirle a mi novia en España,</font></font>
+
+652
+00:48:25,154 --> 00:48:26,313
+<font size="19"><font color=#FFFF00>si no te parece mal.</font></font>
+
+653
+00:48:27,633 --> 00:48:28,914
+<font size="19"><font color=#FFFF00>¿Tienes papel y lápiz?</font></font>
+
+654
+00:48:31,073 --> 00:48:34,073
+<font size="19"><font color=#FFFF00>"Y cuidado con lo que comen
+los niños, que nos conocemos".</font></font>
+
+655
+00:48:35,514 --> 00:48:37,313
+<font size="19"><font color=#FFFF00>- Es que soy cocinero, ¿sabes?
+- Ajá.</font></font>
+
+656
+00:48:37,794 --> 00:48:39,474
+<font size="19"><font color=#FFFF00>Y si yo no estoy encima, pues...</font></font>
+
+657
+00:48:40,033 --> 00:48:42,274
+<font size="19"><font color=#FFFF00>Bueno, que mi mujer
+es muy buena madre, ¿eh?</font></font>
+
+658
+00:48:42,353 --> 00:48:45,874
+<font size="19"><font color=#FFFF00>Pero en la cocina, como que no...
+no me gusta que entre.</font></font>
+
+659
+00:48:45,993 --> 00:48:48,594
+<font size="19"><font color=#FFFF00>¿Y qué hace un cocinero
+del Prat de Llobregat aquí,</font></font>
+
+660
+00:48:48,673 --> 00:48:50,834
+<font size="19"><font color=#FFFF00>- en el culo del mundo?
+- Pues... nada.</font></font>
+
+661
+00:48:50,914 --> 00:48:53,753
+<font size="19"><font color=#FFFF00>Los fogones no me daban
+para pagar un sustituto y...</font></font>
+
+662
+00:48:53,834 --> 00:48:56,474
+<font size="19"><font color=#FFFF00>Cuando las cosas van mal dadas,
+pues es lo que toca.</font></font>
+
+663
+00:48:57,433 --> 00:48:58,914
+<font size="19"><font color=#FFFF00>¿Y tú?</font></font>
+
+664
+00:48:58,993 --> 00:49:01,794
+<font size="19"><font color=#FFFF00>No me lo entretengas, Lafarga,
+que tiene mucha tarea.</font></font>
+
+665
+00:49:01,874 --> 00:49:03,393
+<font size="19"><font color=#FFFF00>¿Nadie más sabe escribir?</font></font>
+
+666
+00:49:03,514 --> 00:49:05,033
+<font size="19"><font color=#FFFF00>Busquets, el otro catalán,</font></font>
+
+667
+00:49:05,234 --> 00:49:07,033
+<font size="19"><font color=#FFFF00>pero ese nació cansado, el cabrón.</font></font>
+
+668
+00:49:07,474 --> 00:49:09,194
+<font size="19"><font color=#FFFF00>Toma, para que repongas fuerzas.</font></font>
+
+669
+00:49:15,313 --> 00:49:18,113
+<font size="19"><font color=#FFFF00>Tiene una pinta asquerosa,
+pero está buenísimo, ¿eh?</font></font>
+
+670
+00:49:18,194 --> 00:49:20,673
+<font size="19"><font color=#FFFF00>Te puedes fiar, quiero decir,
+lo he cocinado yo.</font></font>
+
+671
+00:49:20,753 --> 00:49:23,033
+<font size="19"><font color=#FFFF00>Perdona, no sabía
+que lo habías cocinado tú.</font></font>
+
+672
+00:49:23,113 --> 00:49:25,194
+<font size="19"><font color=#FFFF00>No pasa nada.
+Si me tuviera que enfadar</font></font>
+
+673
+00:49:25,274 --> 00:49:27,393
+<font size="19"><font color=#FFFF00>cada vez que estos
+se ríen de mi comida...</font></font>
+
+674
+00:49:27,954 --> 00:49:30,073
+<font size="19"><font color=#FFFF00>- Bueno, ¿qué? ¿Ya está esto?
+- Ya está.</font></font>
+
+675
+00:49:30,154 --> 00:49:31,554
+<font size="19"><font color=#FFFF00>Ya está. Toma.</font></font>
+
+676
+00:49:35,474 --> 00:49:37,753
+<font size="19"><font color=#FFFF00>"Moltes gràcies",
+que decimos en mi tierra.</font></font>
+
+677
+00:49:37,874 --> 00:49:39,633
+<font size="19"><font color=#FFFF00>- Y que te sea leve.
+- Vale.</font></font>
+
+678
+00:49:47,954 --> 00:49:50,474
+<font size="19"><font color=#FFFF00>"¿Es que no lo oyes?</font></font>
+
+679
+00:49:50,594 --> 00:49:51,993
+<font size="19"><font color=#FFFF00>Sin nada.</font></font>
+
+680
+00:49:53,393 --> 00:49:54,834
+<font size="19"><font color=#FFFF00>¿Qué estás diciendo?</font></font>
+
+681
+00:49:55,433 --> 00:49:56,834
+<font size="19"><font color=#FFFF00>¿Quedarnos sin nada,</font></font>
+
+682
+00:49:57,474 --> 00:49:58,874
+<font size="19"><font color=#FFFF00>teniendo...</font></font>
+
+683
+00:49:59,073 --> 00:50:01,313
+<font size="19"><font color=#FFFF00>teniendo todo un mundo ahí dentro?".</font></font>
+
+684
+00:50:02,194 --> 00:50:03,594
+<font size="19"><font color=#FFFF00>Qué barbaridad.</font></font>
+
+685
+00:50:05,113 --> 00:50:07,673
+<font size="19"><font color=#FFFF00>¿Y eso te puede pasar
+de ver tanto la televisión?</font></font>
+
+686
+00:50:08,033 --> 00:50:10,874
+<font size="19"><font color=#FFFF00>No. Es una fábula
+que alerta de los peligros</font></font>
+
+687
+00:50:10,954 --> 00:50:13,794
+<font size="19"><font color=#FFFF00>- de confundir realidad y ficción.
+- Sí, de cómo un aparato</font></font>
+
+688
+00:50:13,874 --> 00:50:16,554
+<font size="19"><font color=#FFFF00>te puede comer el coco.
+Esta serie es la bomba, es...</font></font>
+
+689
+00:50:17,234 --> 00:50:19,393
+<font size="19"><font color=#FFFF00>- Te hace pensar.
+- Demasiado, diría yo.</font></font>
+
+690
+00:50:22,274 --> 00:50:23,673
+<font size="19"><font color=#FFFF00>¿Pasa algo?</font></font>
+
+691
+00:50:25,554 --> 00:50:26,954
+<font size="19"><font color=#FFFF00>¿Queréis algo?</font></font>
+
+692
+00:50:27,554 --> 00:50:29,673
+<font size="19"><font color=#FFFF00>Yo... Yo tomaría más
+de estas palomitas.</font></font>
+
+693
+00:50:29,794 --> 00:50:31,234
+<font size="19"><font color=#FFFF00>Ah, palomitas. Yo también.</font></font>
+
+694
+00:50:31,313 --> 00:50:34,594
+<font size="19"><font color=#FFFF00>Pacino, ve a prepararlas, que yo
+no me aclaro con el microondas.</font></font>
+
+695
+00:50:34,673 --> 00:50:37,154
+<font size="19"><font color=#FFFF00>"...a la habitación de los chicos.</font></font>
+
+696
+00:50:37,234 --> 00:50:39,954
+<font size="19"><font color=#FFFF00>- ¿Pasos de quién?
+- ¿Ni has visto una sombra?</font></font>
+
+697
+00:50:41,274 --> 00:50:42,673
+<font size="19"><font color=#FFFF00>Llevaba...</font></font>
+
+698
+00:50:42,874 --> 00:50:44,954
+<font size="19"><font color=#FFFF00>Llevaba sombrero de ala baja...".</font></font>
+
+699
+00:50:45,353 --> 00:50:47,274
+<font size="19"><font color=#FFFF00>Pues hala, esto ya está.</font></font>
+
+700
+00:50:47,393 --> 00:50:49,313
+<font size="19"><font color=#FFFF00>- Muchas gracias, compadre.
+- De nada.</font></font>
+
+701
+00:50:49,713 --> 00:50:51,274
+<font size="19"><font color=#FFFF00>Que Dios te lo pague.</font></font>
+
+702
+00:50:52,234 --> 00:50:54,954
+<font size="19"><font color=#FFFF00>¿No la firmas?
+A tu Loli le va a hacer ilusión.</font></font>
+
+703
+00:50:56,033 --> 00:50:57,433
+<font size="19"><font color=#FFFF00>Anda, es verdad.</font></font>
+
+704
+00:51:00,474 --> 00:51:02,954
+<font size="19"><font color=#FFFF00>¿Sabes que yo nunca
+he firmado nada en mi vida?</font></font>
+
+705
+00:51:03,594 --> 00:51:05,194
+<font size="19"><font color=#FFFF00>Pon una cruz. Eso sí sabes, ¿no?</font></font>
+
+706
+00:51:05,713 --> 00:51:08,274
+<font size="19"><font color=#FFFF00>De otra cosa no, pero de cruces...</font></font>
+
+707
+00:51:16,474 --> 00:51:18,594
+<font size="19"><font color=#FFFF00>Esto sí que le va a hacer ilusión
+a la Loli.</font></font>
+
+708
+00:51:22,353 --> 00:51:23,753
+<font size="19"><font color=#FFFF00>Ha quedado bien, ¿verdad?</font></font>
+
+709
+00:51:24,353 --> 00:51:25,753
+<font size="19"><font color=#FFFF00>Está perfecta.</font></font>
+
+710
+00:51:26,033 --> 00:51:28,393
+<font size="19"><font color=#FFFF00>De aquí a aprender a escribir,
+un paso, vamos.</font></font>
+
+711
+00:51:29,194 --> 00:51:30,993
+<font size="19"><font color=#FFFF00>- Muchas gracias.
+- A ti.</font></font>
+
+712
+00:52:03,794 --> 00:52:05,954
+<font size="19"><font color=#FFFF00>- "La diversión...
+- La diversión...</font></font>
+
+713
+00:52:06,033 --> 00:52:08,274
+<font size="19"><font color=#FFFF00>Había una vez...</font></font>
+
+714
+00:52:08,393 --> 00:52:11,834
+<font size="19"><font color=#FFFF00>un circo que alegraba
+siempre el corazón...".</font></font>
+
+715
+00:52:16,113 --> 00:52:17,514
+<font size="19"><font color=#FFFF00>Angelito...</font></font>
+
+716
+00:52:17,633 --> 00:52:19,033
+<font size="19"><font color=#FFFF00>Se ha quedado dormido.</font></font>
+
+717
+00:52:19,194 --> 00:52:20,673
+<font size="19"><font color=#FFFF00>Es un hombre de acción.</font></font>
+
+718
+00:52:20,993 --> 00:52:23,673
+<font size="19"><font color=#FFFF00>No está acostumbrado
+a pasar tanto tiempo sentado.</font></font>
+
+719
+00:52:30,194 --> 00:52:32,474
+<font size="19"><font color=#FFFF00>Es un poco tarde.
+Debería irme a casa.</font></font>
+
+720
+00:52:32,594 --> 00:52:34,154
+<font size="19"><font color=#FFFF00>Mujer, ¿te vas a ir ahora?</font></font>
+
+721
+00:52:34,234 --> 00:52:37,514
+<font size="19"><font color=#FFFF00>¿Vas a viajar ciento y pico años
+a estas horas de la noche tú sola?</font></font>
+
+722
+00:52:37,633 --> 00:52:39,954
+<font size="19"><font color=#FFFF00>Te puedes quedar, ¿eh?
+Hay sitio de sobra.</font></font>
+
+723
+00:52:41,154 --> 00:52:42,554
+<font size="19"><font color=#FFFF00>No.</font></font>
+
+724
+00:52:42,753 --> 00:52:44,154
+<font size="19"><font color=#FFFF00>Mis padres...</font></font>
+
+725
+00:52:45,313 --> 00:52:47,234
+<font size="19"><font color=#FFFF00>¿Tus padres? ¿No tienes ya una edad</font></font>
+
+726
+00:52:47,313 --> 00:52:49,993
+<font size="19"><font color=#FFFF00>para que te dé igual
+lo que puedan pensar tus padres?</font></font>
+
+727
+00:52:50,834 --> 00:52:52,794
+<font size="19"><font color=#FFFF00>Somos de épocas distintas, Pacino.</font></font>
+
+728
+00:52:54,194 --> 00:52:56,274
+<font size="19"><font color=#FFFF00>¿Y en todas
+tienes que ser la seria,</font></font>
+
+729
+00:52:57,073 --> 00:52:58,474
+<font size="19"><font color=#FFFF00>la ordenada,</font></font>
+
+730
+00:52:59,073 --> 00:53:00,154
+<font size="19"><font color=#FFFF00>la obediente?</font></font>
+
+731
+00:53:03,154 --> 00:53:04,554
+<font size="19"><font color=#FFFF00>Es mejor que me vaya.</font></font>
+
+732
+00:53:04,633 --> 00:53:06,954
+<font size="19"><font color=#FFFF00>- No te preocupes, me cojo un taxi.
+- Ajá.</font></font>
+
+733
+00:53:07,834 --> 00:53:08,834
+<font size="19"><font color=#FFFF00>Mañana te veo.</font></font>
+
+734
+00:53:10,633 --> 00:53:12,834
+<font size="19"><font color=#FFFF00>Gracias por la serie
+y las palomitas.</font></font>
+
+735
+00:53:13,834 --> 00:53:16,073
+<font size="19"><font color=#FFFF00>- Me ha encantado.
+- Qué bien.</font></font>
+
+736
+00:53:16,393 --> 00:53:17,794
+<font size="19"><font color=#FFFF00>De verdad.</font></font>
+
+737
+00:53:24,274 --> 00:53:25,673
+<font size="19"><font color=#FFFF00>Perdón.</font></font>
+
+738
+00:53:41,433 --> 00:53:42,954
+<font size="19"><font color=#FFFF00>Irene, ¿tienes un momento?</font></font>
+
+739
+00:53:43,154 --> 00:53:44,713
+<font size="19"><font color=#FFFF00>Sí, claro. Siéntate.</font></font>
+
+740
+00:53:49,554 --> 00:53:50,673
+<font size="19"><font color=#FFFF00>¿Qué pasa?</font></font>
+
+741
+00:53:52,113 --> 00:53:54,514
+<font size="19"><font color=#FFFF00>Esta mañana he encontrado
+una llamada perdida</font></font>
+
+742
+00:53:54,594 --> 00:53:57,554
+<font size="19"><font color=#FFFF00>en el móvil del Ministerio...
+de un número desconocido.</font></font>
+
+743
+00:53:59,033 --> 00:54:01,154
+<font size="19"><font color=#FFFF00>Has intentado
+devolver la llamada, ¿no?</font></font>
+
+744
+00:54:01,234 --> 00:54:03,474
+<font size="19"><font color=#FFFF00>Sí, antes de venir,
+pero no me han cogido.</font></font>
+
+745
+00:54:04,274 --> 00:54:05,874
+<font size="19"><font color=#FFFF00>Inténtalo otra vez, por favor.</font></font>
+
+746
+00:54:12,474 --> 00:54:14,713
+<font size="19"><font color=#FFFF00>"El número marcado</font></font>
+
+747
+00:54:14,794 --> 00:54:17,033
+<font size="19"><font color=#FFFF00>ya no se encuentra
+en territorio español".</font></font>
+
+748
+00:54:57,353 --> 00:54:58,753
+<font size="19"><font color=#FFFF00>Lo han matado.</font></font>
+
+749
+00:54:58,874 --> 00:55:00,433
+<font size="19"><font color=#FFFF00>- ¿Qué ha pasado?
+- Lo han matado</font></font>
+
+750
+00:55:00,514 --> 00:55:01,914
+<font size="19"><font color=#FFFF00>por ser amigo de kastilas.</font></font>
+
+751
+00:55:02,274 --> 00:55:05,194
+<font size="19"><font color=#FFFF00>- Pero tú estás vivita y coleando.
+- ¿Qué coño haces, Toca?</font></font>
+
+752
+00:55:05,274 --> 00:55:06,954
+<font size="19"><font color=#FFFF00>- Es inofensiva.
+- Ya lo veremos.</font></font>
+
+753
+00:55:07,073 --> 00:55:08,673
+<font size="19"><font color=#FFFF00>- Levanta las manos.
+- Es de fiar.</font></font>
+
+754
+00:55:08,794 --> 00:55:09,914
+<font size="19"><font color=#FFFF00>Te lo digo yo.</font></font>
+
+755
+00:55:10,033 --> 00:55:11,914
+<font size="19"><font color=#FFFF00>¿Y por qué tendría que fiarme de ti?</font></font>
+
+756
+00:55:12,313 --> 00:55:13,713
+<font size="19"><font color=#FFFF00>No tienes por qué hacerlo.</font></font>
+
+757
+00:55:14,993 --> 00:55:16,393
+<font size="19"><font color=#FFFF00>Tú decides.</font></font>
+
+758
+00:55:25,594 --> 00:55:28,234
+<font size="19"><font color=#FFFF00>Tenéis que iros de aquí ya.
+Muy peligroso.</font></font>
+
+759
+00:55:28,433 --> 00:55:31,194
+<font size="19"><font color=#FFFF00>Resto de pueblo se ha unido
+guerrilla y han marchado.</font></font>
+
+760
+00:55:31,274 --> 00:55:33,753
+<font size="19"><font color=#FFFF00>No digas bobadas.
+¿Cómo se van a haber marchado?</font></font>
+
+761
+00:55:33,834 --> 00:55:35,234
+<font size="19"><font color=#FFFF00>¿Tú oyes algo, kastila?</font></font>
+
+762
+00:55:43,194 --> 00:55:44,914
+<font size="19"><font color=#FFFF00>Esto está claro.</font></font>
+
+763
+00:55:45,033 --> 00:55:46,954
+<font size="19"><font color=#FFFF00>Debemos prepararnos para un ataque.</font></font>
+
+764
+00:55:47,033 --> 00:55:49,633
+<font size="19"><font color=#FFFF00>Con su permiso, deberíamos
+organizar patrullas.</font></font>
+
+765
+00:55:49,713 --> 00:55:51,633
+<font size="19"><font color=#FFFF00>¿Están seguros
+de que no queda nadie?</font></font>
+
+766
+00:55:51,874 --> 00:55:54,154
+<font size="19"><font color=#FFFF00>Eso ha dicho María,
+la tagala, señor.</font></font>
+
+767
+00:55:54,274 --> 00:55:56,834
+<font size="19"><font color=#FFFF00>Si damos el primer golpe ahora,
+no lo verán venir.</font></font>
+
+768
+00:55:59,874 --> 00:56:02,433
+<font size="19"><font color=#FFFF00>- Creo... que deberíamos esperar.
+- ¿A qué?</font></font>
+
+769
+00:56:04,113 --> 00:56:07,353
+<font size="19"><font color=#FFFF00>¿Eh, capitán, a que nos maten
+en nuestra cama, como al maestro?</font></font>
+
+770
+00:56:08,353 --> 00:56:10,073
+<font size="19"><font color=#FFFF00>¿Y si ha sido un hecho aislado?</font></font>
+
+771
+00:56:12,234 --> 00:56:15,234
+<font size="19"><font color=#FFFF00>No seremos nosotros
+quienes rompamos primero la baraja.</font></font>
+
+772
+00:56:20,834 --> 00:56:23,433
+<font size="19"><font color=#FFFF00>Toca y Menache,
+hagan un reconocimiento de la zona</font></font>
+
+773
+00:56:23,514 --> 00:56:25,313
+<font size="19"><font color=#FFFF00>y asegúrense de que no queda nadie.</font></font>
+
+774
+00:56:27,313 --> 00:56:30,993
+<font size="19"><font color=#FFFF00>Teniente, lleven las provisiones
+y munición disponible a la iglesia.</font></font>
+
+775
+00:56:31,073 --> 00:56:33,313
+<font size="19"><font color=#FFFF00>Allí es donde mejor
+podremos defendernos.</font></font>
+
+776
+00:56:33,393 --> 00:56:36,033
+<font size="19"><font color=#FFFF00>No es momento de defendernos,
+sino de atacar.</font></font>
+
+777
+00:56:36,154 --> 00:56:37,554
+<font size="19"><font color=#FFFF00>¡Haga lo que le he dicho!</font></font>
+
+778
+00:56:40,874 --> 00:56:42,274
+<font size="19"><font color=#FFFF00>Sí, señor.</font></font>
+
+779
+00:56:43,753 --> 00:56:45,154
+<font size="19"><font color=#FFFF00>Ustedes, conmigo.</font></font>
+
+780
+00:57:08,993 --> 00:57:10,393
+<font size="19"><font color=#FFFF00>¿Sabe, Vigil?</font></font>
+
+781
+00:57:11,033 --> 00:57:14,313
+<font size="19"><font color=#FFFF00>Desde que llegué aquí, todos
+los días me hago la misma pregunta.</font></font>
+
+782
+00:57:16,194 --> 00:57:18,234
+<font size="19"><font color=#FFFF00>¿Se está olvidando España
+de nosotros?</font></font>
+
+783
+00:57:47,713 --> 00:57:50,353
+<font size="19"><font color=#FFFF00>Esto es caldo de enfermedades,
+capitán.</font></font>
+
+784
+00:57:53,033 --> 00:57:54,954
+<font size="19"><font color=#FFFF00>¿No han podido
+coger nada del pueblo?</font></font>
+
+785
+00:57:55,033 --> 00:57:56,834
+<font size="19"><font color=#FFFF00>Los tagalos se lo han llevado todo.</font></font>
+
+786
+00:57:58,073 --> 00:58:00,433
+<font size="19"><font color=#FFFF00>Le digo que lo tenían todo planeado,
+capitán.</font></font>
+
+787
+00:58:00,514 --> 00:58:02,914
+<font size="19"><font color=#FFFF00>Y yo le digo
+que ya lo veremos, teniente. Venga.</font></font>
+
+788
+00:58:03,794 --> 00:58:05,633
+<font size="19"><font color=#FFFF00>Comencemos con el recuento. Arroz.</font></font>
+
+789
+00:58:06,234 --> 00:58:08,234
+<font size="19"><font color=#FFFF00>- Mejor tirarlo.
+- No, no, quite, quite,</font></font>
+
+790
+00:58:08,313 --> 00:58:10,234
+<font size="19"><font color=#FFFF00>que para tirarlo siempre hay tiempo.</font></font>
+
+791
+00:58:10,514 --> 00:58:11,914
+<font size="19"><font color=#FFFF00>Garbanzos.</font></font>
+
+792
+00:58:12,594 --> 00:58:15,794
+<font size="19"><font color=#FFFF00>Pues a los gusanos
+que viven en ellos da gloria verlos.</font></font>
+
+793
+00:58:15,874 --> 00:58:19,033
+<font size="19"><font color=#FFFF00>Vigil, ahórrese ese tipo
+de comentarios entre los soldados.</font></font>
+
+794
+00:58:19,113 --> 00:58:22,794
+<font size="19"><font color=#FFFF00>- Tenemos que mantener la moral alta.
+- Eso lo lograríamos de otra forma.</font></font>
+
+795
+00:58:25,313 --> 00:58:28,353
+<font size="19"><font color=#FFFF00>Estoy empezando a hartarme
+de sus comentarios, teniente.</font></font>
+
+796
+00:58:29,954 --> 00:58:31,393
+<font size="19"><font color=#FFFF00>Con su permiso, mi capitán.</font></font>
+
+797
+00:58:32,554 --> 00:58:33,954
+<font size="19"><font color=#FFFF00>Está todo abandonado.</font></font>
+
+798
+00:58:35,514 --> 00:58:36,914
+<font size="19"><font color=#FFFF00>¿No hay nadie?</font></font>
+
+799
+00:58:37,313 --> 00:58:38,713
+<font size="19"><font color=#FFFF00>Ni nadie ni nada.</font></font>
+
+800
+00:58:38,874 --> 00:58:42,113
+<font size="19"><font color=#FFFF00>No hay animales, no hay nada
+en las despensas, no hay ropas...</font></font>
+
+801
+00:58:42,633 --> 00:58:44,033
+<font size="19"><font color=#FFFF00>Es un pueblo fantasma.</font></font>
+
+802
+00:58:47,154 --> 00:58:49,433
+<font size="19"><font color=#FFFF00>¿Cómo se han ido todos
+en una sola noche?</font></font>
+
+803
+00:58:49,514 --> 00:58:50,993
+<font size="19"><font color=#FFFF00>Teniéndolo bien planeado.</font></font>
+
+804
+00:58:54,554 --> 00:58:55,993
+<font size="19"><font color=#FFFF00>Ya lo ha visto, mi capitán.</font></font>
+
+805
+00:58:57,033 --> 00:58:59,713
+<font size="19"><font color=#FFFF00>¿Se convence ahora
+de que esto no es una casualidad?</font></font>
+
+806
+00:59:04,033 --> 00:59:06,834
+<font size="19"><font color=#FFFF00>Organice una descubierta
+por el pueblo y alrededores</font></font>
+
+807
+00:59:06,914 --> 00:59:09,194
+<font size="19"><font color=#FFFF00>y compruebe
+qué demonios está pasando aquí.</font></font>
+
+808
+00:59:09,794 --> 00:59:10,993
+<font size="19"><font color=#FFFF00>Y llévese a Julián.</font></font>
+
+809
+00:59:13,633 --> 00:59:15,194
+<font size="19"><font color=#FFFF00>Les vendrá bien un enfermero.</font></font>
+
+810
+00:59:21,433 --> 00:59:23,594
+<font size="19"><font color=#FFFF00>No está la cosa
+para ir perdiendo móviles,</font></font>
+
+811
+00:59:23,673 --> 00:59:26,194
+<font size="19"><font color=#FFFF00>así que cada vez
+que entra o sale uno, se registra.</font></font>
+
+812
+00:59:26,274 --> 00:59:28,633
+<font size="19"><font color=#FFFF00>Ya sabes,
+cuando hay perras por medio,</font></font>
+
+813
+00:59:28,713 --> 00:59:32,313
+<font size="19"><font color=#FFFF00>- todos nos ponemos muy profesionales.
+- Pues no debería haber problema</font></font>
+
+814
+00:59:32,393 --> 00:59:33,954
+<font size="19"><font color=#FFFF00>en saber de quién es el número.</font></font>
+
+815
+00:59:34,914 --> 00:59:36,313
+<font size="19"><font color=#FFFF00>Aquí lo tenemos.</font></font>
+
+816
+00:59:38,433 --> 00:59:42,033
+<font size="19"><font color=#FFFF00>Este teléfono lo sacó don Salvador
+hace unos meses y no lo ha devuelto.</font></font>
+
+817
+00:59:42,874 --> 00:59:44,274
+<font size="19"><font color=#FFFF00>Ya.</font></font>
+
+818
+00:59:45,033 --> 00:59:46,514
+<font size="19"><font color=#FFFF00>Así que al final,</font></font>
+
+819
+00:59:46,914 --> 00:59:49,993
+<font size="19"><font color=#FFFF00>los agentes han arrimado el hombro
+y han estado a la altura.</font></font>
+
+820
+00:59:50,673 --> 00:59:52,554
+<font size="19"><font color=#FFFF00>Bueno, para que luego digan</font></font>
+
+821
+00:59:52,633 --> 00:59:55,713
+<font size="19"><font color=#FFFF00>que los funcionarios no sacamos
+adelante nuestro trabajo.</font></font>
+
+822
+00:59:55,794 --> 00:59:57,954
+<font size="19"><font color=#FFFF00>- Un informe muy positivo.
+- Ajá.</font></font>
+
+823
+00:59:59,794 --> 01:00:01,313
+<font size="19"><font color=#FFFF00>¿Le pasa algo?</font></font>
+
+824
+01:00:02,274 --> 01:00:03,673
+<font size="19"><font color=#FFFF00>No, nada.</font></font>
+
+825
+01:00:07,194 --> 01:00:10,154
+<font size="19"><font color=#FFFF00>Ah, Irene. Enhorabuena
+por la parte que le toca.</font></font>
+
+826
+01:00:10,514 --> 01:00:13,554
+<font size="19"><font color=#FFFF00>- El informe de la auditoría...
+- ¿Esto es lo que yo creo que es?</font></font>
+
+827
+01:00:20,353 --> 01:00:21,993
+<font size="19"><font color=#FFFF00>Sí. ¿Ocurre algo?</font></font>
+
+828
+01:00:22,194 --> 01:00:24,033
+<font size="19"><font color=#FFFF00>Ha intentado contactar con Amelia.</font></font>
+
+829
+01:00:24,154 --> 01:00:25,954
+<font size="19"><font color=#FFFF00>¿Se puede saber qué está pasando?</font></font>
+
+830
+01:00:27,594 --> 01:00:30,274
+<font size="19"><font color=#FFFF00>Salvador sacó un teléfono
+ministerial del almacén</font></font>
+
+831
+01:00:30,353 --> 01:00:31,753
+<font size="19"><font color=#FFFF00>hace unos meses.</font></font>
+
+832
+01:00:32,594 --> 01:00:34,633
+<font size="19"><font color=#FFFF00>Quizá es mejor
+que se lo explique usted.</font></font>
+
+833
+01:00:37,753 --> 01:00:40,433
+<font size="19"><font color=#FFFF00>He ayudado a Julián
+desde que salió del Ministerio.</font></font>
+
+834
+01:00:40,554 --> 01:00:43,633
+<font size="19"><font color=#FFFF00>- ¿Qué?
+- El muchacho no podía seguir aquí,</font></font>
+
+835
+01:00:43,713 --> 01:00:46,313
+<font size="19"><font color=#FFFF00>pero buscaba un lugar
+donde seguir siendo útil.</font></font>
+
+836
+01:00:46,794 --> 01:00:48,194
+<font size="19"><font color=#FFFF00>Yo no quería perderlo y...</font></font>
+
+837
+01:00:48,753 --> 01:00:51,073
+<font size="19"><font color=#FFFF00>bueno, le busqué un destino.</font></font>
+
+838
+01:00:51,554 --> 01:00:52,794
+<font size="19"><font color=#FFFF00>Él mismo me lo pidió.</font></font>
+
+839
+01:00:53,113 --> 01:00:54,514
+<font size="19"><font color=#FFFF00>¿Adónde lo ha enviado?</font></font>
+
+840
+01:00:54,753 --> 01:00:56,154
+<font size="19"><font color=#FFFF00>A la Guerra de Cuba.</font></font>
+
+841
+01:00:56,954 --> 01:00:59,514
+<font size="19"><font color=#FFFF00>- Pero Susana Torres me descubrió.
+- Gracias a mí.</font></font>
+
+842
+01:01:00,713 --> 01:01:03,874
+<font size="19"><font color=#FFFF00>Si queremos seguir unidos,
+adiós a las mentiras. Es el pacto.</font></font>
+
+843
+01:01:03,954 --> 01:01:05,113
+<font size="19"><font color=#FFFF00>Ajá.</font></font>
+
+844
+01:01:06,794 --> 01:01:09,033
+<font size="19"><font color=#FFFF00>El problema es
+que esté donde esté Julián,</font></font>
+
+845
+01:01:09,113 --> 01:01:10,594
+<font size="19"><font color=#FFFF00>ya no es territorio español.</font></font>
+
+846
+01:01:11,073 --> 01:01:14,154
+<font size="19"><font color=#FFFF00>O sea que tenemos un agente
+no oficial perdido en el pasado.</font></font>
+
+847
+01:01:18,194 --> 01:01:19,594
+<font size="19"><font color=#FFFF00>Eso parece.</font></font>
+
+848
+01:01:55,313 --> 01:01:57,033
+<font size="19"><font color=#FFFF00>Aquí tiene la lista de llamadas.</font></font>
+
+849
+01:01:57,194 --> 01:01:58,594
+<font size="19"><font color=#FFFF00>Gracias.</font></font>
+
+850
+01:02:03,993 --> 01:02:06,633
+<font size="19"><font color=#FFFF00>- No me lo puedo creer.
+- ¿Qué pasa, jefe?</font></font>
+
+851
+01:02:07,554 --> 01:02:09,514
+<font size="19"><font color=#FFFF00>La última llamada que realizó Julián</font></font>
+
+852
+01:02:10,234 --> 01:02:12,633
+<font size="19"><font color=#FFFF00>fue el 11 de junio de 1898.</font></font>
+
+853
+01:02:13,033 --> 01:02:15,673
+<font size="19"><font color=#FFFF00>- ¿Y eso qué significa?
+- Que Julián tiene problemas.</font></font>
+
+854
+01:02:16,234 --> 01:02:19,874
+<font size="19"><font color=#FFFF00>El día siguiente,
+el 12 de junio de 1898,</font></font>
+
+855
+01:02:19,954 --> 01:02:22,713
+<font size="19"><font color=#FFFF00>fue el día en que Filipinas
+se independizó de España.</font></font>
+
+856
+01:02:23,073 --> 01:02:25,874
+<font size="19"><font color=#FFFF00>Claro, por eso cuando llamaron
+aparecía ese mensaje.</font></font>
+
+857
+01:02:26,194 --> 01:02:28,474
+<font size="19"><font color=#FFFF00>O sea que Julián está en Filipinas.</font></font>
+
+858
+01:02:28,594 --> 01:02:29,993
+<font size="19"><font color=#FFFF00>Exacto.</font></font>
+
+859
+01:02:30,874 --> 01:02:32,594
+<font size="19"><font color=#FFFF00>En una Filipinas en guerra.</font></font>
+
+860
+01:02:59,554 --> 01:03:00,954
+<font size="19"><font color=#FFFF00>Quietos.</font></font>
+
+861
+01:03:05,914 --> 01:03:06,914
+<font size="19"><font color=#FFFF00>He oído algo.</font></font>
+
+862
+01:03:11,433 --> 01:03:13,194
+<font size="19"><font color=#FFFF00>Señor. Señor.</font></font>
+
+863
+01:03:13,274 --> 01:03:16,073
+<font size="19"><font color=#FFFF00>- ¿Qué coño pasa, soldado?
+- Creo que hay alguien cerca.</font></font>
+
+864
+01:03:20,594 --> 01:03:23,313
+<font size="19"><font color=#FFFF00>Deberíamos prender fuego
+a este pueblo ahora mismo.</font></font>
+
+865
+01:03:23,393 --> 01:03:25,914
+<font size="19"><font color=#FFFF00>- Mi teniente, hay población civil.
+- Son tagalos.</font></font>
+
+866
+01:03:25,993 --> 01:03:28,353
+<font size="19"><font color=#FFFF00>- Pero no estamos en guerra.
+- ¡No me joda, Toca!</font></font>
+
+867
+01:03:29,194 --> 01:03:31,234
+<font size="19"><font color=#FFFF00>Esto es una emboscada
+de peli de manual.</font></font>
+
+868
+01:03:32,554 --> 01:03:33,993
+<font size="19"><font color=#FFFF00>Al puente, vamos.</font></font>
+
+869
+01:03:34,073 --> 01:03:36,234
+<font size="19"><font color=#FFFF00>- En marcha. ¡Ar!
+- Señor.</font></font>
+
+870
+01:03:36,393 --> 01:03:37,633
+<font size="19"><font color=#FFFF00>Señor, escúcheme.</font></font>
+
+871
+01:03:37,713 --> 01:03:40,753
+<font size="19"><font color=#FFFF00>- Deberíamos volver a la iglesia.
+- Es "teniente", soldado.</font></font>
+
+872
+01:03:40,834 --> 01:03:43,073
+<font size="19"><font color=#FFFF00>Y si el teniente dice "vamos",
+ustedes van.</font></font>
+
+873
+01:03:48,194 --> 01:03:49,594
+<font size="19"><font color=#FFFF00>A su sitio.</font></font>
+
+874
+01:03:51,713 --> 01:03:53,113
+<font size="19"><font color=#FFFF00>Vamos.</font></font>
+
+875
+01:03:56,073 --> 01:03:58,073
+<font size="19"><font color=#FFFF00>No quieres verlo enfadado, créeme.</font></font>
+
+876
+01:04:49,993 --> 01:04:51,914
+<font size="19"><font color=#FFFF00>- ¿Qué haces, imbécil?
+- El madrileño,</font></font>
+
+877
+01:04:51,993 --> 01:04:53,594
+<font size="19"><font color=#FFFF00>que me ha puesto de los nervios.</font></font>
+
+878
+01:04:53,673 --> 01:04:54,834
+<font size="19"><font color=#FFFF00>¡Heredia, cojones!</font></font>
+
+879
+01:04:57,353 --> 01:04:59,753
+<font size="19"><font color=#FFFF00>¡Fuego!
+¡Fuego a discreción!</font></font>
+
+880
+01:05:04,633 --> 01:05:06,033
+<font size="19"><font color=#FFFF00>¡Fuego a discreción!</font></font>
+
+881
+01:05:06,514 --> 01:05:09,154
+<font size="19"><font color=#FFFF00>Y tú sin pistola, joder.
+Ponte detrás de mí.</font></font>
+
+882
+01:05:10,353 --> 01:05:11,993
+<font size="19"><font color=#FFFF00>¡Vamos! ¡Ah!</font></font>
+
+883
+01:05:18,393 --> 01:05:19,713
+<font size="19"><font color=#FFFF00>¡Ah!</font></font>
+
+884
+01:05:21,313 --> 01:05:22,713
+<font size="19"><font color=#FFFF00>¡Toca!</font></font>
+
+885
+01:05:24,713 --> 01:05:26,113
+<font size="19"><font color=#FFFF00>Hay que salir de aquí.</font></font>
+
+886
+01:05:26,753 --> 01:05:28,353
+<font size="19"><font color=#FFFF00>¡Retirada!</font></font>
+
+887
+01:05:35,313 --> 01:05:37,474
+<font size="19"><font color=#FFFF00>¡Vamos, corred, corred!</font></font>
+
+888
+01:05:37,554 --> 01:05:39,073
+<font size="19"><font color=#FFFF00>Poneos a salvo aquí detrás.</font></font>
+
+889
+01:05:40,673 --> 01:05:42,113
+<font size="19"><font color=#FFFF00>¡Todos a la iglesia!</font></font>
+
+890
+01:05:42,234 --> 01:05:44,033
+<font size="19"><font color=#FFFF00>¡Al flanco izquierdo!</font></font>
+
+891
+01:05:44,154 --> 01:05:45,993
+<font size="19"><font color=#FFFF00>¡Heredia, cúbreme!</font></font>
+
+892
+01:05:49,113 --> 01:05:50,713
+<font size="19"><font color=#FFFF00>¿Y ahora quién coño dispara?</font></font>
+
+893
+01:05:51,073 --> 01:05:52,474
+<font size="19"><font color=#FFFF00>Son los nuestros.</font></font>
+
+894
+01:05:53,113 --> 01:05:55,633
+<font size="19"><font color=#FFFF00>¡Nos retiramos!
+¡Nos replegamos con orden!</font></font>
+
+895
+01:05:55,713 --> 01:05:57,474
+<font size="19"><font color=#FFFF00>¡Nos están pisando los talones!</font></font>
+
+896
+01:05:57,594 --> 01:06:00,274
+<font size="19"><font color=#FFFF00>- También nos disparan.
+- ¡Al suelo!</font></font>
+
+897
+01:06:00,353 --> 01:06:02,753
+<font size="19"><font color=#FFFF00>- Julián, ayuda, está herido.
+- ¡Dispárenles!</font></font>
+
+898
+01:06:05,753 --> 01:06:08,753
+<font size="19"><font color=#FFFF00>- ¡Busquets, a tu espalda!
+- ¡Corred, que vienen por aquí!</font></font>
+
+899
+01:06:09,033 --> 01:06:10,433
+<font size="19"><font color=#FFFF00>Toca. Toca, ayúdame.</font></font>
+
+900
+01:06:24,834 --> 01:06:26,633
+<font size="19"><font color=#FFFF00>¡Van a rebasarnos por los flancos!</font></font>
+
+901
+01:06:31,194 --> 01:06:32,433
+<font size="19"><font color=#FFFF00>¡Nos replegamos!</font></font>
+
+902
+01:06:34,194 --> 01:06:35,594
+<font size="19"><font color=#FFFF00>¡Vamos, coño!</font></font>
+
+903
+01:06:39,914 --> 01:06:41,313
+<font size="19"><font color=#FFFF00>¡Nos replegamos!</font></font>
+
+904
+01:06:41,554 --> 01:06:42,954
+<font size="19"><font color=#FFFF00>¡Nos replegamos!</font></font>
+
+905
+01:07:05,874 --> 01:07:07,274
+<font size="19"><font color=#FFFF00>¡Todos a la iglesia!</font></font>
+
+906
+01:07:07,393 --> 01:07:10,033
+<font size="19"><font color=#FFFF00>¡Vamos, Toca!
+Los he visto más rápidos.</font></font>
+
+907
+01:07:13,834 --> 01:07:15,234
+<font size="19"><font color=#FFFF00>¡Todos a la iglesia!</font></font>
+
+908
+01:08:02,274 --> 01:08:04,113
+<font size="19"><font color=#FFFF00>¡Cierren puertas y ventanas!</font></font>
+
+909
+01:08:05,154 --> 01:08:06,554
+<font size="19"><font color=#FFFF00>¡Parapétenlas!</font></font>
+
+910
+01:08:21,554 --> 01:08:22,954
+<font size="19"><font color=#FFFF00>- ¿Cómo está?
+- Jodido.</font></font>
+
+911
+01:08:24,114 --> 01:08:26,474
+<font size="19"><font color=#FFFF00>Heredia. Heredia, ven. Ven aquí.</font></font>
+
+912
+01:08:26,834 --> 01:08:28,713
+<font size="19"><font color=#FFFF00>Aprieta aquí y no sueltes. Fuerte.</font></font>
+
+913
+01:08:28,794 --> 01:08:30,194
+<font size="19"><font color=#FFFF00>- Fuerte ahí.
+- ¡Ah!</font></font>
+
+914
+01:08:31,274 --> 01:08:32,834
+<font size="19"><font color=#FFFF00>Vamos, chaval, que tú puedes.</font></font>
+
+915
+01:08:33,353 --> 01:08:34,834
+<font size="19"><font color=#FFFF00>Peores puñaladas da la vida.</font></font>
+
+916
+01:08:39,033 --> 01:08:40,514
+<font size="19"><font color=#FFFF00>Doctor, ¿cómo está el resto?</font></font>
+
+917
+01:08:40,874 --> 01:08:42,393
+<font size="19"><font color=#FFFF00>Nada grave.</font></font>
+
+918
+01:08:46,954 --> 01:08:48,353
+<font size="19"><font color=#FFFF00>¡Señores!</font></font>
+
+919
+01:08:49,554 --> 01:08:50,993
+<font size="19"><font color=#FFFF00>¡Hasta aquí hemos llegado!</font></font>
+
+920
+01:08:55,393 --> 01:08:58,554
+<font size="19"><font color=#FFFF00>A partir de ahora,
+esta va a ser nuestra casa.</font></font>
+
+921
+01:09:22,489 --> 01:09:24,489
+<font size="19"><font color=#FFFF00>Sincronizado y corregido por Chitorafa</font></font>
+
+922
+01:09:24,514 --> 01:09:27,154
+<font size="19"><font color=#FFFF00>Esta es la nota de despedida
+de Julián Martínez.</font></font>
+
+923
+01:09:27,914 --> 01:09:31,393
+<font size="19"><font color=#FFFF00>Y esta es la carta que el soldado
+Lafarga envió desde Filipinas.</font></font>
+
+924
+01:09:31,474 --> 01:09:33,874
+<font size="19"><font color=#FFFF00>- ¿Qué le parece?
+- Que es la misma letra.</font></font>
+
+925
+01:09:33,993 --> 01:09:36,914
+<font size="19"><font color=#FFFF00>Julián escribe las cartas
+de los soldados analfabetos.</font></font>
+
+926
+01:09:36,993 --> 01:09:39,393
+<font size="19"><font color=#FFFF00>¿Ha averiguado el origen exacto
+de las cartas?</font></font>
+
+927
+01:09:40,154 --> 01:09:42,673
+<font size="19"><font color=#FFFF00>- Baler, Filipinas.
+- Me cago en la p...</font></font>
+
+928
+01:09:42,794 --> 01:09:44,353
+<font size="19"><font color=#FFFF00>Debemos exigir a esos tagalos</font></font>
+
+929
+01:09:44,433 --> 01:09:46,914
+<font size="19"><font color=#FFFF00>que respeten la legalidad
+y depongan las armas.</font></font>
+
+930
+01:09:46,993 --> 01:09:50,033
+<font size="19"><font color=#FFFF00>Hace tres meses
+que no tenemos noticias de Manila.</font></font>
+
+931
+01:09:50,433 --> 01:09:52,514
+<font size="19"><font color=#FFFF00>O sea que después de 400 años...</font></font>
+
+932
+01:09:52,594 --> 01:09:54,794
+<font size="19"><font color=#FFFF00>ha saltado
+la chispita del amor, ¿eh?</font></font>
+
+933
+01:09:54,914 --> 01:09:56,673
+<font size="19"><font color=#FFFF00>No digáis barbaridades.</font></font>
+
+934
+01:09:56,874 --> 01:10:00,274
+<font size="19"><font color=#FFFF00>Matará a hombres que han dado su
+vida por su patria a cambio de nada.</font></font>
+
+935
+01:10:00,353 --> 01:10:02,073
+<font size="19"><font color=#FFFF00>La patria da honor y gloria...</font></font>
+
+936
+01:10:02,673 --> 01:10:04,353
+<font size="19"><font color=#FFFF00>a quienes luchan por su bandera.</font></font>
+
+937
+01:10:04,474 --> 01:10:07,794
+<font size="19"><font color=#FFFF00>En este ministerio solo se
+exige una cosa: discreción.</font></font>
+
+938
+01:10:08,433 --> 01:10:11,474
+<font size="19"><font color=#FFFF00>Y se le ocurre pegarse
+con la Policía en una manifestación.</font></font>
+
+939
+01:10:11,594 --> 01:10:13,234
+<font size="19"><font color=#FFFF00>Agredían a una mujer.</font></font>
+
+940
+01:10:13,353 --> 01:10:15,353
+<font size="19"><font color=#FFFF00>Un brindis por el jubilado, claro.</font></font>
+
+941
+01:10:15,433 --> 01:10:18,794
+<font size="19"><font color=#FFFF00>Por el mejor policía que ha pisado
+las calles de Madrid, mi padre.</font></font>
+
+942
+01:10:18,874 --> 01:10:19,874
+<font size="19"><font color=#FFFF00>- Venga.
+- Eso.</font></font>
+
+943
+01:10:21,673 --> 01:10:23,433
+<font size="19"><font color=#FFFF00>Quiero divorciarme de tu padre.</font></font>
+
+944
+01:10:26,313 --> 01:10:28,114
+<font size="19"><font color=#FFFF00>- ¿Sí?
+- Hola, bonito.</font></font>
+
+945
+01:10:28,594 --> 01:10:29,633
+<font size="19"><font color=#FFFF00>¿Está tu madre?</font></font>
+
+946
+01:10:29,753 --> 01:10:33,274
+<font size="19"><font color=#FFFF00>- ¿Has pedido dos días libres?
+- Sí. Mi padre se jubila y...</font></font>
+
+947
+01:10:33,353 --> 01:10:36,234
+<font size="19"><font color=#FFFF00>va a ser un golpe duro para él.
+Quiero estar a su lado.</font></font>
+
+948
+01:10:36,353 --> 01:10:38,353
+<font size="19"><font color=#FFFF00>Está usted completamente loco.</font></font>
+
+949
+01:10:38,433 --> 01:10:41,073
+<font size="19"><font color=#FFFF00>Doctor, empieza a hartarme
+con sus tonterías.</font></font>
+
+950
+01:10:41,194 --> 01:10:43,154
+<font size="19"><font color=#FFFF00>Hay para usted
+una misión importante.</font></font>
+
+951
+01:10:43,234 --> 01:10:45,753
+<font size="19"><font color=#FFFF00>Tanto que no pueden saber de ella
+mis compañeros.</font></font>
+
+952
+01:10:45,834 --> 01:10:48,353
+<font size="19"><font color=#FFFF00>Es una misión para un hombre solo:
+usted.</font></font>
+
+953
+01:10:48,433 --> 01:10:50,594
+<font size="19"><font color=#FFFF00>Julián está
+con los Últimos de Filipinas.</font></font>
+

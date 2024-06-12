@@ -1,0 +1,2499 @@
+﻿1
+00:00:03,504 --> 00:00:06,840
+<i>Al principio, éramos muy ingenuos.</i>
+
+2
+00:00:08,216 --> 00:00:09,802
+SUR DE FRANCIA, 1002 D.C.
+
+3
+00:00:09,968 --> 00:00:12,971
+<i>Nuestra madre nos había hecho</i>
+<i>bestias que se alimentaban de sangre.</i>
+
+4
+00:00:14,598 --> 00:00:17,017
+<i>Pero no podíamos alcanzar la inmortalidad.</i>
+
+5
+00:00:18,310 --> 00:00:20,854
+<i>La compulsión era</i>
+<i>un truco que debíamos aprender.</i>
+
+6
+00:00:23,023 --> 00:00:26,610
+<i>Solo conocíamos el miedo a ser cazados.</i>
+
+7
+00:00:31,073 --> 00:00:34,201
+<i>Eso... Y un hambre terrible.</i>
+
+8
+00:00:37,370 --> 00:00:38,622
+<i>Por eso, huimos.</i>
+
+9
+00:00:39,582 --> 00:00:40,999
+<i>Como familia.</i>
+
+10
+00:00:42,375 --> 00:00:43,836
+<i>Y cuando debíamos...</i>
+
+11
+00:00:45,545 --> 00:00:46,714
+<i>Como familia...</i>
+
+12
+00:00:48,131 --> 00:00:49,174
+<i>Nos alimentábamos.</i>
+
+13
+00:00:55,222 --> 00:00:56,765
+¿Terminaste, Kol?
+
+14
+00:00:58,433 --> 00:01:00,894
+Elijah, ¿todo esto es necesario de verdad?
+
+15
+00:01:01,186 --> 00:01:04,732
+Hermano, este es un camino importante.
+Si hallan cadáveres,
+
+16
+00:01:05,065 --> 00:01:06,650
+Mikael sabrá de nuestra presencia.
+
+17
+00:01:06,859 --> 00:01:10,528
+Huimos durante el otoño y el invierno,
+a través del granizo y la nieve.
+
+18
+00:01:10,821 --> 00:01:12,906
+¿Siempre deberemos
+temerle a nuestro padre?
+
+19
+00:01:13,073 --> 00:01:15,158
+-Tristemente, diría que sí.
+-Por favor, Finn.
+
+20
+00:01:15,492 --> 00:01:16,576
+Niklaus.
+
+21
+00:01:16,744 --> 00:01:18,954
+¿Sabemos adónde huiremos ahora?
+
+22
+00:01:19,371 --> 00:01:22,415
+¿Por qué no hacemos
+lo que todos pensamos? Separarnos.
+
+23
+00:01:23,667 --> 00:01:24,877
+Hicimos un juramento.
+
+24
+00:01:25,043 --> 00:01:27,420
+Tus juramentos me persiguen
+más que nuestro padre.
+
+25
+00:01:27,755 --> 00:01:30,758
+Al menos, no puede perseguirnos a todos.
+Deberíamos arriesgarnos.
+
+26
+00:01:33,426 --> 00:01:35,553
+-Tal vez Kol tiene razón.
+-Gracias, Finn.
+
+27
+00:01:35,804 --> 00:01:38,348
+Siempre dije
+que el mayor era el más inteligente.
+
+28
+00:01:38,515 --> 00:01:39,725
+Cállate.
+
+29
+00:01:40,017 --> 00:01:43,270
+No me alegra nuestro pacto,
+pero sí deseo dormir en una cama.
+
+30
+00:01:43,603 --> 00:01:46,649
+Bañarme en una tina, y comer
+comida verdadera. Si nos dividimos...
+
+31
+00:01:46,815 --> 00:01:48,025
+No, hermano.
+
+32
+00:01:48,776 --> 00:01:50,694
+Niklaus tiene razón. Hicimos un juramento.
+
+33
+00:01:53,155 --> 00:01:54,740
+La familia ante todo.
+
+34
+00:01:57,701 --> 00:02:00,453
+Siempre. Para siempre.
+
+35
+00:02:14,259 --> 00:02:16,344
+Sí, siempre y para siempre.
+
+36
+00:02:26,063 --> 00:02:28,648
+los ORIGINALES
+
+37
+00:02:28,857 --> 00:02:30,150
+<i>Mi querida Rebekah:</i>
+
+38
+00:02:31,484 --> 00:02:33,153
+<i>Espero que estés bien.</i>
+
+39
+00:02:34,654 --> 00:02:38,826
+<i>Te escribo para ponerte al día</i>
+<i>y pedirte consejo.</i>
+
+40
+00:02:40,285 --> 00:02:41,912
+<i>Nuestros hermanos siguen en desacuerdo.</i>
+
+41
+00:02:42,996 --> 00:02:44,957
+<i>Klaus nunca se disculpará,</i>
+
+42
+00:02:45,332 --> 00:02:46,792
+<i>ni por la sangre que ha derramado,</i>
+
+43
+00:02:47,167 --> 00:02:49,837
+<i>ni por el sufrimiento</i>
+<i>que Hayley sigue padeciendo.</i>
+
+44
+00:02:52,130 --> 00:02:54,424
+<i>Y Elijah no puede perdonarlo.</i>
+
+45
+00:02:55,592 --> 00:02:59,137
+<i>A pesar de mis esfuerzos,</i>
+<i>estamos divididos.</i>
+
+46
+00:03:01,514 --> 00:03:04,267
+<i>Pero no tengo solo malas noticias.</i>
+
+47
+00:03:05,102 --> 00:03:08,521
+<i>Niklaus cumplió su palabra.</i>
+<i>Marcel controla el barrio.</i>
+
+48
+00:03:08,939 --> 00:03:11,984
+<i>Abrió un gimnasio de lucha</i>
+<i>en la vieja iglesia Santa Ana,</i>
+
+49
+00:03:12,150 --> 00:03:16,113
+<i>donde mide el temple de los que desean</i>
+<i>unirse a su comunidad de vampiros.</i>
+
+50
+00:03:16,654 --> 00:03:18,991
+<i>Elijah ha comenzado</i>
+<i>a unírsele para luchar.</i>
+
+51
+00:03:20,033 --> 00:03:22,119
+<i>Creo que le ayuda con su ira.</i>
+
+52
+00:03:24,079 --> 00:03:26,206
+<i>Y tiene mucha ira.</i>
+
+53
+00:03:28,666 --> 00:03:32,921
+<i>Hope continúa creciendo,</i>
+<i>y es claro que extraña a su madre.</i>
+
+54
+00:03:33,881 --> 00:03:36,299
+<i>Aunque Niklaus es un padre amoroso,</i>
+
+55
+00:03:37,342 --> 00:03:40,553
+<i>no ha ayudado a encontrar</i>
+<i>la cura para la maldición de Hayley.</i>
+
+56
+00:03:41,722 --> 00:03:43,431
+<i>A pesar de mis mejores esfuerzos,</i>
+
+57
+00:03:43,598 --> 00:03:47,435
+<i>debo hallar cómo deshacer el hechizo que</i>
+<i>les hicieron a ella y a los Crecientes.</i>
+
+58
+00:03:48,228 --> 00:03:50,730
+<i>Y Hayley continúa luchando.</i>
+
+59
+00:03:51,106 --> 00:03:54,818
+<i>Incapaz de ver a su hija más</i>
+<i>que una vez al mes, cuando hay luna llena.</i>
+
+60
+00:03:57,404 --> 00:03:59,907
+<i>Y no podemos pedir ayuda externa.</i>
+
+61
+00:04:00,448 --> 00:04:02,075
+-¿Puedes escucharme?
+-No.
+
+62
+00:04:02,242 --> 00:04:04,036
+Los brujos no hacen
+favores a los vampiros.
+
+63
+00:04:04,202 --> 00:04:06,329
+Incluyendo anillos de luz de día.
+Son las reglas.
+
+64
+00:04:07,080 --> 00:04:09,707
+Y un acto de buena fe ayudará
+a mantener la paz.
+
+65
+00:04:09,958 --> 00:04:12,335
+El Noveno aquelarre cree
+que simpatizo con los vampiros.
+
+66
+00:04:12,627 --> 00:04:14,087
+No les demostraré que tienen razón.
+
+67
+00:04:15,130 --> 00:04:16,256
+Estás solo.
+
+68
+00:04:16,423 --> 00:04:19,259
+<i>La ira de Davina hacia nuestra familia</i>
+<i>solo ha crecido.</i>
+
+69
+00:04:19,426 --> 00:04:21,344
+<i>Y como Regente de todos los aquelarres,</i>
+
+70
+00:04:21,553 --> 00:04:24,181
+<i>es demasiado formidable</i>
+<i>para ser influenciada.</i>
+
+71
+00:04:24,764 --> 00:04:27,100
+<i>Mientras tanto,</i>
+<i>Niklaus comenzó a ver a Camille,</i>
+
+72
+00:04:27,309 --> 00:04:29,269
+<i>según dice, para conversar.</i>
+
+73
+00:04:30,270 --> 00:04:32,605
+<i>Dice que quiere enmendar las cosas.</i>
+
+74
+00:04:33,356 --> 00:04:35,943
+<i>A decir verdad,</i>
+<i>se lo ve libre de remordimiento.</i>
+
+75
+00:04:37,945 --> 00:04:40,613
+<i>Y eso solo aleja a Elijah.</i>
+
+76
+00:04:41,698 --> 00:04:44,659
+<i>Me pregunto si me enviarías algún consejo</i>
+
+77
+00:04:44,827 --> 00:04:46,661
+<i>sobre cómo sanar su vínculo roto.</i>
+
+78
+00:04:47,287 --> 00:04:50,707
+<i>Hasta entonces,</i>
+<i>sigo siendo tu amante hermana,</i>
+
+79
+00:04:51,583 --> 00:04:52,584
+<i>Freya.</i>
+
+80
+00:05:20,778 --> 00:05:21,989
+Camille.
+
+81
+00:05:22,405 --> 00:05:23,573
+<i>Gracias por venir.</i>
+
+82
+00:05:23,824 --> 00:05:26,243
+¿Por qué me pediste que nos viéramos aquí?
+
+83
+00:05:26,618 --> 00:05:28,828
+Esperaba que pudiéramos conversar,
+
+84
+00:05:29,329 --> 00:05:31,957
+y pensé
+que te gustaría el cambio de lugar.
+
+85
+00:05:32,875 --> 00:05:37,504
+Por eso, te concedo
+una muestra privada de mi exhibición.
+
+86
+00:05:39,131 --> 00:05:40,715
+¿Tú las pintaste?
+
+87
+00:05:42,759 --> 00:05:46,513
+Pasé la mayor parte del milenio
+evitando llamar la atención de mi padre.
+
+88
+00:05:46,930 --> 00:05:51,018
+Ahora está muerto,
+y todos mis enemigos han sido eliminados.
+
+89
+00:05:51,935 --> 00:05:55,022
+No veo razón para que los frutos
+de mi trabajo no sean apreciados.
+
+90
+00:05:58,191 --> 00:06:00,986
+No vine a ver arte.
+
+91
+00:06:01,486 --> 00:06:05,073
+Si quieres hablar de tu progreso
+como persona en busca de empatía, bien.
+
+92
+00:06:05,240 --> 00:06:06,866
+Si no, me iré.
+
+93
+00:06:07,993 --> 00:06:09,369
+¿Te he ofendido?
+
+94
+00:06:09,744 --> 00:06:12,539
+Accedí a verte como profesional.
+
+95
+00:06:13,999 --> 00:06:15,918
+Pero establecí límites claros
+
+96
+00:06:16,084 --> 00:06:18,586
+que no incluyen muestras privadas de arte.
+
+97
+00:06:19,046 --> 00:06:22,757
+¿Preferirías acompañarme
+mañana a la inauguración?
+
+98
+00:06:25,635 --> 00:06:27,095
+Llámame si quieres hablar.
+
+99
+00:06:31,891 --> 00:06:32,976
+Espera.
+
+100
+00:06:35,562 --> 00:06:37,730
+Te preocupa que no vaya nadie más.
+
+101
+00:06:38,398 --> 00:06:41,359
+Rebekah se fue, Marcel está enojado,
+Elijah ni siquiera te mira.
+
+102
+00:06:41,568 --> 00:06:42,777
+Estarás solo.
+
+103
+00:06:45,155 --> 00:06:46,239
+Tienes miedo.
+
+104
+00:06:46,781 --> 00:06:48,491
+Porque los que amas están
+enojados contigo.
+
+105
+00:06:49,492 --> 00:06:51,203
+Tal vez debas pensar en eso.
+
+106
+00:06:58,168 --> 00:06:59,627
+Debo irme.
+
+107
+00:07:07,927 --> 00:07:11,348
+Debes entender
+que tengo una relación con la policía
+
+108
+00:07:11,598 --> 00:07:13,475
+desde los problemas con mi exesposa.
+
+109
+00:07:14,267 --> 00:07:16,478
+Soy su experto
+en todo lo que parece oculto.
+
+110
+00:07:16,728 --> 00:07:19,189
+Cuando se encuentran
+con secuelas de magia negra,
+
+111
+00:07:19,814 --> 00:07:21,233
+me llaman.
+
+112
+00:07:21,441 --> 00:07:23,110
+POLICÍA DE NUEVA ORLEANS
+
+113
+00:07:23,944 --> 00:07:25,237
+¿Es tu amiga, la psicóloga?
+
+114
+00:07:25,988 --> 00:07:28,281
+Fantástico. Will Kinney.
+Detective. Homicidios.
+
+115
+00:07:28,823 --> 00:07:31,451
+Cami O'Connell. Cantinera.
+Psicóloga a medio tiempo.
+
+116
+00:07:32,035 --> 00:07:33,453
+¿Por qué estoy aquí?
+
+117
+00:07:34,287 --> 00:07:35,580
+Vince, muéstrale el cadáver.
+
+118
+00:07:36,789 --> 00:07:38,833
+A ver si hace
+lo que dijiste que puede hacer.
+
+119
+00:07:42,420 --> 00:07:46,841
+La policía quiere un perfil psicológico,
+y por lo que encontramos...
+
+120
+00:07:47,717 --> 00:07:49,970
+Diría que es tu especialidad.
+
+121
+00:08:09,739 --> 00:08:11,574
+Crece a cada momento.
+
+122
+00:08:12,700 --> 00:08:14,286
+Gracias por todo el cuidado.
+
+123
+00:08:14,827 --> 00:08:16,246
+Mañana hay luna llena.
+
+124
+00:08:16,454 --> 00:08:18,248
+Te puedo ayudar
+a llevar a Hope con Hayley.
+
+125
+00:08:18,498 --> 00:08:21,293
+No será necesario.
+Te mereces una noche libre.
+
+126
+00:08:21,876 --> 00:08:23,920
+Te ofrecería acompañarte,
+
+127
+00:08:24,421 --> 00:08:27,965
+pero temo que mi frágil ego no tolere
+la letanía de insultos
+
+128
+00:08:28,175 --> 00:08:29,551
+que Hayley debe haber preparado.
+
+129
+00:08:29,759 --> 00:08:32,137
+Dudo que tu presencia sea
+bienvenida en ningún lado.
+
+130
+00:08:32,387 --> 00:08:34,681
+Mi propio hermano me saluda con desdén.
+
+131
+00:08:34,847 --> 00:08:36,016
+¿Qué opinas, Freya?
+
+132
+00:08:36,183 --> 00:08:38,643
+¿Sigue enojado por mi parte
+en la maldición de Hayley?
+
+133
+00:08:39,102 --> 00:08:42,147
+¿Debo recordarle
+que mi plan la mantuvo con vida?
+
+134
+00:08:42,355 --> 00:08:44,899
+Claro, perdón.
+Dices que fue un acto heroico,
+
+135
+00:08:45,192 --> 00:08:47,527
+incluso mientras disfrutas su tormento.
+
+136
+00:08:49,196 --> 00:08:51,698
+Tal vez sería más compasivo
+si Hayley se disculpara.
+
+137
+00:08:51,989 --> 00:08:54,784
+Después de todo,
+ella intentó huir con mi hija.
+
+138
+00:08:55,034 --> 00:08:59,164
+Si van a molestarse mutuamente,
+¿podrían hacerlo en otro lado?
+
+139
+00:09:07,797 --> 00:09:09,006
+Bien hecho.
+
+140
+00:09:09,424 --> 00:09:12,052
+A este paso, alejarás a toda la familia.
+
+141
+00:09:26,191 --> 00:09:29,068
+-¿Quién quiere el próximo plato?
+-Son unos sucios glotones.
+
+142
+00:09:29,486 --> 00:09:31,238
+Y tú sigues siendo un zopenco.
+
+143
+00:09:31,529 --> 00:09:33,240
+Qué linda ropa.
+
+144
+00:09:34,366 --> 00:09:36,033
+Qué pena que se desperdicie.
+
+145
+00:09:36,201 --> 00:09:39,036
+-Rebekah, hemos discutido esto...
+-No, tú lo discutiste.
+
+146
+00:09:39,246 --> 00:09:40,913
+Ninguno de nosotros pudo opinar.
+
+147
+00:09:41,164 --> 00:09:44,292
+Este grupo viajaba a algún lugar,
+su carro está lleno de seda y galas.
+
+148
+00:09:44,834 --> 00:09:47,003
+Eran cinco. Somos cinco.
+
+149
+00:09:48,004 --> 00:09:50,548
+¿Por qué no podemos
+simplemente ir en su lugar?
+
+150
+00:09:50,715 --> 00:09:52,717
+Disfrazarnos de nobles
+de una tierra desconocida,
+
+151
+00:09:52,925 --> 00:09:55,595
+cuyas costumbres no entendemos.
+Es ridículo.
+
+152
+00:09:55,762 --> 00:09:58,181
+Viste el castillo en el camino,
+había una fiesta.
+
+153
+00:09:58,640 --> 00:10:00,267
+Este grupo iba ahí...
+
+154
+00:10:01,268 --> 00:10:03,228
+Míralos, no son mejores que nosotros.
+
+155
+00:10:04,271 --> 00:10:06,773
+Podemos vivir como ellos,
+al menos, por un tiempo.
+
+156
+00:10:07,274 --> 00:10:10,110
+Piénsalo. Elijah,
+podemos escondernos a plena vista.
+
+157
+00:10:10,277 --> 00:10:11,861
+-Llevar vidas normales...
+-Silencio.
+
+158
+00:10:28,586 --> 00:10:30,213
+Vaya, qué apuesto eres.
+
+159
+00:10:30,588 --> 00:10:32,840
+-Parece un postre,
+-¡Esperen!
+
+160
+00:10:33,132 --> 00:10:34,342
+Puedo ayudarlos.
+
+161
+00:10:35,302 --> 00:10:37,679
+Soy el sirviente personal
+del conde de Martel.
+
+162
+00:10:38,221 --> 00:10:39,847
+Del castillo que acaban de mencionar.
+
+163
+00:10:40,390 --> 00:10:43,560
+Me enviaron a acompañar a estos invitados
+que venían a quedarse.
+
+164
+00:10:44,352 --> 00:10:46,604
+Conozco sus costumbres
+y los hábitos del Conde.
+
+165
+00:10:47,647 --> 00:10:50,483
+Si quieren hacerse pasar
+por la familia que asesinaron aquí,
+
+166
+00:10:50,733 --> 00:10:53,320
+necesitarán mi ayuda.
+
+167
+00:10:57,949 --> 00:10:59,826
+-¿Podemos quedárnoslo?
+-No, Rebekah.
+
+168
+00:11:00,117 --> 00:11:01,869
+¿Cuál es nuestra regla más importante?
+
+169
+00:11:03,288 --> 00:11:05,957
+-Nunca dejar vivo a alguien que ha...
+-Visto lo que somos.
+
+170
+00:11:06,249 --> 00:11:08,626
+Muchas gracias.
+Esa costumbre nos ha servido mucho.
+
+171
+00:11:08,835 --> 00:11:10,086
+Tiene razón.
+
+172
+00:11:10,503 --> 00:11:13,465
+-Puede sernos útil.
+-Una verdadera disputa familiar.
+
+173
+00:11:13,840 --> 00:11:15,633
+Tal vez debamos votar.
+
+174
+00:11:16,509 --> 00:11:18,595
+¿Los que estén a favor de dejarlo vivir?
+
+175
+00:11:22,432 --> 00:11:24,100
+¿Los que quieren destriparlo?
+
+176
+00:11:27,312 --> 00:11:28,730
+Bien, Nik.
+
+177
+00:11:31,358 --> 00:11:32,359
+¿Qué haremos?
+
+178
+00:11:39,282 --> 00:11:40,867
+<i>No es difícil.</i>
+
+179
+00:11:42,494 --> 00:11:44,871
+<i>Este lugar tiene todos los lujos</i>
+<i>que se puedan comprar,</i>
+
+180
+00:11:45,288 --> 00:11:48,541
+<i>y, aunque el precio es desalentador,</i>
+
+181
+00:11:49,041 --> 00:11:52,003
+la vista de Nueva Orleans es única.
+
+182
+00:11:56,633 --> 00:11:58,092
+Me gusta.
+
+183
+00:11:58,551 --> 00:11:59,844
+En cuanto al precio...
+
+184
+00:12:01,137 --> 00:12:04,223
+Lo que cuesta vale.
+
+185
+00:12:04,557 --> 00:12:05,725
+¿No estás de acuerdo?
+
+186
+00:12:06,518 --> 00:12:09,437
+-Sr. Castle...
+-Llámame Lucien.
+
+187
+00:12:17,028 --> 00:12:20,573
+No soy psicóloga forense,
+pero el que hizo esto se tomó su tiempo.
+
+188
+00:12:21,283 --> 00:12:23,117
+Sangró mucho.
+
+189
+00:12:23,868 --> 00:12:25,119
+Significa que estaba vivo.
+
+190
+00:12:26,288 --> 00:12:27,789
+Parece que solo se paró aquí.
+
+191
+00:12:28,790 --> 00:12:30,708
+Las sogas solo son decorativas.
+
+192
+00:12:31,250 --> 00:12:32,877
+No hay marcas de que lo hayan atado.
+
+193
+00:12:33,085 --> 00:12:35,046
+No hay señales de lucha ni rasguños.
+
+194
+00:12:35,212 --> 00:12:36,589
+Lo obligaron, Camille.
+
+195
+00:12:37,924 --> 00:12:40,259
+Tal vez el chico rico enojó
+al vampiro equivocado.
+
+196
+00:12:42,304 --> 00:12:44,597
+¿Cómo les va aquí?
+Díganme que tienen algo.
+
+197
+00:12:46,516 --> 00:12:48,601
+Parece metódico. Preciso.
+
+198
+00:12:48,893 --> 00:12:51,062
+Las heridas pueden significar
+algo para el asesino.
+
+199
+00:12:51,438 --> 00:12:53,856
+No es un ritual formal,
+pero es intencional.
+
+200
+00:12:55,858 --> 00:12:57,402
+Y lo que hacemos a propósito...
+
+201
+00:12:58,778 --> 00:13:00,154
+Tendemos a repetirlo.
+
+202
+00:13:04,784 --> 00:13:05,952
+<i>Gracias por venir.</i>
+
+203
+00:13:06,869 --> 00:13:09,331
+Pasé la noche
+consultando a nuestros ancestros.
+
+204
+00:13:10,206 --> 00:13:12,625
+Dicen que seamos fuertes
+y defendamos nuestros hogares.
+
+205
+00:13:12,959 --> 00:13:16,463
+Pero, por ahora, ningún aquelarre
+debe expandirse a Gentilly.
+
+206
+00:13:16,796 --> 00:13:18,297
+-¿Qué?
+-Esta decisión...
+
+207
+00:13:18,631 --> 00:13:21,133
+Evitará una violenta guerra territorial
+con los vampiros.
+
+208
+00:13:22,051 --> 00:13:23,135
+Y es definitiva.
+
+209
+00:13:25,597 --> 00:13:30,393
+¿Disculpa, Kara? No te di
+permiso para irte. No te alejes de mí.
+
+210
+00:14:05,845 --> 00:14:07,680
+-Excelente.
+-Sí.
+
+211
+00:14:08,097 --> 00:14:09,474
+Lo despedazaron.
+
+212
+00:14:09,682 --> 00:14:11,183
+No hay heridas punzantes obvias,
+
+213
+00:14:11,393 --> 00:14:14,228
+-pero el que lo hizo debía ser vampiro.
+-Y nadie oyó gritos.
+
+214
+00:14:14,396 --> 00:14:16,147
+Entonces, lo obligaron a pararse ahí y...
+
+215
+00:14:16,939 --> 00:14:19,066
+-Sufrir.
+-¿Crees que fuimos nosotros?
+
+216
+00:14:21,068 --> 00:14:23,195
+Mis chicos no dejan cadáveres en la calle.
+
+217
+00:14:23,446 --> 00:14:24,781
+¿Cuán bien conoces a tus chicos?
+
+218
+00:14:24,947 --> 00:14:26,824
+Los cadáveres llevan a titulares,
+
+219
+00:14:27,283 --> 00:14:28,910
+y eso hace que baje el turismo.
+
+220
+00:14:29,411 --> 00:14:30,745
+Cuidamos el suministro de comida.
+
+221
+00:14:30,953 --> 00:14:33,665
+Marcel, tal vez
+alguien nuevo perdió el control.
+
+222
+00:14:33,831 --> 00:14:37,334
+Deberías considerar que mis chicos no son
+los únicos vampiros de la ciudad.
+
+223
+00:14:38,420 --> 00:14:39,921
+No crees que haya sido Klaus.
+
+224
+00:14:40,212 --> 00:14:42,674
+Elijah dice
+que la conducta de Klaus es excelente.
+
+225
+00:14:42,882 --> 00:14:44,509
+Hace más de 200 años que lo conozco.
+
+226
+00:14:45,009 --> 00:14:47,011
+La conducta excelente no es lo suyo.
+
+227
+00:14:48,220 --> 00:14:49,597
+Tarde o temprano, hará algo.
+
+228
+00:14:50,473 --> 00:14:53,643
+O, tal vez, ya lo hizo.
+
+229
+00:15:10,785 --> 00:15:12,412
+Es un fiasco, nada original.
+
+230
+00:15:12,704 --> 00:15:14,706
+Poca atmósfera. Menos técnica.
+
+231
+00:15:15,206 --> 00:15:18,418
+La obra es
+solo un viaje de autocelebración del ego.
+
+232
+00:15:22,922 --> 00:15:24,591
+No esperaba
+que dieras una muestra de arte
+
+233
+00:15:24,799 --> 00:15:27,176
+sin obligar al crítico a alabarte.
+
+234
+00:15:27,677 --> 00:15:32,181
+Y yo no esperaría que un salvaje inculto
+se colara en una reunión formal.
+
+235
+00:15:32,599 --> 00:15:34,434
+No es lo que suelo hacer.
+
+236
+00:15:34,726 --> 00:15:37,103
+Aunque esa bolsa de sangre bocona
+tiene razón.
+
+237
+00:15:37,687 --> 00:15:39,230
+Tu trabajo es poco original.
+
+238
+00:15:39,897 --> 00:15:41,608
+Diría que de Degas.
+
+239
+00:15:41,941 --> 00:15:44,694
+Claro, yo sé
+que obligaste a Degas a ser tu mentor.
+
+240
+00:15:45,444 --> 00:15:48,030
+Siempre pensé
+que su trabajo mejoró con tu influencia.
+
+241
+00:15:48,405 --> 00:15:50,700
+Al fin. Alguien que entiende de arte.
+
+242
+00:15:51,450 --> 00:15:53,410
+Si vives lo suficiente,
+aprendes a disfrutarlo.
+
+243
+00:15:53,995 --> 00:15:55,121
+Entre otras cosas.
+
+244
+00:15:56,122 --> 00:15:58,500
+Hablando de eso, ¿podemos beber algo?
+
+245
+00:15:58,750 --> 00:16:00,167
+Estoy sediento.
+
+246
+00:16:23,232 --> 00:16:24,984
+Vaya lugar para un picnic.
+
+247
+00:16:25,693 --> 00:16:28,320
+Sí, si toleras los mosquitos,
+es bastante tranquilo.
+
+248
+00:16:29,947 --> 00:16:31,198
+¿Un emparedado?
+
+249
+00:16:31,533 --> 00:16:33,242
+Es problema es que es propiedad privada.
+
+250
+00:16:33,826 --> 00:16:36,328
+La zona es propiedad
+de Desarrollo Inmobiliario Kingmaker.
+
+251
+00:16:36,788 --> 00:16:39,331
+Dentro de dos años,
+habrá canchas de golf y condominios.
+
+252
+00:16:40,875 --> 00:16:42,710
+Asumo que no están en la junta directiva.
+
+253
+00:16:43,335 --> 00:16:45,421
+Mi equipo y yo somos de control animal.
+
+254
+00:16:45,880 --> 00:16:48,007
+Ha habido
+una afluencia de depredadores salvajes.
+
+255
+00:16:48,465 --> 00:16:51,010
+Mi jefe paga mucho para eliminarlos.
+
+256
+00:16:52,386 --> 00:16:53,805
+Depredadores salvajes.
+
+257
+00:16:54,013 --> 00:16:55,222
+Lobos, ¿puedes creerlo?
+
+258
+00:16:55,640 --> 00:16:57,433
+Anoche matamos media docena.
+
+259
+00:16:58,142 --> 00:17:00,770
+Este bebé puede cortar una cabeza.
+
+260
+00:17:02,730 --> 00:17:06,192
+Debo pedirte que se vayan.
+
+261
+00:17:06,776 --> 00:17:07,944
+De inmediato.
+
+262
+00:17:17,203 --> 00:17:19,956
+Llama a tus hombres.
+Váyanse de este lugar.
+
+263
+00:17:20,164 --> 00:17:24,251
+Trabajen en otra cosa.
+No más lobos muertos.
+
+264
+00:17:24,586 --> 00:17:28,047
+Soy contratista independiente.
+Hay otros equipos.
+
+265
+00:17:28,505 --> 00:17:29,966
+No tengo la autoridad para...
+
+266
+00:17:48,735 --> 00:17:50,027
+Listo.
+
+267
+00:17:51,445 --> 00:17:52,905
+Si ven al conde de Martel,
+
+268
+00:17:53,155 --> 00:17:55,742
+llámenlo "Su Gracia".
+A todos los demás nobles, "señor".
+
+269
+00:17:56,784 --> 00:17:59,453
+Cuando hablen con el Conde,
+hablen de caza.
+
+270
+00:17:59,871 --> 00:18:01,706
+Adora sus halcones y sus sabuesos.
+
+271
+00:18:02,373 --> 00:18:07,544
+Agáchate en las reverencias, <i>lady</i> Rebekah,
+le gustan los escotes saludables.
+
+272
+00:18:10,297 --> 00:18:12,549
+Por el amor de Dios,
+dejen de mirar hacia arriba.
+
+273
+00:18:17,221 --> 00:18:19,265
+Si me vuelves a tocar,
+te arrancaré los brazos.
+
+274
+00:18:19,515 --> 00:18:22,309
+Compórtate, Kol,
+o te enterraré para que te pudras.
+
+275
+00:18:22,559 --> 00:18:24,270
+No funcionará, ¿verdad?
+
+276
+00:18:24,604 --> 00:18:26,313
+Solo hablen como practicamos.
+
+277
+00:18:26,898 --> 00:18:28,733
+Y sepa que se ve hermosa, <i>milady.</i>
+
+278
+00:18:29,608 --> 00:18:30,943
+¿Estás preocupado, hermano?
+
+279
+00:18:31,110 --> 00:18:33,154
+Dejamos nuestras vidas
+en manos de un desconocido.
+
+280
+00:18:36,282 --> 00:18:39,786
+Lucien, te enviaron
+a buscar al Comte du Guise.
+
+281
+00:18:40,286 --> 00:18:41,954
+Está indispuesto, Su Gracia.
+
+282
+00:18:43,164 --> 00:18:45,499
+Gota. Le presento a sus hijos.
+
+283
+00:18:46,793 --> 00:18:50,838
+<i>Lord</i> Finn, Niklaus, Elijah y Kol.
+
+284
+00:18:53,299 --> 00:18:55,009
+Y la adorable <i>lady</i> Rebekah.
+
+285
+00:18:56,510 --> 00:18:59,931
+Su padre nunca los mencionó
+en nuestras conversaciones.
+
+286
+00:19:03,976 --> 00:19:06,813
+Sí. Discúlpenos, Su Gracia.
+
+287
+00:19:07,479 --> 00:19:10,775
+Padre siempre fue distante con sus viajes,
+
+288
+00:19:10,983 --> 00:19:13,986
+y fuimos criados por sirvientes.
+
+289
+00:19:15,279 --> 00:19:17,949
+Sin embargo,
+sé que padre consideraría un honor
+
+290
+00:19:18,115 --> 00:19:21,828
+que su noble mano nos presente
+en sociedad, Su Gracia.
+
+291
+00:19:23,454 --> 00:19:24,580
+Su Gracia,
+
+292
+00:19:24,831 --> 00:19:28,292
+ansío oír
+historias de sus escapadas de caza.
+
+293
+00:19:29,210 --> 00:19:30,920
+¿Puedo presentarle a nuestra hermana?
+
+294
+00:19:35,925 --> 00:19:39,095
+Rebekah de Guise de Rochefort en Seine.
+
+295
+00:19:43,015 --> 00:19:44,308
+Encantada.
+
+296
+00:19:58,030 --> 00:20:00,032
+Has demostrado ser de gran ayuda.
+
+297
+00:20:01,951 --> 00:20:03,202
+Por supuesto, <i>milord.</i>
+
+298
+00:20:04,370 --> 00:20:06,831
+Pero debo decir que no se te ve alterado
+
+299
+00:20:07,039 --> 00:20:09,375
+por llevarnos al hogar de tu amo.
+
+300
+00:20:11,585 --> 00:20:16,883
+Mi amo es un ebrio cruel que atormenta
+a sus sirvientes por deporte.
+
+301
+00:20:17,174 --> 00:20:18,885
+Pordioseros que buscan socorro.
+
+302
+00:20:19,385 --> 00:20:21,220
+Vasallos que no pueden pagar una deuda...
+
+303
+00:20:22,013 --> 00:20:23,765
+Como mi propio padre.
+
+304
+00:20:24,849 --> 00:20:27,601
+Todos estos nobles,
+tras sus sedas y sus joyas,
+
+305
+00:20:27,852 --> 00:20:29,728
+son asesinos, nos hacen esclavos.
+
+306
+00:20:30,980 --> 00:20:32,481
+Ustedes pueden ser malos,
+
+307
+00:20:33,858 --> 00:20:35,902
+pero caminan entre un mal aún mayor.
+
+308
+00:20:38,821 --> 00:20:41,282
+¿Qué me importa si los matan a todos?
+
+309
+00:20:50,124 --> 00:20:51,583
+¿Quiénes son?
+
+310
+00:20:52,960 --> 00:20:54,253
+Los hijos del Conde.
+
+311
+00:20:55,587 --> 00:20:58,507
+<i>Lord</i> Tristan y su hermana, <i>lady</i> Aurora.
+
+312
+00:21:00,259 --> 00:21:03,387
+<i>Es exquisita.</i>
+
+313
+00:21:04,972 --> 00:21:07,724
+Sí, y su hermano es malvado.
+
+314
+00:21:08,642 --> 00:21:11,603
+<i>Te sugiero que los evites por completo.</i>
+
+315
+00:21:12,188 --> 00:21:14,148
+¿Ella sería una amenaza tan grande?
+
+316
+00:21:15,024 --> 00:21:16,692
+¿Incluso para alguien como yo?
+
+317
+00:21:16,943 --> 00:21:20,071
+Lady <i>Aurora no necesita dientes</i>
+<i>para arrancar el alma de un hombre.</i>
+
+318
+00:21:20,654 --> 00:21:23,157
+Solo basta
+mirarla a los ojos para perderse.
+
+319
+00:21:23,657 --> 00:21:24,784
+Sí.
+
+320
+00:21:26,327 --> 00:21:28,454
+Kol estaba loco.
+
+321
+00:21:29,246 --> 00:21:31,123
+Me encantaba. Pero Finn...
+
+322
+00:21:31,290 --> 00:21:34,836
+Finn estaba bien
+mientras no tuvieras que hablarle.
+
+323
+00:21:35,461 --> 00:21:36,963
+¿Hablaste con ella?
+
+324
+00:21:37,796 --> 00:21:38,881
+¿Con quién?
+
+325
+00:21:41,467 --> 00:21:42,468
+Te refieres a ella.
+
+326
+00:21:44,595 --> 00:21:48,390
+Como sabes,
+Aurora y yo nos separamos hace siglos.
+
+327
+00:21:50,642 --> 00:21:52,269
+<i>-¿Champán?</i>
+-No, gracias.
+
+328
+00:21:54,939 --> 00:21:57,274
+Disculpa, por favor.
+Debo hablar con alguien.
+
+329
+00:21:58,025 --> 00:21:59,568
+¿Alguien sabroso?
+
+330
+00:22:00,152 --> 00:22:02,654
+Quédate aquí y compórtate.
+
+331
+00:22:03,489 --> 00:22:04,656
+Siempre.
+
+332
+00:22:04,991 --> 00:22:06,909
+Supongo que más vale tarde que nunca,
+
+333
+00:22:07,284 --> 00:22:09,620
+-pero sí que llegaste tarde.
+-No vine por la muestra.
+
+334
+00:22:09,786 --> 00:22:11,998
+Tengo un problema,
+y no respondes el teléfono.
+
+335
+00:22:15,417 --> 00:22:17,669
+¿Quién es el que me mira
+como si fuera cordero asado?
+
+336
+00:22:17,836 --> 00:22:20,672
+-¿Un viejo amigo?
+-Un viejo conocido. Nada más.
+
+337
+00:22:21,007 --> 00:22:23,009
+¿"Viejo conocido"? Eso duele.
+
+338
+00:22:23,968 --> 00:22:25,677
+¿Puede oírnos? ¿Es...?
+
+339
+00:22:25,928 --> 00:22:27,596
+¿Sordo? Al contrario.
+
+340
+00:22:27,930 --> 00:22:29,681
+Un efecto secundario que heredé de Nik.
+
+341
+00:22:29,848 --> 00:22:33,352
+Podemos hablar de mi grosero amigo,
+Lucien, en nuestra próxima conversación.
+
+342
+00:22:33,560 --> 00:22:35,521
+Por ahora,
+preservemos tus preciosos límites.
+
+343
+00:22:35,771 --> 00:22:37,606
+Alguien torturó y mató a un local.
+
+344
+00:22:37,814 --> 00:22:39,191
+Dejó el cadáver al descubierto.
+
+345
+00:22:40,026 --> 00:22:41,360
+Creo que fue un vampiro.
+
+346
+00:22:41,527 --> 00:22:44,238
+Los asuntos de vampiros caen
+en el ámbito de Marcel.
+
+347
+00:22:44,821 --> 00:22:46,698
+O de Elijah,
+cuando no está ocupado odiándome.
+
+348
+00:22:46,949 --> 00:22:48,993
+Por supuesto, habla con ellos.
+
+349
+00:23:15,894 --> 00:23:17,146
+<i>¿Hola?</i>
+
+350
+00:23:17,313 --> 00:23:19,773
+¿Interpreté mal
+el tipo de exhibición al que irías?
+
+351
+00:23:20,274 --> 00:23:21,400
+<i>Cambié de lugar.</i>
+
+352
+00:23:21,900 --> 00:23:24,028
+¿No dijiste que merecía una noche libre?
+
+353
+00:23:24,236 --> 00:23:28,532
+Perdón. Alguien debe cuidar a Hope.
+Tengo que hacer algo.
+
+354
+00:23:28,907 --> 00:23:31,785
+Qué ominoso. ¿Qué debes hacer?
+
+355
+00:23:32,244 --> 00:23:33,412
+Un mal necesario.
+
+356
+00:23:34,788 --> 00:23:36,915
+Prefiero que mi sobrina no sea testigo.
+
+357
+00:23:37,541 --> 00:23:38,584
+<i>Está bien.</i>
+
+358
+00:23:38,917 --> 00:23:40,419
+Dame un minuto. Tengo una idea.
+
+359
+00:23:50,512 --> 00:23:53,015
+Tu bella amiga parece haber alterado
+tu humor.
+
+360
+00:23:53,849 --> 00:23:57,436
+¿Por qué no salimos?
+Pintemos la ciudad de rojo, etcétera.
+
+361
+00:23:58,937 --> 00:24:00,064
+Lucien...
+
+362
+00:24:01,815 --> 00:24:03,692
+¿Qué haces en mi ciudad?
+
+363
+00:24:05,486 --> 00:24:07,529
+Han corrido las noticias, viejo amigo.
+
+364
+00:24:08,447 --> 00:24:10,907
+Todos los vampiros del mundo saben
+que te atacaron.
+
+365
+00:24:11,242 --> 00:24:12,868
+Y que casi mueres varias veces.
+
+366
+00:24:13,035 --> 00:24:14,370
+Puedo asegurarte
+
+367
+00:24:14,453 --> 00:24:15,537
+que los que me enfrentaron
+
+368
+00:24:15,662 --> 00:24:19,291
+terminaron disecados,
+hechos polvo, o como cena.
+
+369
+00:24:20,959 --> 00:24:24,380
+¿Y si hubiera sido al revés?
+
+370
+00:24:25,839 --> 00:24:27,924
+Cuando mataron a Finn,
+todos aprendimos la verdad.
+
+371
+00:24:28,300 --> 00:24:32,096
+La vida de cada vampiro está unida
+al original que inició el linaje.
+
+372
+00:24:32,513 --> 00:24:33,972
+La muerte de Kol lo confirmó.
+
+373
+00:24:34,431 --> 00:24:37,309
+Dos linajes completos de vampiros
+fueron eliminados.
+
+374
+00:24:37,976 --> 00:24:40,146
+Como puedes imaginar,
+la amenaza no nos cayó bien
+
+375
+00:24:40,312 --> 00:24:41,688
+a los que quedamos.
+
+376
+00:24:41,980 --> 00:24:45,651
+Todos los que teman morir
+debido a mi muerte, que vengan a mí.
+
+377
+00:24:46,110 --> 00:24:48,154
+Estaré feliz de darles confianza.
+
+378
+00:24:48,987 --> 00:24:49,988
+Claro.
+
+379
+00:24:50,322 --> 00:24:52,324
+Tú y tus hermanos son poderosos.
+
+380
+00:24:53,992 --> 00:24:57,746
+Sin embargo, los ataques muestran
+que no eres invulnerable.
+
+381
+00:24:58,414 --> 00:25:00,832
+Mientras te regodeabas
+en tus asuntos familiares,
+
+382
+00:25:00,999 --> 00:25:03,877
+tus descendientes se han inquietado.
+
+383
+00:25:05,712 --> 00:25:08,507
+El mundo es un lugar finito.
+El territorio es limitado.
+
+384
+00:25:08,674 --> 00:25:12,053
+Ni los vampiros antiguos están
+a salvo de las guerras territoriales.
+
+385
+00:25:12,678 --> 00:25:14,388
+¿Y si te dijera que crece el conflicto
+
+386
+00:25:14,638 --> 00:25:16,682
+entre los tres linajes restantes?
+
+387
+00:25:17,183 --> 00:25:19,226
+Imagina que uno quiere aniquilar al otro
+
+388
+00:25:19,560 --> 00:25:23,814
+y mata a Elijah, a Rebekah o a ti.
+
+389
+00:25:24,773 --> 00:25:27,818
+¿Viniste hasta aquí
+para darme una advertencia?
+
+390
+00:25:27,984 --> 00:25:32,573
+Piénsalo. Si matas a un original,
+eliminas a toda una línea de competencia.
+
+391
+00:25:33,031 --> 00:25:35,701
+Un objetivo tentador,
+sobre todo por el hecho
+
+392
+00:25:35,867 --> 00:25:38,787
+de que tu familia está
+dividida y más débil nunca...
+
+393
+00:25:38,954 --> 00:25:41,790
+Mi familia no es débil.
+
+394
+00:25:42,249 --> 00:25:46,378
+De hecho, no nos pueden matar.
+Ya no hay más robles blancos.
+
+395
+00:25:47,296 --> 00:25:49,173
+¿Estás seguro?
+
+396
+00:25:50,549 --> 00:25:53,635
+¿Hasta la última astilla?
+¿Ya no queda nada?
+
+397
+00:25:56,012 --> 00:25:57,264
+Lucien...
+
+398
+00:25:57,723 --> 00:26:03,104
+Si tuvieras el mínimo indicio
+de que queda un trozo de roble blanco,
+
+399
+00:26:03,270 --> 00:26:06,107
+me lo dirías, por supuesto.
+
+400
+00:26:08,400 --> 00:26:09,818
+Tranquilo, Nik.
+
+401
+00:26:10,736 --> 00:26:14,573
+Eres mi señor,
+mi destino está unido al tuyo.
+
+402
+00:26:16,783 --> 00:26:20,036
+Si quieres saber que haría
+sobre los peligros que enfrentas,
+
+403
+00:26:20,746 --> 00:26:22,581
+confía en mí como para acompañarme.
+
+404
+00:26:23,915 --> 00:26:26,127
+Debes ver algo.
+
+405
+00:26:48,774 --> 00:26:52,736
+Preguntaría si está todo bien,
+pero no estarías aquí si así fuera.
+
+406
+00:26:57,283 --> 00:26:59,326
+¿Sabías que me aburría mucho
+cuando vivía aquí?
+
+407
+00:27:00,286 --> 00:27:03,580
+No lo extraño,
+pero las cosas eran más simples.
+
+408
+00:27:05,916 --> 00:27:07,543
+Y, al menos, me sentía a salvo.
+
+409
+00:27:09,795 --> 00:27:11,004
+¿Qué pasó?
+
+410
+00:27:11,422 --> 00:27:12,756
+Me atacaron.
+
+411
+00:27:13,465 --> 00:27:16,134
+Una de las mías quiso
+arruinarme las manos con un hechizo.
+
+412
+00:27:16,968 --> 00:27:18,929
+¿Qué sigue? ¿Los ojos? ¿El corazón?
+
+413
+00:27:19,555 --> 00:27:22,140
+Me odian. Lo sabía,
+pero no esperaba una revuelta.
+
+414
+00:27:22,308 --> 00:27:25,143
+Los brujos de Nueva Orleans suelen
+volverse homicidas.
+
+415
+00:27:25,394 --> 00:27:27,479
+-¿Por qué crees que fui tan duro?
+-Yo soy Regente.
+
+416
+00:27:27,646 --> 00:27:29,481
+Deberían respetarme. No esperaba esto.
+
+417
+00:27:29,648 --> 00:27:31,817
+Claro que sí. Elegiste ser su líder.
+
+418
+00:27:32,025 --> 00:27:34,195
+El blanco en tu espalda viene
+con el puesto.
+
+419
+00:27:34,945 --> 00:27:36,154
+¿Qué hago?
+
+420
+00:27:36,322 --> 00:27:38,990
+-Solo dilo, y mis chicos y yo...
+-¿Qué harán?
+
+421
+00:27:39,491 --> 00:27:41,243
+Si ven que nos aliamos contra las mías,
+
+422
+00:27:41,410 --> 00:27:42,786
+solo demostraré que tienen razón.
+
+423
+00:27:43,204 --> 00:27:44,205
+D...
+
+424
+00:27:44,496 --> 00:27:45,872
+Alguien te atacó.
+
+425
+00:27:46,039 --> 00:27:47,208
+Tal vez sea una hoy,
+
+426
+00:27:47,374 --> 00:27:49,918
+pero si no haces nada, mañana serán más.
+
+427
+00:27:50,126 --> 00:27:52,504
+Debes responder
+con una demostración de fuerza.
+
+428
+00:27:52,879 --> 00:27:58,134
+Si no soy yo, busca otra forma.
+Pero debe hacerse.
+
+429
+00:28:13,692 --> 00:28:14,985
+Hola, cariño.
+
+430
+00:28:15,694 --> 00:28:17,696
+Perdona a tu tía Freya.
+
+431
+00:28:18,364 --> 00:28:20,491
+Bebí un poco esta noche.
+
+432
+00:28:42,721 --> 00:28:44,473
+¿Qué diablos haces?
+
+433
+00:28:47,058 --> 00:28:49,770
+Por Dios. ¿Dónde están mis modales?
+
+434
+00:28:51,647 --> 00:28:52,981
+Permíteme explicarte.
+
+435
+00:29:05,619 --> 00:29:08,163
+Primera lección de la caza.
+
+436
+00:29:11,833 --> 00:29:13,294
+Pon el cebo.
+
+437
+00:29:25,055 --> 00:29:26,515
+Hermoso.
+
+438
+00:29:28,725 --> 00:29:30,602
+Justo a tiempo para la segunda lección.
+
+439
+00:29:40,571 --> 00:29:42,948
+Disculpa el desorden. Tuve visitas.
+
+440
+00:29:49,204 --> 00:29:51,373
+Nunca fuiste sutil.
+
+441
+00:30:24,781 --> 00:30:26,783
+¿Me trajiste a una sesión espiritista?
+
+442
+00:30:28,326 --> 00:30:29,495
+Algo así.
+
+443
+00:30:30,871 --> 00:30:35,000
+Te presento a mi pronosticadora personal,
+la adorable Alexis.
+
+444
+00:30:36,167 --> 00:30:40,088
+No me digas que vas a buscar
+los portentos futuros de mi perdición.
+
+445
+00:30:40,338 --> 00:30:42,841
+Alexis no lee
+las palmas de la mano en un callejón.
+
+446
+00:30:43,133 --> 00:30:46,803
+Es una experta en códigos.
+Patrones, tendencias, ciclos.
+
+447
+00:30:47,137 --> 00:30:48,847
+Le va muy bien en la bolsa de valores.
+
+448
+00:30:50,599 --> 00:30:53,352
+Y siempre adivina
+quién ganará <i>The Bachelorette.</i>
+
+449
+00:30:57,022 --> 00:30:58,565
+Toca para ver el futuro, ¿no?
+
+450
+00:30:58,857 --> 00:31:01,360
+Oí mucho de ti. El famoso híbrido.
+
+451
+00:31:01,652 --> 00:31:05,489
+Tu antiguo corazón late fuerte
+para alguien que corre tanto peligro.
+
+452
+00:31:06,740 --> 00:31:09,993
+Si tienes alguna advertencia, cariño,
+será mejor que la digas.
+
+453
+00:31:12,037 --> 00:31:13,246
+Por supuesto.
+
+454
+00:31:13,789 --> 00:31:15,541
+Pero si quieres aprovechar la experiencia,
+
+455
+00:31:15,749 --> 00:31:17,167
+te sugiero que te alimentes de mí.
+
+456
+00:31:17,668 --> 00:31:19,961
+Mientras lo haces,
+te dejaré entrar en mi mente.
+
+457
+00:31:21,463 --> 00:31:23,339
+Podrás verlo por ti mismo.
+
+458
+00:31:24,340 --> 00:31:27,678
+Vamos. ¿Cuánto hace
+que no compartimos un trago de verdad?
+
+459
+00:31:36,394 --> 00:31:38,605
+Bebe, pero ten cuidado...
+
+460
+00:31:39,022 --> 00:31:41,232
+Lo que rompiste, no tiene arreglo.
+
+461
+00:31:41,608 --> 00:31:43,735
+<i>Rompes todos tus juramentos.</i>
+
+462
+00:31:44,069 --> 00:31:46,029
+Quebraste tus votos sagrados.
+
+463
+00:31:46,447 --> 00:31:51,577
+<i>Y ahora ves</i>
+<i>que nada dura siempre y para siempre.</i>
+
+464
+00:31:52,243 --> 00:31:54,580
+Quedan tres, dos se han ido.
+
+465
+00:31:54,830 --> 00:31:57,458
+Y dentro de un año,
+todos estarán perdidos.
+
+466
+00:31:58,041 --> 00:32:00,461
+Tu familia está separada,
+
+467
+00:32:00,794 --> 00:32:04,422
+de la bestia verás la llegada.
+
+468
+00:32:05,591 --> 00:32:09,135
+Crees que puedes engañarme
+con poesía mala y trucos de salón.
+
+469
+00:32:09,344 --> 00:32:11,137
+Tu conjuras mis visiones.
+
+470
+00:32:11,346 --> 00:32:13,807
+La amenaza será más clara
+cuanto más esté contigo.
+
+471
+00:32:14,015 --> 00:32:16,142
+Mátame, y nunca verás lo que vendrá.
+
+472
+00:32:38,414 --> 00:32:40,208
+Me darás la ubicación exacta
+
+473
+00:32:40,458 --> 00:32:42,293
+de todas esas trampas vulgares
+
+474
+00:32:42,961 --> 00:32:45,464
+y me dirás las rutas
+usadas por cualquiera de tus hombres.
+
+475
+00:32:47,799 --> 00:32:49,300
+No sé...
+
+476
+00:32:54,430 --> 00:32:55,891
+Hayley...
+
+477
+00:33:01,605 --> 00:33:04,440
+-Perdóname, pensé...
+-Sé quién creías que era.
+
+478
+00:33:08,111 --> 00:33:09,655
+¿Sabes dónde está?
+
+479
+00:33:10,280 --> 00:33:12,032
+A juzgar
+por lo que hicieron los cazadores,
+
+480
+00:33:12,323 --> 00:33:14,075
+las trampas que pusieron
+y la sangre que vi,
+
+481
+00:33:14,492 --> 00:33:16,620
+si no está con su hija, debe estar muerta.
+
+482
+00:33:21,082 --> 00:33:23,794
+Pareces muy convencida
+de que Klaus no tuvo nada que ver.
+
+483
+00:33:24,502 --> 00:33:28,089
+Eso solo nos deja
+unos cientos de vampiros en el barrio.
+
+484
+00:33:28,423 --> 00:33:33,011
+Exacto, y aunque supiéramos quién lo mató,
+¿qué hacemos?
+
+485
+00:33:33,344 --> 00:33:35,889
+Es un vampiro.
+¿Qué puede hacer la policía?
+
+486
+00:33:36,056 --> 00:33:38,141
+Quienes fueran a arrestarlo,
+irían a su muerte.
+
+487
+00:33:38,308 --> 00:33:41,061
+Y si les advertimos,
+nos encerrarían por locos.
+
+488
+00:33:41,853 --> 00:33:48,359
+Así es Nueva Orleans. Nuestra ciudad.
+No es nuestra culpa, sí nuestro problema.
+
+489
+00:33:53,532 --> 00:33:54,866
+-¿Hola?
+<i>-Hola, habla Kinney.</i>
+
+490
+00:33:55,576 --> 00:33:57,035
+Quería decirte que tenías razón.
+
+491
+00:33:57,368 --> 00:33:58,787
+<i>Volvió a suceder.</i>
+
+492
+00:33:59,871 --> 00:34:02,332
+Si no estás ocupada...
+
+493
+00:34:04,209 --> 00:34:05,877
+Podría usar tu cerebro.
+
+494
+00:34:07,128 --> 00:34:08,880
+Sí. Claro.
+
+495
+00:34:14,928 --> 00:34:18,724
+Te dije. Algo está llegando.
+
+496
+00:34:20,058 --> 00:34:21,101
+Me necesitarás.
+
+497
+00:34:23,895 --> 00:34:30,068
+Soy Klaus Mikaelson. No necesito a nadie,
+ni me advertirán los hombres inferiores.
+
+498
+00:34:31,402 --> 00:34:33,822
+Yo soy
+lo que los hombres inferiores temen.
+
+499
+00:34:35,531 --> 00:34:36,742
+Entonces, actúa como tal.
+
+500
+00:34:38,619 --> 00:34:42,664
+En lugar de consentir a tus lindas humanas
+
+501
+00:34:42,831 --> 00:34:44,833
+y llorar porque tu familia no te aprueba.
+
+502
+00:34:45,208 --> 00:34:47,919
+Sí, eres Klaus Mikaelson,
+
+503
+00:34:48,586 --> 00:34:51,715
+la bestia malvada más implacable
+que haya existido.
+
+504
+00:34:52,507 --> 00:34:54,676
+Vine a recordártelo.
+
+505
+00:34:55,761 --> 00:34:58,096
+Porque, a decir verdad...
+
+506
+00:34:59,765 --> 00:35:02,100
+Me preocupaba
+que te hubieras descarrilado.
+
+507
+00:35:02,517 --> 00:35:04,686
+No necesito que me recuerden quién soy.
+
+508
+00:35:05,604 --> 00:35:08,899
+He tenido en claro
+esa verdad por mil años.
+
+509
+00:35:09,482 --> 00:35:13,028
+Y, durante esos años,
+has cosechado incontables enemigos.
+
+510
+00:35:13,987 --> 00:35:15,781
+Y ¿con la guerra de linajes?
+
+511
+00:35:16,072 --> 00:35:17,616
+Ahora también tienes los míos.
+
+512
+00:35:18,283 --> 00:35:21,620
+Cualquiera que quiera matarme,
+vendrá a matarte.
+
+513
+00:35:23,622 --> 00:35:29,585
+Y como tengo muchos rivales
+y no deseo morir,
+
+514
+00:35:30,796 --> 00:35:33,464
+te ruego que me dejes ayudarte.
+
+515
+00:35:33,965 --> 00:35:36,843
+Desde ahora, solo puedes confiar en mí.
+
+516
+00:35:43,767 --> 00:35:45,560
+No confío en nadie.
+
+517
+00:36:31,189 --> 00:36:33,900
+-Creí que no irías a velocidad vampiro.
+-Vamos, Vincent.
+
+518
+00:36:34,650 --> 00:36:37,028
+Si voy más lento, iré en reversa.
+
+519
+00:36:39,614 --> 00:36:41,157
+Estás enojado.
+
+520
+00:36:41,574 --> 00:36:43,243
+Porque encontraron el segundo cadáver.
+
+521
+00:36:43,576 --> 00:36:45,036
+¿Aún crees que es uno de mis chicos?
+
+522
+00:36:52,127 --> 00:36:53,920
+No importa lo que crea, Marcel.
+
+523
+00:36:54,712 --> 00:36:56,757
+Si se sabe
+que hay un asesino suelto en el barrio,
+
+524
+00:36:57,132 --> 00:36:58,549
+el turismo disminuirá.
+
+525
+00:36:58,842 --> 00:37:00,676
+¿Cómo se alimentarán tus vampiros?
+
+526
+00:37:01,720 --> 00:37:05,807
+¿De locales? No, salvo que quieran
+una guerra con los aquelarres.
+
+527
+00:37:08,894 --> 00:37:14,232
+Hablando de aquelarres. ¿Recuerdas
+a Davina? ¿De la que ibas a ser el mentor?
+
+528
+00:37:17,360 --> 00:37:19,237
+Hace meses que le ofrecí mi consejo.
+
+529
+00:37:19,445 --> 00:37:22,115
+Le dije que busque la paz a toda costa
+y me rechazó.
+
+530
+00:37:22,824 --> 00:37:25,285
+Esa chica es más agresiva que tú.
+
+531
+00:37:26,870 --> 00:37:28,955
+Tú la metiste en esto. Deberías ayudarla.
+
+532
+00:37:29,247 --> 00:37:31,291
+Si los brujos siguen molestándola,
+se enojará.
+
+533
+00:37:32,542 --> 00:37:34,252
+¿Crees que eso terminará bien
+para alguien?
+
+534
+00:37:50,768 --> 00:37:53,688
+¿Qué diablos hago aquí?
+¿Por qué estoy atrapada?
+
+535
+00:37:54,940 --> 00:37:57,984
+Usé magia para atraerte
+y mantenerte como público cautivo.
+
+536
+00:37:59,152 --> 00:38:01,029
+Davina, necesito ver a mi hija.
+
+537
+00:38:01,446 --> 00:38:02,530
+Lo siento...
+
+538
+00:38:03,448 --> 00:38:05,491
+Pero primero,
+necesito que hagas algo por mí.
+
+539
+00:38:19,214 --> 00:38:20,631
+¿Quién está ahí?
+
+540
+00:38:21,299 --> 00:38:22,633
+Estás nerviosa.
+
+541
+00:38:23,593 --> 00:38:25,470
+Y tú estás en propiedad privada.
+
+542
+00:38:26,054 --> 00:38:28,139
+No puedes venir... En serio, Klaus.
+
+543
+00:38:28,306 --> 00:38:30,976
+No vine a pelear.
+Vine a ofrecerte un regalo.
+
+544
+00:38:32,227 --> 00:38:34,145
+Tal vez a cambio
+de nuestras conversaciones,
+
+545
+00:38:34,312 --> 00:38:35,563
+que necesito especialmente,
+
+546
+00:38:35,771 --> 00:38:37,899
+dado que mi hermano no responde
+mis llamadas.
+
+547
+00:38:38,149 --> 00:38:39,818
+Y mi viejo amigo, Lucien, llegó
+a la ciudad
+
+548
+00:38:39,985 --> 00:38:41,444
+con noticias preocupantes.
+
+549
+00:38:41,611 --> 00:38:43,822
+Bien. Si quieres hablarlo, vuelve mañana.
+
+550
+00:38:46,116 --> 00:38:48,201
+-Temo que necesito hablarlo ahora.
+-No.
+
+551
+00:38:49,077 --> 00:38:52,372
+No, no puedes
+venir a mi casa sin invitación.
+
+552
+00:38:52,663 --> 00:38:55,000
+Ya me invitaste una vez, técnicamente...
+
+553
+00:38:55,250 --> 00:38:56,376
+¡No lo hagas!
+
+554
+00:38:56,709 --> 00:38:58,378
+No seas tan superficial y egocéntrico.
+
+555
+00:38:58,669 --> 00:39:01,672
+Hay gente como tú matando a gente como yo,
+
+556
+00:39:01,882 --> 00:39:05,385
+y eso coincide
+con la llegada de tu viejo amigo.
+
+557
+00:39:05,801 --> 00:39:08,096
+Y tú llegas y te pones a dar órdenes.
+
+558
+00:39:08,429 --> 00:39:11,182
+Entiendo, eres vampiro, vives torturado.
+
+559
+00:39:11,516 --> 00:39:14,519
+Lo lamento, pero, ¿debes ser
+una desilusión tan insensible?
+
+560
+00:39:19,732 --> 00:39:20,816
+Espera.
+
+561
+00:39:21,902 --> 00:39:23,444
+Eso no fue justo. Yo...
+
+562
+00:39:26,156 --> 00:39:27,532
+Quédate el regalo.
+
+563
+00:39:29,993 --> 00:39:31,536
+Lo pinté para ti.
+
+564
+00:39:37,250 --> 00:39:38,501
+Klaus...
+
+565
+00:39:57,979 --> 00:39:59,105
+Buenas noches.
+
+566
+00:40:00,565 --> 00:40:03,568
+Me preguntaba si podíamos discutir
+tu análisis de mi obra.
+
+567
+00:40:23,713 --> 00:40:27,592
+DESARROLLO INMOBILIARIO KINGMAKER
+
+568
+00:41:37,828 --> 00:41:39,705
+No falta mucho.
+
